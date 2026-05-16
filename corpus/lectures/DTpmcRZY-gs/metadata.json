@@ -1,0 +1,52 @@
+{
+  "video_id": "DTpmcRZY-gs",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [6/29]",
+  "lecture_number_in_series": 6,
+  "series_length": 29,
+  "raw_transcript_sha256": "27f38fc464dd6c62d9fd4b99866256918a32631a9c2d3ece34f31f9767197a28",
+  "raw_transcript_line_count": 842,
+  "raw_transcript_word_count": 6847,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T13:34:32.161105+00:00",
+  "layer2_paragraph_count": 49,
+  "layer2_timestamp_range": ["00:03", "36:28"],
+  "topics": [
+    "steel terminology",
+    "Bessemer process",
+    "iron-carbon phase diagram",
+    "low/medium/high carbon classification",
+    "mild steel",
+    "hot rolling vs cold rolling",
+    "steel mill economics",
+    "ferrite, austenite, martensite, bainite",
+    "annealing vs normalizing",
+    "4130 alloy steel",
+    "isothermal transformation diagrams",
+    "molybdenum alloying effect on transformation kinetics",
+    "hydrogen embrittlement from electroplating",
+    "FAA experimental aircraft rules"
+  ],
+  "named_cases": [
+    "Bethlehem Steel / Burns Harbor",
+    "ArcelorMittal acquisition of Bethlehem",
+    "bicycle handlebar paraplegic case (eastern Pennsylvania)",
+    "Peregrine Falcon experimental aircraft (Nevada desert)"
+  ],
+  "named_people": [
+    "Sir Henry Bessemer",
+    "Henry Sorby",
+    "William Chandler Roberts-Austen",
+    "Adolf Martens",
+    "Edgar C. Bain",
+    "Mike Tarkanian"
+  ],
+  "stage_directions_present": false,
+  "student_turns_inferred": 4,
+  "tom_slips_bracketed": 0,
+  "captioner_corrections_logged": 23,
+  "ends_mid_section": true,
+  "notes": "Lecture cuts off at 36:28 mid-paragraph as Tom transitions to manganese phase diagram. Material continues in lecture 7/29."
+}

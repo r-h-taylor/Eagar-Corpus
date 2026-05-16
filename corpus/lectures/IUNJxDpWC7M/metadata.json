@@ -1,0 +1,46 @@
+{
+  "video_id": "IUNJxDpWC7M",
+  "course": "Corrosion Cracking and More",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [6/35]",
+  "raw_transcript_sha256": "cbf2e99af97105e13156537eb2c884ad08cc0ac4a4186a29e2f72461b28ab371",
+  "raw_transcript_line_count": 596,
+  "raw_transcript_word_count": 3975,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T17:18:21.100172+00:00",
+  "layer2_paragraph_count": 23,
+  "layer2_start_timestamp": "00:01",
+  "layer2_end_timestamp": "20:51",
+  "lecture_topic": "Corrosion fundamentals: role of oxygen and moisture in metal corrosion",
+  "primary_cases": [
+    "Boston warehouse fire protection system (leaking closed system, 10-20 year clogged arteries)",
+    "GE 304 stainless steel reactor safe-end stress corrosion cracking (late 1970s)",
+    "Arizona warehouse galvanized hangers (40-80 mils/year corrosion from trapped condensation)",
+    "Mother-in-law's Clorox dinnerware pitting anecdote"
+  ],
+  "primary_concepts": [
+    "Free oxygen as necessary condition for corrosion",
+    "Magnetite vs hematite oxygen potential",
+    "Megohm water purity measurement",
+    "Hydrazine as antioxidant (Navy reactor systems)",
+    "Marine corrosion vs depth/oxygen correlation",
+    "Wet-dry cycling acceleration of carbon steel corrosion",
+    "Chloride-oxygen synergy in stainless steel pitting"
+  ],
+  "tom_slips_flagged": [
+    {"location": "p7", "raw_line": 209, "slip": "boiling water killer system", "correction": "Boiler System"},
+    {"location": "p13", "raw_line": 411, "slip": "H2N2", "correction": "N2H4 (hydrazine)"}
+  ],
+  "captioner_corrections": [
+    {"raw": "war-rated/pour rated water", "corrected": "borated water"},
+    {"raw": "5 mega and water", "corrected": "5 megohm water"},
+    {"raw": "10 tail 1010", "corrected": "AISI 1010 (restart)"},
+    {"raw": "salt treaty", "corrected": "SALT treaty"}
+  ],
+  "editor_flags": [
+    "L11 'except NFC' — unclear aside, preserved verbatim",
+    "L259 '2 24 or 36 inch' — captioner garbling of pipe diameter range, preserved as ambiguous",
+    "L750 '40,000 or even 80,000' — unit dropped by captioner, bracketed clarification added"
+  ]
+}

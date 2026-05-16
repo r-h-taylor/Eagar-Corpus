@@ -1,0 +1,123 @@
+{
+  "lecture_id": "JkjNi8bmw70",
+  "course": "3.371 What is Engineering",
+  "term": "Fall 2015",
+  "session": "4/12",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Engineering as problem-solving: the department head's charge",
+      "section_timestamp_start": "00:03",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:03", "00:50"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:50", "01:34"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Boeing's durable qualities and the definition of engineering",
+      "section_timestamp_start": "01:34",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p3"], "timestamp_range": ["01:34", "02:20"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p4"], "timestamp_range": ["02:20", "03:11"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p5"], "timestamp_range": ["03:11", "04:41"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p6"], "timestamp_range": ["04:41", "05:42"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Big E engineering and integrative vs. deductive reasoning",
+      "section_timestamp_start": "05:42",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p7"], "timestamp_range": ["05:42", "06:51"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p8"], "timestamp_range": ["06:51", "08:20"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "The history of engineering: from antiquity to the early American schools",
+      "section_timestamp_start": "08:20",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p9"], "timestamp_range": ["08:20", "09:11"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p10"], "timestamp_range": ["09:11", "10:26"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p11"], "timestamp_range": ["10:26", "11:29"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p12"], "timestamp_range": ["11:29", "12:02"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p13"], "timestamp_range": ["12:02", "13:06"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p14"], "timestamp_range": ["13:06", "14:23"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "The engineering disciplines arrive at MIT",
+      "section_timestamp_start": "14:23",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p15"], "timestamp_range": ["14:23", "15:26"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p16"], "timestamp_range": ["15:26", "16:25"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p17"], "timestamp_range": ["16:25", "17:07"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p18"], "timestamp_range": ["17:07", "17:52"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p19"], "timestamp_range": ["17:52", "18:31"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Harvard, MIT, and the land-grant story",
+      "section_timestamp_start": "18:31",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p20"], "timestamp_range": ["18:31", "19:42"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p21"], "timestamp_range": ["19:42", "20:33"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p22"], "timestamp_range": ["20:33", "21:22"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p23"], "timestamp_range": ["21:22", "22:31"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p24"], "timestamp_range": ["22:31", "23:39"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "The Harvard–MIT merger that almost was, and George Eastman's rescue",
+      "section_timestamp_start": "23:39",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p25"], "timestamp_range": ["23:39", "24:23"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p26"], "timestamp_range": ["24:23", "25:03"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p27"], "timestamp_range": ["25:03", "26:17"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Sloan School versus Harvard Business School",
+      "section_timestamp_start": "26:17",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p28"], "timestamp_range": ["26:17", "27:27"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p29"], "timestamp_range": ["27:27", "28:18"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p30"], "timestamp_range": ["28:18", "29:38"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Lester Thurow and the lesson in communication",
+      "section_timestamp_start": "29:38",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p31"], "timestamp_range": ["29:38", "30:38"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p32"], "timestamp_range": ["30:38", "31:33"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p33"], "timestamp_range": ["31:33", "32:40"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p34"], "timestamp_range": ["32:40", "33:42"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p35"], "timestamp_range": ["33:42", "34:45"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p36"], "timestamp_range": ["34:45", "35:30"]},
+        {"l3_id": "§9.p7", "l2_ids": ["p37"], "timestamp_range": ["35:30", "36:28"]},
+        {"l3_id": "§9.p8", "l2_ids": ["p38"], "timestamp_range": ["36:28", "37:28"]},
+        {"l3_id": "§9.p9", "l2_ids": ["p39"], "timestamp_range": ["37:28", "38:39"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "Sputnik, snobbery, and the Walker–Noyes battle",
+      "section_timestamp_start": "38:39",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p40"], "timestamp_range": ["38:39", "39:28"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p41"], "timestamp_range": ["39:28", "40:14"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p42"], "timestamp_range": ["40:14", "41:19"]},
+        {"l3_id": "§10.p4", "l2_ids": ["p43"], "timestamp_range": ["41:19", "42:49"]},
+        {"l3_id": "§10.p5", "l2_ids": ["p44"], "timestamp_range": ["42:49", "44:12"]},
+        {"l3_id": "§10.p6", "l2_ids": ["p45"], "timestamp_range": ["44:12", "44:30"]}
+      ]
+    }
+  ]
+}

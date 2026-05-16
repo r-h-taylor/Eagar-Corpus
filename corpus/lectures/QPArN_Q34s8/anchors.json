@@ -1,0 +1,171 @@
+{
+  "lecture_id": "QPArN_Q34s8",
+  "course": "3.371 Materials Processing and Casting",
+  "term": "Summer 2011",
+  "session": "5/7",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "The productivity problem with continuous casting",
+      "section_timestamp_start": "00:05",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:05", "00:51"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:51", "01:42"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:42", "02:35"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["02:35", "03:25"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Undercooling and semisolid processing",
+      "section_timestamp_start": "03:25",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p5"], "timestamp_range": ["03:25", "04:46"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p6"], "timestamp_range": ["04:46", "05:53"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p7"], "timestamp_range": ["05:53", "07:46"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p8"], "timestamp_range": ["07:46", "08:41"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p9"], "timestamp_range": ["08:41", "09:35"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p10"], "timestamp_range": ["09:35", "10:20"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p11"], "timestamp_range": ["10:20", "11:14"]},
+        {"l3_id": "§2.p8", "l2_ids": ["p12"], "timestamp_range": ["11:14", "12:04"]},
+        {"l3_id": "§2.p9", "l2_ids": ["p13"], "timestamp_range": ["12:04", "12:57"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Shrinkage, risers, and chill blocks",
+      "section_timestamp_start": "12:57",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p14"], "timestamp_range": ["12:57", "14:01"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p15"], "timestamp_range": ["14:01", "14:46"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p16"], "timestamp_range": ["14:46", "15:43"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p17"], "timestamp_range": ["15:43", "16:52"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p18"], "timestamp_range": ["16:52", "17:58"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Investment casting and the single-crystal turbine blade",
+      "section_timestamp_start": "17:58",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p19"], "timestamp_range": ["17:58", "19:21"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p20"], "timestamp_range": ["19:21", "20:26"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p21"], "timestamp_range": ["20:26", "21:21"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p22"], "timestamp_range": ["21:21", "22:30"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p23"], "timestamp_range": ["22:30", "23:01"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p24"], "timestamp_range": ["23:01", "23:42"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p25"], "timestamp_range": ["23:42", "25:12"]},
+        {"l3_id": "§4.p8", "l2_ids": ["p26"], "timestamp_range": ["25:12", "26:22"]},
+        {"l3_id": "§4.p9", "l2_ids": ["p27", "p28"], "timestamp_range": ["26:22", "27:32"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Platinum, iridium, and the deep-space plutonium engine",
+      "section_timestamp_start": "27:32",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p29"], "timestamp_range": ["27:32", "28:20"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p30"], "timestamp_range": ["28:20", "29:37"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p31"], "timestamp_range": ["29:37", "30:54"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p32"], "timestamp_range": ["30:54", "31:58"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p33"], "timestamp_range": ["31:58", "33:26"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p34"], "timestamp_range": ["33:26", "34:07"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p35"], "timestamp_range": ["34:07", "34:10"]},
+        {"l3_id": "§5.p8", "l2_ids": ["p35b"], "timestamp_range": ["34:10", "34:35"]},
+        {"l3_id": "§5.p9", "l2_ids": ["p36"], "timestamp_range": ["34:35", "34:38"]},
+        {"l3_id": "§5.p10", "l2_ids": ["p36b"], "timestamp_range": ["34:38", "36:05"]},
+        {"l3_id": "§5.p11", "l2_ids": ["p37"], "timestamp_range": ["36:05", "36:08"]},
+        {"l3_id": "§5.p12", "l2_ids": ["p37b"], "timestamp_range": ["36:08", "36:39"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Sand casting and the size range of cast parts",
+      "section_timestamp_start": "36:39",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p38"], "timestamp_range": ["36:39", "37:51"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p39"], "timestamp_range": ["37:51", "38:37"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p40"], "timestamp_range": ["38:37", "39:37"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p41"], "timestamp_range": ["39:37", "40:35"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p42"], "timestamp_range": ["40:35", "41:13"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p43"], "timestamp_range": ["41:13", "41:48"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p44"], "timestamp_range": ["41:48", "42:36"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p45"], "timestamp_range": ["42:36", "42:57"]},
+        {"l3_id": "§6.p9", "l2_ids": ["p46"], "timestamp_range": ["42:57", "43:36"]},
+        {"l3_id": "§6.p10", "l2_ids": ["p47"], "timestamp_range": ["43:36", "44:31"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "The Attleboro continuous caster and the Hazelett process",
+      "section_timestamp_start": "44:31",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p48"], "timestamp_range": ["44:31", "49:50"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p49"], "timestamp_range": ["49:50", "51:20"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p50"], "timestamp_range": ["51:20", "52:39"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p51"], "timestamp_range": ["52:39", "53:25"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p52"], "timestamp_range": ["53:25", "54:25"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p53"], "timestamp_range": ["54:25", "55:09"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p54"], "timestamp_range": ["55:09", "56:04"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p55"], "timestamp_range": ["56:04", "56:54"]},
+        {"l3_id": "§7.p9", "l2_ids": ["p56"], "timestamp_range": ["56:54", "57:40"]},
+        {"l3_id": "§7.p10", "l2_ids": ["p57"], "timestamp_range": ["57:40", "58:13"]},
+        {"l3_id": "§7.p11", "l2_ids": ["p58"], "timestamp_range": ["58:13", "58:36"]},
+        {"l3_id": "§7.p12", "l2_ids": ["p59"], "timestamp_range": ["58:36", "59:30"]},
+        {"l3_id": "§7.p13", "l2_ids": ["p60"], "timestamp_range": ["59:30", "60:07"]},
+        {"l3_id": "§7.p14", "l2_ids": ["p61"], "timestamp_range": ["60:07", "60:56"]},
+        {"l3_id": "§7.p15", "l2_ids": ["p62"], "timestamp_range": ["60:56", "62:03"]},
+        {"l3_id": "§7.p16", "l2_ids": ["p64"], "timestamp_range": ["62:08", "62:15"]},
+        {"l3_id": "§7.p17", "l2_ids": ["p64b"], "timestamp_range": ["62:15", "63:01"]},
+        {"l3_id": "§7.p18", "l2_ids": ["p65"], "timestamp_range": ["63:01", "64:27"]},
+        {"l3_id": "§7.p19", "l2_ids": ["p66"], "timestamp_range": ["64:27", "64:42"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Segregation, microstructure, and homogenization by forging",
+      "section_timestamp_start": "64:42",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p67"], "timestamp_range": ["64:42", "65:41"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p68"], "timestamp_range": ["65:41", "66:48"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p69"], "timestamp_range": ["66:48", "67:34"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p70"], "timestamp_range": ["67:34", "68:40"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p71"], "timestamp_range": ["68:40", "69:56"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p72"], "timestamp_range": ["69:56", "70:46"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p73"], "timestamp_range": ["70:46", "71:18"]},
+        {"l3_id": "§8.p8", "l2_ids": ["p74"], "timestamp_range": ["71:18", "72:14"]},
+        {"l3_id": "§8.p9", "l2_ids": ["p75"], "timestamp_range": ["72:14", "73:04"]},
+        {"l3_id": "§8.p10", "l2_ids": ["p76"], "timestamp_range": ["73:04", "73:42"]},
+        {"l3_id": "§8.p11", "l2_ids": ["p77"], "timestamp_range": ["73:42", "74:45"]},
+        {"l3_id": "§8.p12", "l2_ids": ["p78"], "timestamp_range": ["74:45", "75:07"]},
+        {"l3_id": "§8.p13", "l2_ids": ["p79"], "timestamp_range": ["75:07", "76:05"]},
+        {"l3_id": "§8.p14", "l2_ids": ["p80"], "timestamp_range": ["76:05", "76:40"]},
+        {"l3_id": "§8.p15", "l2_ids": ["p81"], "timestamp_range": ["76:40", "77:42"]},
+        {"l3_id": "§8.p16", "l2_ids": ["p82"], "timestamp_range": ["77:42", "78:49"]},
+        {"l3_id": "§8.p17", "l2_ids": ["p83"], "timestamp_range": ["78:49", "79:44"]},
+        {"l3_id": "§8.p18", "l2_ids": ["p84"], "timestamp_range": ["79:44", "79:48"]},
+        {"l3_id": "§8.p19", "l2_ids": ["p84b"], "timestamp_range": ["79:48", "80:14"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "The Amtrak New Haven–Boston trolley wire case",
+      "section_timestamp_start": "80:14",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p85"], "timestamp_range": ["80:14", "80:53"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p86"], "timestamp_range": ["80:53", "81:57"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p87"], "timestamp_range": ["81:57", "83:18"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p88"], "timestamp_range": ["83:18", "84:08"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p89"], "timestamp_range": ["84:08", "85:04"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p90"], "timestamp_range": ["85:04", "86:01"]},
+        {"l3_id": "§9.p7", "l2_ids": ["p91"], "timestamp_range": ["86:01", "87:16"]},
+        {"l3_id": "§9.p8", "l2_ids": ["p92"], "timestamp_range": ["87:16", "88:23"]},
+        {"l3_id": "§9.p9", "l2_ids": ["p93"], "timestamp_range": ["88:23", "89:00"]},
+        {"l3_id": "§9.p10", "l2_ids": ["p94"], "timestamp_range": ["89:00", "89:42"]},
+        {"l3_id": "§9.p11", "l2_ids": ["p95"], "timestamp_range": ["89:42", "90:21"]},
+        {"l3_id": "§9.p12", "l2_ids": ["p96"], "timestamp_range": ["90:21", "91:13"]},
+        {"l3_id": "§9.p13", "l2_ids": ["p97"], "timestamp_range": ["91:13", "92:00"]}
+      ]
+    }
+  ]
+}

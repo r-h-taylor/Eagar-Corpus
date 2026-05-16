@@ -1,0 +1,56 @@
+{
+  "video_id": "CBSri-H9tUE",
+  "course": "Corrosion Cracking and More",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [18/35]",
+  "lecture_number_in_series": 18,
+  "series_total": 35,
+  "raw_transcript_sha256": "6196968946f25ba266cc2b35958d69c247ad4c09716b7fe0e6e2abf95b937e67",
+  "raw_transcript_line_count": 1090,
+  "raw_transcript_word_count": 7173,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T18:10:57.340725+00:00",
+  "layer2_paragraph_count": 36,
+  "layer2_timestamp_range": "00:03 - 37:00",
+  "primary_topics": [
+    "delayed hydrogen cracking diagnosis (Japanese-bound ship plate)",
+    "TRIP steels and deformation-induced martensite",
+    "distortion in welds vs. heat source power density",
+    "residual stresses in BWR safe ends (GE)",
+    "stress corrosion cracking vs. hydrogen embrittlement (anode/cathode)",
+    "preheat: low, medium, and high regimes",
+    "preheat for nickel turbine blade repair",
+    "Sea Wolf cracking and hydrogen control",
+    "ASME and AWS welding codes (history and economics)",
+    "AWS D1.1 Annex I: carbon equivalent, Zones 1/2/3",
+    "particle beam weapons and hose instability (DARPA story)"
+  ],
+  "cases_mentioned": [
+    "Japanese-bound ship plate with delayed cracking (Brooklyn → Japan)",
+    "5083 aluminum electron beam weld distortion samples",
+    "General Electric BWR safe end stress corrosion cracking",
+    "Idaho National Engineering Lab preheat-on-Friday story",
+    "Nickel turbine blade electron beam weld repair (induction-heated to 1000°C)",
+    "USS Sea Wolf weld cracking and the blue jelly suit response",
+    "Navy/DARPA high-energy electron beam particle weapon (White Oak workshop)",
+    "Japanese HSLA shipbuilding steels (no-preheat) — Tom's mid-80s Japan visit",
+    "Electric Boat HY80 weld coupon (held up in class)"
+  ],
+  "people_named": [
+    "Sindo Kou (textbook author)",
+    "Stout and Doty (Weldability of Steels)",
+    "Frank Coe / F. R. Coe (British Welding Institute)",
+    "Kenneth Easterling (textbook author)",
+    "Sir Humphry Davy",
+    "Alessandro Volta",
+    "Tom (referenced in third person re: rudder-stool welding)"
+  ],
+  "tom_slips_bracketed": [
+    {"location": "p6", "spoken": "Cinder Co's", "corrected": "Kou's"},
+    {"location": "p22", "spoken": "Alexandra Volter", "corrected": "Alessandro Volta"},
+    {"location": "p24", "spoken": "darfur", "corrected": "DARPA"}
+  ],
+  "stage_directions_count": 1,
+  "notes": "Lecture mid-series; presupposes prior introduction of Venn diagram (material/stress/environment) for stress corrosion cracking, prior discussion of HY80/HY100, prior 'Sprite goes flat' analogy for hydrogen diffusion. Lecture ends mid-sentence at the raw transcript boundary; continues into lecture 19."
+}

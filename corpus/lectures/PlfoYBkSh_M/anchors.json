@@ -1,0 +1,114 @@
+{
+  "lecture_id": "PlfoYBkSh_M",
+  "course": "Fusion Welding",
+  "term": "Summer 2013",
+  "video_title": "High Energy Density Beam Welding",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Energy density and penetration",
+      "section_timestamp_start": "00:54",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:54", "01:28"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:28", "02:27"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:27", "03:06"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Mechanism of beam hole formation",
+      "section_timestamp_start": "03:06",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p4"], "timestamp_range": ["03:06", "03:50"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p5"], "timestamp_range": ["03:50", "04:34"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p6"], "timestamp_range": ["04:34", "05:12"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p7"], "timestamp_range": ["05:12", "05:39"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p8"], "timestamp_range": ["05:39", "06:14"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Beam hole behavior in electron beam welding (x-ray observation)",
+      "section_timestamp_start": "06:14",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p9"], "timestamp_range": ["06:14", "06:46"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p10"], "timestamp_range": ["06:46", "07:15"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p11"], "timestamp_range": ["07:15", "08:01"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p12"], "timestamp_range": ["08:01", "08:27"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p13"], "timestamp_range": ["08:27", "09:05"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p14"], "timestamp_range": ["09:05", "09:31"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p15"], "timestamp_range": ["09:31", "09:47"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Laser beam welding in transparent glass",
+      "section_timestamp_start": "09:47",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p16"], "timestamp_range": ["09:47", "10:18"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p17"], "timestamp_range": ["10:18", "10:47"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p18"], "timestamp_range": ["10:47", "11:29"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p19"], "timestamp_range": ["11:29", "12:03"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Front wall dynamics and the spiking mechanism",
+      "section_timestamp_start": "12:03",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p20"], "timestamp_range": ["12:03", "12:27"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p21"], "timestamp_range": ["12:27", "13:11"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p22"], "timestamp_range": ["13:11", "13:34"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p23"], "timestamp_range": ["13:34", "14:05"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p24"], "timestamp_range": ["14:05", "14:56"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p25"], "timestamp_range": ["14:56", "15:19"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p26"], "timestamp_range": ["15:19", "15:53"]},
+        {"l3_id": "§5.p8", "l2_ids": ["p27"], "timestamp_range": ["15:53", "16:14"]},
+        {"l3_id": "§5.p9", "l2_ids": ["p28"], "timestamp_range": ["16:14", "16:50"]},
+        {"l3_id": "§5.p10", "l2_ids": ["p29"], "timestamp_range": ["16:50", "17:19"]},
+        {"l3_id": "§5.p11", "l2_ids": ["p30"], "timestamp_range": ["17:19", "17:59"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Suppression of defects and tandem electron beam welding",
+      "section_timestamp_start": "17:59",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p31"], "timestamp_range": ["17:59", "18:19"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p32"], "timestamp_range": ["18:19", "19:01"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p33"], "timestamp_range": ["19:01", "19:25"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p34"], "timestamp_range": ["19:25", "19:59"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p35"], "timestamp_range": ["19:59", "20:38"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p36"], "timestamp_range": ["20:38", "21:00"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p37"], "timestamp_range": ["21:00", "21:45"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Laser gas cutting",
+      "section_timestamp_start": "21:45",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p38"], "timestamp_range": ["21:45", "22:12"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p39"], "timestamp_range": ["22:12", "22:48"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p40"], "timestamp_range": ["22:48", "23:19"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p41"], "timestamp_range": ["23:19", "23:48"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p42"], "timestamp_range": ["23:48", "24:19"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p43"], "timestamp_range": ["24:19", "25:11"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p44"], "timestamp_range": ["25:11", "25:46"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p45"], "timestamp_range": ["25:46", "26:46"]},
+        {"l3_id": "§7.p9", "l2_ids": ["p46"], "timestamp_range": ["26:46", "27:22"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Summary and outlook",
+      "section_timestamp_start": "27:22",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p47"], "timestamp_range": ["27:22", "27:58"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p48"], "timestamp_range": ["27:58", "28:28"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p49"], "timestamp_range": ["28:28", "29:07"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p50"], "timestamp_range": ["29:07", "29:40"]}
+      ]
+    }
+  ]
+}

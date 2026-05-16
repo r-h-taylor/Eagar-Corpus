@@ -1,0 +1,47 @@
+{
+  "video_id": "zKu_AK_57lM",
+  "course": "Fusion Welding",
+  "course_number": "3.371",
+  "term": "Summer 2013",
+  "video_title": "3.371 Fusion Welding - Summer 2013 [5/6]",
+  "lecture_number": 5,
+  "lecture_total": 6,
+  "raw_transcript_sha256": "b1917896af8fd722b28986aa525a19bfcb2e437aaa93375e83afdc767b71874d",
+  "raw_transcript_line_count": 1565,
+  "raw_transcript_word_count": 11242,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T12:54:25.885885+00:00",
+  "layer2_paragraph_count": 58,
+  "duration_approx_minutes": 61,
+  "primary_topics": [
+    "Fourier number and back-of-envelope heat flow",
+    "thermal diffusivity of metals",
+    "heat affected zone width calculation",
+    "preheating thick steel welds",
+    "resistance spot welding of galvanized steel",
+    "Chrysler chilled-water refrigeration story",
+    "spot welding electrode tip geometry (Laplace's equation)",
+    "electron beam vs laser welding contrast",
+    "Sciaky camshaft hardening case (cracking vs compressive residuals)"
+  ],
+  "cases_mentioned": [
+    "12-inch forging press repair weld failure",
+    "Chrysler galvanized steel spot welding / $50M refrigeration proposal",
+    "Ford 2000-weld spec for electrode life",
+    "GM spot welding research cancellation by Jamie Sue",
+    "Elihu Thomson 15° vs 45° electrode tip angle",
+    "Sciaky camshaft lobe hardening — laser cracking vs electron beam success",
+    "Ford catalytic converter out-of-vacuum electron beam welding"
+  ],
+  "tom_slips_bracketed": [
+    {"paragraph": "p26", "spoken": "Pricer", "corrected": "Chrysler", "note": "may be captioner garbling rather than Tom slip"},
+    {"paragraph": "p56", "spoken": "crank/crankshaft", "corrected": "camshaft", "note": "Tom self-corrects in real time"}
+  ],
+  "editorial_flags": [
+    "Tuftee article reference (p55) — author identification uncertain",
+    "Jamie Sue (p30) — possibly Jamie Hsu",
+    "arc key (p46) — captioner garbling unresolved",
+    "Pricer/Chrysler at p26 — slip vs captioner ambiguous"
+  ]
+}

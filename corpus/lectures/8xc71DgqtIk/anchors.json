@@ -1,0 +1,102 @@
+{
+  "lecture_id": "8xc71DgqtIk",
+  "course": "3.37 Fusion Welding",
+  "term": "Summer 2013",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "The problem and the process",
+      "section_timestamp_start": "00:10",
+      "anchors": [
+        {
+          "l3_id": "§1.p1",
+          "l2_ids": ["p1"],
+          "timestamp_range": ["00:10", "00:38"]
+        },
+        {
+          "l3_id": "§1.p2",
+          "l2_ids": ["p2"],
+          "timestamp_range": ["00:38", "01:17"]
+        }
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "How wide-strip overlay welding works",
+      "section_timestamp_start": "01:17",
+      "anchors": [
+        {
+          "l3_id": "§2.p1",
+          "l2_ids": ["p3"],
+          "timestamp_range": ["01:17", "01:56"]
+        },
+        {
+          "l3_id": "§2.p2",
+          "l2_ids": ["p4"],
+          "timestamp_range": ["01:56", "02:23"]
+        }
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Demonstration: magnetic control in action",
+      "section_timestamp_start": "02:23",
+      "anchors": [
+        {
+          "l3_id": "§3.p1",
+          "l2_ids": ["p5"],
+          "timestamp_range": ["02:23", "03:01"]
+        },
+        {
+          "l3_id": "§3.p2",
+          "l2_ids": ["p6"],
+          "timestamp_range": ["03:01", "03:38"]
+        }
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Electrode range and bead quality",
+      "section_timestamp_start": "03:38",
+      "anchors": [
+        {
+          "l3_id": "§4.p1",
+          "l2_ids": ["p7"],
+          "timestamp_range": ["03:38", "04:17"]
+        },
+        {
+          "l3_id": "§4.p2",
+          "l2_ids": ["p8"],
+          "timestamp_range": ["04:17", "05:07"]
+        },
+        {
+          "l3_id": "§4.p3",
+          "l2_ids": ["p9"],
+          "timestamp_range": ["05:07", "05:49"]
+        },
+        {
+          "l3_id": "§4.p4",
+          "l2_ids": ["p10"],
+          "timestamp_range": ["05:49", "06:46"]
+        }
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Applications and closing",
+      "section_timestamp_start": "06:46",
+      "anchors": [
+        {
+          "l3_id": "§5.p1",
+          "l2_ids": ["p11"],
+          "timestamp_range": ["06:46", "07:19"]
+        },
+        {
+          "l3_id": "§5.p2",
+          "l2_ids": ["p12"],
+          "timestamp_range": ["07:19", "08:00"]
+        }
+      ]
+    }
+  ]
+}

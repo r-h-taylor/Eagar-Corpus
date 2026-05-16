@@ -1,0 +1,50 @@
+{
+  "lecture_id": "8Cn4CDzXKdU",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "session": "25/29",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Cleaning aluminum before welding",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {
+          "l3_id": "§1.p1",
+          "l2_ids": ["p1"],
+          "timestamp_range": ["00:02", "00:20"]
+        },
+        {
+          "l3_id": "§1.p2",
+          "l2_ids": ["p2"],
+          "timestamp_range": ["00:20", "00:56"]
+        },
+        {
+          "l3_id": "§1.p3",
+          "l2_ids": ["p3"],
+          "timestamp_range": ["00:56", "01:15"]
+        },
+        {
+          "l3_id": "§1.p4",
+          "l2_ids": ["p4"],
+          "timestamp_range": ["01:15", "01:55"]
+        },
+        {
+          "l3_id": "§1.p5",
+          "l2_ids": ["p5"],
+          "timestamp_range": ["01:55", "02:27"]
+        },
+        {
+          "l3_id": "§1.p6",
+          "l2_ids": ["p6"],
+          "timestamp_range": ["02:27", "02:44"]
+        },
+        {
+          "l3_id": "§1.p7",
+          "l2_ids": ["p7"],
+          "timestamp_range": ["02:44", "03:00"]
+        }
+      ]
+    }
+  ]
+}

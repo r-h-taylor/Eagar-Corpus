@@ -1,0 +1,62 @@
+{
+  "video_id": "k1wVwANPdgQ",
+  "course": "Welding Quality",
+  "course_number": "3.371",
+  "course_title_full": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "lecture_number": 24,
+  "lecture_total": 35,
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [24/35]",
+  "raw_transcript_sha256": "611db9d410418534c7495c1c9180e2b16216c6f064ef8d306e2525393348d71a",
+  "raw_transcript_line_count": 840,
+  "raw_transcript_word_count": 5546,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T18:44:09.460279+00:00",
+  "layer2_paragraph_count": 34,
+  "duration_covered_seconds": 1710,
+  "duration_covered_mmss": "28:30",
+  "primary_topics": [
+    "Miami hanging garden building case (martensitic 410 stainless failure)",
+    "Hyatt Regency Kansas City collapse (comparison case)",
+    "Professional engineer ethical obligation (PE responsibility)",
+    "Ferritic stainless steels and ductile-brittle transition",
+    "Austenitic stainless steel sensitization (chromium carbide precipitation)",
+    "304 vs 304L vs LN stainless (argon oxygen decarburization)",
+    "Chloride stress corrosion cracking in austenitics",
+    "Superferritic stainless for high-efficiency boiler flue liners"
+  ],
+  "cases_introduced": [
+    "Miami hanging garden tension connection failure (2012)",
+    "Hyatt Regency walkway collapse (Kansas City, 1981)",
+    "Tom's home high-efficiency boiler flue (1970s)",
+    "Tom's hot dog cooker (passing reference)"
+  ],
+  "people_named": [
+    "William S. Pellini (Naval Research Lab)",
+    "Morris Cohen (MIT)",
+    "Professor Eagar (self-reference)"
+  ],
+  "organizations_named": [
+    "General Electric",
+    "ASTM",
+    "U.S. Coast Guard",
+    "U.S. Navy",
+    "City of Miami building authority"
+  ],
+  "materials_systems": [
+    "410 martensitic stainless steel",
+    "316 austenitic stainless steel",
+    "316L",
+    "304 / 304L / 304LN stainless",
+    "308L weld metal",
+    "Duplex stainless steel",
+    "Ferritic stainless 430",
+    "Superferritic stainless",
+    "Inconel (Ni-base alloys)"
+  ],
+  "standards_referenced": [
+    "ASTM A262 (sensitization test, 10% oxalic acid etch)"
+  ],
+  "section_break_note": "Section breaks for layer 3 not assigned in this pass; lecture has natural pivots at approximately p17 (Miami case → ferritic stainless lecture) and p31 (austenitic chloride cracking → home boiler anecdote). Total lecture content covers ~28 minutes ending at break announcement."
+}

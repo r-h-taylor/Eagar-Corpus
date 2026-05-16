@@ -1,0 +1,73 @@
+{
+  "video_id": "W6odPf1FnBs",
+  "course": "Solid State Welding",
+  "course_number": "3.371",
+  "term": "Spring 2013",
+  "video_title": "3.371 Solid State Welding - Spring 2013 [6/12]",
+  "lecture_number": 6,
+  "lecture_total": 12,
+  "raw_transcript_sha256": "cb93ab0cf6dc6c8d1adf2ee604defcd6359b2d862ef988be555d56bbdcc34b84",
+  "raw_transcript_line_count": 1260,
+  "raw_transcript_word_count": 9818,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T11:21:24.530352+00:00",
+  "layer2": {
+    "paragraph_count": 41,
+    "first_timestamp": "00:03",
+    "last_timestamp": "52:58",
+    "student_turns": 5,
+    "stage_directions": 3,
+    "bracketed_slips": 0,
+    "silent_captioner_corrections": 27
+  },
+  "topics": [
+    "polyethylene gas pipe hot pressure welding",
+    "polymer chain non-diffusion at weld interfaces",
+    "gas distribution infrastructure failure modes",
+    "Tylecote 1954 cold weld study",
+    "indium cold bonding and oxide-to-metal hardness ratio",
+    "indium-sealed transistor cans",
+    "adhesive bonding type 1 (surface tension)",
+    "adhesive bonding type 2 (mechanical interlocking)",
+    "Johansson gauge blocks and length standards",
+    "anodized aluminum for adhesive bonding",
+    "anodize sealing for corrosion resistance",
+    "Pilling-Bedworth ratio",
+    "niobium wire anodizing",
+    "titanium anodize coloration",
+    "Bikerman and the Stefan equation",
+    "viscosity as the controlling variable in adhesive joint kinetics",
+    "solvent-removal adhesives (postage stamps, Elmer's)",
+    "polymerization adhesives (epoxy, cyanoacrylate, Loctite)",
+    "anaerobic cure (Loctite)",
+    "UV and electron beam cure (sandpaper)",
+    "fluoropolymer surface tension series",
+    "beer bottling line as fast-adhesive case"
+  ],
+  "cases_mentioned": [
+    "polyethylene gas pipe welding (PE pipe sample)",
+    "Boston gas pipe sleeving anecdote (Tom's neighborhood)",
+    "Cape Cod anodized aluminum sailboat rail (failure to seal)",
+    "transistor cans sealed with indium",
+    "Coca-Cola origin (drugstore Atlanta phosphates)",
+    "Seven Up as lithiated soda (1930s)",
+    "Welch's grape juice vs beer bottling economics",
+    "OMAX water jet machine (epoxy assembly)",
+    "Dermabond surgical adhesive",
+    "Loctite thread locker"
+  ],
+  "people_mentioned": [
+    "R. F. Tylecote",
+    "J. E. Lennard-Jones",
+    "Irving Skeist",
+    "J. J. Bikerman",
+    "Egon Orowan",
+    "Mitt Romney (in passing)"
+  ],
+  "books_mentioned": [
+    "Fundamentals of Adhesion (Xerox / Webster NY)",
+    "Handbook of Adhesives (Skeist, 2nd and 3rd ed.)",
+    "The Science of Adhesive Joints (Bikerman, 1961)"
+  ]
+}

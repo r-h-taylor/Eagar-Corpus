@@ -1,0 +1,119 @@
+{
+  "lecture_id": "rF3eZtxWR4I",
+  "course": "3.371 Solid State Welding",
+  "term": "Spring 2013",
+  "session": "2/12",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Welding as an interdisciplinary, ubiquitous, failure-prone field",
+      "section_timestamp_start": "00:06",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:06", "00:54"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:54", "01:55"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:55", "02:30"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The Alexander Kielland: a non-critical weld brings down a platform",
+      "section_timestamp_start": "02:30",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p4"], "timestamp_range": ["02:30", "03:20"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p4"], "timestamp_range": ["03:20", "03:48"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p5"], "timestamp_range": ["03:48", "05:00"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p5"], "timestamp_range": ["05:00", "05:18"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Steel dominates; welding is applied as an art",
+      "section_timestamp_start": "05:18",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p6"], "timestamp_range": ["05:18", "06:08"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p7"], "timestamp_range": ["06:08", "07:14"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p8"], "timestamp_range": ["07:14", "08:30"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p9"], "timestamp_range": ["08:30", "10:02"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p10"], "timestamp_range": ["10:02", "10:57"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Particle beams, the Sheffield, and titanium submarines",
+      "section_timestamp_start": "10:57",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p11"], "timestamp_range": ["10:57", "12:31"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p12"], "timestamp_range": ["12:31", "13:41"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p13"], "timestamp_range": ["13:41", "14:40"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p14"], "timestamp_range": ["14:40", "16:07"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p15"], "timestamp_range": ["16:07", "17:35"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p16"], "timestamp_range": ["17:35", "19:08"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p17"], "timestamp_range": ["19:08", "20:23"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "The limits of joining: aluminum cars, composite tanks, and the value of a pound",
+      "section_timestamp_start": "20:23",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p18"], "timestamp_range": ["20:23", "21:01"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p19"], "timestamp_range": ["21:01", "22:00"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p20"], "timestamp_range": ["22:00", "23:20"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p21"], "timestamp_range": ["23:20", "24:31"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p22"], "timestamp_range": ["24:31", "26:09"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p23"], "timestamp_range": ["26:09", "27:21"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p24"], "timestamp_range": ["27:21", "28:44"]},
+        {"l3_id": "§5.p8", "l2_ids": ["p25"], "timestamp_range": ["28:44", "29:44"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Show-and-tell: bulletproof glass, gas pipe, laser welds, brazed diamond tips",
+      "section_timestamp_start": "29:44",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p25", "p26"], "timestamp_range": ["29:44", "30:10"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p26"], "timestamp_range": ["30:10", "30:44"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p27"], "timestamp_range": ["30:44", "31:28"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p28"], "timestamp_range": ["31:28", "32:29"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p29"], "timestamp_range": ["32:29", "33:41"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p30"], "timestamp_range": ["33:41", "34:23"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p30", "p31"], "timestamp_range": ["34:23", "35:19"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Why don't two atoms bond when you touch them together? The Lennard-Jones potential",
+      "section_timestamp_start": "35:19",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p32"], "timestamp_range": ["35:19", "36:32"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p33"], "timestamp_range": ["36:32", "37:47"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p34"], "timestamp_range": ["37:47", "39:26"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p35"], "timestamp_range": ["39:26", "40:44"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p36"], "timestamp_range": ["40:44", "41:33"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Dislocations: why real metals are ten times weaker",
+      "section_timestamp_start": "41:33",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p36"], "timestamp_range": ["41:33", "41:50"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p37"], "timestamp_range": ["41:50", "42:17"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p38"], "timestamp_range": ["42:17", "43:08"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p39"], "timestamp_range": ["43:08", "44:08"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p40"], "timestamp_range": ["44:08", "45:18"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p41"], "timestamp_range": ["45:18", "46:35"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Bucky balls, nanotubes, and the trap of forgetting history",
+      "section_timestamp_start": "46:35",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p42"], "timestamp_range": ["46:35", "47:45"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p43"], "timestamp_range": ["47:45", "48:43"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p44"], "timestamp_range": ["48:43", "49:30"]}
+      ]
+    }
+  ]
+}

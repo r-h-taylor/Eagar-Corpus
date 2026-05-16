@@ -1,0 +1,60 @@
+{
+  "video_id": "MXXmgVe2ryw",
+  "course": "3.371 Deformation Processing",
+  "term": "Spring 2012",
+  "lecture_number": 12,
+  "lecture_of": 12,
+  "video_title": "3.371 Deformation Processing - Spring 2012 [12/12]",
+  "raw_transcript_sha256": "53a5a488013c7d5495b5e3df69333639663f452ef38b6e7bf9b03112a093272f",
+  "raw_transcript_line_count": 1095,
+  "raw_transcript_word_count": 8574,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T09:55:55.626766+00:00",
+  "layer2_paragraph_count": 60,
+  "duration_approx_minutes": 47,
+  "primary_topics": [
+    "deep drawing of sheet metal",
+    "Coca-Cola can manufacture (drawing + ironing)",
+    "necking criteria (Considère construction)",
+    "Lüders strains / stretcher strains in mild steel",
+    "TRIP steels and martensitic transformation plasticity",
+    "triaxial stress and notched vs. smooth tensile bars",
+    "fracture mode transition (ductile dimples → cleavage) under triaxiality",
+    "Mohr's circle analysis of localized necking angle (55°)",
+    "dieless drawing of optical fiber (Corning, glass as Newtonian fluid)",
+    "residual stresses in glass and the black-light shatter case",
+    "Bob Rose / Sylvania / freshly-made light bulb demonstration"
+  ],
+  "named_persons": [
+    "Walter A. Backofen",
+    "William F. Hosford",
+    "Richard W. Hertzberg",
+    "Armand Considère",
+    "Dr. Bellemare (course co-lecturer, identity uncertain — see editorial register)",
+    "Bob Rose (Tom's PhD thesis adviser)",
+    "Professor Owen (uncertain — see editorial register)",
+    "John Walker (Walker spy case, mid-1980s)"
+  ],
+  "named_organizations": [
+    "Corning",
+    "Sylvania",
+    "Pilkington"
+  ],
+  "cases": [
+    "Coca-Cola can manufacture",
+    "automotive sheet metal painting (stretcher strain elimination)",
+    "1045 steel gas-well weld brittle fracture debate (notched vs. smooth tensile bar)",
+    "Corning optical fiber drawing",
+    "Corning industrial security",
+    "Korean-made black light bulb shatter case (Southern California eye injury)",
+    "Bob Rose's 3.091 freshly-made light bulb classroom demo"
+  ],
+  "scheduling_content_present": true,
+  "scheduling_paragraphs": ["p46", "p47"],
+  "editorial_flags": [
+    "Dr. Belmar [Bellemare] — identity of course co-lecturer needs human confirmation",
+    "Professor Owen [?] at p51 — captioner garbling of name; needs human identification",
+    "'longest links' at p35 — possible misspeak for 'lengths'; preserved per convention"
+  ]
+}

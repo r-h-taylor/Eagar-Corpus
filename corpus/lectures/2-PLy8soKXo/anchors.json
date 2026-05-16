@@ -1,0 +1,166 @@
+{
+  "lecture_id": "2-PLy8soKXo",
+  "course": "Codes and Standards Definitions and History",
+  "term": "Fall 2012",
+  "session": "3/14",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Helicopter rotor mechanics: collective, cyclic, and the swashplate",
+      "section_timestamp_start": "00:01",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:01", "00:20"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:20", "01:18"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:18", "01:57"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["01:57", "02:30"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["02:30", "03:09"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p6"], "timestamp_range": ["03:09", "03:43"]},
+        {"l3_id": "§1.p7", "l2_ids": ["p7"], "timestamp_range": ["03:43", "04:26"]},
+        {"l3_id": "§1.p8", "l2_ids": ["p8", "p9"], "timestamp_range": ["04:26", "05:35"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The Mach-1 blade-tip limit and the V-22 Osprey",
+      "section_timestamp_start": "05:35",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p10"], "timestamp_range": ["05:35", "05:40"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p10"], "timestamp_range": ["05:40", "06:23"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p11"], "timestamp_range": ["06:23", "07:06"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p12"], "timestamp_range": ["07:06", "07:52"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p13"], "timestamp_range": ["07:52", "08:29"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The Japanese Maritime Self-Defense Force crash",
+      "section_timestamp_start": "08:29",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p14"], "timestamp_range": ["08:29", "09:07"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p15"], "timestamp_range": ["09:07", "09:47"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p16"], "timestamp_range": ["09:47", "10:19"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "The Cherry Point crash and the rigged board of inquiry",
+      "section_timestamp_start": "10:19",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p17"], "timestamp_range": ["10:19", "11:13"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p18"], "timestamp_range": ["11:13", "11:41"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p19"], "timestamp_range": ["11:41", "12:27"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p20"], "timestamp_range": ["12:27", "13:16"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p21"], "timestamp_range": ["13:16", "13:58"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p22"], "timestamp_range": ["13:58", "14:22"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "The Reali-Slim bearing and closed conformity",
+      "section_timestamp_start": "14:22",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p23"], "timestamp_range": ["14:22", "15:18"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p24"], "timestamp_range": ["15:18", "16:04"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p25"], "timestamp_range": ["16:04", "16:32"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p26"], "timestamp_range": ["16:32", "17:17"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p27"], "timestamp_range": ["17:17", "18:10"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p28"], "timestamp_range": ["18:10", "19:01"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Precision tolerances and matched sets",
+      "section_timestamp_start": "19:01",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p29"], "timestamp_range": ["19:01", "20:18"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p30"], "timestamp_range": ["20:18", "21:35"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p31"], "timestamp_range": ["21:35", "22:17"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p32"], "timestamp_range": ["22:17", "23:00"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p33"], "timestamp_range": ["23:00", "23:51"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p34"], "timestamp_range": ["23:51", "24:15"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p35"], "timestamp_range": ["24:15", "25:47"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p36"], "timestamp_range": ["25:47", "26:13"]},
+        {"l3_id": "§6.p9", "l2_ids": ["p37"], "timestamp_range": ["26:13", "26:44"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "The fleet grounding and the Grenada aircraft carrier digression",
+      "section_timestamp_start": "26:44",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p38"], "timestamp_range": ["26:44", "27:26"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p39"], "timestamp_range": ["27:26", "28:27"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p40"], "timestamp_range": ["28:27", "29:09"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p41"], "timestamp_range": ["29:09", "29:39"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "The FBI takeover at Kaydon and a perfect bearing that still failed",
+      "section_timestamp_start": "29:39",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p42"], "timestamp_range": ["29:39", "30:18"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p43"], "timestamp_range": ["30:18", "31:08"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p44"], "timestamp_range": ["31:08", "31:45"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p45"], "timestamp_range": ["31:45", "32:36"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "188 witness marks: proving open conformity",
+      "section_timestamp_start": "32:36",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p46"], "timestamp_range": ["32:36", "33:09"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p47"], "timestamp_range": ["33:09", "33:31"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p48"], "timestamp_range": ["33:31", "34:22"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p49"], "timestamp_range": ["34:22", "35:01"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p50"], "timestamp_range": ["35:01", "35:40"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p51"], "timestamp_range": ["35:40", "36:11"]},
+        {"l3_id": "§9.p7", "l2_ids": ["p52"], "timestamp_range": ["36:11", "36:34"]},
+        {"l3_id": "§9.p8", "l2_ids": ["p53"], "timestamp_range": ["36:34", "37:32"]},
+        {"l3_id": "§9.p9", "l2_ids": ["p54"], "timestamp_range": ["37:32", "38:04"]},
+        {"l3_id": "§9.p10", "l2_ids": ["p55"], "timestamp_range": ["38:04", "38:43"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "The settlement and the potato-chipped swashplate",
+      "section_timestamp_start": "38:43",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p56"], "timestamp_range": ["38:43", "39:25"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p57"], "timestamp_range": ["39:25", "40:00"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p58"], "timestamp_range": ["40:00", "40:22"]},
+        {"l3_id": "§10.p4", "l2_ids": ["p59"], "timestamp_range": ["40:22", "41:23"]},
+        {"l3_id": "§10.p5", "l2_ids": ["p60"], "timestamp_range": ["41:23", "42:17"]},
+        {"l3_id": "§10.p6", "l2_ids": ["p61"], "timestamp_range": ["42:17", "43:03"]},
+        {"l3_id": "§10.p7", "l2_ids": ["p62"], "timestamp_range": ["43:03", "43:43"]},
+        {"l3_id": "§10.p8", "l2_ids": ["p63"], "timestamp_range": ["43:43", "44:16"]}
+      ]
+    },
+    {
+      "section_id": "s11",
+      "section_title": "How investigations should work — and the V-22 Osprey court of inquiry",
+      "section_timestamp_start": "44:16",
+      "anchors": [
+        {"l3_id": "§11.p1", "l2_ids": ["p64"], "timestamp_range": ["44:16", "45:09"]},
+        {"l3_id": "§11.p2", "l2_ids": ["p65"], "timestamp_range": ["45:09", "45:34"]},
+        {"l3_id": "§11.p3", "l2_ids": ["p66"], "timestamp_range": ["45:34", "46:43"]},
+        {"l3_id": "§11.p4", "l2_ids": ["p67"], "timestamp_range": ["46:43", "47:31"]},
+        {"l3_id": "§11.p5", "l2_ids": ["p68"], "timestamp_range": ["47:31", "48:11"]},
+        {"l3_id": "§11.p6", "l2_ids": ["p69"], "timestamp_range": ["48:11", "49:03"]},
+        {"l3_id": "§11.p7", "l2_ids": ["p70"], "timestamp_range": ["49:03", "49:35"]}
+      ]
+    },
+    {
+      "section_id": "s12",
+      "section_title": "The word \"engineer\": from war machines to civil engineering at MIT",
+      "section_timestamp_start": "49:35",
+      "anchors": [
+        {"l3_id": "§12.p1", "l2_ids": ["p71"], "timestamp_range": ["49:35", "50:21"]},
+        {"l3_id": "§12.p2", "l2_ids": ["p72"], "timestamp_range": ["50:21", "51:14"]},
+        {"l3_id": "§12.p3", "l2_ids": ["p73"], "timestamp_range": ["51:14", "52:18"]},
+        {"l3_id": "§12.p4", "l2_ids": ["p74"], "timestamp_range": ["52:18", "53:00"]}
+      ]
+    }
+  ]
+}

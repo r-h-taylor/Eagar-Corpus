@@ -1,0 +1,53 @@
+{
+  "video_id": "2mxFuYzDDtU",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [27/29]",
+  "lecture_number": 27,
+  "lecture_total": 29,
+  "topic": "Titanium alloys: metallurgy, welding, and the Alpha submarine",
+  "raw_transcript_sha256": "686c14e6312bdd75c2530a6db42851b9995a4496f61c640f9e2b5262ea98e8bb",
+  "raw_transcript_line_count": 358,
+  "raw_transcript_word_count": 2269,
+  "duration_approx": "12:47",
+  "layer2_paragraph_count": 16,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T15:01:27.255087+00:00",
+  "key_topics": [
+    "titanium production and applications (paint, aerospace, medical)",
+    "alpha and beta stabilizers in titanium alloys",
+    "commercially pure titanium grades 1-4",
+    "palladium and nickel alloying for corrosion resistance",
+    "Ti-6Al-4V (titanium six aluminum four vanadium)",
+    "submerged arc and electroslag welding of titanium",
+    "Soviet titanium submarine program (Alpha-class)",
+    "Gurevich and Soviet welding metallurgy research",
+    "creep-fatigue interaction at room temperature"
+  ],
+  "cases_mentioned": [
+    "SR-71 Blackbird (titanium skin aircraft)",
+    "Watertown Arsenal (origin of Ti-6Al-4V, ~1945-46)",
+    "Oregon Graduate Center electroslag titanium welds",
+    "Soviet Alpha-class submarine (Project 705 Lira)",
+    "Hunt for Red October (cultural reference)",
+    "Sputnik (leapfrog comparison)",
+    "U.S. Navy heavy section titanium program (1970s)",
+    "pacemaker can (Tom's classroom prop)"
+  ],
+  "people_mentioned": [
+    "Gurevich (V. N. Gurevich, Soviet/Ukrainian titanium welding metallurgist; Tom pronounces 'Garevich')"
+  ],
+  "stage_directions": [
+    "p9: Tom passes a pacemaker can to the class",
+    "p11: Tom holds up the Gurevich book"
+  ],
+  "spoken_slips_bracketed": [
+    {
+      "spoken": "Garevich",
+      "corrected": "Gurevich",
+      "first_occurrence_paragraph": "p11"
+    }
+  ]
+}

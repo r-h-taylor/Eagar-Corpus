@@ -1,0 +1,60 @@
+{
+  "video_id": "DokriGA10Oo",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2015",
+  "lecture_number": 1,
+  "lecture_title_raw": "3.371 Welding Metallurgy - Summer 2015 [1/18]",
+  "lecture_title_canonical": "Welding Metallurgy, Lecture 1: Course mechanics, materials selection, toughness, and the case for metals",
+  "duration_minutes_approx": 56,
+  "raw_transcript_sha256": "084603b6f1d413503a2223feabbfcf1807969c1917c061b9cbf342e898ea9d11",
+  "raw_transcript_line_count": 1290,
+  "raw_transcript_word_count": 10325,
+  "layer2_paragraph_count": 53,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T15:11:33.847601+00:00",
+  "topics": [
+    "course logistics and presentation requirement",
+    "2N Navy program at MIT and history",
+    "MIT pedagogy and Tom's teaching philosophy",
+    "Lester Thurow on communicating in vivid metaphor",
+    "World Trade Center collapse article",
+    "Black-Scholes-Merton derivatives and 2008 collapse",
+    "future of metals vs ceramics",
+    "fracture toughness and critical flaw size",
+    "Ashby plots: toughness vs strength",
+    "concrete in compression vs tension; rebar",
+    "Dan Rather CBS building collapse case (tack-welded rebar)",
+    "Sea Wolf submarine weld cracking",
+    "non-destructive inspection probability of detection",
+    "Boeing 747-400 titanium catalytic converter",
+    "Millard Firebaugh's aircraft carrier quote",
+    "ductile vs brittle: polyethylene, plexiglass, paper, rubber demos"
+  ],
+  "cases_referenced": [
+    "Persian Gulf destroyer brass valve stress corrosion cracking",
+    "Sea Wolf SSN-21 submarine weld metal cracking",
+    "Dan Rather / CBS Manhattan building rebar tack-weld collapse",
+    "Boeing 747-400 titanium ozone catalytic converters",
+    "Harvard football stadium (oldest US reinforced concrete structure)",
+    "MIT NanoTech building foundation concrete testing",
+    "World Trade Center collapse"
+  ],
+  "people_referenced": [
+    "Millard Firebaugh (RADM, USN, MIT 2N alum, Chief Engineer of the Navy)",
+    "Lester Thurow (Dean, MIT Sloan School)",
+    "Robert Merton (Nobel laureate, derivatives/Black-Scholes)",
+    "Mike Ashby (Cambridge/Oxford, materials selection)",
+    "Sir Henry Bessemer (1856 steelmaking)",
+    "Harvey Schadler (GE Research)",
+    "Alan Liss (General Dynamics)",
+    "James Baskerville (Bath Iron Works)",
+    "Dan Rather (CBS)",
+    "Commander McCoy (prior 2N class leader)"
+  ],
+  "captioner_garbles_flagged_for_editor": [
+    "p20 'barowski' — quantum mechanics professor's name; possibly Vera Kistiakowsky",
+    "p21 'negative horse' — Tom's exam grade; unclear",
+    "p43 'at tow toad fills' — phrase describing tension connection failure mode"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "lecture_id": "-ik0iQKJHV4",
+  "course": "3.371 Materials Processing and Casting",
+  "term": "Summer 2011",
+  "session": "1/7",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "What materials manufacturing is",
+      "section_timestamp_start": "00:05",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1", "p2"], "timestamp_range": ["00:05", "01:45"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p3"], "timestamp_range": ["01:45", "02:48"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p4"], "timestamp_range": ["02:48", "03:38"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p5"], "timestamp_range": ["03:38", "04:40"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p6"], "timestamp_range": ["04:40", "05:27"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p7"], "timestamp_range": ["05:27", "06:54"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Shape, microstructure, and the cost of metals",
+      "section_timestamp_start": "06:54",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p8"], "timestamp_range": ["06:54", "08:18"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p9"], "timestamp_range": ["08:18", "09:06"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p10"], "timestamp_range": ["09:06", "09:55"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p11"], "timestamp_range": ["09:55", "10:26"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p12"], "timestamp_range": ["10:26", "11:05"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The Attleboro gold case: when time dominates cost",
+      "section_timestamp_start": "11:05",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p13"], "timestamp_range": ["11:05", "12:32"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p14"], "timestamp_range": ["12:32", "14:30"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p15"], "timestamp_range": ["14:30", "15:56"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p16"], "timestamp_range": ["15:56", "16:51"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p17"], "timestamp_range": ["16:51", "18:00"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p17", "p18"], "timestamp_range": ["17:30", "18:30"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p18"], "timestamp_range": ["18:30", "19:00"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p19"], "timestamp_range": ["19:00", "20:37"]},
+        {"l3_id": "§3.p9", "l2_ids": ["p20"], "timestamp_range": ["20:37", "21:32"]},
+        {"l3_id": "§3.p10", "l2_ids": ["p21"], "timestamp_range": ["21:32", "22:30"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "The history of nails: trees, charcoal, and the English energy crisis",
+      "section_timestamp_start": "22:30",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p22", "p23"], "timestamp_range": ["22:30", "23:50"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p24", "p25"], "timestamp_range": ["23:50", "25:51"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p26"], "timestamp_range": ["25:51", "26:39"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p27"], "timestamp_range": ["26:39", "27:26"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p28"], "timestamp_range": ["27:26", "28:00"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p28"], "timestamp_range": ["28:00", "28:23"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p29"], "timestamp_range": ["28:23", "29:21"]},
+        {"l3_id": "§4.p8", "l2_ids": ["p30"], "timestamp_range": ["29:21", "29:57"]},
+        {"l3_id": "§4.p9", "l2_ids": ["p31"], "timestamp_range": ["29:57", "31:25"]},
+        {"l3_id": "§4.p10", "l2_ids": ["p32"], "timestamp_range": ["31:25", "32:10"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "From Saugus to the basic oxygen furnace: a 600,000% productivity gain",
+      "section_timestamp_start": "32:10",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p33"], "timestamp_range": ["32:10", "32:50"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p34"], "timestamp_range": ["32:50", "34:05"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p35"], "timestamp_range": ["34:05", "35:04"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p36"], "timestamp_range": ["35:04", "35:38"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p37"], "timestamp_range": ["35:38", "36:25"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p38"], "timestamp_range": ["36:25", "37:27"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p39"], "timestamp_range": ["37:27", "38:19"]},
+        {"l3_id": "§5.p8", "l2_ids": ["p40"], "timestamp_range": ["38:19", "39:46"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Glass: bullseye, plate glass, and the Pilkington float process",
+      "section_timestamp_start": "39:46",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p41"], "timestamp_range": ["39:46", "41:02"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p42"], "timestamp_range": ["41:02", "41:55"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p49"], "timestamp_range": ["47:54", "49:11"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p50"], "timestamp_range": ["49:11", "50:17"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p51"], "timestamp_range": ["50:17", "51:32"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p52"], "timestamp_range": ["51:32", "52:25"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p53"], "timestamp_range": ["52:25", "53:32"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p54"], "timestamp_range": ["53:32", "54:52"]},
+        {"l3_id": "§6.p9", "l2_ids": ["p55"], "timestamp_range": ["54:52", "56:02"]},
+        {"l3_id": "§6.p10", "l2_ids": ["p56"], "timestamp_range": ["56:02", "57:50"]},
+        {"l3_id": "§6.p11", "l2_ids": ["p57", "p58"], "timestamp_range": ["57:50", "59:31"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Fasteners and the variety of nails and bolts",
+      "section_timestamp_start": "59:31",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p59"], "timestamp_range": ["59:31", "61:03"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p60"], "timestamp_range": ["61:03", "62:10"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p61"], "timestamp_range": ["62:10", "63:11"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p62"], "timestamp_range": ["63:11", "64:24"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p63"], "timestamp_range": ["64:24", "65:20"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "The Morgrip propeller bolt and the precision of bolt stretch",
+      "section_timestamp_start": "65:20",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p64"], "timestamp_range": ["65:20", "66:15"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p65"], "timestamp_range": ["66:15", "66:40"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p66"], "timestamp_range": ["66:40", "67:27"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p67"], "timestamp_range": ["67:27", "68:50"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p68"], "timestamp_range": ["68:50", "69:09"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p69"], "timestamp_range": ["69:09", "69:48"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p70"], "timestamp_range": ["69:48", "71:05"]},
+        {"l3_id": "§8.p8", "l2_ids": ["p71"], "timestamp_range": ["71:05", "72:02"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Bolt stress, tolerances, and high-strength alloys",
+      "section_timestamp_start": "72:02",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p72"], "timestamp_range": ["72:02", "72:47"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p73"], "timestamp_range": ["72:47", "73:31"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p74"], "timestamp_range": ["73:31", "74:35"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p75"], "timestamp_range": ["74:35", "76:17"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p76"], "timestamp_range": ["76:17", "77:23"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p77"], "timestamp_range": ["77:23", "78:29"]},
+        {"l3_id": "§9.p7", "l2_ids": ["p78"], "timestamp_range": ["78:29", "79:41"]},
+        {"l3_id": "§9.p8", "l2_ids": ["p78"], "timestamp_range": ["79:00", "79:41"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "HY-80, HY-100, and the limits of high-strength steels",
+      "section_timestamp_start": "79:41",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p79"], "timestamp_range": ["79:41", "80:48"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p80"], "timestamp_range": ["80:48", "82:05"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p81"], "timestamp_range": ["82:05", "83:06"]},
+        {"l3_id": "§10.p4", "l2_ids": ["p82"], "timestamp_range": ["83:06", "84:10"]}
+      ]
+    }
+  ]
+}

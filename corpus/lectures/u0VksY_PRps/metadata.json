@@ -1,0 +1,62 @@
+{
+  "video_id": "u0VksY_PRps",
+  "course": "Codes and Standards for Safety",
+  "term": "Fall 2012",
+  "video_title": "3.371 Codes and Standards - Fall 2012 [7/14]",
+  "lecture_number": 7,
+  "lecture_total": 14,
+  "speaker": "Simo Belmar (guest lecturer, standing in for Tom Eagar)",
+  "speaker_note": "Not delivered by Tom Eagar. Belmar is a former MIT PhD (graduated 2006) and consultant who collaborates with Eagar on projects. Self-identifies in opening paragraph.",
+  "duration_approx_minutes": 51,
+  "raw_transcript_sha256": "213cabf018ecac45e69e9dd0931185a56049e2c6ef9abc68fd09845ffa0feb1b",
+  "raw_transcript_line_count": 1294,
+  "raw_transcript_word_count": 7846,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T01:06:18.844085+00:00",
+  "layer2_paragraph_count": 56,
+  "layer2_first_timestamp": "00:02",
+  "layer2_last_timestamp": "50:06",
+  "topics_covered": [
+    "Definition of safety factor / factor of safety",
+    "Failure load vs allowable load",
+    "Frozen copper pipe case (hoop stress failure)",
+    "Plastic pipe and freezing tests",
+    "Thermal expansion in building risers",
+    "Water hammer in steam pipes",
+    "Welded joint strength reduction in pressure vessels",
+    "New Orleans levee / Katrina (soil shear properties)",
+    "Aircraft landing gear (1.2 safety factor)",
+    "Automotive fail-safe design and weight cost",
+    "Speedboat propeller shaft fatigue failure (Inconel, 400-hour design life)",
+    "Jet ski fuel-tank fitting (assembly-displacement loading)",
+    "Statistics and safety factor (introductory framing)"
+  ],
+  "cases_introduced": [
+    "Frozen copper pipe (hoop stress)",
+    "10-story building riser thermal expansion",
+    "New Orleans levee failure during Katrina",
+    "Speedboat Inconel propeller shaft fatigue",
+    "Jet ski molded nylon fuel-tank fitting"
+  ],
+  "props_used": [
+    "Frozen-and-burst copper pipe segment",
+    "Molded nylon jet-ski fuel-tank fitting"
+  ],
+  "board_drawings": [
+    "10-story building riser with utility tap",
+    "Cylindrical pressure vessel with longitudinal seam",
+    "Speedboat shaft and propeller (water-level cross-section, fracture surface with beach marks)",
+    "Jet-ski hose-and-clamp assembly"
+  ],
+  "references_to_eagar": [
+    "p3: 'Professor Eagar talked about the pressure vessel code'",
+    "p7: 'or you may have Tom Eagar' (next-day uncertainty)",
+    "p9: Eagar's spring lecture on forming",
+    "p21: 'doubler plate, like Professor Eagar mentioned yesterday'",
+    "p25: 'I'm sure Professor [Eagar] started to introduce to you some of these values'",
+    "p32: 'that's a number from Professor Eagar, I think it is material selection module'",
+    "p55: 'Professor Eagar, I know last class, mentioned about service history'"
+  ],
+  "constitutional_note": "This lecture is part of the Eagar corpus by virtue of being delivered in Eagar's course during Eagar's absence. Editorial treatment matches the Eagar pipeline conventions. Cases introduced here are Belmar's professional cases, not Eagar's teaching cases, and should be tagged accordingly in the aggregate case index."
+}

@@ -1,0 +1,134 @@
+{
+  "lecture_id": "6UN5XMqMitk",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Fall 2013",
+  "session": "12/14",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Course logistics and presentation scheduling",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:02", "00:20"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:20", "00:56"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["00:56", "01:20"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Aloha Airlines and aircraft pressure-vessel fatigue",
+      "section_timestamp_start": "01:20",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p4"], "timestamp_range": ["01:20", "01:47"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p5"], "timestamp_range": ["01:47", "02:35"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p6"], "timestamp_range": ["02:35", "03:43"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p7"], "timestamp_range": ["03:43", "03:45"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p7"], "timestamp_range": ["03:45", "04:15"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p8"], "timestamp_range": ["04:15", "04:47"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Blackhawk washer stress-corrosion cracking",
+      "section_timestamp_start": "04:47",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p9"], "timestamp_range": ["04:47", "05:57"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p10"], "timestamp_range": ["05:57", "06:48"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p11"], "timestamp_range": ["06:48", "07:40"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p12"], "timestamp_range": ["07:40", "08:34"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p13"], "timestamp_range": ["08:34", "09:34"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p14"], "timestamp_range": ["09:34", "10:12"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p15"], "timestamp_range": ["10:12", "11:02"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p16"], "timestamp_range": ["11:02", "11:42"]},
+        {"l3_id": "§3.p9", "l2_ids": ["p17"], "timestamp_range": ["11:42", "12:09"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Alclad and continuously cast clad aluminum",
+      "section_timestamp_start": "12:09",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p18"], "timestamp_range": ["12:09", "12:53"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p19"], "timestamp_range": ["12:53", "13:46"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p20"], "timestamp_range": ["13:46", "14:14"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p21"], "timestamp_range": ["14:14", "15:47"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p22"], "timestamp_range": ["15:47", "16:51"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p23"], "timestamp_range": ["16:51", "17:20"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "America's Cup hydraulic cylinder: design-to-failure philosophy",
+      "section_timestamp_start": "17:20",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p24"], "timestamp_range": ["17:20", "17:55"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p25"], "timestamp_range": ["17:55", "18:35"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p26"], "timestamp_range": ["18:35", "19:31"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p27"], "timestamp_range": ["19:31", "20:18"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p28"], "timestamp_range": ["20:18", "21:13"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p29"], "timestamp_range": ["21:13", "21:56"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Ratio analysis diagram and the Ashby framework",
+      "section_timestamp_start": "21:56",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p30"], "timestamp_range": ["21:56", "22:26"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p31"], "timestamp_range": ["22:26", "23:49"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p32"], "timestamp_range": ["23:49", "25:03"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p33"], "timestamp_range": ["25:03", "25:45"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p34"], "timestamp_range": ["25:45", "26:38"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p35"], "timestamp_range": ["26:38", "27:31"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p36"], "timestamp_range": ["27:31", "28:16"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Periodic table survey: alkalis, alkaline earths, and beryllium",
+      "section_timestamp_start": "28:16",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p37"], "timestamp_range": ["28:16", "28:52"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p38"], "timestamp_range": ["28:52", "29:38"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p39"], "timestamp_range": ["29:38", "30:27"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p40"], "timestamp_range": ["30:27", "31:18"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p41"], "timestamp_range": ["31:18", "32:15"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p42"], "timestamp_range": ["32:15", "33:09"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p43"], "timestamp_range": ["33:09", "34:23"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p44"], "timestamp_range": ["34:23", "34:55"]},
+        {"l3_id": "§7.p9", "l2_ids": ["p45"], "timestamp_range": ["34:55", "35:40"]},
+        {"l3_id": "§7.p10", "l2_ids": ["p46"], "timestamp_range": ["35:40", "36:39"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Calcium as Portland cement; barium, radium aside",
+      "section_timestamp_start": "36:39",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p47"], "timestamp_range": ["36:39", "37:42"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p48"], "timestamp_range": ["37:42", "38:13"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p49"], "timestamp_range": ["38:13", "39:27"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Magnesium: applications, anodes, and burning",
+      "section_timestamp_start": "39:27",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p50"], "timestamp_range": ["39:27", "40:36"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p51"], "timestamp_range": ["40:36", "41:20"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p52"], "timestamp_range": ["41:20", "41:54"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p53"], "timestamp_range": ["41:54", "42:38"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p53"], "timestamp_range": ["42:35", "42:38"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p54"], "timestamp_range": ["42:38", "43:36"]},
+        {"l3_id": "§9.p7", "l2_ids": ["p55"], "timestamp_range": ["43:36", "44:30"]},
+        {"l3_id": "§9.p8", "l2_ids": ["p56"], "timestamp_range": ["44:30", "45:36"]},
+        {"l3_id": "§9.p9", "l2_ids": ["p57"], "timestamp_range": ["45:36", "46:16"]},
+        {"l3_id": "§9.p10", "l2_ids": ["p58"], "timestamp_range": ["46:16", "47:06"]},
+        {"l3_id": "§9.p11", "l2_ids": ["p59"], "timestamp_range": ["47:06", "47:48"]},
+        {"l3_id": "§9.p12", "l2_ids": ["p60"], "timestamp_range": ["47:48", "48:38"]},
+        {"l3_id": "§9.p13", "l2_ids": ["p61"], "timestamp_range": ["48:38", "49:50"]}
+      ]
+    }
+  ]
+}

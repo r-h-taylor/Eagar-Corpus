@@ -1,0 +1,132 @@
+{
+  "lecture_id": "O-XaPwdx3Pw",
+  "course": "Recitations",
+  "term": "Spring 2020",
+  "video_title": "2020 02 10",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Opening: what the class wants to talk about",
+      "section_timestamp_start": "00:03",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:03", "00:52"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:52", "02:22"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:22", "03:00"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p3"], "timestamp_range": ["03:00", "03:05"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p3"], "timestamp_range": ["03:05", "04:07"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The four ranks and the tenure clock",
+      "section_timestamp_start": "04:07",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p4"], "timestamp_range": ["04:07", "05:00"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p4"], "timestamp_range": ["05:00", "06:08"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p5"], "timestamp_range": ["06:08", "07:07"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p6"], "timestamp_range": ["07:07", "08:32"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p7"], "timestamp_range": ["08:32", "09:30"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p7"], "timestamp_range": ["09:30", "10:08"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p8"], "timestamp_range": ["10:08", "10:22"]},
+        {"l3_id": "§2.p8", "l2_ids": ["p9"], "timestamp_range": ["10:22", "11:32"]},
+        {"l3_id": "§2.p9", "l2_ids": ["p10"], "timestamp_range": ["11:32", "11:35"]},
+        {"l3_id": "§2.p10", "l2_ids": ["p11"], "timestamp_range": ["11:35", "13:18"]},
+        {"l3_id": "§2.p11", "l2_ids": ["p12"], "timestamp_range": ["13:18", "14:33"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The faculty personnel record and career development",
+      "section_timestamp_start": "14:33",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p13"], "timestamp_range": ["14:33", "15:25"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p14"], "timestamp_range": ["15:25", "16:56"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p15"], "timestamp_range": ["16:56", "18:00"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p16"], "timestamp_range": ["18:00", "19:32"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p17"], "timestamp_range": ["19:32", "21:00"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p18"], "timestamp_range": ["21:00", "22:06"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Administrative staff and the loss of institutional heart",
+      "section_timestamp_start": "22:06",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p19"], "timestamp_range": ["22:06", "22:23"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p20"], "timestamp_range": ["22:23", "24:00"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p21"], "timestamp_range": ["24:00", "25:10"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p22"], "timestamp_range": ["25:10", "26:02"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p23"], "timestamp_range": ["26:02", "27:43"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Tom's own hiring and the Mehrabian story",
+      "section_timestamp_start": "27:43",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p24"], "timestamp_range": ["27:43", "29:08"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p25"], "timestamp_range": ["29:08", "30:46"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p26"], "timestamp_range": ["30:46", "31:34"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p27"], "timestamp_range": ["31:34", "32:43"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Time-to-PhD and grading a nine-year student",
+      "section_timestamp_start": "32:43",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p28"], "timestamp_range": ["32:43", "33:03"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p29"], "timestamp_range": ["33:03", "34:13"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p30"], "timestamp_range": ["34:13", "35:00"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p31"], "timestamp_range": ["35:00", "36:32"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Department heads: Chipman, King, Owen, Flemings",
+      "section_timestamp_start": "36:32",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p32"], "timestamp_range": ["36:32", "37:00"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p32"], "timestamp_range": ["37:00", "37:38"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p33"], "timestamp_range": ["37:38", "38:54"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p34"], "timestamp_range": ["38:54", "40:16"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p34"], "timestamp_range": ["40:16", "40:30"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p35"], "timestamp_range": ["40:30", "41:38"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p36"], "timestamp_range": ["41:38", "43:26"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Department head succession and the modern process",
+      "section_timestamp_start": "43:26",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p37"], "timestamp_range": ["43:26", "44:15"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p38"], "timestamp_range": ["44:15", "45:35"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "The 1977 letter: \"will probably not make our tenure threshold\"",
+      "section_timestamp_start": "45:35",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p39"], "timestamp_range": ["45:35", "46:51"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p40"], "timestamp_range": ["46:51", "48:21"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "Epstein, culture, and a polluted tenure case",
+      "section_timestamp_start": "48:21",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p41"], "timestamp_range": ["48:21", "48:50"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p42"], "timestamp_range": ["48:50", "49:05"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p43"], "timestamp_range": ["49:05", "50:25"]},
+        {"l3_id": "§10.p4", "l2_ids": ["p44"], "timestamp_range": ["50:25", "51:40"]},
+        {"l3_id": "§10.p5", "l2_ids": ["p45"], "timestamp_range": ["51:40", "52:55"]},
+        {"l3_id": "§10.p6", "l2_ids": ["p46"], "timestamp_range": ["52:55", "53:57"]},
+        {"l3_id": "§10.p7", "l2_ids": ["p47"], "timestamp_range": ["53:57", "54:55"]},
+        {"l3_id": "§10.p8", "l2_ids": ["p48"], "timestamp_range": ["54:55", "55:30"]}
+      ]
+    }
+  ]
+}

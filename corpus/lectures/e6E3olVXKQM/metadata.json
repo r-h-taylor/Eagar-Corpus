@@ -1,0 +1,67 @@
+{
+  "video_id": "e6E3olVXKQM",
+  "course": "Corrosion Cracking and More",
+  "course_number": "3.371",
+  "course_full_title": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [16/35]",
+  "lecture_number": 16,
+  "lecture_total": 35,
+  "raw_transcript_sha256": "47442bcb2ac409c4a8661ae5a6502aa0582069ad9497449eaabb93e74e0a53ea",
+  "raw_transcript_line_count": 1076,
+  "raw_transcript_word_count": 7174,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T18:04:10.649695+00:00",
+  "layer2_paragraph_count": 40,
+  "duration_covered_mmss": "00:03-37:00",
+  "primary_topics": [
+    "hydrogen cracking",
+    "hydrogen diffusion in steel",
+    "high strength steel embrittlement",
+    "vacuum arc remelting",
+    "preheat and postheat practice",
+    "stress corrosion cracking (Venn diagram: material / stress / environment)",
+    "sulfide stress corrosion cracking (H2S, sour gas)",
+    "weldability tests (CTS, Tekken / Y-groove, implant test)",
+    "delayed cracking",
+    "deformation-induced martensite in 304 stainless (Farberware case)"
+  ],
+  "cases_mentioned": [
+    "Bethlehem Steel consulting (Bruce Sylvester, David Holt)",
+    "Sea wall bolt failures (hydrogen from corrosion)",
+    "Evanston Wyoming H2S gas dome (Chevron / Amoco sulfur recovery)",
+    "Farberware stainless steel pot cracking (Brooklyn factory, Japan shipping)"
+  ],
+  "people_named": [
+    "Bruce Sylvester",
+    "David Holt",
+    "Steve Gedeon (rendered 'Gideon [Gedeon]')",
+    "Frank R. Coe",
+    "Albert Einstein",
+    "Stout and Doty",
+    "Adolf Fick (implicit)",
+    "Joseph Fourier (implicit)",
+    "Dustin (TA, surname not given)"
+  ],
+  "figures_referenced": [
+    "30 ppm hydrogen absorption in weld pool (monatomic H)",
+    "10^-5 cm^2/s lattice diffusion of H in BCC steel",
+    "1 ppm H threshold for damage at 220 ksi tensile",
+    "0.5 ppm H threshold at 300 ksi",
+    "375 F / 4 hr or 23 hr ASME bake-out for electroplating",
+    "48 hr NDT delay rule, AWS D1.1",
+    "7 day Navy wait for HY-steel inspection",
+    "17% H2S in Evanston WY gas",
+    "1 hr minimum cracking time at 20 C (sulfide SCC plot)",
+    "9 month delayed crack in High Sierras snow"
+  ],
+  "stage_directions_count": 1,
+  "tom_slips_bracketed": [
+    {"as_spoken": "Steve Gideon", "correction": "Gedeon", "first_paragraph": "p3"},
+    {"as_spoken": "Prooftstform", "correction": "Prüfstand?", "first_paragraph": "p33", "uncertain": true}
+  ],
+  "captioner_corrections_silent_count": 25,
+  "ends_mid_story": true,
+  "ending_note": "Farberware case concludes mid-explanation; continuation expected in lecture 17."
+}

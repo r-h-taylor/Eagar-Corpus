@@ -1,0 +1,42 @@
+{
+  "video_id": "j_SJgDOZazw",
+  "course": "Welding Quality",
+  "course_number": "3.371",
+  "course_title_spoken": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [30/35]",
+  "lecture_number": 30,
+  "lecture_total": 35,
+  "raw_transcript_sha256": "24e1907858d66f4d9ae4bec40bc6ac6f5ac22a5cb23e4a9e9d10899e5e90cee1",
+  "raw_transcript_line_count": 618,
+  "raw_transcript_word_count": 4028,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T19:10:30.499194+00:00",
+  "layer2_paragraph_count": 23,
+  "lecture_topic": "Aluminum welding: porosity, crater cracking, oxide cleaning, filler alloy selection",
+  "primary_materials": ["aluminum alloys", "355 casting alloy", "4043", "4145", "4009", "4047", "7039"],
+  "cases_mentioned": [
+    "Tree stand turnbuckle failure (White Plains, NY)",
+    "Quincy Shipyard barge cracking (number six bunker oil, late 1970s/early 80s)",
+    "Aluminum aircraft crankcase weld repair (Oklahoma engineer, Lycoming/TCM, Jan 2014)",
+    "Ford Explorer chromic acid plating shop (mid-1990s)",
+    "MIT undergraduate chromic acid glassware cleaning (early 1970s)",
+    "Erin Brockovich / hexavalent chromium"
+  ],
+  "figures_referenced": [
+    "Hydrogen solubility drop in aluminum at solidification (~100x)",
+    "ASTM reference radiograph standard for aluminum porosity, 1-8 scale",
+    "7039 strength loss ~40% at 40% porosity, from 50 ksi baseline",
+    "Elongation loss ~70% (15% to 5%) with porosity",
+    "Aluminum solidification shrinkage 6%",
+    "Aluminum oxide melting point 2000°C vs aluminum melting point 660°C",
+    "Brinell hardness 93 in 355 casting base material",
+    "204 inch-pound torque spec for studs"
+  ],
+  "editor_flags": [
+    "p22: '404.009' captioner artifact restored as '4009'; possible Tom slip between 4043 and 409 — editor confirm",
+    "p7: 'equation crater crack' may be captioner garble of 'equiaxed crater crack' — preserved verbatim, editor confirm",
+    "Lecture opens mid-thought ('Fold reduction in solubility') — prior context is in lecture 29; cross-reference at editorial pass"
+  ]
+}

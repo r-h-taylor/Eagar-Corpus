@@ -1,0 +1,59 @@
+{
+  "video_id": "CjX9EIFHGa0",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [15/29]",
+  "lecture_number": 15,
+  "lecture_total": 29,
+  "raw_transcript_sha256": "2672aeed1045a3f4203bc2632491b119e1c9c27a5dfd6015be0ae12c65d6de06",
+  "raw_transcript_line_count": 329,
+  "raw_transcript_word_count": 2149,
+  "duration_approx": "11:13",
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T14:12:54.270946+00:00",
+  "layer2_paragraph_count": 14,
+  "topics": [
+    "vanadium pentoxide corrosion of stainless steel",
+    "John Wulff consulting anecdote",
+    "AWS structural welding code: preheat determination",
+    "carbon equivalent and hardenability",
+    "Stout and Doty weldability reference",
+    "Zone 1/2/3 classification by carbon and CE",
+    "Vickers vs Rockwell C hardness",
+    "America's Cup keel: HY80, HY130, 4340",
+    "high-preheat welding working conditions"
+  ],
+  "people_mentioned": [
+    {"name": "John Wulff", "context": "MIT metallurgy professor, oxidation/corrosion research, consulting on Venezuelan oil boiler failure"},
+    {"name": "Jerry Milgram", "context": "MIT professor of ocean engineering (Course 2), America's Cup keel consulting call", "tom_said": "Jerry Milburn"}
+  ],
+  "places_mentioned": [
+    "Venezuela",
+    "Alberta tar sands",
+    "MIT"
+  ],
+  "materials_systems": [
+    "stainless steel (chromium oxide scale)",
+    "vanadium pentoxide (V2O5)",
+    "carbon steel (Zone 1)",
+    "HY80 submarine steel",
+    "HY130",
+    "AISI 4340",
+    "quenched and tempered steels"
+  ],
+  "references": [
+    "AWS Structural Welding Code (Appendix I)",
+    "Stout and Doty, Weldability of Steels"
+  ],
+  "tom_slips_bracketed": [
+    {"raw": "vanadium ethoxide", "correction": "vanadium pentoxide", "paragraph": "p1"},
+    {"raw": "Jerry Milburn", "correction": "Jerry Milgram", "paragraph": "p11"}
+  ],
+  "captioner_errors_corrected": 10,
+  "stage_directions_layer2": 0,
+  "student_turns": 1,
+  "section_opens_mid_narrative": true,
+  "notes": "Lecture opens mid-story (vanadium/Venezuela anecdote continuing from prior session) and closes cleanly. Two named figures: John Wulff (MIT, deceased; story is retrospective) and Jerry Milgram (MIT ocean engineering, America's Cup consulting). The HY80/HY130 passage at p11 contains an unresolved syntactic fragment ('HY80 exits, HY130') that is preserved verbatim because the captioner garbling is not unambiguously resolvable."
+}

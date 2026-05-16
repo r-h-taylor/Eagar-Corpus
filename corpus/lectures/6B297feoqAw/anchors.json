@@ -1,0 +1,148 @@
+{
+  "lecture_id": "6B297feoqAw",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Fall 2013",
+  "session": "6/14",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Sapphire boules and the Chinese solar cell market",
+      "section_timestamp_start": "02:38",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["02:38", "03:01"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["03:01", "03:38"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["03:38", "04:10"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["04:10", "05:09"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["05:09", "06:01"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p6"], "timestamp_range": ["06:01", "06:46"]},
+        {"l3_id": "§1.p7", "l2_ids": ["p7"], "timestamp_range": ["06:46", "07:30"]},
+        {"l3_id": "§1.p8", "l2_ids": ["p8"], "timestamp_range": ["07:30", "08:10"]},
+        {"l3_id": "§1.p9", "l2_ids": ["p9"], "timestamp_range": ["08:10", "09:02"]},
+        {"l3_id": "§1.p10", "l2_ids": ["p10"], "timestamp_range": ["09:02", "09:54"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Solyndra, edge-defined film growth, and the cost of new materials",
+      "section_timestamp_start": "09:54",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p11"], "timestamp_range": ["09:54", "10:39"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p12"], "timestamp_range": ["10:39", "11:36"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p13"], "timestamp_range": ["11:36", "12:09"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p14"], "timestamp_range": ["12:09", "12:45"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p15"], "timestamp_range": ["12:45", "13:28"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p16"], "timestamp_range": ["13:28", "14:14"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p17"], "timestamp_range": ["14:14", "15:02"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Reading Advanced Materials and Processes: the 34-story wooden building",
+      "section_timestamp_start": "15:22",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p19"], "timestamp_range": ["15:22", "16:01"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p20"], "timestamp_range": ["16:01", "16:48"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p21"], "timestamp_range": ["16:48", "17:37"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p22"], "timestamp_range": ["17:37", "18:27"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p23"], "timestamp_range": ["18:27", "19:16"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p24"], "timestamp_range": ["19:16", "20:14"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p25"], "timestamp_range": ["20:14", "21:02"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Specific properties and the conductive polymer hype",
+      "section_timestamp_start": "21:02",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p26"], "timestamp_range": ["21:02", "22:00"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p27"], "timestamp_range": ["22:00", "22:34"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p28"], "timestamp_range": ["22:34", "23:27"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p29"], "timestamp_range": ["23:27", "24:18"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p30"], "timestamp_range": ["24:18", "25:35"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Hype cycles: structural ceramics and high-temperature superconductors",
+      "section_timestamp_start": "25:35",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p31"], "timestamp_range": ["25:35", "26:14"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p32"], "timestamp_range": ["26:14", "27:10"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p33"], "timestamp_range": ["27:10", "27:46"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p34"], "timestamp_range": ["27:46", "28:34"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p35"], "timestamp_range": ["28:34", "29:16"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p36"], "timestamp_range": ["29:16", "30:11"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p37"], "timestamp_range": ["30:11", "31:08"]},
+        {"l3_id": "§5.p8", "l2_ids": ["p38"], "timestamp_range": ["31:08", "31:44"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The Siemens cold-rolling sale and the second-hand mill problem",
+      "section_timestamp_start": "31:44",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p39"], "timestamp_range": ["31:44", "32:33"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p40"], "timestamp_range": ["32:33", "33:11"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p41"], "timestamp_range": ["33:11", "34:00"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p42"], "timestamp_range": ["34:00", "34:45"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Polyamide oil sumps and the bolt-spacing tell",
+      "section_timestamp_start": "34:45",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p43"], "timestamp_range": ["34:45", "35:30"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p44"], "timestamp_range": ["35:30", "36:19"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p45"], "timestamp_range": ["36:19", "36:57"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p46"], "timestamp_range": ["36:57", "37:38"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Aluminum-lithium and composite fan cases",
+      "section_timestamp_start": "37:38",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p47"], "timestamp_range": ["37:38", "38:28"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p48"], "timestamp_range": ["38:28", "39:13"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p49"], "timestamp_range": ["39:13", "39:51"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p50"], "timestamp_range": ["39:51", "40:46"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p51"], "timestamp_range": ["40:46", "41:37"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p52"], "timestamp_range": ["41:37", "42:13"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p53"], "timestamp_range": ["42:13", "42:56"]},
+        {"l3_id": "§8.p8", "l2_ids": ["p54"], "timestamp_range": ["42:56", "43:14"]},
+        {"l3_id": "§8.p9", "l2_ids": ["p55"], "timestamp_range": ["43:14", "43:58"]},
+        {"l3_id": "§8.p10", "l2_ids": ["p56"], "timestamp_range": ["43:58", "44:28"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "The V-22 Osprey and the helicopter speed limit",
+      "section_timestamp_start": "44:28",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p57"], "timestamp_range": ["44:28", "45:15"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p58"], "timestamp_range": ["45:15", "45:54"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p59"], "timestamp_range": ["45:54", "46:25"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p60"], "timestamp_range": ["46:25", "47:15"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "The turbofan revolution: momentum versus kinetic energy",
+      "section_timestamp_start": "47:15",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p61"], "timestamp_range": ["47:15", "48:03"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p62"], "timestamp_range": ["48:03", "48:22"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p63"], "timestamp_range": ["48:22", "48:25"]},
+        {"l3_id": "§10.p4", "l2_ids": ["p64"], "timestamp_range": ["48:25", "48:42"]},
+        {"l3_id": "§10.p5", "l2_ids": ["p65"], "timestamp_range": ["48:42", "48:52"]},
+        {"l3_id": "§10.p6", "l2_ids": ["p66"], "timestamp_range": ["48:52", "49:24"]},
+        {"l3_id": "§10.p7", "l2_ids": ["p67"], "timestamp_range": ["49:24", "50:23"]},
+        {"l3_id": "§10.p8", "l2_ids": ["p68"], "timestamp_range": ["50:23", "51:10"]},
+        {"l3_id": "§10.p9", "l2_ids": ["p69"], "timestamp_range": ["51:10", "51:53"]},
+        {"l3_id": "§10.p10", "l2_ids": ["p70"], "timestamp_range": ["51:53", "52:16"]},
+        {"l3_id": "§10.p11", "l2_ids": ["p71"], "timestamp_range": ["52:16", "52:45"]}
+      ]
+    }
+  ]
+}

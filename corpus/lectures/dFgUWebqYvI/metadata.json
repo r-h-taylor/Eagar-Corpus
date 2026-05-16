@@ -1,0 +1,38 @@
+{
+  "video_id": "dFgUWebqYvI",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "lecture_number": 19,
+  "lecture_total": 29,
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [19/29]",
+  "raw_transcript_sha256": "1fe5937578169c1b432eb4011ef6908027a5b2567020d8ccd5d15a58299fa423",
+  "raw_transcript_line_count": 192,
+  "raw_transcript_word_count": 1238,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T14:28:46.403508+00:00",
+  "layer2_paragraph_count": 8,
+  "layer2_start_timestamp": "00:01",
+  "layer2_end_timestamp": "06:44",
+  "captioner_corrections_silent": 3,
+  "toms_slips_bracketed": 1,
+  "flagged_for_review": 2,
+  "stage_directions_inserted": 3,
+  "topic_summary": "Forensic analysis of a hot isostatic press (HIP) vessel failure: three-factor causation (transient thermal stresses uncalculated due to 1980s computing limits, susceptible microstructure from improper heat treatment by Japan Steelworks, hydrogen embrittlement from corrosion pitting due to inadequate water treatment and inspection). Critical flaw size analysis: a half-inch crack destroyed a 200-ton vessel. Liability spread across material supplier, operator, water treatment company, and inspection company.",
+  "cases_referenced": [
+    "Hot isostatic press vessel failure (Japan Steelworks high-strength steel, 280 ksi, 200-ton vessel)",
+    "French generator rotor forging stress corrosion cracking failure (precedent case for molybdate water treatment)"
+  ],
+  "figures_referenced": [
+    "280 ksi steel (vessel material)",
+    "16 ton piece (forensic sample)",
+    "200 ton vessel (failed component)",
+    "half-inch critical flaw size",
+    "20,000 psi argon (service pressure)",
+    "1000-2000 psi (room-temperature fill pressure)",
+    "75% reduction in strength from hydrogen",
+    "1800-2000°F (service temperature range)",
+    "1982 (era of original design, pre-modern FEA computing)"
+  ]
+}

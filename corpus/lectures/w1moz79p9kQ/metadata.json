@@ -1,0 +1,52 @@
+{
+  "video_id": "w1moz79p9kQ",
+  "course": "3.371 Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Summer 2015",
+  "lecture_number": 6,
+  "lecture_total": 18,
+  "video_title": "3.371 Welding Metallurgy - Summer 2015 [6/18]",
+  "raw_transcript_sha256": "827446e191ce3682f19860a84ca423f05c809a2ca278001e192ed1f5d8d0aa02",
+  "raw_transcript_line_count": 936,
+  "raw_transcript_word_count": 7285,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T15:41:48.401522+00:00",
+  "layer2_paragraph_count": 50,
+  "duration_covered_seconds": 2801,
+  "duration_covered_mmss": "46:41",
+  "primary_topics": [
+    "liability and accommodation in big engineering failures",
+    "Alcoa Davenport plate quench failure",
+    "Citicorp Tower welded-joint seismic problem",
+    "Amtrak northeast extension copper-wire / Phelps Dodge case",
+    "hydrogen embrittlement and hydrogen cracking",
+    "low-hydrogen welding processes (SMAW, GMAW, GTAW)",
+    "Seawolf submarine hydrogen-cracking repair (blue jelly suits)",
+    "HSLA steel development and Japanese accelerated-cooled steels",
+    "Venn diagram of hydrogen cracking (stress, microstructure, hydrogen)",
+    "defects control properties (Sprague quote)"
+  ],
+  "cases_mentioned": [
+    "Alcoa Davenport quench-plate failure",
+    "Citicorp Tower seismic-weld repair",
+    "Johnson & Johnson Tylenol recall",
+    "Amtrak northeast extension / Phelps Dodge copper wire",
+    "Bell Helicopter supplier liability",
+    "Seawolf submarine hydrogen cracking repair",
+    "USS Cole repair",
+    "Bay Bridge tie rod corrosion-induced cracking",
+    "Naval Research Lab laser welding of HY-80"
+  ],
+  "recurring_people_mentioned": [
+    "John Reed (Citicorp / MIT Corporation)",
+    "Bob Reuven (NIST) [tentative attribution]",
+    "Morris Cohen (MIT)",
+    "Bob Sprague (GE Aircraft Engines)",
+    "Jim Williams (GE Aircraft Engines)"
+  ],
+  "video_segment_present": true,
+  "video_segment_paragraphs": "p22-p29",
+  "video_segment_topic": "hydrogen embrittlement and low-hydrogen welding electrodes",
+  "editor_flags_count": 6
+}

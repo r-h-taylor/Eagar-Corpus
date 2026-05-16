@@ -1,0 +1,51 @@
+{
+  "video_id": "xODVo-2X-yQ",
+  "course": "3.371 Deformation Processing",
+  "term": "Spring 2012",
+  "session": "2 of 12",
+  "video_title": "3.371 Deformation Processing - Spring 2012 [2/12]",
+  "raw_transcript_sha256": "c76e09bb330c59343eda3989110fe8b2d1cd092e14e40ae6ea7f2739f4b40379",
+  "raw_transcript_line_count": 1194,
+  "raw_transcript_word_count": 9237,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T08:50:56.357786+00:00",
+  "layer2": {
+    "paragraph_count": 68,
+    "duration_covered_mmss": "00:04-52:47",
+    "captioner_corrections_silent": 24,
+    "captioner_corrections_bracketed": 3,
+    "tom_slips_flagged": 4,
+    "student_turns_attributed": 2,
+    "self_corrections_preserved": 7,
+    "demo_business_preserved": true
+  },
+  "key_cases_mentioned": [
+    "Trolley wire / Amtrak Acela current pickup (consulting case, copper tensile testing)",
+    "Beer can / Coke can ironing (40% of world aluminum production)",
+    "Upstate New York brewery consulting job, 1976-77 (beer keg failure, second-largest US brewery)",
+    "Percy Bridgman tetrahedral anvil press (Nobel Prize, hydrostatic suppression of fracture)",
+    "Deep-mine rock plasticity at 10,000 ft (diamond mines)",
+    "LNG tanker tail-shaft fatigue failure, 1985 (Philippine Sea)",
+    "Alcoa Davenport rolling mill thickness variation (Julie's LFM thesis)"
+  ],
+  "key_concepts_introduced": [
+    "Critical resolved shear stress",
+    "Stress tensor: principal vs. deviatoric stresses",
+    "Mohr's circle (1882)",
+    "Poisson's ratio: 0.3 elastic, 0.5 plastic",
+    "Hydrostatic suppression of brittle fracture (Bridgman)",
+    "Deformation zone geometry parameter Δ (Backofen)",
+    "P/2Y vs. Δ master plot consolidating 48 processes into 7",
+    "Redundant shear and non-homogeneous deformation",
+    "Hardness test: P ≈ 3Y (1 + π/2 theoretical)",
+    "Friction regimes by Δ (Δ≤1 friction-dominated; Δ≈10 friction-negligible)"
+  ],
+  "co_lecturer": "Simone Belmore (postdoc, fracture/fatigue lectures)",
+  "textbooks_referenced": [
+    "Hosford & Caddell, Metal Forming: Mechanics and Metallurgy",
+    "Backofen, Deformation Processing",
+    "Johnson & Mellor, Engineering Plasticity",
+    "Altan, Metal Forming Handbook"
+  ]
+}

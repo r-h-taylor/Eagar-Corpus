@@ -1,0 +1,45 @@
+{
+  "video_id": "cD2dBCxt1Sw",
+  "course": "Corrosion Cracking and More",
+  "course_number": "3.371",
+  "course_title": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [2/35]",
+  "lecture_number_in_series": 2,
+  "series_length": 35,
+  "raw_transcript_sha256": "b46da5584ee937fd87a2d7491a88d412a77afb34d0109b6629a2c90cf9b32257",
+  "raw_transcript_line_count": 1093,
+  "raw_transcript_word_count": 6672,
+  "layer2_paragraph_count": 38,
+  "duration_covered_mmss_start": "00:05",
+  "duration_covered_mmss_end": "37:13",
+  "primary_topics": [
+    "cost of corrosion (US sector breakdown)",
+    "galvanic series and thermodynamic vs practical nobility",
+    "magnesium-graphite composites (Port Hueneme diver applications)",
+    "cathodic protection of pipelines and ships",
+    "Pourbaix diagrams (aqueous and gaseous)",
+    "technetium and medical stress tests",
+    "titanium, tantalum, niobium, zirconium — protective oxide skins",
+    "anhydrous ammonia stress corrosion cracking of titanium",
+    "gold theft anecdotes (Attleboro and South Africa)"
+  ],
+  "cases_mentioned": [
+    "Port Hueneme magnesium-graphite diver composites",
+    "NYC titanium heat exchanger post-9/11 (East River silt)",
+    "MIT welding lab titanium cutting / environmental complaint",
+    "H.C. Starck tantalum plant, Newton MA",
+    "Texas City zirconium acetic acid reactors",
+    "Kentucky schoolhouse fire (14% Tc misanalysis)",
+    "Leach & Garner, Attleboro (gold rings in stream)",
+    "South African gold mine (salt-shaker gold chloride theft)",
+    "Yushchenko polonium poisoning, Ukraine"
+  ],
+  "people_mentioned": [
+    "Marcel Pourbaix"
+  ],
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T17:02:55.999748+00:00",
+  "editorial_notes": "Heavy captioner garbling on proper nouns (Pourbaix→forbay/quarterback, Cebelcor→civil war, tantalum→talon, Attleboro→algebra, Port Hueneme→port fondue me, H.C. Starck→a.c. stark). All silently corrected per convention 9/10. Multiple flags for editorial review on uncertain reconstructions — see transformation log."
+}

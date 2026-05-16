@@ -1,0 +1,68 @@
+{
+  "video_id": "Hwwodo_KbtM",
+  "course": "Materials Selection and Economics",
+  "term": "Fall 2017",
+  "video_title": "2017 09 13",
+  "recording_date": "2017-09-13",
+  "raw_transcript_sha256": "f9f17321b8b922a700ff1c2c5be9323fcf8a78d3bb0f917d097ce9bd3c5df53b",
+  "raw_transcript_line_count": 1283,
+  "raw_transcript_word_count": 10324,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T04:36:58.944398+00:00",
+  "layer2_paragraph_count": 58,
+  "duration_approx_minutes": 57,
+  "primary_topics": [
+    "value of weight savings by industry (ships, automotive, aerospace, spacecraft)",
+    "X-33 spaceplane composite tanks and the 1.3B rapid-prototyping project",
+    "V-22 Osprey as first all-composite major aircraft",
+    "atomic bonding, Young's modulus, and inherent property limits",
+    "Charpy impact test and the energy of fracture",
+    "Liberty ship brittle fractures and the birth of fracture mechanics (Irwin, Griffith, Wells)",
+    "Ashby fracture-toughness vs strength plot",
+    "safety factors by structure type (buildings 1.67, bridges 2.0, aircraft 2-10)",
+    "Irwin ratio analysis diagram for steel and critical flaw size",
+    "Sea Wolf submarine HY-100 weld cracking case (1992)"
+  ],
+  "cases_mentioned": [
+    "X-33 spaceplane / NASA rapid prototyping",
+    "V-22 Osprey tilt-rotor",
+    "Liberty ships and T2 tankers (WWII brittle fracture)",
+    "USS Schenectady dry-dock fracture (1943)",
+    "Pendleton / Fort Mercer Coast Guard rescue (1952 Cape Cod)",
+    "de Havilland Comet square-window fatigue failures",
+    "Northridge earthquake building fractures (1994)",
+    "New York City beam crack (George Washington Bridge approach building)",
+    "USS Seawolf (SSN-21) HY-100 weld crack repair (1992)",
+    "BLISK / bladed disk turbine engineering",
+    "Boeing weight-savings study (1990 LGO students, $188/lb)"
+  ],
+  "people_mentioned": [
+    "Simone (TA)",
+    "Brian (colleague handling later sessions)",
+    "Henry Kaiser",
+    "George Irwin",
+    "Alan Griffith",
+    "Alan Wells",
+    "Morris Cohen",
+    "Hyman Rickover",
+    "Millard S. Firebaugh",
+    "Dr. Belmar (module on structural life assessment)"
+  ],
+  "stage_business": [
+    "passing zinc / aluminum / magnesium density samples around the class",
+    "demonstrating tubular vs flat plastic stiffness",
+    "snapping brittle plastic",
+    "demonstrating silly putty ductile-vs-brittle behavior",
+    "tearing paper to demonstrate notch sensitivity"
+  ],
+  "tom_slips_bracketed": [
+    "p37: aluminum [steel] — Tom says aluminum twice when he means steel in the second instance"
+  ],
+  "tom_self_corrections_preserved": [
+    "p13: Obama / Osama self-correction with joke",
+    "p23: cube formula order self-correction (\"the cube — I'm sorry, the cube of the height\")"
+  ],
+  "captioner_corrections_summary_count": 17,
+  "flagged_for_editor_count": 4
+}

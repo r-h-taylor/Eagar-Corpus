@@ -1,0 +1,150 @@
+{
+  "lecture_id": "01D4_i5L5gk",
+  "course": "Additive Manufacturing",
+  "term": "Fall 2019",
+  "session": "1/N",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Course origins and the modular format",
+      "section_timestamp_start": "00:03",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:03", "00:29"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:29", "01:34"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:34", "02:16"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["02:16", "03:08"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Teaching philosophy: no derivations, no quizzes",
+      "section_timestamp_start": "03:08",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p5"], "timestamp_range": ["03:08", "03:40"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p5"], "timestamp_range": ["03:40", "04:27"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p6"], "timestamp_range": ["04:27", "05:18"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The lecture staff and attendance policy",
+      "section_timestamp_start": "05:18",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p7"], "timestamp_range": ["05:18", "06:15"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p8"], "timestamp_range": ["06:15", "06:41"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p9"], "timestamp_range": ["06:41", "07:41"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p10"], "timestamp_range": ["07:41", "08:33"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p11", "p12"], "timestamp_range": ["08:33", "10:00"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p13"], "timestamp_range": ["10:00", "10:36"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "The available modules",
+      "section_timestamp_start": "11:19",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p14"], "timestamp_range": ["10:36", "11:19"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p15"], "timestamp_range": ["11:19", "13:03"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p16"], "timestamp_range": ["13:03", "13:50"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p17"], "timestamp_range": ["13:50", "14:44"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p18"], "timestamp_range": ["14:44", "15:22"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "The one-page outline exercise",
+      "section_timestamp_start": "15:22",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p19"], "timestamp_range": ["15:22", "15:40"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p19"], "timestamp_range": ["15:40", "17:03"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p20"], "timestamp_range": ["17:03", "17:46"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p21"], "timestamp_range": ["17:46", "19:09"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The paper assignment",
+      "section_timestamp_start": "19:09",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p22"], "timestamp_range": ["19:09", "19:55"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p23"], "timestamp_range": ["19:55", "20:57"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p24"], "timestamp_range": ["20:57", "22:15"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p25"], "timestamp_range": ["22:15", "22:51"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p26"], "timestamp_range": ["22:51", "23:49"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Course requirements summarized",
+      "section_timestamp_start": "23:49",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p27"], "timestamp_range": ["23:49", "24:38"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p28"], "timestamp_range": ["24:38", "25:01"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p29"], "timestamp_range": ["25:01", "26:17"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p30"], "timestamp_range": ["26:17", "26:37"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p31"], "timestamp_range": ["26:37", "26:53"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Teaching philosophy continued: prepping for tests",
+      "section_timestamp_start": "26:53",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p32"], "timestamp_range": ["26:53", "28:13"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p33"], "timestamp_range": ["28:13", "29:07"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p34"], "timestamp_range": ["29:07", "30:09"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "The MIT–Caltech origin story",
+      "section_timestamp_start": "30:09",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p35"], "timestamp_range": ["30:09", "30:56"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p36"], "timestamp_range": ["30:56", "32:23"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p37"], "timestamp_range": ["32:23", "33:34"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p38"], "timestamp_range": ["33:34", "34:39"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "Good teaching simplifies",
+      "section_timestamp_start": "34:39",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p39"], "timestamp_range": ["34:39", "35:18"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p40"], "timestamp_range": ["35:18", "36:23"]}
+      ]
+    },
+    {
+      "section_id": "s11",
+      "section_title": "The three modules: additive manufacturing, startups, NDT",
+      "section_timestamp_start": "36:23",
+      "anchors": [
+        {"l3_id": "§11.p1", "l2_ids": ["p41"], "timestamp_range": ["36:23", "36:40"]},
+        {"l3_id": "§11.p2", "l2_ids": ["p41"], "timestamp_range": ["36:40", "37:11"]},
+        {"l3_id": "§11.p3", "l2_ids": ["p42"], "timestamp_range": ["37:11", "37:50"]},
+        {"l3_id": "§11.p4", "l2_ids": ["p43"], "timestamp_range": ["37:50", "38:25"]},
+        {"l3_id": "§11.p5", "l2_ids": ["p44"], "timestamp_range": ["38:25", "39:24"]},
+        {"l3_id": "§11.p6", "l2_ids": ["p45"], "timestamp_range": ["39:24", "40:22"]},
+        {"l3_id": "§11.p7", "l2_ids": ["p46"], "timestamp_range": ["40:22", "40:24"]},
+        {"l3_id": "§11.p8", "l2_ids": ["p46"], "timestamp_range": ["40:24", "41:03"]},
+        {"l3_id": "§11.p9", "l2_ids": ["p46"], "timestamp_range": ["41:03", "41:23"]},
+        {"l3_id": "§11.p10", "l2_ids": ["p47"], "timestamp_range": ["41:23", "42:40"]},
+        {"l3_id": "§11.p11", "l2_ids": ["p48"], "timestamp_range": ["42:40", "43:10"]}
+      ]
+    },
+    {
+      "section_id": "s12",
+      "section_title": "The World Trade Center article and closing",
+      "section_timestamp_start": "43:10",
+      "anchors": [
+        {"l3_id": "§12.p1", "l2_ids": ["p49"], "timestamp_range": ["43:10", "44:26"]},
+        {"l3_id": "§12.p2", "l2_ids": ["p50"], "timestamp_range": ["44:26", "45:30"]},
+        {"l3_id": "§12.p3", "l2_ids": ["p51"], "timestamp_range": ["45:30", "46:59"]},
+        {"l3_id": "§12.p4", "l2_ids": ["p52"], "timestamp_range": ["46:59", "47:54"]},
+        {"l3_id": "§12.p5", "l2_ids": ["p53"], "timestamp_range": ["47:54", "48:47"]},
+        {"l3_id": "§12.p6", "l2_ids": ["p54"], "timestamp_range": ["48:47", "49:30"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "lecture_id": "wwQawDUosU0",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Fall 2014",
+  "session": "5/13",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Opening: Lester Thurow and the way things are said",
+      "section_timestamp_start": "00:13",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1", "p2"], "timestamp_range": ["00:13", "02:11"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p3", "p4"], "timestamp_range": ["02:11", "03:45"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p5"], "timestamp_range": ["03:45", "04:24"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p6"], "timestamp_range": ["04:24", "05:22"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Energy content, productivity, and the six elements",
+      "section_timestamp_start": "05:32",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p7", "p8"], "timestamp_range": ["05:32", "06:45"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p9"], "timestamp_range": ["06:45", "07:40"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p10"], "timestamp_range": ["07:40", "09:23"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p11"], "timestamp_range": ["09:23", "10:14"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Value of weight saved: cars, aircraft, spacecraft",
+      "section_timestamp_start": "10:14",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p12"], "timestamp_range": ["10:14", "11:50"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p13"], "timestamp_range": ["11:50", "13:06"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p14"], "timestamp_range": ["13:06", "14:18"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p15"], "timestamp_range": ["14:18", "15:12"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p16"], "timestamp_range": ["15:12", "16:00"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p17"], "timestamp_range": ["16:00", "17:18"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p18"], "timestamp_range": ["17:18", "18:33"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Sprague's law, Williams's law, and the cost fraction",
+      "section_timestamp_start": "18:33",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p19"], "timestamp_range": ["18:33", "19:46"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p20"], "timestamp_range": ["19:46", "20:29"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p21"], "timestamp_range": ["20:29", "22:12"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p22"], "timestamp_range": ["22:12", "24:07"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p23"], "timestamp_range": ["24:07", "25:00"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Density, sprung weight, and the blisk",
+      "section_timestamp_start": "25:00",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p24"], "timestamp_range": ["25:00", "26:07"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p25"], "timestamp_range": ["26:07", "27:42"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p26"], "timestamp_range": ["27:42", "29:15"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p27"], "timestamp_range": ["29:15", "30:27"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p28"], "timestamp_range": ["30:27", "32:48"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p29"], "timestamp_range": ["32:48", "33:36"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Ships, aluminum, and the Visby",
+      "section_timestamp_start": "33:36",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p30"], "timestamp_range": ["33:36", "34:45"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p31"], "timestamp_range": ["34:45", "36:27"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p32"], "timestamp_range": ["36:27", "37:42"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p33"], "timestamp_range": ["37:42", "38:05"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p34"], "timestamp_range": ["38:05", "39:05"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p35"], "timestamp_range": ["39:05", "40:39"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p36"], "timestamp_range": ["40:39", "41:44"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p37"], "timestamp_range": ["41:44", "43:27"]},
+        {"l3_id": "§6.p9", "l2_ids": ["p38"], "timestamp_range": ["43:27", "43:50"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Density demonstration and beryllium copper",
+      "section_timestamp_start": "43:50",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p39"], "timestamp_range": ["43:50", "44:52"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p40"], "timestamp_range": ["44:52", "46:35"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p41"], "timestamp_range": ["46:35", "48:15"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p42"], "timestamp_range": ["48:15", "49:27"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p43"], "timestamp_range": ["49:27", "51:11"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Competition among materials: water-conveyance pipe",
+      "section_timestamp_start": "51:11",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p44"], "timestamp_range": ["51:11", "52:00"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p44"], "timestamp_range": ["52:00", "52:59"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p45"], "timestamp_range": ["52:59", "54:08"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p46"], "timestamp_range": ["54:08", "54:58"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p47"], "timestamp_range": ["54:58", "55:59"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p48"], "timestamp_range": ["55:59", "56:50"]}
+      ]
+    }
+  ]
+}

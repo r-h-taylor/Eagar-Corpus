@@ -1,0 +1,72 @@
+{
+  "lecture_id": "htX4D4DYtxQ",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2014",
+  "session": "10/35",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Nickel, HY-steels, and the case against HY-130",
+      "section_timestamp_start": "00:03",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:03", "00:28"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:28", "01:19"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:19", "02:12"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["02:12", "03:19"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["03:19", "04:29"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Why this course spends so much time on steel",
+      "section_timestamp_start": "04:29",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p6"], "timestamp_range": ["04:29", "04:50"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p6"], "timestamp_range": ["04:50", "05:42"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p7"], "timestamp_range": ["05:42", "06:30"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p8"], "timestamp_range": ["06:57", "08:26"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p9"], "timestamp_range": ["08:26", "09:19"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The value of a pound saved",
+      "section_timestamp_start": "09:19",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p10"], "timestamp_range": ["09:19", "09:55"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p10"], "timestamp_range": ["09:55", "10:17"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p11"], "timestamp_range": ["10:17", "12:00"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p12"], "timestamp_range": ["12:00", "13:11"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p13"], "timestamp_range": ["13:11", "14:35"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p14"], "timestamp_range": ["14:35", "15:29"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p15"], "timestamp_range": ["15:29", "17:05"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p16"], "timestamp_range": ["17:05", "17:05"]},
+        {"l3_id": "§3.p9", "l2_ids": ["p17"], "timestamp_range": ["17:05", "17:41"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Aluminum superstructures and the Belknap fire",
+      "section_timestamp_start": "17:41",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p18"], "timestamp_range": ["17:41", "18:35"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p19"], "timestamp_range": ["18:35", "19:35"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p20"], "timestamp_range": ["19:35", "20:40"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p21"], "timestamp_range": ["20:40", "21:30"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p21"], "timestamp_range": ["21:30", "22:06"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "The Diet Sprite demonstration — hydrogen out of steel",
+      "section_timestamp_start": "22:06",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p22"], "timestamp_range": ["22:06", "22:30"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p22"], "timestamp_range": ["22:30", "23:13"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p23"], "timestamp_range": ["23:13", "24:25"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p24"], "timestamp_range": ["24:25", "25:00"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p25"], "timestamp_range": ["25:00", "25:56"]}
+      ]
+    }
+  ]
+}

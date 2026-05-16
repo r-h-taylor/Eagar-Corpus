@@ -1,0 +1,112 @@
+{
+  "lecture_id": "qxu-UXRIfhU",
+  "course": "3.371 Solid State Welding",
+  "term": "Spring 2013",
+  "session": "10/12",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Thermal expansion mismatch in dissimilar metal bonding",
+      "section_timestamp_start": "00:06",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:06", "00:56"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:56", "02:18"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:18", "02:59"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["02:59", "04:03"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Power electronics packaging and cold bonding",
+      "section_timestamp_start": "04:03",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p5"], "timestamp_range": ["04:03", "04:59"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p6"], "timestamp_range": ["04:59", "05:53"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p7"], "timestamp_range": ["05:53", "06:55"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p8"], "timestamp_range": ["06:55", "08:12"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p9"], "timestamp_range": ["08:12", "09:21"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Wetting, surface energy, and the soldering principle",
+      "section_timestamp_start": "09:21",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p10"], "timestamp_range": ["09:21", "10:11"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p11"], "timestamp_range": ["10:11", "11:47"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p12"], "timestamp_range": ["11:47", "13:28"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Requirements of a flux: three failure modes",
+      "section_timestamp_start": "13:28",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p13"], "timestamp_range": ["13:28", "14:51"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p14"], "timestamp_range": ["14:51", "16:50"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p15"], "timestamp_range": ["16:50", "18:11"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p16"], "timestamp_range": ["18:11", "20:23"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Rosin fluxes, water-white, and rosin-baked potatoes",
+      "section_timestamp_start": "20:23",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p17"], "timestamp_range": ["20:23", "21:49"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p18"], "timestamp_range": ["21:49", "22:46"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p19"], "timestamp_range": ["22:46", "24:28"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Solderability of different metals",
+      "section_timestamp_start": "24:28",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p20"], "timestamp_range": ["24:28", "25:30"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p21"], "timestamp_range": ["25:30", "27:09"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p22"], "timestamp_range": ["27:09", "28:12"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Reaction fluxes for aluminum, and chloride corrosion",
+      "section_timestamp_start": "28:12",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p23"], "timestamp_range": ["28:12", "28:59"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p24"], "timestamp_range": ["28:59", "30:13"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p25"], "timestamp_range": ["30:13", "31:47"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p26"], "timestamp_range": ["31:47", "33:38"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p27"], "timestamp_range": ["33:38", "34:56"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p28"], "timestamp_range": ["34:56", "36:31"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p29"], "timestamp_range": ["36:31", "37:28"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Lead-free solders and the bismuth recycling problem",
+      "section_timestamp_start": "37:28",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p30"], "timestamp_range": ["37:28", "38:13"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p31"], "timestamp_range": ["38:13", "39:50"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p32"], "timestamp_range": ["39:50", "41:30"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p33"], "timestamp_range": ["41:30", "42:21"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p34"], "timestamp_range": ["42:21", "43:19"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p35"], "timestamp_range": ["43:19", "45:01"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Repair cost by stage, and the Motorola pager story",
+      "section_timestamp_start": "45:01",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p36"], "timestamp_range": ["45:01", "45:55"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p37"], "timestamp_range": ["45:55", "47:07"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p38"], "timestamp_range": ["47:07", "48:17"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p39"], "timestamp_range": ["48:17", "49:27"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p40"], "timestamp_range": ["49:27", "50:49"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p41"], "timestamp_range": ["50:49", "52:00"]}
+      ]
+    }
+  ]
+}

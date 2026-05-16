@@ -1,0 +1,121 @@
+{
+  "lecture_id": "gI6EncbzMYI",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "session": "3/29",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Saugus Ironworks and the English energy crisis",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {
+          "l3_id": "§1.p1",
+          "l2_ids": ["p1"],
+          "timestamp_range": ["00:02", "00:48"]
+        },
+        {
+          "l3_id": "§1.p2",
+          "l2_ids": ["p2"],
+          "timestamp_range": ["00:48", "02:05"]
+        }
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Hardenable alloys: aluminum, the Wright brothers, and beryllium copper",
+      "section_timestamp_start": "02:05",
+      "anchors": [
+        {
+          "l3_id": "§2.p1",
+          "l2_ids": ["p3"],
+          "timestamp_range": ["02:05", "03:11"]
+        },
+        {
+          "l3_id": "§2.p2",
+          "l2_ids": ["p4"],
+          "timestamp_range": ["03:11", "04:15"]
+        },
+        {
+          "l3_id": "§2.p3",
+          "l2_ids": ["p5"],
+          "timestamp_range": ["04:15", "04:45"]
+        },
+        {
+          "l3_id": "§2.p4",
+          "l2_ids": ["p5"],
+          "timestamp_range": ["04:45", "04:48"]
+        },
+        {
+          "l3_id": "§2.p5",
+          "l2_ids": ["p5"],
+          "timestamp_range": ["04:48", "05:33"]
+        },
+        {
+          "l3_id": "§2.p6",
+          "l2_ids": ["p6"],
+          "timestamp_range": ["05:33", "06:11"]
+        }
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Hardness vs. hardenability",
+      "section_timestamp_start": "06:11",
+      "anchors": [
+        {
+          "l3_id": "§3.p1",
+          "l2_ids": ["p7"],
+          "timestamp_range": ["06:11", "07:00"]
+        },
+        {
+          "l3_id": "§3.p2",
+          "l2_ids": ["p7"],
+          "timestamp_range": ["07:00", "07:42"]
+        },
+        {
+          "l3_id": "§3.p3",
+          "l2_ids": ["p8"],
+          "timestamp_range": ["07:42", "09:09"]
+        },
+        {
+          "l3_id": "§3.p4",
+          "l2_ids": ["p9"],
+          "timestamp_range": ["09:09", "10:57"]
+        },
+        {
+          "l3_id": "§3.p5",
+          "l2_ids": ["p10"],
+          "timestamp_range": ["10:57", "11:05"]
+        },
+        {
+          "l3_id": "§3.p6",
+          "l2_ids": ["p10"],
+          "timestamp_range": ["11:05", "11:34"]
+        }
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Time-temperature transformation diagrams and the economics of alloying",
+      "section_timestamp_start": "11:34",
+      "anchors": [
+        {
+          "l3_id": "§4.p1",
+          "l2_ids": ["p11"],
+          "timestamp_range": ["11:34", "12:50"]
+        },
+        {
+          "l3_id": "§4.p2",
+          "l2_ids": ["p12"],
+          "timestamp_range": ["12:50", "14:23"]
+        },
+        {
+          "l3_id": "§4.p3",
+          "l2_ids": ["p13"],
+          "timestamp_range": ["14:23", "15:30"]
+        }
+      ]
+    }
+  ]
+}

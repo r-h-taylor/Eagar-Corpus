@@ -1,0 +1,105 @@
+{
+  "lecture_id": "Xp4riNsidS8",
+  "course": "3.371 Deformation Processing",
+  "term": "Spring 2012",
+  "session": "8/12",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Sheet metal properties: n, R, and m",
+      "section_timestamp_start": "00:04",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:04", "01:14"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:14", "02:36"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:36", "04:23"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "BCC, FCC, and the crossfield amplifier braze",
+      "section_timestamp_start": "04:23",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p4"], "timestamp_range": ["04:23", "05:10"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p5"], "timestamp_range": ["05:10", "06:49"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p6"], "timestamp_range": ["06:49", "08:25"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p7"], "timestamp_range": ["08:25", "10:01"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p8"], "timestamp_range": ["10:01", "11:03"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Slip systems and the math of arbitrary shape change",
+      "section_timestamp_start": "11:03",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p9"], "timestamp_range": ["11:03", "12:22"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p10"], "timestamp_range": ["12:22", "13:52"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p11"], "timestamp_range": ["13:52", "15:23"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p12"], "timestamp_range": ["15:23", "16:39"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p13"], "timestamp_range": ["16:39", "18:13"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Cube-on-edge, cube-on-corner, and real R values",
+      "section_timestamp_start": "18:13",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p14"], "timestamp_range": ["18:13", "19:50"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p15"], "timestamp_range": ["19:50", "21:05"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p16"], "timestamp_range": ["21:05", "22:46"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Twinning in hexagonal close-packed metals",
+      "section_timestamp_start": "22:46",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p17"], "timestamp_range": ["22:46", "24:00"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p18"], "timestamp_range": ["24:00", "24:56"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p19"], "timestamp_range": ["24:56", "25:56"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p20"], "timestamp_range": ["25:56", "27:50"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p21"], "timestamp_range": ["27:50", "28:50"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p22"], "timestamp_range": ["28:50", "29:51"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Pressure vessel failures and Charpy testing",
+      "section_timestamp_start": "29:51",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p23"], "timestamp_range": ["29:51", "31:29"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p24"], "timestamp_range": ["31:29", "32:18"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p25"], "timestamp_range": ["32:18", "33:39"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p26"], "timestamp_range": ["33:39", "35:23"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p27"], "timestamp_range": ["35:23", "36:30"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p28"], "timestamp_range": ["36:30", "37:31"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Wire drawing, wavy slip, and the elevator case",
+      "section_timestamp_start": "37:31",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p29"], "timestamp_range": ["37:31", "39:46"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p30"], "timestamp_range": ["39:46", "40:51"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p31"], "timestamp_range": ["40:51", "40:55"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p31"], "timestamp_range": ["40:55", "41:52"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p32"], "timestamp_range": ["41:52", "44:05"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p33"], "timestamp_range": ["44:05", "45:46"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Cup drawing, earring, and failure modes",
+      "section_timestamp_start": "45:46",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p34"], "timestamp_range": ["45:46", "47:01"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p35"], "timestamp_range": ["47:01", "48:48"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p36"], "timestamp_range": ["48:48", "49:45"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p37"], "timestamp_range": ["49:45", "51:00"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p37"], "timestamp_range": ["51:00", "51:44"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p38"], "timestamp_range": ["51:44", "52:12"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p39"], "timestamp_range": ["52:12", "53:00"]}
+      ]
+    }
+  ]
+}

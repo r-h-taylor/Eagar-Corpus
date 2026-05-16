@@ -1,0 +1,57 @@
+{
+  "video_id": "xlmhd4jh3kg",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [1/29]",
+  "lecture_number": 1,
+  "lecture_total": 29,
+  "lecture_type": "introductory / administrative + philosophy of pedagogy",
+  "instructor": "Thomas W. Eagar",
+  "co_instructors_mentioned": ["Dr. Belmar", "Mike Bonforth", "Simone"],
+  "raw_transcript_sha256": "5e30dbf801f50da423f35fbe2f76a41f8aedd51195e3129a8a82210d6772ca31",
+  "raw_transcript_line_count": 634,
+  "raw_transcript_word_count": 4898,
+  "duration_approx_minutes": 27,
+  "layer2_paragraph_count": 40,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-11T21:17:36.621933+00:00",
+  "topics_covered": [
+    "course administration and sign-up",
+    "module structure (12-unit modules, 36 lectures required)",
+    "overview of Eagar's course catalog (Fusion Welding, Solid State Welding, Material Selection, Codes and Standards, Deformation Processing, Structural Life Assessment, Casting / Intro to Materials Processing)",
+    "iridium-clad plutonium RTGs in deep-space spacecraft (Voyager)",
+    "Northridge earthquake (1994) and codes-and-standards reform",
+    "Eagar's pedagogical philosophy: no quizzes, no final exams, presentation or term paper or homework set",
+    "critique of quiz-driven education (high school math book anecdote)",
+    "the fluorescent light lecture (two-temperature plasma; electron vs. ion temperature; LED efficiency)",
+    "the Scotch tape lecture (viscous flow; Scotch tape vs. duct tape)",
+    "air conditioner as heat engine (Eagar's recurring example of MIT science education failing to teach context)"
+  ],
+  "recurring_eagar_themes": [
+    "MIT students are quiz-takers; this course breaks that mold",
+    "physics-you-already-know reassembled for engineering context",
+    "Moses-from-the-mountain anti-pedagogy (contrasted with Eagar's analogy-driven approach)",
+    "videotaping lectures since ~1999, predating MITx/edX",
+    "nanomaterials skepticism for structural applications"
+  ],
+  "people_mentioned": [
+    "Koichi Masubuchi (predecessor in MIT welding metallurgy)",
+    "Dr. Belmar (co-instructor, structural life assessment, material properties)",
+    "Mike Bonforth (CWE/CWI, welding metallurgy co-instructor)",
+    "Simone (uses of structural materials, QC and joint capacity)",
+    "Christine, Jonathan, Jordan (students in the room, addressed by name)"
+  ],
+  "cases_or_examples": [
+    "Voyager spacecraft (iridium-clad plutonium RTG)",
+    "Northridge earthquake building code reform",
+    "Chile/Iran earthquake building collapses (counter-example)",
+    "high school math textbook (two-pages-per-topic critique)",
+    "fluorescent light vs. welding arc vs. LED (two-temperature plasma)",
+    "Scotch tape vs. duct tape (viscous flow adhesives)",
+    "air conditioner as heat engine"
+  ],
+  "section_count_estimate_for_layer3": 5,
+  "notes": "This is the opening lecture of the Spring 2014 Welding Metallurgy module. About half is administrative (course structure, modules, assignments, no-quizzes philosophy) and half is Eagar's pedagogical manifesto with two preview examples (fluorescent lights, Scotch tape). No deep technical content yet. Two-page-math-book anecdote and air-conditioner-as-heat-engine are characteristic Eagar set-pieces that recur across the corpus."
+}

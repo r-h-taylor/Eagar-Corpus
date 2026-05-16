@@ -1,0 +1,63 @@
+{
+  "video_id": "_JAsjrPvjxs",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Summer 2015",
+  "video_title": "3.371 Welding Metallurgy - Summer 2015 [3/18]",
+  "lecture_number_in_series": 3,
+  "lecture_total_in_series": 18,
+  "raw_transcript_sha256": "22aced9e5b0b50871cfeb527070f440a22c643a915730031c4cc885d452e160f",
+  "raw_transcript_line_count": 1024,
+  "raw_transcript_word_count": 8363,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T15:25:49.076109+00:00",
+  "layer2_paragraph_count": 41,
+  "layer2_start_timestamp": "00:09",
+  "layer2_end_timestamp": "48:07",
+  "student_turns_count": 6,
+  "stage_directions_count": 3,
+  "tom_slips_bracketed": [
+    {
+      "paragraph": "p26",
+      "as_spoken": "Henry Gus Bernhardt",
+      "corrected": "Henry Bessemer",
+      "context": "1856 invention of the Bessemer steel process"
+    }
+  ],
+  "topics_covered": [
+    "Liberty ship fractures (WWII)",
+    "history of welding (Davy, arc welding, Leyden jars)",
+    "stick electrode invention (mineral coated, cellulosic)",
+    "Comfort Avery Adams and the founding of AWS",
+    "early welded pipelines and ships",
+    "submarine fabrication tolerances",
+    "shipyard fit-up practices and residual stress",
+    "Boeing fit-up specifications",
+    "John Chipman and iron-carbon phase diagram",
+    "Bessemer converter and basic open hearth",
+    "Andrew Carnegie",
+    "basic oxygen furnace",
+    "AOD (argon-oxygen decarburization) and stainless steel",
+    "hardness vs hardenability",
+    "history of steel hardening (Nubian slave quenching myth)"
+  ],
+  "people_named": [
+    "Sir Humphry Davy",
+    "George Westinghouse",
+    "Comfort Avery Adams",
+    "Henry Bessemer",
+    "John Chipman",
+    "Andrew Carnegie",
+    "Bill Gates",
+    "George Krauss",
+    "Morris Cohen",
+    "William Pellini",
+    "Richard Weck (uncertain)",
+    "Alan Brown (uncertain)",
+    "Tom Schultz (student, uncertain)",
+    "Christy (AOD researcher)"
+  ],
+  "captioner_garbling_severity": "high",
+  "notes": "Heavy student-voice content (paragraphs p11, p13, p14, p16, p18) is preserved as captioned with light punctuation only. Multiple proper-noun reconstructions are flagged as uncertain in the transformation log and should be reviewed by the editor."
+}

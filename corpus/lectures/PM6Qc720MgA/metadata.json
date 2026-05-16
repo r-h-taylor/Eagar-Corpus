@@ -1,0 +1,54 @@
+{
+  "video_id": "PM6Qc720MgA",
+  "course": "3.371 Codes and Standards for Safety",
+  "course_short": "3.371",
+  "term": "Fall 2012",
+  "lecture_number": 14,
+  "lecture_total": 14,
+  "video_title": "3.371 Codes and Standards - Fall 2012 [14/14]",
+  "speaker": "Guest lecturer (self-identified as 'belmar', MIT, structural/mechanical engineer)",
+  "speaker_is_eagar": false,
+  "eagar_referenced": true,
+  "eagar_reference_form": "Professor Eagar",
+  "raw_transcript_sha256": "2c1e0b66c4c16be1c8fffe059f97edbd85f9f2b6d5cf7ca0f4eb822ff5cea9b7",
+  "raw_transcript_line_count": 1287,
+  "raw_transcript_word_count": 8508,
+  "duration_approx_minutes": 48,
+  "layer2_paragraph_count": 53,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T02:45:08.826135+00:00",
+  "topics": [
+    "factor of safety across industries",
+    "aircraft wing leading-edge structure (titanium rib, aluminum skin)",
+    "casting factor of safety and substitution for wrought plate",
+    "full-scale fatigue testing of wing assemblies",
+    "landing gear torsional failure case",
+    "roof joist design, demand vs capacity",
+    "weld quality and fusion in joist connections",
+    "weld convexity and contact angle",
+    "service life and degradation of safety factor over time"
+  ],
+  "cases_referenced": [
+    "Boston molasses disaster (1919)",
+    "Canadian regional-jet aircraft program (unnamed; titanium wing rib substitution from machined wrought to cast)",
+    "Landing gear redesign on same aircraft (torsion failure under 2x service load)",
+    "Tomato greenhouse warehouse roof joist failure",
+    "Nine roof-joist collapse investigations (weld fusion failures)",
+    "Propeller shaft designed for 400-hour life (referenced from Eagar's prior lectures)"
+  ],
+  "figures_referenced": [
+    "Casting factor of safety ~1.25 (Boeing practice)",
+    "Pressure vessel safety factor of 4 (ASME)",
+    "Three and a half inch titanium plate machined to 1/8 inch rib web",
+    "200°C aluminum softening threshold",
+    "Wing bending test: ±3 ft displacement",
+    "400-hour design life for propeller shaft example"
+  ],
+  "editorial_flags": [
+    "Lecture delivered by guest, not Eagar — pipeline conventions applied but speaker voice differs",
+    "Non-native English speaker; some 'slips' may be vocabulary substitutions rather than memory slips",
+    "p20 'foreign assembly' vs 'full assembly' ambiguity preserved",
+    "Speaker email 'belmar@materials' suggests identity recoverable from MIT directory circa 2012"
+  ]
+}

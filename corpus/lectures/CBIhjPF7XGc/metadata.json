@@ -1,0 +1,60 @@
+{
+  "video_id": "CBIhjPF7XGc",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [2/29]",
+  "lecture_number_in_series": 2,
+  "series_total": 29,
+  "raw_transcript_sha256": "e45106e8908e04f6e62711a569c90ff0976158f2c2e40a0c003b0f4c99e1a7d6",
+  "raw_transcript_line_count": 819,
+  "raw_transcript_word_count": 6411,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T13:17:02.304886+00:00",
+  "layer2_paragraph_count": 35,
+  "duration_covered_mmss_start": "00:02",
+  "duration_covered_mmss_end": "36:50",
+  "lecture_ends_at_recording_cutoff": true,
+  "topics": [
+    "course administration",
+    "hydrogen in steel (Sprite Zero demonstration)",
+    "why steel dominates structural materials by tonnage",
+    "aluminum vs steel in automobiles (F-150, Audi, Duesenberg, Pierce Arrow)",
+    "iron-carbon phase diagram",
+    "John Chipman and the science of steelmaking",
+    "carbon / low-alloy / high-alloy steel categories",
+    "steel prices by alloy class",
+    "joint efficiency and phase transformation",
+    "hardenability and martensite",
+    "precipitation hardening (aluminum, Wright brothers engine)",
+    "cast iron, wrought iron, steel — historical metallurgy",
+    "Bessemer process and the productivity revolution",
+    "Saugus Iron Works and the blast furnace",
+    "sulfur, manganese, phosphorus, and slag chemistry",
+    "acid vs basic refractories",
+    "pig iron etymology"
+  ],
+  "recurring_people_referenced": [
+    "John Chipman (MIT physical chemist, steelmaking)",
+    "Sir Henry Bessemer",
+    "Andrew Carnegie",
+    "JP Morgan",
+    "Wright brothers",
+    "Michael Bibber [tape says 'Bonforth' — likely captioner or speaker slip]"
+  ],
+  "recurring_cases_referenced": [
+    "Saugus Iron Works (17th-c. Massachusetts blast furnace, recurring teaching case)",
+    "Ford F-150 aluminum body (forthcoming 2015 model year)",
+    "Czechoslovakian high-phosphorus iron ores",
+    "Bessemer converter (1856)"
+  ],
+  "demonstrations": [
+    "Sprite Zero in a beaker as visual analog for hydrogen evolution from solidifying steel"
+  ],
+  "open_questions_for_editor": [
+    "Confirm 'Bonforth' vs 'Bibber' for the co-instructor on stainless steels.",
+    "Confirm '50 parts per million' correction at p28 (0.005% = 50 ppm; raw transcript reads '500').",
+    "Confirm Ford F-150 profit-per-vehicle figure ($10,000) vs raw transcript ('$110,000').",
+    "1530°C austenite ceiling: confirm Tom's intended figure vs captioner '153' reading."
+  ]
+}

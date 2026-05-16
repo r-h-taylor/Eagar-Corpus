@@ -1,0 +1,48 @@
+{
+  "video_id": "3MdL3fmW5NQ",
+  "course": "Additive Manufacturing",
+  "term": "Fall 2019",
+  "video_title": "2019 09 19",
+  "lecture_date": "2019-09-19",
+  "raw_transcript_sha256": "65cc0570c42c52813f4cbcc01b73691ad4036d04223a2a5b08a1741674b67fb5",
+  "raw_transcript_line_count": 620,
+  "raw_transcript_word_count": 4934,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T10:31:30.105603+00:00",
+  "layer2_paragraph_count": 32,
+  "student_turns": 2,
+  "stage_directions": 2,
+  "bracketed_slips": 2,
+  "duration_covered_mmss": "00:02-28:00",
+  "topics": [
+    "FAA certification and PMA process",
+    "NTSB and Chemical Safety Board investigations",
+    "Digital Alloys / Joule printing economics",
+    "buy-to-fly ratio and titanium machining",
+    "powder bed fusion and directed energy deposition",
+    "turbine engine shroud and blade repair (LASER welding)",
+    "binder jetting and sintering shrinkage",
+    "surface roughness across AM processes",
+    "AM startup strategy: materials and industries",
+    "aerospace value-per-pound economics",
+    "Mars mission cost critique"
+  ],
+  "cases_mentioned": [
+    "Digital Alloys (Joule printing startup)",
+    "Boeing 737 Max certification",
+    "GE aerospace fuel nozzle",
+    "Air Force engine repair facility (Oklahoma City)",
+    "Desktop Metals",
+    "SpaceX / Elon Musk Mars mission",
+    "NASA Langley space manufacturing",
+    "Space Shuttle payload cost"
+  ],
+  "recurring_figures": [
+    "$2/lb saved (automobile) vs $200/lb (aerospace) vs $20,000/lb (spacecraft)",
+    "$10,000/lb to $1,000/lb (Space Shuttle target, 1970 dollars)",
+    "5 kg titanium part: 40 days machining vs 17 days Joule printing",
+    "30,000 hour turbine blade service life",
+    "7 lb/hr GTAW weld deposition rate"
+  ]
+}

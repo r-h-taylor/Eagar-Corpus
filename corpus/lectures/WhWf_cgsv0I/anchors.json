@@ -1,0 +1,592 @@
+{
+  "lecture_id": "WhWf_cgsv0I",
+  "original_lecture_id": "WhWf_cgsv0I",
+  "chunk": "2/4",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Basic Open Hearth and the basic oxygen process",
+      "section_timestamp_start": "79:26",
+      "anchors": [
+        {
+          "l3_id": "\u00a71.p1",
+          "l2_ids": [
+            "p1"
+          ],
+          "timestamp_range": [
+            "79:26",
+            "80:37"
+          ]
+        },
+        {
+          "l3_id": "\u00a71.p2",
+          "l2_ids": [
+            "p2"
+          ],
+          "timestamp_range": [
+            "80:37",
+            "81:54"
+          ]
+        },
+        {
+          "l3_id": "\u00a71.p3",
+          "l2_ids": [
+            "p3"
+          ],
+          "timestamp_range": [
+            "81:54",
+            "83:30"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The electric arc furnace and the scrap economy",
+      "section_timestamp_start": "83:30",
+      "anchors": [
+        {
+          "l3_id": "\u00a72.p1",
+          "l2_ids": [
+            "p1"
+          ],
+          "timestamp_range": [
+            "83:30",
+            "84:24"
+          ]
+        },
+        {
+          "l3_id": "\u00a72.p2",
+          "l2_ids": [
+            "p2"
+          ],
+          "timestamp_range": [
+            "84:24",
+            "85:53"
+          ]
+        },
+        {
+          "l3_id": "\u00a72.p3",
+          "l2_ids": [
+            "p3"
+          ],
+          "timestamp_range": [
+            "85:53",
+            "87:06"
+          ]
+        },
+        {
+          "l3_id": "\u00a72.p4",
+          "l2_ids": [
+            "p4"
+          ],
+          "timestamp_range": [
+            "87:06",
+            "87:45"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Why electric furnaces tolerate more scrap, and the residuals problem",
+      "section_timestamp_start": "87:45",
+      "anchors": [
+        {
+          "l3_id": "\u00a73.p1",
+          "l2_ids": [
+            "p1"
+          ],
+          "timestamp_range": [
+            "87:45",
+            "88:42"
+          ]
+        },
+        {
+          "l3_id": "\u00a73.p2",
+          "l2_ids": [
+            "p2"
+          ],
+          "timestamp_range": [
+            "88:42",
+            "89:55"
+          ]
+        },
+        {
+          "l3_id": "\u00a73.p3",
+          "l2_ids": [
+            "p3"
+          ],
+          "timestamp_range": [
+            "89:55",
+            "90:49"
+          ]
+        },
+        {
+          "l3_id": "\u00a73.p4",
+          "l2_ids": [
+            "p4"
+          ],
+          "timestamp_range": [
+            "90:49",
+            "91:21"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Mexican aluminum scrap and roadside lead",
+      "section_timestamp_start": "91:21",
+      "anchors": [
+        {
+          "l3_id": "\u00a74.p1",
+          "l2_ids": [
+            "p1"
+          ],
+          "timestamp_range": [
+            "91:21",
+            "92:22"
+          ]
+        },
+        {
+          "l3_id": "\u00a74.p2",
+          "l2_ids": [
+            "p2"
+          ],
+          "timestamp_range": [
+            "92:22",
+            "94:15"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Historical shares and the rise of mini-mills",
+      "section_timestamp_start": "94:15",
+      "anchors": [
+        {
+          "l3_id": "\u00a75.p1",
+          "l2_ids": [
+            "p1"
+          ],
+          "timestamp_range": [
+            "94:15",
+            "95:44"
+          ]
+        },
+        {
+          "l3_id": "\u00a75.p2",
+          "l2_ids": [
+            "p2"
+          ],
+          "timestamp_range": [
+            "95:44",
+            "97:01"
+          ]
+        },
+        {
+          "l3_id": "\u00a75.p3",
+          "l2_ids": [
+            "p3"
+          ],
+          "timestamp_range": [
+            "97:01",
+            "98:08"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Kim Clark, Armco, and ingot vs. continuous casting",
+      "section_timestamp_start": "98:08",
+      "anchors": [
+        {
+          "l3_id": "\u00a76.p1",
+          "l2_ids": [
+            "p1"
+          ],
+          "timestamp_range": [
+            "98:08",
+            "99:13"
+          ]
+        },
+        {
+          "l3_id": "\u00a76.p2",
+          "l2_ids": [
+            "p2"
+          ],
+          "timestamp_range": [
+            "99:13",
+            "100:45"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "BOP process variations and the Sparrows Point pulpit",
+      "section_timestamp_start": "100:45",
+      "anchors": [
+        {
+          "l3_id": "\u00a77.p1",
+          "l2_ids": [
+            "p1"
+          ],
+          "timestamp_range": [
+            "100:45",
+            "101:48"
+          ]
+        },
+        {
+          "l3_id": "\u00a77.p2",
+          "l2_ids": [
+            "p2"
+          ],
+          "timestamp_range": [
+            "101:48",
+            "103:30"
+          ]
+        },
+        {
+          "l3_id": "\u00a77.p3",
+          "l2_ids": [
+            "p3"
+          ],
+          "timestamp_range": [
+            "103:30",
+            "105:08"
+          ]
+        },
+        {
+          "l3_id": "\u00a77.p4",
+          "l2_ids": [
+            "p4"
+          ],
+          "timestamp_range": [
+            "105:08",
+            "106:21"
+          ]
+        },
+        {
+          "l3_id": "\u00a77.p5",
+          "l2_ids": [
+            "p5"
+          ],
+          "timestamp_range": [
+            "106:21",
+            "106:40"
+          ]
+        }
+      ]
+    }
+  ],
+  "anchors": [
+    {
+      "l3_id": "\u00a71.p1",
+      "l2_ids": [
+        "p1"
+      ],
+      "timestamp_range": [
+        "26:10",
+        "26:21"
+      ]
+    },
+    {
+      "l3_id": "\u00a71.p2",
+      "l2_ids": [
+        "p1"
+      ],
+      "timestamp_range": [
+        "26:18",
+        "26:21"
+      ]
+    },
+    {
+      "l3_id": "\u00a71.p3",
+      "l2_ids": [
+        "p2"
+      ],
+      "timestamp_range": [
+        "26:21",
+        "27:45"
+      ]
+    },
+    {
+      "l3_id": "\u00a72.p1",
+      "l2_ids": [
+        "p3"
+      ],
+      "timestamp_range": [
+        "27:45",
+        "28:10"
+      ]
+    },
+    {
+      "l3_id": "\u00a72.p2",
+      "l2_ids": [
+        "p3"
+      ],
+      "timestamp_range": [
+        "28:10",
+        "28:50"
+      ]
+    },
+    {
+      "l3_id": "\u00a72.p3",
+      "l2_ids": [
+        "p4"
+      ],
+      "timestamp_range": [
+        "28:50",
+        "29:58"
+      ]
+    },
+    {
+      "l3_id": "\u00a72.p4",
+      "l2_ids": [
+        "p5"
+      ],
+      "timestamp_range": [
+        "29:58",
+        "31:10"
+      ]
+    },
+    {
+      "l3_id": "\u00a73.p1",
+      "l2_ids": [
+        "p6"
+      ],
+      "timestamp_range": [
+        "31:10",
+        "32:08"
+      ]
+    },
+    {
+      "l3_id": "\u00a73.p2",
+      "l2_ids": [
+        "p7"
+      ],
+      "timestamp_range": [
+        "32:08",
+        "33:32"
+      ]
+    },
+    {
+      "l3_id": "\u00a73.p3",
+      "l2_ids": [
+        "p8"
+      ],
+      "timestamp_range": [
+        "33:32",
+        "34:43"
+      ]
+    },
+    {
+      "l3_id": "\u00a74.p1",
+      "l2_ids": [
+        "p9"
+      ],
+      "timestamp_range": [
+        "34:43",
+        "36:16"
+      ]
+    },
+    {
+      "l3_id": "\u00a74.p2",
+      "l2_ids": [
+        "p9",
+        "p10"
+      ],
+      "timestamp_range": [
+        "36:10",
+        "36:16"
+      ]
+    },
+    {
+      "l3_id": "\u00a74.p3",
+      "l2_ids": [
+        "p10"
+      ],
+      "timestamp_range": [
+        "36:16",
+        "36:53"
+      ]
+    },
+    {
+      "l3_id": "\u00a74.p4",
+      "l2_ids": [
+        "p11"
+      ],
+      "timestamp_range": [
+        "36:53",
+        "37:40"
+      ]
+    },
+    {
+      "l3_id": "\u00a74.p5",
+      "l2_ids": [
+        "p12"
+      ],
+      "timestamp_range": [
+        "37:40",
+        "38:45"
+      ]
+    },
+    {
+      "l3_id": "\u00a75.p1",
+      "l2_ids": [
+        "p13"
+      ],
+      "timestamp_range": [
+        "38:45",
+        "39:30"
+      ]
+    },
+    {
+      "l3_id": "\u00a75.p2",
+      "l2_ids": [
+        "p13"
+      ],
+      "timestamp_range": [
+        "39:30",
+        "39:56"
+      ]
+    },
+    {
+      "l3_id": "\u00a75.p3",
+      "l2_ids": [
+        "p14"
+      ],
+      "timestamp_range": [
+        "39:56",
+        "41:10"
+      ]
+    },
+    {
+      "l3_id": "\u00a76.p1",
+      "l2_ids": [
+        "p15"
+      ],
+      "timestamp_range": [
+        "41:10",
+        "41:28"
+      ]
+    },
+    {
+      "l3_id": "\u00a76.p2",
+      "l2_ids": [
+        "p15"
+      ],
+      "timestamp_range": [
+        "41:25",
+        "41:28"
+      ]
+    },
+    {
+      "l3_id": "\u00a76.p3",
+      "l2_ids": [
+        "p16"
+      ],
+      "timestamp_range": [
+        "41:28",
+        "43:17"
+      ]
+    },
+    {
+      "l3_id": "\u00a77.p1",
+      "l2_ids": [
+        "p17"
+      ],
+      "timestamp_range": [
+        "43:17",
+        "43:58"
+      ]
+    },
+    {
+      "l3_id": "\u00a77.p2",
+      "l2_ids": [
+        "p18"
+      ],
+      "timestamp_range": [
+        "44:00",
+        "44:17"
+      ]
+    },
+    {
+      "l3_id": "\u00a77.p3",
+      "l2_ids": [
+        "p19"
+      ],
+      "timestamp_range": [
+        "44:17",
+        "45:37"
+      ]
+    },
+    {
+      "l3_id": "\u00a77.p4",
+      "l2_ids": [
+        "p20"
+      ],
+      "timestamp_range": [
+        "45:37",
+        "46:38"
+      ]
+    },
+    {
+      "l3_id": "\u00a77.p5",
+      "l2_ids": [
+        "p21"
+      ],
+      "timestamp_range": [
+        "46:38",
+        "48:23"
+      ]
+    },
+    {
+      "l3_id": "\u00a77.p6",
+      "l2_ids": [
+        "p22"
+      ],
+      "timestamp_range": [
+        "48:23",
+        "49:26"
+      ]
+    },
+    {
+      "l3_id": "\u00a77.p7",
+      "l2_ids": [
+        "p23",
+        "p24"
+      ],
+      "timestamp_range": [
+        "49:26",
+        "51:30"
+      ]
+    },
+    {
+      "l3_id": "\u00a77.p8",
+      "l2_ids": [
+        "p24"
+      ],
+      "timestamp_range": [
+        "51:30",
+        "51:58"
+      ]
+    },
+    {
+      "l3_id": "\u00a78.p1",
+      "l2_ids": [
+        "p25"
+      ],
+      "timestamp_range": [
+        "51:58",
+        "53:30"
+      ]
+    }
+  ],
+  "chunk_id": 4,
+  "chunk_of": 4
+}

@@ -1,0 +1,124 @@
+{
+  "lecture_id": "zKu_AK_57lM",
+  "course": "3.371 Fusion Welding",
+  "term": "Summer 2013",
+  "session": "5/6",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Solving heat flow problems in the real world",
+      "section_timestamp_start": "00:04",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:04", "01:02"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:02", "01:30"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:30", "02:32"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["02:32", "03:47"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["03:47", "04:58"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p6"], "timestamp_range": ["04:58", "06:06"]},
+        {"l3_id": "§1.p7", "l2_ids": ["p7"], "timestamp_range": ["06:06", "07:10"]},
+        {"l3_id": "§1.p8", "l2_ids": ["p8"], "timestamp_range": ["07:10", "08:03"]},
+        {"l3_id": "§1.p9", "l2_ids": ["p9"], "timestamp_range": ["08:03", "09:19"]},
+        {"l3_id": "§1.p10", "l2_ids": ["p10"], "timestamp_range": ["09:19", "10:35"]},
+        {"l3_id": "§1.p11", "l2_ids": ["p11"], "timestamp_range": ["10:35", "11:42"]},
+        {"l3_id": "§1.p12", "l2_ids": ["p12"], "timestamp_range": ["11:42", "12:55"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The forging press repair: a heat-flow object lesson",
+      "section_timestamp_start": "12:55",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p13"], "timestamp_range": ["12:55", "14:23"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p14"], "timestamp_range": ["14:23", "15:02"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p15"], "timestamp_range": ["15:02", "16:05"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p16"], "timestamp_range": ["16:05", "17:10"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p17"], "timestamp_range": ["17:10", "18:30"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Temper bead welding and the spot weld electrode case",
+      "section_timestamp_start": "18:30",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p18"], "timestamp_range": ["18:30", "18:45"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p18"], "timestamp_range": ["18:45", "19:55"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p19"], "timestamp_range": ["19:55", "20:49"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p20"], "timestamp_range": ["20:49", "21:50"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p21"], "timestamp_range": ["21:50", "22:38"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p22"], "timestamp_range": ["22:38", "23:48"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p23"], "timestamp_range": ["23:48", "24:38"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p24"], "timestamp_range": ["24:38", "25:36"]},
+        {"l3_id": "§3.p9", "l2_ids": ["p25"], "timestamp_range": ["25:36", "26:43"]},
+        {"l3_id": "§3.p10", "l2_ids": ["p26"], "timestamp_range": ["26:43", "27:42"]},
+        {"l3_id": "§3.p11", "l2_ids": ["p27"], "timestamp_range": ["27:42", "28:40"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "The Office of Naval Research consortium and the Laplace equation insight",
+      "section_timestamp_start": "28:40",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p28"], "timestamp_range": ["28:40", "29:48"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p29"], "timestamp_range": ["29:48", "30:45"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p30"], "timestamp_range": ["30:45", "32:18"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p31"], "timestamp_range": ["32:18", "32:51"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p32"], "timestamp_range": ["32:51", "33:53"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p33"], "timestamp_range": ["33:53", "34:52"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p34"], "timestamp_range": ["34:52", "35:47"]},
+        {"l3_id": "§4.p8", "l2_ids": ["p35"], "timestamp_range": ["35:47", "37:00"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Why professors do derivations (an aside)",
+      "section_timestamp_start": "37:00",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p36"], "timestamp_range": ["37:00", "37:26"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p37"], "timestamp_range": ["37:26", "38:09"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p38"], "timestamp_range": ["38:09", "39:35"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Electron beam welding: high-energy particles in vacuum",
+      "section_timestamp_start": "39:35",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p39"], "timestamp_range": ["39:35", "40:42"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p40"], "timestamp_range": ["40:42", "42:04"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p41"], "timestamp_range": ["42:04", "43:15"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p42"], "timestamp_range": ["43:15", "44:22"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p43"], "timestamp_range": ["44:22", "45:26"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p44"], "timestamp_range": ["45:26", "46:07"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Arc versus electron beam: voltage, energy, and subsurface deposition",
+      "section_timestamp_start": "46:07",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p45"], "timestamp_range": ["46:07", "46:20"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p45"], "timestamp_range": ["46:20", "47:08"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p46"], "timestamp_range": ["47:08", "48:05"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p47"], "timestamp_range": ["48:05", "49:02"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p48"], "timestamp_range": ["49:02", "50:01"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p49"], "timestamp_range": ["50:01", "50:58"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p50"], "timestamp_range": ["50:58", "52:04"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p51"], "timestamp_range": ["52:04", "53:05"]},
+        {"l3_id": "§7.p9", "l2_ids": ["p52"], "timestamp_range": ["53:05", "53:50"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Lasers versus electron beams, and the Sciaky camshaft case",
+      "section_timestamp_start": "53:50",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p53"], "timestamp_range": ["53:50", "54:33"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p54"], "timestamp_range": ["54:33", "55:42"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p55"], "timestamp_range": ["55:42", "56:53"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p56"], "timestamp_range": ["56:53", "58:21"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p57"], "timestamp_range": ["58:21", "59:35"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p58"], "timestamp_range": ["59:35", "60:30"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "video_id": "9jCXHL9awLk",
+  "course": "Codes and Standards",
+  "course_number": "3.371",
+  "term": "Summer 2012",
+  "video_title": "3.371 Codes and Standards - Summer 2012 [6/7]",
+  "lecture_number": 6,
+  "lecture_total": 7,
+  "raw_transcript_sha256": "0f749e5b2e8e8bfdadfff52ad87a2a7385fe2254807eacf2c9dca2d64ea840bf",
+  "raw_transcript_line_count": 1980,
+  "raw_transcript_word_count": 14229,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T00:02:18.246390+00:00",
+  "layer2_paragraph_count": 98,
+  "speaker": "Guest lecturer (former Eagar student/colleague, metallurgist; not Tom Eagar)",
+  "speaker_notes": "The speaker refers to Tom in the third person as 'Professor Eagar' and notes that Tom asked him to give this talk. The speaker has a francophone accent. He worked at Bombardier Aerospace and was on the I-35W Minneapolis bridge collapse investigation team. He teaches a fall class that elaborates on safety factor methodology.",
+  "topics": [
+    "safety factor",
+    "factor of safety vs probability of failure",
+    "aircraft landing gear (4340 steel)",
+    "I-35W Minneapolis bridge collapse (2007)",
+    "high-speed boat prop shaft fatigue failure",
+    "stainless steel pressure vessel stress corrosion cracking",
+    "Washington DC steam piping drip leg failure",
+    "Deepwater Horizon / Macondo blowout preventers",
+    "helicopter blade spar fatigue design",
+    "preloaded bolt connections / Goodman analysis",
+    "Gaussian variability in material strength and load",
+    "coefficient of variation and factor of ignorance"
+  ],
+  "cases_referenced": [
+    "New Orleans canal levee failure (Katrina, design SF 1.3)",
+    "I-35W Minneapolis bridge collapse (2007, gusset plate)",
+    "Florida high-speed boat prop shaft (400-hr design life)",
+    "Stainless steel food-processing tank (tomato paste, chloride SCC)",
+    "Washington DC government building steam piping drip leg",
+    "BP / Macondo / Deepwater Horizon blowout preventer",
+    "Bombardier small-jet wing deflection testing",
+    "Helicopter blade spar (aluminum, honeycomb core)",
+    "Longfellow Bridge (Boston, ~100 years, mentioned)"
+  ],
+  "figures_referenced": [
+    "Safety factor ranges: 1.2 (boat prop), 1.3 (NOLA levee), 1.5–1.6 (aircraft), 2 (buildings), 3 (automotive), 4 (pressure vessels), 8 (some specialized designs)",
+    "Bridge probability of failure: ~5 × 10⁻⁶ per year",
+    "I-35W bridge: ~40 years of service before 2007 collapse",
+    "Helicopter blade spar: 30,000 cycles at 12 KSI / 18 KSI design example",
+    "Grade 8 bolt: 150 KSI tensile, ~20 KSI in tension-compression fatigue (factor of ~7 reduction)",
+    "Bolt preload reduces stress amplitude by factor of ~6–7"
+  ]
+}

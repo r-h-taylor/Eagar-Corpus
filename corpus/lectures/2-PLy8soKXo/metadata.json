@@ -1,0 +1,80 @@
+{
+  "video_id": "2-PLy8soKXo",
+  "course": "Codes and Standards Definitions and History",
+  "course_number": "3.371",
+  "term": "Fall 2012",
+  "lecture_number_in_series": 3,
+  "lecture_total_in_series": 14,
+  "video_title": "3.371 Codes and Standards - Fall 2012 [3/14]",
+  "raw_transcript_sha256": "66ba8a8fee61ac6f081c3011e0137a458461253c876b2e285293860db532b9a1",
+  "raw_transcript_line_count": 1540,
+  "raw_transcript_word_count": 9729,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T00:35:44.080696+00:00",
+  "layer2_paragraph_count": 74,
+  "duration_first_anchor": "00:01",
+  "duration_last_anchor": "52:18",
+  "primary_case": "Helicopter swashplate bearing failure (Kaydon Reali-Slim bearing, unnamed heavy-lift helicopter manufacturer)",
+  "secondary_cases": [
+    "V-22 Osprey Ship 4 crash court of inquiry",
+    "Japanese Maritime Defense Forces helicopter loss in Sea of Japan",
+    "Grenada invasion aircraft carrier steam-system repair (1983)"
+  ],
+  "framing_topics": [
+    "Precision manufacturing tolerances (1 part in 10,000; 50 millionths of an inch)",
+    "Matched-set manufacturing",
+    "Closed vs open conformity in ball bearings",
+    "Brinelling and witness marks as forensic evidence",
+    "Board of inquiry procedure and rigging",
+    "Emergency Powers Act and FBI takeover of supplier facility",
+    "Engineering as dealing with complexity and ambiguity",
+    "History of the word 'engineer' and MIT's role in defining engineering disciplines"
+  ],
+  "people_named": [
+    "Igor Sikorsky",
+    "Jerome Hunsaker (implicit, 1917 MIT aeronautics)",
+    "Professor Sataway/Saadeh [unresolved — flag for editor]"
+  ],
+  "organizations_named": [
+    "Kaydon Corporation",
+    "NASA (Hampton, Virginia facility)",
+    "Japanese Maritime Defense Forces",
+    "U.S. Navy",
+    "FBI",
+    "National Transportation Safety Board",
+    "Pratt Whitney",
+    "Boeing",
+    "Airbus",
+    "Bell",
+    "Delta Air Lines",
+    "U.S. Air",
+    "Marine Corps Air Station Cherry Point",
+    "Philadelphia Naval Yard",
+    "Jacksonville Naval Air Station",
+    "West Point",
+    "Rensselaer Polytechnic Institute",
+    "MIT"
+  ],
+  "places_named": [
+    "Sea of Japan",
+    "Hampton, Virginia",
+    "Muskegon, Michigan",
+    "Cherry Point",
+    "Philadelphia",
+    "Jacksonville, Florida",
+    "Lake Michigan",
+    "Grenada",
+    "Afghanistan",
+    "Troy, New York",
+    "Germany"
+  ],
+  "editorial_flags": [
+    "p3 'swashblade' → 'swashplate' bracketed; Tom uses 'swatch plate' habitually thereafter (preserved as Tom's pronunciation, not a slip)",
+    "p32 captioner garbled 'thousandths' for 'millionths' at multiple points; corrected with brackets",
+    "p61 'we scrapped it three weeks' missing 'ago'; bracketed",
+    "p67 'fire in the cell' captioner error for 'nacelle'; corrected silently",
+    "p71 'Professor Sataway' — name uncertain; flagged for editor (possible Saadeh or similar MIT colleague Tom refers to in the etymology aside)"
+  ],
+  "notes_for_layer3": "Lecture is structurally one long case study (helicopter swashplate failure) with two codas (V-22 Osprey court of inquiry; history of 'engineer'). Proposed section count: 7. Tom's habitual 'swatch plate' for 'swashplate' should be regularized to 'swashplate' in layer 3 (it is consistent pronunciation drift, not a one-time slip; reader-facing text should use the technical term)."
+}

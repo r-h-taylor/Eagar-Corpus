@@ -1,0 +1,153 @@
+{
+  "lecture_id": "nLWgIwqPozE",
+  "course": "3.371 Codes and Standards",
+  "term": "Summer 2012",
+  "session": "7/7",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Code complexity and the limits of engineering oversight",
+      "section_timestamp_start": "00:01",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:01", "00:53"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Aluminum in Navy ship design",
+      "section_timestamp_start": "00:53",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p2"], "timestamp_range": ["00:53", "01:30"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p2"], "timestamp_range": ["01:30", "01:35"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p2"], "timestamp_range": ["01:35", "01:58"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p3"], "timestamp_range": ["01:58", "02:39"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p4"], "timestamp_range": ["02:39", "03:31"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p5"], "timestamp_range": ["03:31", "04:48"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p6"], "timestamp_range": ["04:48", "05:54"]},
+        {"l3_id": "§2.p8", "l2_ids": ["p7"], "timestamp_range": ["05:54", "06:50"]},
+        {"l3_id": "§2.p9", "l2_ids": ["p8"], "timestamp_range": ["06:50", "07:48"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Aluminum design, fatigue, and the welding code",
+      "section_timestamp_start": "07:48",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p9"], "timestamp_range": ["07:48", "08:58"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p10"], "timestamp_range": ["08:58", "10:25"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p11"], "timestamp_range": ["10:25", "11:07"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p12"], "timestamp_range": ["11:07", "12:06"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p13"], "timestamp_range": ["12:06", "13:07"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p14"], "timestamp_range": ["13:07", "13:47"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p15"], "timestamp_range": ["13:47", "14:10"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p15"], "timestamp_range": ["14:10", "14:14"]},
+        {"l3_id": "§3.p9", "l2_ids": ["p15"], "timestamp_range": ["14:14", "14:36"]},
+        {"l3_id": "§3.p10", "l2_ids": ["p16"], "timestamp_range": ["14:36", "15:18"]},
+        {"l3_id": "§3.p11", "l2_ids": ["p17"], "timestamp_range": ["15:18", "16:46"]},
+        {"l3_id": "§3.p12", "l2_ids": ["p18"], "timestamp_range": ["16:46", "17:53"]},
+        {"l3_id": "§3.p13", "l2_ids": ["p19"], "timestamp_range": ["17:53", "18:36"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Corrugated stainless steel tubing: a new product enters the market",
+      "section_timestamp_start": "18:36",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p20"], "timestamp_range": ["18:36", "19:09"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p21"], "timestamp_range": ["19:09", "20:37"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p22"], "timestamp_range": ["20:37", "21:38"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p23"], "timestamp_range": ["21:38", "22:26"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p24"], "timestamp_range": ["22:26", "23:18"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p25"], "timestamp_range": ["23:18", "24:06"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p26"], "timestamp_range": ["24:06", "24:47"]},
+        {"l3_id": "§4.p8", "l2_ids": ["p27"], "timestamp_range": ["24:47", "25:23"]},
+        {"l3_id": "§4.p9", "l2_ids": ["p28"], "timestamp_range": ["25:23", "26:06"]},
+        {"l3_id": "§4.p10", "l2_ids": ["p29"], "timestamp_range": ["26:06", "27:11"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "CSST: Japanese origin, ANSI LC1, and market entry",
+      "section_timestamp_start": "27:11",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p30"], "timestamp_range": ["27:11", "28:00"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p31"], "timestamp_range": ["28:00", "29:08"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p32"], "timestamp_range": ["29:08", "29:57"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p33"], "timestamp_range": ["29:57", "30:43"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p34"], "timestamp_range": ["30:43", "31:39"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p35"], "timestamp_range": ["31:39", "32:37"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Lightning: the unconsidered failure mode",
+      "section_timestamp_start": "32:37",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p36"], "timestamp_range": ["32:37", "33:52"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p37"], "timestamp_range": ["33:52", "34:19"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p38"], "timestamp_range": ["34:19", "35:17"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p39"], "timestamp_range": ["35:17", "35:47"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p40"], "timestamp_range": ["35:47", "37:01"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p41"], "timestamp_range": ["37:01", "37:26"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p42"], "timestamp_range": ["37:26", "38:46"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p43"], "timestamp_range": ["38:46", "40:07"]},
+        {"l3_id": "§6.p9", "l2_ids": ["p44"], "timestamp_range": ["40:07", "40:43"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Blame, grounding, and the impedance argument",
+      "section_timestamp_start": "40:43",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p45"], "timestamp_range": ["40:43", "41:41"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p46"], "timestamp_range": ["41:41", "42:22"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p47"], "timestamp_range": ["42:22", "43:24"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p48"], "timestamp_range": ["43:24", "44:30"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p49"], "timestamp_range": ["44:30", "44:59"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p50"], "timestamp_range": ["44:59", "45:30"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p50"], "timestamp_range": ["45:30", "45:40"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p50"], "timestamp_range": ["45:40", "45:48"]},
+        {"l3_id": "§7.p9", "l2_ids": ["p51"], "timestamp_range": ["45:48", "46:34"]},
+        {"l3_id": "§7.p10", "l2_ids": ["p52"], "timestamp_range": ["46:34", "47:31"]},
+        {"l3_id": "§7.p11", "l2_ids": ["p53"], "timestamp_range": ["47:31", "48:48"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "The Arkansas class action, codes, and the slow correction",
+      "section_timestamp_start": "48:48",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p54"], "timestamp_range": ["48:48", "49:34"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p55"], "timestamp_range": ["49:34", "50:21"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p56"], "timestamp_range": ["50:21", "50:58"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p57"], "timestamp_range": ["50:58", "51:35"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p58"], "timestamp_range": ["51:35", "52:11"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p59"], "timestamp_range": ["52:11", "53:10"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p60"], "timestamp_range": ["53:10", "54:10"]},
+        {"l3_id": "§8.p8", "l2_ids": ["p61"], "timestamp_range": ["54:10", "55:05"]},
+        {"l3_id": "§8.p9", "l2_ids": ["p62"], "timestamp_range": ["55:05", "55:38"]},
+        {"l3_id": "§8.p10", "l2_ids": ["p63"], "timestamp_range": ["55:38", "56:57"]},
+        {"l3_id": "§8.p11", "l2_ids": ["p64"], "timestamp_range": ["56:57", "58:02"]},
+        {"l3_id": "§8.p12", "l2_ids": ["p65"], "timestamp_range": ["58:02", "58:40"]},
+        {"l3_id": "§8.p13", "l2_ids": ["p66"], "timestamp_range": ["58:40", "59:33"]},
+        {"l3_id": "§8.p14", "l2_ids": ["p67"], "timestamp_range": ["59:33", "60:39"]},
+        {"l3_id": "§8.p15", "l2_ids": ["p68"], "timestamp_range": ["60:39", "61:26"]},
+        {"l3_id": "§8.p16", "l2_ids": ["p69"], "timestamp_range": ["61:26", "62:01"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "The cost of having no engineering, and lessons",
+      "section_timestamp_start": "62:01",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p70"], "timestamp_range": ["62:01", "62:35"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p71"], "timestamp_range": ["62:35", "63:09"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p72"], "timestamp_range": ["63:09", "63:56"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p73"], "timestamp_range": ["63:56", "64:35"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p74"], "timestamp_range": ["64:35", "65:29"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p75"], "timestamp_range": ["65:29", "65:47"]},
+        {"l3_id": "§9.p7", "l2_ids": ["p76"], "timestamp_range": ["65:47", "66:53"]}
+      ]
+    }
+  ]
+}

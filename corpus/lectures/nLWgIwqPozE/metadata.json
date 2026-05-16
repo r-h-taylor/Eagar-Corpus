@@ -1,0 +1,57 @@
+{
+  "video_id": "nLWgIwqPozE",
+  "course": "Codes and Standards",
+  "course_number": "3.371",
+  "term": "Summer 2012",
+  "video_title": "3.371 Codes and Standards - Summer 2012 [7/7]",
+  "lecture_position": "7/7",
+  "raw_transcript_sha256": "4cac3e3f2ddd7ece87601550ac5567fa846f97228cb3d8f564d6ac4f5443eaa3",
+  "raw_transcript_line_count": 1703,
+  "raw_transcript_word_count": 12088,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T00:12:45.327772+00:00",
+  "layer2_paragraph_count": 77,
+  "duration_approx_minutes": 67,
+  "primary_topics": [
+    "aluminum design and welding codes",
+    "Navy ship superstructure history (aluminum vs steel)",
+    "fatigue limits in aluminum vs steel",
+    "corrugated stainless steel tubing (CSST) for fuel gas",
+    "ANSI LC1 / NFPA 54 / NFPA 58 codes",
+    "lightning strikes and CSST perforation",
+    "code adoption, regulatory capture, and litigation"
+  ],
+  "cases_referenced": [
+    "HMS Sheffield aluminum fire (Falklands War)",
+    "USS Belknap / USS John F. Kennedy collision",
+    "David Taylor Naval Ship Research and Development Center",
+    "Nimitz-class carrier weight gain (250 tons/year)",
+    "Boston Gas neighborhood pipe leaks (Tom's home)",
+    "Corrugated stainless steel tubing (CSST) lightning failures",
+    "Gastite aluminum-layer product",
+    "Arkansas class action (2003)",
+    "Massachusetts State Plumbing Board / restraint-of-trade threat (2003)",
+    "University of Florida triggered-lightning experiments",
+    "DOE nuclear waste cask lightning testing (Nevada)"
+  ],
+  "tom_slips_bracketed": [
+    "p2: 'the City [Navy] built in the 70s'"
+  ],
+  "captioner_errors_silently_corrected": [
+    "Exocet missile (was 'next exercise')",
+    "Belknap (was 'belnap'/'bell map')",
+    "high-speed aluminum (was 'high-sprayed')",
+    "0.45 and 0.5 fatigue ratio (was '0.545')",
+    "fine grain size (was 'fine graze highs')",
+    "20 thousandths thick (was '20 000 stick')",
+    "Ben Franklin (was 'Brent Ben Franklin')",
+    "peace had broken out (was 'pieces had broken out')",
+    "ANSI LC1 (was 'anclc1')"
+  ],
+  "tom_factual_irregularities_preserved": [
+    "p3: HMS Sheffield called a 'cruiser' (was actually a Type 42 destroyer)",
+    "p36: uncertainty about electrons per coulomb"
+  ],
+  "notes": "Lecture opens mid-thought, suggesting continuation from prior session segment. Closes mid-sentence on a Stanford study reference. Single-section cleanup; section division for layer 3 deferred."
+}

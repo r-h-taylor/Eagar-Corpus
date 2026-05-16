@@ -1,0 +1,56 @@
+{
+  "video_id": "kEqabZ7bO0Y",
+  "course": "Codes and Standards for Safety",
+  "course_number": "3.371",
+  "term": "Fall 2012",
+  "video_title": "3.371 Codes and Standards - Fall 2012 [12/14]",
+  "lecture_number": 12,
+  "lecture_total": 14,
+  "raw_transcript_sha256": "338f6969c49977522072a99d44cd84c4603936dfecca0449eebd7dcf366b9381",
+  "raw_transcript_line_count": 1078,
+  "raw_transcript_word_count": 8751,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T01:42:20.114455+00:00",
+  "layer2": {
+    "paragraph_count": 52,
+    "duration_approx_minutes": 50,
+    "ends_mid_sentence": true,
+    "student_turns_inferred": 7
+  },
+  "primary_topics": [
+    "ASTM A106 hydrostatic / proof testing of seamless pipe",
+    "Gulf of Mexico pipeline failure case: forensic identification via steel composition fingerprinting",
+    "Safety factors across codes (AWS D1.1, D1.2, ASME BPVC, OSHA)",
+    "Fatigue limits: steel vs aluminum",
+    "Snowstorm-driven building collapses and safety-factor erosion via computer optimization",
+    "Bangladesh ship-breaking and exported environmental hazards",
+    "World Trade Center: design intent vs fire load",
+    "Northridge earthquake: toughness vs strength, LRFD",
+    "X-33 spaceplane hydrogen tank: safety factor manipulation",
+    "Probabilistic fracture mechanics: Tom's cynical view"
+  ],
+  "cases_mentioned": [
+    "Oil refinery 600-pipe purchase (ASTM A106 dispute)",
+    "Gulf of Mexico subsea pipeline mandrel-defect failure",
+    "Allegheny River interstate bridge crack (Pittsburgh)",
+    "New York City high-rise underpinning crack",
+    "1988 snowstorm building collapses (NJ/eastern PA)",
+    "Bangladesh ship-breaking beaches",
+    "World Trade Center towers",
+    "Northridge earthquake (1994, misdated by Tom as 'early '80s')",
+    "1989 Loma Prieta earthquake / Oakland Bay Bridge (Tom places as 'San Francisco')",
+    "1923 Tokyo earthquake (Tom places as '1907')",
+    "1906 San Francisco earthquake (Tom places as '1912')",
+    "Chile earthquake (likely 2010, M8.8)",
+    "X-33 spaceplane LH2 tank failure (Huntsville)",
+    "Liberty ships (referenced in passing re: fracture mechanics)"
+  ],
+  "tom_factual_slips_flagged": [
+    "Northridge earthquake: Tom says 'early 80s', actually 1994",
+    "Tokyo earthquake: Tom says '1907', actually 1923 (Great Kantō)",
+    "San Francisco earthquake: Tom says '1912', actually 1906",
+    "C-5A manufacturer: Tom says Martin Marietta, actually Lockheed-Georgia",
+    "1988 snowstorm: date uncertain, possibly conflating multiple events"
+  ]
+}

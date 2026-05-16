@@ -1,0 +1,93 @@
+{
+  "lecture_id": "W7Ak5m9UX3c",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "session": "13/29",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Three levels of preheat",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {
+          "l3_id": "§1.p1",
+          "l2_ids": ["p1"],
+          "timestamp_range": ["00:02", "00:32"]
+        },
+        {
+          "l3_id": "§1.p2",
+          "l2_ids": ["p2"],
+          "timestamp_range": ["00:32", "01:38"]
+        },
+        {
+          "l3_id": "§1.p3",
+          "l2_ids": ["p3"],
+          "timestamp_range": ["01:38", "02:07"]
+        }
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The 50-degree minimum and surface moisture",
+      "section_timestamp_start": "02:07",
+      "anchors": [
+        {
+          "l3_id": "§2.p1",
+          "l2_ids": ["p4"],
+          "timestamp_range": ["02:07", "03:16"]
+        },
+        {
+          "l3_id": "§2.p2",
+          "l2_ids": ["p5"],
+          "timestamp_range": ["03:16", "04:27"]
+        }
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "100 to 300 degrees — slowing the cooling rate",
+      "section_timestamp_start": "04:27",
+      "anchors": [
+        {
+          "l3_id": "§3.p1",
+          "l2_ids": ["p6"],
+          "timestamp_range": ["04:27", "05:29"]
+        },
+        {
+          "l3_id": "§3.p2",
+          "l2_ids": ["p7"],
+          "timestamp_range": ["05:29", "06:14"]
+        }
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Above 300 degrees — tempering the steel",
+      "section_timestamp_start": "06:14",
+      "anchors": [
+        {
+          "l3_id": "§4.p1",
+          "l2_ids": ["p8"],
+          "timestamp_range": ["06:14", "07:27"]
+        }
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "The Venn diagram synthesis",
+      "section_timestamp_start": "07:27",
+      "anchors": [
+        {
+          "l3_id": "§5.p1",
+          "l2_ids": ["p9"],
+          "timestamp_range": ["07:27", "08:16"]
+        },
+        {
+          "l3_id": "§5.p2",
+          "l2_ids": ["p10"],
+          "timestamp_range": ["08:16", "09:00"]
+        }
+      ]
+    }
+  ]
+}

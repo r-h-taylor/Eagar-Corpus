@@ -1,0 +1,67 @@
+{
+  "video_id": "dZ8VibRxb0Y",
+  "course": "Recitations",
+  "course_number": "3.371",
+  "term": "Spring 2020",
+  "video_title": "2020 02 03",
+  "lecture_date": "2020-02-03",
+  "lecture_type": "course introduction / first-day recitation",
+  "duration_approx_minutes": 50,
+  "raw_transcript_sha256": "536ba0b4b3476c7c27b4a127f55db74ec5f9a6385d0047a4d806df7241324395",
+  "raw_transcript_line_count": 1084,
+  "raw_transcript_word_count": 8743,
+  "layer2_paragraph_count": 60,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-11T22:25:16.243284+00:00",
+  "speakers": [
+    {"id": "tom", "name": "Thomas W. Eagar", "role": "host / course instructor"},
+    {"id": "simone", "name": "Simone (last name not stated)", "role": "guest lecturer; entrepreneur, oil & gas pipeline testing; NSF SBIR alum; MIT Venture Mentoring Service member"},
+    {"id": "steve_lyons", "name": "Steve Lyons", "role": "guest lecturer; patent attorney, Kleiman & Lyons (Boston)"},
+    {"id": "brian_holman", "name": "Brian Holman", "role": "guest lecturer; Tom's former PhD student (NDT thesis); module on da Vinci mechanics/materials"}
+  ],
+  "key_topics": [
+    "Course administration and module structure (12-unit and 6-unit modules; 36-lecture requirement)",
+    "Scientist vs. engineer distinction (Theodore von Karman, Joel Moses, Eagar's own quotes)",
+    "Eagar's pedagogy: two-or-three-line takeaway summaries; no quizzes/tests/finals",
+    "Quantum mechanics anecdote: getting an A by learning only the high points",
+    "Guest segment: Simone on NSF SBIR, customer discovery/validation, pipeline testing startup",
+    "Guest segment: Steve Lyons on intellectual property as gap in MIT curriculum",
+    "Guest segment: Brian Holman on da Vinci as war engineer (1450s–1500s)",
+    "Etymology of 'engineer' (French; maker of war machines); first US engineering schools (West Point 1797, Norwich 1821, RPI 1823)",
+    "BMW i3 graphite-fiber body; cost structure of automobiles (health insurance #1, frame #2, seats #3)",
+    "TQM as 'BS or real' — IBM University Challenge anecdote",
+    "Math textbooks 'quantized' in two-page lumps — SAT-prep critique"
+  ],
+  "cases_mentioned": [
+    "BMW i3 (graphite-fiber automobile body)",
+    "Chevy Bolt (battery cost as $10K of $30K sale price)",
+    "Pole vault poles (sheet composite, stiffness gradient — past student presentation example)",
+    "Oil & gas transmission pipeline NDT (Simone's company)",
+    "TQM / IBM customer-driven quality"
+  ],
+  "figures_referenced": [
+    "300,000 miles of US oil & gas transmission pipeline",
+    "$40,000 BMW i3 price point",
+    "$10,000 battery cost (Chevy Bolt, to GM)",
+    "40,000 YouTube hits on Eagar's welding metallurgy course",
+    "75 MIT faculty at IBM TQM week",
+    "50+ years Eagar at MIT"
+  ],
+  "biographical_anecdotes": [
+    "Eagar flunking quantum mechanics until night-before-final epiphany (junior year, course taught by Vera Kistiakowsky)",
+    "Eagar's first year on faculty: discovering professors fill an hour with derivations because they didn't prepare",
+    "Discovering math textbooks 'quantized' while flipping through son's high-school book at breakfast",
+    "1988 Sloan senior executives program; Leaders for Manufacturing head",
+    "IBM week at Hudson facility (TQM training, ~25–30 years ago)",
+    "Navy officer email (Sept 2019) calling Eagar's class better than all other MIT grad classes combined"
+  ],
+  "editorial_flags": [
+    "p4: 'Bell Mars' — proper noun captioner garble; tentative correction to 'Belmares' bracketed. Editor to confirm guest lecturer's name.",
+    "p12: Tom claims Vera Kistiakowsky's father won the Nobel Prize in chemistry at Harvard. George Kistiakowsky (her father, Harvard chem dept chair, Manhattan Project) was not a Nobel laureate. Tom's factual slip preserved per Convention §16; flag for layer 3 footnote.",
+    "p19–p23: Simone's segment has multiple captioner-non-native-speaker interactions producing garbled text (e.g., 'hope in the houses' likely 'open houses'). Preserved verbatim in layer 2; layer 3 will require editorial smoothing or excerpt-only treatment.",
+    "p33: Tom says 'Rensselaer Polytechnic University' — correct name is 'Institute' (RPI). Slip preserved.",
+    "p35, p43: Tom genuinely loses his train of thought and reads garbled slide text aloud. Preserved as in-the-moment teaching business per Convention §2 spirit."
+  ],
+  "notes": "This is an unusual recitation: course-introduction day with three guest lecturers (Simone, Steve Lyons, Brian Holman) framing their own forthcoming modules. The technical content is light; the lecture's value is in (a) Eagar's pedagogy statements (no quizzes, takeaway summaries, scientist-vs-engineer quotes), (b) the math-textbook-quantized and quantum-mechanics anecdotes, (c) the brief case mentions (BMW i3, pole vault poles, TQM/IBM). Layer 3 sectioning should respect speaker boundaries: Tom's opening administrative remarks, Tom on pedagogy and scientist/engineer, Simone segment, Tom on guest speakers and BMW i3, Steve Lyons segment, Tom + Brian Holman segment, Tom on engineering history and Harvard, Tom on grading and the quantum mechanics anecdote, Tom on TQM, closing."
+}

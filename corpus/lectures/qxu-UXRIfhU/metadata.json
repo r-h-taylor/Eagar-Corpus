@@ -1,0 +1,63 @@
+{
+  "video_id": "qxu-UXRIfhU",
+  "course": "Solid State Welding",
+  "course_number": "3.371",
+  "term": "Spring 2013",
+  "video_title": "3.371 Solid State Welding - Spring 2013 [10/12]",
+  "lecture_number": 10,
+  "lecture_total": 12,
+  "raw_transcript_sha256": "667f39af87da3adeb5477890084bf53d4aed781b147b030591cd8c26726a8730",
+  "raw_transcript_line_count": 1123,
+  "raw_transcript_word_count": 8635,
+  "duration_approx_minutes": 52,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T11:48:56.417526+00:00",
+  "layer2_paragraph_count": 41,
+  "topics": [
+    "thermal expansion mismatch in dissimilar metal bonding",
+    "die-attach for semiconductor packaging",
+    "aluminum silicon carbide composites (bimodal packing)",
+    "cold pressure welding for electronics packaging",
+    "indium and oxide-to-metal hardness ratio",
+    "Young's equation and interfacial energy in soldering",
+    "wetting theory for solders and brazes",
+    "flux requirements: chemical activity, surface reaction, spreading, thermal stability, non-corrosive",
+    "oxalic acid flux failure (thermal stability)",
+    "glucose flux failure (no spreading)",
+    "abietic acid and rosin-based fluxes",
+    "rosin chemistry and digression on rosin-baked potatoes",
+    "halogen activation of fluxes",
+    "IIW flux classification system",
+    "lead-carbonate corrosion mechanism (battery terminals)",
+    "lead-free solder challenges",
+    "tin-bismuth and the steel recycling problem",
+    "tin-antimony in plumbing solder",
+    "lead-tin plumbing solder advantages (gap-filling)",
+    "log-scale repair cost curve through manufacturing stages",
+    "Motorola Boynton Beach pager plant (no-rework-room policy)",
+    "Ford Mustang plant (no-tow-motor policy)",
+    "six sigma origins"
+  ],
+  "cases_mentioned": [
+    "Motorola pager plant, Boynton Beach FL (~1989-1990)",
+    "Ford Mustang plant tow-motor incident",
+    "Massachusetts plumbing code lead ban (1978)",
+    "Tom's own assistant-professor aluminum demonstration (corroded after a year)"
+  ],
+  "figures_referenced": [
+    "thermal expansion table: 1 to 300 × 10⁻⁶/K range across materials",
+    "0.16× diameter ratio for bimodal sphere packing",
+    "183 C lead-tin eutectic",
+    "182 C oxalic acid boiling point",
+    "450 C soldering/brazing boundary",
+    "6% industry rework rate of thumb",
+    "log-scale repair cost: ~$1 pre-solder → ~$10 post-solder → ~$50 systems test → ~$400 field repair",
+    "6 weeks (Asia) vs 3-5 days (Boynton Beach) pager delivery"
+  ],
+  "tom_slips": [],
+  "captioner_flags": [
+    "p1: 'tungsten lium' — likely 'tellurium' but uncertain; left as '[tellurium?]'"
+  ],
+  "notes": "Lecture covers wrap-up of dissimilar metal thermal expansion, transitions through wetting/flux theory with three classic failure modes (oxalic acid, glucose, abietic acid), digresses memorably into rosin-baked potatoes and Texas Roadhouse, then closes with two operations-research case studies (Motorola pager plant, Ford Mustang plant) illustrating that the 6% industry rework rate was self-fulfilling. Lecture ends with 'see you tomorrow' — part of a tightly serialized sequence."
+}

@@ -1,0 +1,63 @@
+{
+  "video_id": "40vhfL7j7yc",
+  "course": "Solid State Welding",
+  "course_number": "3.371",
+  "term": "Spring 2013",
+  "lecture_number": 11,
+  "lecture_in_series": "11/12",
+  "video_title": "3.371 Solid State Welding - Spring 2013 [11/12]",
+  "raw_transcript_sha256": "b0cd05fad79b7658d3a6f0ecb5174c79b890f1b6c7f768b3a7869011c152dab1",
+  "raw_transcript_line_count": 1098,
+  "raw_transcript_word_count": 8778,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T11:54:59.319543+00:00",
+  "layer2_paragraph_count": 65,
+  "duration_approx_minutes": 47,
+  "topics": [
+    "soldering science",
+    "lead-tin solder bath contaminants",
+    "wave soldering",
+    "tin pest",
+    "bond number and droplet geometry",
+    "microelectronics interconnect levels",
+    "wire bonding and tab automated bonding",
+    "chip-on-board technology",
+    "Rent's rule",
+    "C4 area array bonding",
+    "history of the transistor"
+  ],
+  "named_entities": [
+    "J.A.H. Klein Wassink",
+    "Philips",
+    "Howard Manko (inferred)",
+    "Harold Larson",
+    "IBM",
+    "Intel",
+    "Gordon Moore",
+    "Craig Barrett",
+    "Gene Meieran",
+    "Pratt & Whitney",
+    "Cisco Systems",
+    "AT&T / Bell Laboratories",
+    "John Bardeen",
+    "William Shockley",
+    "Motorola",
+    "AMP Incorporated",
+    "Uncas Whitaker",
+    "MIT Whitaker College"
+  ],
+  "cases_referenced": [
+    "Russian WWII tin stockpile (tin pest)",
+    "Bell Labs reliability projection leading to transistor (1925)",
+    "IBM tungsten diffusion barrier for copper interconnects (late 1990s)",
+    "Intel Pentium 6 dual-chip tab tape",
+    "Cisco Systems printed circuit board (1997)",
+    "Motorola classified military chip facility"
+  ],
+  "editorial_flags": [
+    "Manko identification at p5 is inferred from phonetic captioner rendering 'Moo'; needs verification.",
+    "Student turn at p25 ('Pardon me?') is the editor's best read of an indistinct interjection.",
+    "Tom's L909 hesitation on Bardeen/Shockley is a recall pause, not a slip; captioner garbled to 'Bine' — corrected silently."
+  ]
+}

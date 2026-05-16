@@ -1,0 +1,53 @@
+{
+  "video_id": "xutMakERdxY",
+  "course": "Corrosion Cracking and More",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [7/35]",
+  "lecture_number": 7,
+  "lecture_total": 35,
+  "raw_transcript_sha256": "000e52377271640151cef754448419022db607ba438898fbe8884986f0f99fec",
+  "raw_transcript_line_count": 947,
+  "raw_transcript_word_count": 6800,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T17:22:19.318092+00:00",
+  "layer2_paragraph_count": 38,
+  "duration_covered_mmss": "00:04-37:12",
+  "primary_topics": [
+    "Soil corrosion and underground storage tanks",
+    "Microbiologically induced corrosion (MIC)",
+    "Antifouling coatings (tributyl tin)",
+    "Galvanic couples on plated stainless steel",
+    "Passivation of stainless steel",
+    "Under-insulation chloride stress corrosion cracking",
+    "Velocity-induced erosion-corrosion of copper alloys"
+  ],
+  "cases_mentioned": [
+    "U.S. Army underground storage tank study (1991, 15,000 tanks, CERL Urbana-Champaign)",
+    "West Virginia / Charleston water contamination (Elk River chemical spill, January 2014)",
+    "MIC in nuclear reactor (~1979)",
+    "Tributyl tin antifouling paint (David Taylor, 1970s-90s)",
+    "Copper-plated stainless steel tubing failure, 40-story Florida condo (1970s)",
+    "Gold-plated hydrocephalic shunt (Bob Rose anecdote, early 1970s)",
+    "New England Aquarium facade rusting from grinding marks",
+    "Stainless steel pacemaker battery cases with low-pH deionized rinse water",
+    "Quincy Shipyard barge stress corrosion cracking (brass heating pipes, pH 2.3 rinse)",
+    "Manwich (sloppy joe) processing plant 99-gallon tank failure (Knoxville, TN)",
+    "Admiralty brass heat exchanger silt pitting at utility"
+  ],
+  "key_figures_and_references": [
+    "108 leaking tanks studied; quickest leaks in 6 years; 20 mils/year corrosion rate",
+    "MIC bugs surviving 40,000 rad",
+    "100 ppm chloride water, 20-mil stainless perforated in 24 hours",
+    "Cr2(OH)3 passive layer ~50 nm thick on >10-12% Cr steel",
+    "ASME boiler and pressure vessel code 100-gallon exemption (drives 99-gallon vessel cluster)",
+    "Francis LaQue, *Marine Corrosion* (out of print), INCO",
+    "Kure Beach, NC and Severn River (Annapolis / Carderock) as canonical seawater corrosion test sites"
+  ],
+  "people_named": [
+    "Bob Rose (Tom's thesis advisor)",
+    "Humphrey Davy (with historical misattribution; see transformation log)",
+    "Francis LaQue (INCO; Scripps)",
+    "Kirk Graham [?] (Navy officer)"
+  ]
+}

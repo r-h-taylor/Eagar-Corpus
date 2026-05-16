@@ -1,0 +1,52 @@
+# Lecture 27 — Titanium Alloys and the Soviet Alpha Submarine
+
+*3.371 Welding Metallurgy, Spring 2014, session 27 of 29.*
+*Source video: `2mxFuYzDDtU`.*
+
+---
+
+## §1. Titanium in the world: paint, planes, and properties [00:01]
+
+`§1.p1` The bulk of titanium we produce in the world goes into paint. It also goes into toothpaste and a few other things — not that it makes your teeth whiter, it's just an abrasive, and it's non-toxic. Whereas lead is toxic, that's how they got rid of lead-based paint. There's not huge amounts of titanium made. We talk about it all the time because we couldn't build — I was somewhere earlier this week and a guy had on his computer screen, the screensaver was the SR-71 Blackbird, all titanium skin. Couldn't have built that plane without titanium. Aluminum would have over-aged and fallen apart within hours. Titanium is a higher melting point, lightweight, high strength, excellent corrosion resistance.
+
+`§1.p2` Probably the bigger use of titanium than aerospace, or at least on a par, is corrosion resistance — heat exchangers, chemical plants, whatever. Little bits used in medical implants because it has excellent corrosion resistance.
+
+## §2. Alpha and beta stabilizers [00:56]
+
+`§2.p1` I'm going to show you the different alloys. We divide titanium into alpha stabilizers and beta stabilizers. I mentioned to you before that titanium has this interesting property that it changes crystal structures, just like steel goes from body-centered cubic at low temperatures to face-centered cubic at high temperatures. Titanium on the other hand goes from hexagonal close-packed to beta BCC at higher temperatures.
+
+`§2.p2` This is just a schematic. An alpha stabilizer: if the alloying element increases the solubility of alpha, then it's an alpha stabilizer. And if it decreases, it's a beta stabilizer. Not too hard to see. So the alpha stabilizers are aluminum — look at the whole list — oxygen, nitrogen, and carbon. And hydrogen is actually a beta stabilizer. Hydrogen is not anywhere near the problem in titanium that it is in steel. It's more like the problem in aluminum, a little bit worse than aluminum but not much. Substitutional alloying — there's lots of things you can throw in there. And the ones where the lines are sort of horizontal are tin and zirconium.
+
+`§2.p3` Not a lot. With steels we've used most of the periodic table; with titanium we have not. If I show you a list of titanium alloys, common alloys — with steel I have to go on for pages and pages, with titanium it doesn't even take a full page in the handbook to come up with the common alloys. There are many other alloys but they're sort of real niche alloys.
+
+## §3. The grades: CP titanium, palladium, and the workhorse 6-4 [03:17]
+
+`§3.p1` For corrosion resistance the common grades are one, two, three, four, which are basically just pure titanium with different amounts of oxygen. Oxygen is to titanium as carbon is to steel. It's an interstitial that strengthens the titanium. We'll probably find grade four has fifty percent higher strength than grade one. Grade one is very pure titanium. We're usually using grade two or grade four. Oxygen does lower the toughness of the titanium but it increases the strength, just like carbon does to iron or steel.
+
+`§3.p2` We have these grades that have some palladium in them. Why would you put palladium — palladium is a precious metal like platinum, has a price similar to platinum. Anybody know why we put palladium in titanium? In very caustic solutions, like pH 10 or greater, you improve the crevice corrosion resistance. There are only a few situations where titanium will corrode, but at very high pH in crevice corrosion. If we look at a periodic table, we have palladium here, and we also have nickel right here. They also have higher amounts of nickel, and that's grade 12. So trying to save some money by using nickel, which is not quite as good but it's almost as good.
+
+`§3.p3` I have never seen a titanium-palladium alloy. They're in the literature, but since the price of palladium's gone up by about a factor of fifty over the last forty years, I think we don't use a whole lot of palladium. We try to improve the design, or go to another material like tantalum. You can't be making big structural pressure vessels out of palladium, even if it is only a tenth of a percent or a quarter of a percent. A quarter percent of a $1,600-an-ounce material is not a good thing for structural materials. But they're there.
+
+`§3.p4` Titanium six aluminum four vanadium — this is the workhorse alloy for titanium in the world. You use a lot of CP, what we call chemically pure titanium alloys, one two three four. But in terms of all your forgings you're going to put in aircraft, your medical things, people are using 6-4. Invented about 1945 or '46 over here at Watertown Arsenal — if you've ever shopped at the Arsenal Mall, that's where they invented titanium six aluminum four vanadium. It's an alpha-beta alloy, two phases, easy to weld, use it for everything.
+
+## §4. Pacemaker, electroslag, and the first Navy titanium contract [06:14]
+
+`§4.p1` *[Tom passes a pacemaker can around the class.]* Here's a pacemaker can. This is a thirty-five-year-old pacemaker can, but they're smaller now. They still make them out of titanium, and it's got a gas tungsten arc weld — beautiful weld. This actually is a titanium six aluminum four vanadium two-inch-thick weld made by electroslag technology. This one was made at Oregon Graduate Center, the first one ever made outside of either the Soviet Union or France, made in the room right next door to us by one of my students about thirty-five years ago. But then the Navy classified it.
+
+`§4.p2` This was in the 1970s. The first research project I ever had as a young assistant professor was to do submerged arc welding of titanium. Here are some of those welds we made on six aluminum four vanadium. Why were we making these welds on titanium? This was the 1970s, and titanium would make the best submarine — much better than any of the steels, much better than aluminum. The U.S. Navy was working on heavy section titanium in the 1970s, which is when I started as a young faculty member. I knew from my old house tutor that the Navy was interested in titanium, and they had some research money, and the guy at the Navy was a graduate of this department and was giving out the money. That's how I got my first contract to weld heavy section titanium, which is why we made the first electroslag welds about 1980.
+
+## §5. Gurevich and the Soviet titanium literature [08:04]
+
+`§5.p1` The interesting thing about that type of stuff is the Soviets were doing it too at the same time. There was a guy in the Soviet Union — he's passed away now — named Garevich [Gurevich]. *[Tom holds up the book.]* This is the metallurgy of titanium alloys. Here's [Gurevich], and here's someone making a gas tungsten arc weld, and here's the book, all in Cyrillic. And here's the U.S. Air Force translation about 1980 or so of that book — *Metallurgy and Technology of Welding Titanium*, I guess that's the title. The Air Force translated it because [Gurevich] knew more about welding heavy section titanium than anyone in the world.
+
+`§5.p2` This is 1977 and '76 and I'm reading [Gurevich]'s papers back from the early '70s. I didn't pay any attention to it at the time because it was just a few years difference, and there were a few years delay anyway in translating these things. But basically about 1974, 1975, [Gurevich] quit publishing. He just stopped publishing any of his basic science of titanium. And the US Navy was interested in heavy section titanium for submarine hulls. They had some problems — it was expensive.
+
+## §6. The Alpha submarine and the creep-fatigue surprise [09:54]
+
+`§6.p1` Anybody know what happened in 1980? Ever heard of the Alpha sub? Ever read or watched the movie *The Hunt for Red October*? They had Alpha subs in there. Those were the titanium attack submarines. I was coming back from Europe reading on an airplane, reading the *International Herald Tribune*, and here's an article about: the Soviet Union has just deployed the Alpha subs, all titanium subs, years ahead of the United States. We have yet to this day ever built a titanium sub. Congress hit the ceiling, because the Soviets had leapfrogged us again. When was the first time they leapfrogged us? Sputnik. They've leapfrogged us a number of times in a number of areas, but this was a huge thing.
+
+`§6.p2` Titanium subs could dive deeper than the collapse depth of our depth charges. They could go faster underwater than our destroyers could go on the surface. So we had no defense against the Alpha sub, except — except — the Alpha subs were all mothballed two years later, for two reasons. One is, they tended to develop fatigue cracks, and they would make a lot of noise because these cracks would start rubbing inside. You could hear them — you didn't have to put on really good headphones to do the sonar to find the sub. They may be able to go faster, but you could fly a helicopter up there, and helicopters can go faster, and they could drop a sonar thing in the ocean. You didn't have to be very fancy because they were noisy.
+
+`§6.p3` That was good, but the even better thing is, I remember going to a meeting and they said, how do the Soviets solve the creep-fatigue interaction? It turns out titanium will creep and fatigue at room temperature or below. And what's the temperature of the ocean? It's sort of room temperature or below. At the time, the Navy had a big group doing development of titanium and I was being funded by the Office of Naval Research, so we were talking. And they said, how'd they solve the fatigue interaction? The U.S. Naval Research Lab had studied the creep and fatigue behavior at room temperature of titanium: if you have it under a big compressive stress, it would fatigue very readily. That's what they call the creep-fatigue interaction. I said, I don't know.
+
+`§6.p4` Well, it turns out we learned in 1982 that they hadn't solved it. They just built the submarines. They ended up with three or four subs that they could park, and I guess they're a nice museum. We'll talk some more about titanium tomorrow.

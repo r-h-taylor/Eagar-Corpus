@@ -1,0 +1,38 @@
+{
+  "video_id": "6fpf4j6EQD8",
+  "course": "Corrosion Cracking and More",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [3/35]",
+  "lecture_number_in_course": 3,
+  "raw_transcript_sha256": "e4ecb76ac84f3bdd2039fda277d344ba3a004d4f50d4e8e1d5f3cd323722512a",
+  "raw_transcript_line_count": 331,
+  "raw_transcript_word_count": 2084,
+  "duration_mmss": "11:33",
+  "layer2_paragraph_count": 19,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T17:09:04.572789+00:00",
+  "topics": [
+    "high-temperature corrosion of turbine blades",
+    "sulfidation and hot corrosion kinetics",
+    "Pourbaix diagrams",
+    "NiCrAlY overlay coatings",
+    "jet engine reliability statistics",
+    "FAA two-engine certification (ETOPS)",
+    "Venn diagram of stress corrosion cracking (stress / material / environment)",
+    "316 vs 304 stainless steel substitution failure (Fenway Franks hot dog cooker)",
+    "Gulf War destroyer steam line stress corrosion cracking"
+  ],
+  "cases_mentioned": [
+    "Mexican airline turbine blade sulfidation failure",
+    "Fenway Franks hot dog cooker (Everett, MA) — 304 substituted for 316",
+    "Gulf War destroyer 3000 psi steam line failure"
+  ],
+  "editorial_flags": [
+    "p6: 'sold for the sofa' reading uncertain — possibly SOFA/sulphur attack acronym",
+    "p9: '198.7' — Tom misspoke a probability figure",
+    "p11: 'producing israel' → 'producing/protecting a steel' — captioner garble, reading uncertain",
+    "p18: 'respec'd' / 'spec'd' — reading uncertain",
+    "p19: 'protein' almost certainly 'environment' — high confidence captioner garble"
+  ]
+}

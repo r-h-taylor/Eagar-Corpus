@@ -1,0 +1,46 @@
+{
+  "video_id": "jKo-ODclZzI",
+  "course": "Corrosion Cracking and More",
+  "course_number": "3.371",
+  "course_title_full": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [13/35]",
+  "lecture_number_in_series": 13,
+  "lecture_series_total": 35,
+  "raw_transcript_sha256": "a43ca9302fc9f36fc8741a23e1033e792c6b50149405045bc88a9b2f569b47f0",
+  "raw_transcript_line_count": 193,
+  "raw_transcript_word_count": 1268,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T17:50:38.950916+00:00",
+  "layer2_paragraph_count": 9,
+  "layer2_timespan": {
+    "start": "00:01",
+    "end": "06:21"
+  },
+  "lecture_character": "partial / fragment — appears to be the closing minutes of a class session before a break, covering Stout and Doty reference, Jominy hardenability test, heat treatments of steel (surface hardening, carburizing, nitriding, boriding), martensite transformation, shape memory alloys, ending with break announcement before presentations",
+  "key_references_mentioned": [
+    "Stout and Doty, Weldability of Steels",
+    "ASM Handbook (heat treatment volume)",
+    "Charlie Brooks's book (Principles of the Heat Treatment of Plain Carbon and Low Alloy Steels)",
+    "MIT Spectrum (alumni magazine, anonymous colleague reference)"
+  ],
+  "tom_spoken_slips_bracketed": [
+    {
+      "paragraph": "p8",
+      "spoken": "dennis",
+      "corrected": "dentists",
+      "note": "Likely captioner garble of 'dentists' but bracketed conservatively"
+    }
+  ],
+  "captioner_corrections_silent_count": 11,
+  "section_boundaries_proposed_for_layer3": [
+    {"s1": "Stout and Doty as welding procedure reference (p1)"},
+    {"s2": "Jominy hardenability test (p2)"},
+    {"s3": "Aside on the colleague who said we don't know much about steel (p3)"},
+    {"s4": "Surface hardening and heat treatments of steel (p4-p6)"},
+    {"s5": "Martensite transformation and shape memory alloys (p7-p8)"},
+    {"s6": "Break announcement (p9)"}
+  ],
+  "notes": "Short fragment (~6 minutes). Tom is finishing a teaching unit and signaling a transition to student presentations after a break. Hydrogen embrittlement, signaled at end, is deferred to next session."
+}

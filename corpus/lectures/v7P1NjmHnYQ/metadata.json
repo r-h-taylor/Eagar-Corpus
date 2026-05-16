@@ -1,0 +1,53 @@
+{
+  "video_id": "v7P1NjmHnYQ",
+  "course": "Fusion Welding",
+  "course_number": "3.371",
+  "term": "Summer 2013",
+  "video_title": "3.371 Fusion Welding - Summer 2013 [1/6]",
+  "lecture_number_in_series": 1,
+  "series_length": 6,
+  "raw_transcript_sha256": "29dd238c602d0024f3c6ff3bb70b782bc74d181a7bcefd271ba068687af1c2c4",
+  "raw_transcript_line_count": 1424,
+  "raw_transcript_word_count": 11789,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-11T21:09:09.751993+00:00",
+  "layer2_paragraph_count": 63,
+  "duration_approx_minutes": 68,
+  "primary_topics": [
+    "heat intensity one-dimensional graph for fusion welding processes",
+    "Fourier's law of heat conduction applied to welding",
+    "flame chemistry: enthalpy, stoichiometry, inerts",
+    "diffuse vs pre-mixed vs jet-burner flames",
+    "heat affected zone size vs heat source intensity",
+    "depth-to-width ratio across welding processes",
+    "economics of welding: capital cost, productivity, industry fit",
+    "electron beam welding niche applications (catalytic converters, turbine cases, bimetal bandsaw blades)"
+  ],
+  "tom_slips_bracketed": [
+    {"slip": "Forte's", "correction": "Fourier's", "occurrences": ["p8", "p9", "p18"]},
+    {"slip": "C2H6 for propylene", "correction": "C3H6", "occurrences": ["p11"]}
+  ],
+  "stories_told": [
+    "Humphry Davy and the electric arc (1805)",
+    "GE early laser repair of vacuum tubes (mid-1950s)",
+    "Naval Surface Warfare Center particle beam weapon / submarine welding workshop (early 1990s)",
+    "MAPP gas vs propane torch live demo",
+    "World Trade Center paper (post-9/11)",
+    "Elihu Thomson and the invention of resistance spot welding",
+    "Lawrence Livermore plutonium weld (no visible HAZ)",
+    "George Washington's nose dollar-bill reaction-time bet",
+    "GE Schenectady SWAC ($7M wasted) and the titanium compressor case porosity / acetone story",
+    "Avco Everett 25kW laser demo reliability problem",
+    "Bimetallic bandsaw blade manufacturing by electron beam"
+  ],
+  "live_demonstrations": [
+    "MAPP gas torch vs propane torch heating steel welding wire (p15)",
+    "Dollar bill drop / George Washington's nose with a student (p36)"
+  ],
+  "physical_objects_passed_around": [
+    "HY-80 weld sample from Electric Boat (~30 years old)",
+    "Arc weld sample from an oilfield blowout job"
+  ],
+  "notes": "First lecture of a six-part fusion welding short course, evidently taught to Navy students (Tom addresses 'since you're in the Navy' in p58). Tone matches the longer 3.37 / 3.371 lectures. Two characteristic Tom slips: 'Forte's' for Fourier's law (recurring), and C2H6 for propylene (one-off). Major story content: the Schenectady GE acetone-porosity story spans p47–p56 and is one of Tom's longer set-piece narratives."
+}

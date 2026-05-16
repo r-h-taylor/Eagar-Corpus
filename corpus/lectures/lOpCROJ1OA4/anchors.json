@@ -1,0 +1,57 @@
+{
+  "lecture_id": "lOpCROJ1OA4",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2015",
+  "session": "15/18",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Alclad and the invention of aluminum refining",
+      "section_timestamp_start": "00:05",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:05", "00:15"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p1"], "timestamp_range": ["00:15", "01:35"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p2"], "timestamp_range": ["01:35", "02:30"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p3"], "timestamp_range": ["02:30", "03:48"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The aluminum alloy series",
+      "section_timestamp_start": "03:48",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p4"], "timestamp_range": ["03:48", "05:29"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p5"], "timestamp_range": ["05:29", "06:32"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p6"], "timestamp_range": ["06:32", "07:55"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p7"], "timestamp_range": ["07:55", "09:23"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Precipitation hardening and the temper designations",
+      "section_timestamp_start": "09:23",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p8"], "timestamp_range": ["09:23", "10:01"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p9"], "timestamp_range": ["10:01", "10:45"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p10"], "timestamp_range": ["10:45", "12:24"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p11"], "timestamp_range": ["12:24", "13:00"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p12"], "timestamp_range": ["13:00", "14:53"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p13"], "timestamp_range": ["14:53", "15:38"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "The America's Cup hydraulic cylinder failure",
+      "section_timestamp_start": "15:38",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p14"], "timestamp_range": ["15:38", "18:44"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p15"], "timestamp_range": ["18:44", "20:26"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p16"], "timestamp_range": ["20:26", "22:05"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p17"], "timestamp_range": ["22:05", "23:32"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p18"], "timestamp_range": ["23:32", "25:55"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p19"], "timestamp_range": ["25:55", "28:00"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p20"], "timestamp_range": ["28:00", "28:30"]}
+      ]
+    }
+  ]
+}

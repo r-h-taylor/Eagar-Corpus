@@ -1,0 +1,63 @@
+{
+  "video_id": "RU6_LtJn3rY",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Fall 2013",
+  "lecture_number": 9,
+  "lecture_total": 14,
+  "video_title": "3.371 Structural Materials Selection - Fall 2013 [9/14]",
+  "raw_transcript_sha256": "8e589dfc544d601600243722e0e9f3b00083307de45d93aecaa89c7dbb60dd59",
+  "raw_transcript_line_count": 1131,
+  "raw_transcript_word_count": 8819,
+  "duration_approx_minutes": 51,
+  "layer2_paragraph_count": 43,
+  "primary_topics": [
+    "composites (wrap-up)",
+    "fiberglass and resin-molded composites",
+    "steel industry economics",
+    "corrosion of steel",
+    "hydrogen embrittlement and stress corrosion cracking",
+    "iron-carbon phase diagram",
+    "hardness, hardenability, hardening ability",
+    "plain carbon vs alloy steels"
+  ],
+  "recurring_cases_referenced": [
+    "V-22 Osprey (composites)",
+    "Alaska road asphalt",
+    "aluminum silicon carbide composites (Canadian innovation, late 1970s)",
+    "Corvette (first fiberglass automobile)",
+    "Joel Clark fiberglass truck bed study (Ford, 1990s coal mine trial)",
+    "Aluminum company history (Alcoa, Reynolds, Alcan, Kaiser, Pechiney, Hall-Héroult)",
+    "ArcelorMittal consolidation",
+    "Longfellow Bridge corrosion",
+    "Groton submarine welding (Sea Wolf SSN-21, HY-100 hydrogen cracking, ~$2B cost)",
+    "Steel-toe boot heat-treating tank stress corrosion case",
+    "John Chipman and the Chipman Room",
+    "Sylvania lightbulb plant, Danvers (freshly-made glass strength demo)"
+  ],
+  "physical_objects_brought_to_class": [
+    "rebar (galvanized, with rolled notches)",
+    "black iron pipe section"
+  ],
+  "people_named": [
+    "Joel Clark (MIT)",
+    "Charles Martin Hall",
+    "Paul Héroult",
+    "Lakshmi Mittal",
+    "Mars Fontana",
+    "Norbert Greene",
+    "Lou Tennyson (Ballinger's PhD advisor; name uncertain)",
+    "Ron Ballinger (3.371 co-teacher)",
+    "John Chipman (MIT metallurgy)",
+    "Professor Elliot (MIT, deceased)"
+  ],
+  "tom_spoken_slips_bracketed": [
+    "alumina [aluminum] silicon carbide",
+    "Dr. Bell [Ballinger] Martin",
+    "[Mittal] in India"
+  ],
+  "captioner_corrections_count_approx": 18,
+  "editorial_register_flags": 3,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T06:22:18.546977+00:00"
+}

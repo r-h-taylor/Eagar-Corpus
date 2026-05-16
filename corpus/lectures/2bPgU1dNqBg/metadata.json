@@ -1,0 +1,63 @@
+{
+  "video_id": "2bPgU1dNqBg",
+  "course": "Structural Materials Selection Principles",
+  "course_number": "3.371",
+  "term": "Spring 2016",
+  "video_title": "3.371 Structural Materials Selection - Spring 2016 [2/12]",
+  "lecture_number_in_series": 2,
+  "total_lectures_in_series": 12,
+  "raw_transcript_sha256": "e8f7b8c34119f468c33eaeb89eaf93c906e78bc25b1b214a814c590bceef37fa",
+  "raw_transcript_line_count": 1040,
+  "raw_transcript_word_count": 8257,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T00:58:03.246599+00:00",
+  "layer2_paragraph_count": 43,
+  "layer2_timestamp_start": "00:09",
+  "layer2_timestamp_end": "53:16",
+  "primary_topics": [
+    "3D printing of metals",
+    "why metals are difficult to additively manufacture",
+    "materials selection: metals vs ceramics vs polymers",
+    "fracture toughness and the Liberty ships",
+    "surface tension, Bond number, Fourier number, Prandtl number",
+    "Langmuir surface contamination",
+    "Navy application: electron beam 3D printing of large spares"
+  ],
+  "people_named": [
+    "James Rhyne Killian (MIT president, Tech Review editor 1925)",
+    "Emanuel M. Sachs (rendered as 'Ely Saks' in raw transcript)",
+    "Michael J. Cima",
+    "A.A. Griffith (fracture mechanics)",
+    "Mike Ashby (Materials Selection in Mechanical Design)",
+    "Donald Sadoway",
+    "Joseph Fourier",
+    "Irving Langmuir",
+    "Wilfred Noel Bond",
+    "Loránd Eötvös",
+    "Grüneisen (referenced via the Grüneisen effect)"
+  ],
+  "cases_mentioned": [
+    "Stereolithography (mid-1980s, Texas)",
+    "MIT 3DP (Sachs/Cima, late 1980s)",
+    "Artificial hip ceramic molds",
+    "Blood glucose enzyme strips",
+    "Pharmaceutical pill 3D printing",
+    "Motorola printed circuit board 3D printing attempt",
+    "Pratt Whitney 25kW laser turbine disc (1975)",
+    "Liberty ships (WWII fracture toughness)",
+    "Amtrak Philadelphia 30th Street derailment (five whys example)",
+    "Navy multi-megavolt electron beam reuse for submarine spares (post-1992)",
+    "Japanese 'ceramics fever' (mid-1980s)"
+  ],
+  "editor_flags": [
+    "p25: 'Tom Frater' — GE aircraft engines materials head, name garbled, needs verification",
+    "p37: 'Howie Tur' — possibly Tom's own published article, garbled",
+    "p37: 'Pahrump, Nevada' — best guess for desert town reference",
+    "p39: 'Ford [Forward]' — may instead be 'forge shop' rather than the Gordon Forward slip pattern",
+    "p32: 'lipton solder' — likely 'lead-tin solder' garbled",
+    "p43: 'Boulder Massachusetts' — no such place; likely Bedford, Boxborough, or similar",
+    "Multiple Saks/Sachs spellings: canonical is Emanuel M. Sachs",
+    "p10: 'Leaders from a Factory' → corrected to 'Leaders for Manufacturing' (LFM program)"
+  ]
+}

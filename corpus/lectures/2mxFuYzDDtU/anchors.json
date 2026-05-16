@@ -1,0 +1,135 @@
+{
+  "lecture_id": "2mxFuYzDDtU",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "session": "27/29",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Titanium in the world: paint, planes, and properties",
+      "section_timestamp_start": "00:01",
+      "anchors": [
+        {
+          "l3_id": "§1.p1",
+          "l2_ids": ["p1"],
+          "timestamp_range": ["00:01", "00:56"]
+        },
+        {
+          "l3_id": "§1.p2",
+          "l2_ids": ["p2"],
+          "timestamp_range": ["00:56", "01:20"]
+        }
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Alpha and beta stabilizers",
+      "section_timestamp_start": "01:20",
+      "anchors": [
+        {
+          "l3_id": "§2.p1",
+          "l2_ids": ["p2"],
+          "timestamp_range": ["01:20", "01:44"]
+        },
+        {
+          "l3_id": "§2.p2",
+          "l2_ids": ["p3"],
+          "timestamp_range": ["01:44", "02:47"]
+        },
+        {
+          "l3_id": "§2.p3",
+          "l2_ids": ["p4"],
+          "timestamp_range": ["02:47", "03:17"]
+        }
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The grades: CP titanium, palladium, and the workhorse 6-4",
+      "section_timestamp_start": "03:17",
+      "anchors": [
+        {
+          "l3_id": "§3.p1",
+          "l2_ids": ["p5"],
+          "timestamp_range": ["03:17", "03:56"]
+        },
+        {
+          "l3_id": "§3.p2",
+          "l2_ids": ["p6"],
+          "timestamp_range": ["03:56", "04:45"]
+        },
+        {
+          "l3_id": "§3.p3",
+          "l2_ids": ["p7"],
+          "timestamp_range": ["04:45", "05:25"]
+        },
+        {
+          "l3_id": "§3.p4",
+          "l2_ids": ["p8"],
+          "timestamp_range": ["05:25", "06:14"]
+        }
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Pacemaker, electroslag, and the first Navy titanium contract",
+      "section_timestamp_start": "06:14",
+      "anchors": [
+        {
+          "l3_id": "§4.p1",
+          "l2_ids": ["p9"],
+          "timestamp_range": ["06:14", "07:00"]
+        },
+        {
+          "l3_id": "§4.p2",
+          "l2_ids": ["p10"],
+          "timestamp_range": ["07:00", "08:04"]
+        }
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Gurevich and the Soviet titanium literature",
+      "section_timestamp_start": "08:04",
+      "anchors": [
+        {
+          "l3_id": "§5.p1",
+          "l2_ids": ["p11"],
+          "timestamp_range": ["08:04", "09:05"]
+        },
+        {
+          "l3_id": "§5.p2",
+          "l2_ids": ["p12"],
+          "timestamp_range": ["09:05", "09:54"]
+        }
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The Alpha submarine and the creep-fatigue surprise",
+      "section_timestamp_start": "09:54",
+      "anchors": [
+        {
+          "l3_id": "§6.p1",
+          "l2_ids": ["p13"],
+          "timestamp_range": ["09:54", "10:44"]
+        },
+        {
+          "l3_id": "§6.p2",
+          "l2_ids": ["p14"],
+          "timestamp_range": ["10:44", "11:41"]
+        },
+        {
+          "l3_id": "§6.p3",
+          "l2_ids": ["p15"],
+          "timestamp_range": ["11:41", "12:32"]
+        },
+        {
+          "l3_id": "§6.p4",
+          "l2_ids": ["p16"],
+          "timestamp_range": ["12:32", "12:55"]
+        }
+      ]
+    }
+  ]
+}

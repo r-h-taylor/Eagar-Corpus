@@ -1,0 +1,118 @@
+{
+  "lecture_id": "4yImu8D5fOs",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "session": "4/29",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Introduction and what stainless steel is",
+      "section_timestamp_start": "00:04",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:04", "00:51"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:51", "02:00"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:00", "03:11"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["03:11", "04:09"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Classifications and microstructure",
+      "section_timestamp_start": "04:09",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p5"], "timestamp_range": ["04:09", "04:57"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p6"], "timestamp_range": ["04:57", "06:02"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p7"], "timestamp_range": ["06:02", "06:40"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Alloying elements and the Schaeffler diagram",
+      "section_timestamp_start": "06:40",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p8"], "timestamp_range": ["06:40", "07:17"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p9"], "timestamp_range": ["07:17", "08:04"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p10"], "timestamp_range": ["08:04", "08:35"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p11"], "timestamp_range": ["08:35", "09:40"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p12"], "timestamp_range": ["09:40", "10:39"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p13"], "timestamp_range": ["10:39", "11:38"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "The iron-chromium phase diagram",
+      "section_timestamp_start": "11:38",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p14"], "timestamp_range": ["11:38", "12:53"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p15"], "timestamp_range": ["12:53", "13:12"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p16"], "timestamp_range": ["13:12", "14:23"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Austenitic stainless steels — composition and grades",
+      "section_timestamp_start": "14:23",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p17"], "timestamp_range": ["14:23", "16:14"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p18"], "timestamp_range": ["16:14", "16:39"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p19"], "timestamp_range": ["16:39", "17:21"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p20"], "timestamp_range": ["17:21", "17:52"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p21"], "timestamp_range": ["17:52", "18:26"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p22"], "timestamp_range": ["18:26", "19:05"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p23"], "timestamp_range": ["19:05", "20:28"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Austenitic applications, environments, and welding practice",
+      "section_timestamp_start": "20:28",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p24"], "timestamp_range": ["20:28", "21:07"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p25"], "timestamp_range": ["21:07", "21:44"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p26"], "timestamp_range": ["21:44", "22:31"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p27"], "timestamp_range": ["22:31", "23:06"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p28"], "timestamp_range": ["23:06", "23:31"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p29"], "timestamp_range": ["23:31", "24:00"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p30"], "timestamp_range": ["24:00", "24:55"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Solidification cracking in austenitic welds",
+      "section_timestamp_start": "24:55",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p31"], "timestamp_range": ["24:55", "25:21"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p32"], "timestamp_range": ["25:21", "26:08"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p33"], "timestamp_range": ["26:08", "26:46"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p34"], "timestamp_range": ["26:46", "27:47"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p35"], "timestamp_range": ["27:47", "28:27"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Solidification modes and the WRC 1992 diagram",
+      "section_timestamp_start": "28:27",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p36"], "timestamp_range": ["28:27", "28:46"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p37"], "timestamp_range": ["28:46", "29:35"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p38"], "timestamp_range": ["29:35", "30:26"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p39"], "timestamp_range": ["30:26", "30:59"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p40"], "timestamp_range": ["30:59", "31:57"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p41"], "timestamp_range": ["31:57", "32:14"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p42"], "timestamp_range": ["32:14", "33:44"]},
+        {"l3_id": "§8.p8", "l2_ids": ["p43"], "timestamp_range": ["33:44", "34:33"]},
+        {"l3_id": "§8.p9", "l2_ids": ["p44"], "timestamp_range": ["34:33", "35:13"]},
+        {"l3_id": "§8.p10", "l2_ids": ["p45"], "timestamp_range": ["35:13", "35:55"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Intergranular corrosion and sensitization",
+      "section_timestamp_start": "35:55",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p46"], "timestamp_range": ["35:55", "36:21"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p47"], "timestamp_range": ["36:21", "37:30"]}
+      ]
+    }
+  ]
+}

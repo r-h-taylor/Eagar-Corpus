@@ -1,0 +1,47 @@
+{
+  "video_id": "Lfnk639q2PI",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Summer 2015",
+  "video_title": "3.371 Welding Metallurgy - Summer 2015 [13/18]",
+  "lecture_number": 13,
+  "lecture_total": 18,
+  "raw_transcript_sha256": "6ecbf814c3956fe3d1b0147b6e1339dcca444b9dbacfb7339cb822b5e5af12b3",
+  "raw_transcript_line_count": 745,
+  "raw_transcript_word_count": 5864,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T16:18:52.386860+00:00",
+  "duration_approx_minutes": 35,
+  "layer2_paragraph_count": 41,
+  "primary_topics": [
+    "nickel-based superalloys",
+    "Inconel 718 development",
+    "hot isostatic pressing (HIP)",
+    "GTD-111 rejuvenation",
+    "gas turbine recuperator failure (Navy program)",
+    "Worcester HIP vessel explosion case study",
+    "stress corrosion cracking / hydrogen embrittlement",
+    "leak-before-break design",
+    "insurance law (Hartford Steam Boiler / all-risk policy)"
+  ],
+  "primary_cases": [
+    "Navy recuperator program (Garrett AiResearch / Rolls-Royce)",
+    "GE GTD-111 patent dispute",
+    "Worcester HIP vessel explosion (~late 1990s)",
+    "Chromalloy turbine blade refurbishment"
+  ],
+  "figures_referenced": [
+    "50°F engine temperature increase = $2B/year fuel savings (commercial aviation)",
+    "TF-30 turbofan overhaul: 500 hours (military) vs 30,000 hours (commercial)",
+    "thermal diffusivity of steel: 0.1 cm²/s",
+    "Worcester vessel: 200-ton forging, 17-inch wall, 11-inch at thinnest, 20,000 psi argon, 2,000°F",
+    "estimated loss: $40-60M"
+  ],
+  "tom_slips_flagged_for_review": [
+    "Larry Hisle / Hyzak (likely Herbert Eiselstein, Inconel 718 inventor)",
+    "Professor name at MIT (Tuller? Pelloux?)",
+    "Now Codd (likely NALCO water treatment)",
+    "Rolls or Saddam's (likely Rolls-Royce or Allison)"
+  ]
+}

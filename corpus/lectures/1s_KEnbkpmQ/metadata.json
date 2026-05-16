@@ -1,0 +1,58 @@
+{
+  "video_id": "1s_KEnbkpmQ",
+  "course": "Welding Quality",
+  "course_number": "3.371",
+  "course_title_on_video": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [34/35]",
+  "lecture_number_in_series": 34,
+  "lecture_total_in_series": 35,
+  "raw_transcript_sha256": "eafb4eb53c4f02485d3037d45219828ad58c51dca54a4dcbac5776b1188abc32",
+  "raw_transcript_line_count": 1127,
+  "raw_transcript_word_count": 7397,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T19:29:24.538855+00:00",
+  "layer2_paragraph_count": 40,
+  "duration_covered_minutes": 37,
+  "primary_topics": [
+    "friction stir welding history and limitations",
+    "titanium welding microstructures (alpha plate, Widmanstätten, basket weave)",
+    "titanium weld shielding gas cleanliness (dew point, color acceptance, US Navy spec)",
+    "Engelhard / Boeing 747-400 catalytic converter case",
+    "GE Lynn spot welding adaptive control / titanium electron beam welding case",
+    "Alcoa Davenport hot rolling mill thickness variation case"
+  ],
+  "case_studies_present": [
+    "Engelhard / Boeing 747-400 titanium catalytic converter welding",
+    "General Electric Lynn spot welding adaptive control (Schenectady Research)",
+    "General Electric Lynn titanium electron beam welding (acetone purity)",
+    "Alcoa Davenport hot rolling mill plate thickness variation"
+  ],
+  "people_mentioned": [
+    "Elihu Thomson",
+    "Thomas Edison",
+    "Gordon (Tom's grad student)",
+    "Carl (Tom's postdoc)",
+    "Lyle (GE Lynn engineer)",
+    "Julie (Tom's LFM master's student at Alcoa Davenport)"
+  ],
+  "institutions_mentioned": [
+    "British Welding Institute",
+    "Boeing",
+    "Engelhard",
+    "IBM",
+    "US Navy",
+    "Naval Air Rework Facility (Norfolk, VA)",
+    "David Taylor Naval Ship R&D Center",
+    "American Welding Society",
+    "General Electric Lynn Aircraft Engines",
+    "General Electric Schenectady Research",
+    "Office of Naval Research",
+    "MIT Leaders for Global Operations / Leaders for Manufacturing",
+    "Alcoa (Davenport, IA works)"
+  ],
+  "tom_slips_bracketed": 1,
+  "captioner_corrections_silent": 38,
+  "section_count_proposed_for_layer3": 6
+}

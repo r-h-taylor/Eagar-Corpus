@@ -1,0 +1,26 @@
+{
+  "video_id": "j_nGedqJbWA",
+  "course": "What is Engineering",
+  "course_number": "3.371",
+  "term": "Fall 2015",
+  "video_title": "3.371 What is Engineering - Fall 2015 [1/12]",
+  "session_number": 1,
+  "session_count": 12,
+  "raw_transcript_sha256": "4dac6fb85512a36a5e4ddff7e4c246db9956616ebd79271d6ed3b2f2ade9461b",
+  "raw_transcript_line_count": 673,
+  "raw_transcript_word_count": 5255,
+  "pipeline_version": "1.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-11T03:22:27.316587+00:00",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Course introduction and philosophy of education",
+      "timestamp_start": "00:00",
+      "timestamp_end": "28:35",
+      "paragraph_count": 29
+    }
+  ],
+  "section_count": 1,
+  "processing_notes": "Section 1 covers the full content of the available transcript (Tom's portion of the introductory lecture, before handoff to Dr. Belmare). Single-section processing for this submission. Subsequent sections (Belmare's portion, if continued in this video) would be processed in further passes. Tom's mid-lecture handoff occurs at approximately 28:35, where he says 'Take wow anyway' as a transition cue."
+}

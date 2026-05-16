@@ -1,0 +1,39 @@
+{
+  "video_id": "4yImu8D5fOs",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [4/29]",
+  "lecture_number_in_series": 4,
+  "lecture_total_in_series": 29,
+  "lecturer": "Mike Balmforth (guest)",
+  "lecturer_note": "Guest lecture by Dr. Mike Balmforth, former Eagar student and consulting colleague. Tom Eagar present but not speaking on this recording.",
+  "topic": "Stainless steel welding metallurgy: classifications, alloying elements, Schaeffler diagram, austenitic stainless steels (304/316), solidification modes, solidification cracking, intergranular corrosion, sensitization",
+  "raw_transcript_sha256": "2d353a053d7983549c993356f5bbfcf4e58de2668b93335d954cbae0414f8b9b",
+  "raw_transcript_line_count": 765,
+  "raw_transcript_word_count": 5500,
+  "layer2_paragraph_count": 47,
+  "layer2_start_timestamp": "00:04",
+  "layer2_end_timestamp": "37:11",
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T13:26:45.029454+00:00",
+  "editorial_flags": [
+    "p1: 'Dr. [Balmforth?]' — second consulting group member name garbled by captioner; possibly Bahnmiller or similar. Needs editor review.",
+    "p13: 'both ferrite and [austenite]' — captioner rendered 'Martin site' but technical context (duplex alloys 50/50) requires austenite. Likely captioner error rather than speaker slip given Balmforth's expertise in this region. Flag for editor confirmation.",
+    "p14: 'Professor [Roher?]' — faculty name uncertain in captioner rendering.",
+    "p20, p21: two student questions inaudible on transcript; attribution inferred from Balmforth's repeated content."
+  ],
+  "key_technical_terms_restored": [
+    "austenite/austenitic",
+    "ferrite/ferritic",
+    "martensite/martensitic",
+    "Schaeffler diagram",
+    "Widmanstätten",
+    "Cr2O3",
+    "molybdenum",
+    "eutectic phase",
+    "pseudo-binary phase diagram",
+    "WRC 1992 diagram"
+  ]
+}

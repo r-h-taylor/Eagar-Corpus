@@ -1,0 +1,70 @@
+{
+  "video_id": "PQ0eDwKV51k",
+  "course": "Materials Selection - Weighing Trade-Offs",
+  "course_number": "3.371",
+  "term": "Fall 2016",
+  "video_title": "3.371 Materials Selection and Economics [9/12]",
+  "lecture_number": 9,
+  "lecture_total": 12,
+  "raw_transcript_sha256": "61df90a9dc903be212aa3dec64056d8302947950e546db0940d3cd01a3bc9621",
+  "raw_transcript_line_count": 1119,
+  "raw_transcript_word_count": 8752,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T03:57:07.939533+00:00",
+  "layer2": {
+    "paragraph_count": 54,
+    "first_timestamp": "00:00",
+    "last_timestamp": "48:06"
+  },
+  "primary_topics": [
+    "history of steelmaking",
+    "Bessemer process",
+    "blast furnace economics",
+    "BOF (basic oxygen furnace)",
+    "continuous casting",
+    "AOD / VOD",
+    "steel industry productivity revolution",
+    "US Steel and Bethlehem failure to innovate",
+    "integrated mills vs mini mills (preview)"
+  ],
+  "cases_mentioned": [
+    "Saugus Iron Works",
+    "Edison concrete house patent",
+    "Bethlehem Steel (Charles Schwab, Homer Research Lab)",
+    "Burns Harbor (1964, last private integrated mill)",
+    "Andrew Carnegie / US Steel sale to JPMorgan",
+    "Linz Austria BOF development",
+    "POSCO Steel",
+    "Bao Steel",
+    "ArcelorMittal acquisition of Burns Harbor",
+    "John Chipman + William Krivsky AOD development (MIT Building 8)",
+    "Made in America (Lester Thurow, MIT report)",
+    "Paul Krugman productivity quote"
+  ],
+  "key_figures_cited": [
+    "steel = 95% of all metal produced",
+    "iron is 4th/5th/6th most abundant element in Earth's crust",
+    "adiabatic flame temperature in air ~1000°C",
+    "copper melts 1083°C, cast iron 1150°C",
+    "Bessemer melts steel at 1500°C (1856)",
+    "Burns Harbor cost ~$5B; blast furnace produces ~10,000 tons/day = ~5M tons/year",
+    "cast iron cost ~$180/ton hot metal in mid-70s",
+    "BOF: 300 tons in 20 minutes vs open hearth 450 tons in 24 hours",
+    "ingot casting yield ~65%; continuous casting yield ~97%",
+    "Saugus era productivity ~3000 person-hours/ton",
+    "1975 Bethlehem ~6-10 person-hours/ton; today ~0.6",
+    "US steel industry employment: 500,000 (1980) → 250,000 (1990), same 100M ton output",
+    "world steel ~1.6 billion tons/year × $400/ton = ~$6T industry",
+    "world GDP ~$50T at time of lecture",
+    "scrap steel ~$100/ton; cast iron ~$180/ton"
+  ],
+  "tom_slips_bracketed": [
+    {"paragraph": "p16", "slip": "five hundred million dollars", "correction": "billion"},
+    {"paragraph": "p36", "slip": "one basic oxygen at a billion dollars", "correction": "open hearth"},
+    {"paragraph": "p39", "slip": "20 to 50 tons at a time", "correction": "200 to 300"},
+    {"paragraph": "p45", "slip": "1.6 trillion tons", "correction": "billion"},
+    {"paragraph": "p46", "captioner_error": "John Chapman", "actual_name": "John Chipman"},
+    {"paragraph": "p46", "captioner_error": "William kreski", "actual_name": "William Krivsky"}
+  ]
+}

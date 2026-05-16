@@ -1,0 +1,46 @@
+{
+  "video_id": "W7Ak5m9UX3c",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [13/29]",
+  "lecture_number": 13,
+  "lecture_total": 29,
+  "raw_transcript_sha256": "102ab2b471ee46c7ddd2d563d5e6c96f2f61c85511376b36f06fcb12b6c52a8c",
+  "raw_transcript_line_count": 250,
+  "raw_transcript_word_count": 1539,
+  "duration_approx_mm_ss": "08:55",
+  "layer2_paragraph_count": 10,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T14:04:20.339306+00:00",
+  "primary_topics": [
+    "preheat in welding",
+    "hydrogen cracking control",
+    "ASME Boiler Pressure Vessel Code",
+    "structural welding code",
+    "tempering of martensite",
+    "Venn diagram framework for weld cracking control"
+  ],
+  "cases_referenced": [
+    "Seawolf submarine welding (blue jelly suits, 400°F preheat)"
+  ],
+  "references_made": [
+    "Mike Baumforth (guest lecturer, previous day)",
+    "Stout & Doty, Weldability of Steels (cookbook reference)"
+  ],
+  "tom_slips_bracketed": [
+    "welding engineers welding society → [American] Welding Society",
+    "stoughton dodie → Stout and Doty [Stout & Doty]"
+  ],
+  "captioner_errors_corrected_silently": [
+    "martin sitting → martensitic",
+    "asme boiler brushed your method code → ASME Boiler Pressure Vessel Code",
+    "two coats → two codes",
+    "seawolf → Seawolf"
+  ],
+  "ambiguous_fragments_preserved": [
+    "for all umes (possibly 'for all you MEs')"
+  ],
+  "notes": "Short lecture segment (~9 minutes) covering three levels of preheat (>50°F, 100-300°F, >300°F) and the rationale for each in terms of moisture removal, hydrogen diffusion, and tempering. Tom introduces his own Venn diagram framework (stress × hardness × hydrogen) and notes this explanation is original to him. Session ends with promise to continue preheat/post-heat next day."
+}

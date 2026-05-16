@@ -1,0 +1,55 @@
+{
+  "video_id": "3mWtnvIX_gY",
+  "course": "How to be a Successful Engineer",
+  "term": "Fall 2015",
+  "video_title": "3.371 What is Engineering - Fall 2015 [12/12]",
+  "raw_transcript_sha256": "2428f2f0fb285e06d88f56006e49c851261fb841ddd9b6fa32892d3ae903753d",
+  "raw_transcript_line_count": 1582,
+  "raw_transcript_word_count": 11929,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T00:49:07.947667+00:00",
+  "layer2_paragraph_count": 63,
+  "lecture_duration_approx_minutes": 65,
+  "speaker": "Alex Slocum (guest lecture)",
+  "speaker_note": "This lecture is delivered by Prof. Alex Slocum (MIT MechE), not by Tom Eagar. Eagar is the course instructor for the term; Slocum is referenced in the third person at p57 ('Professor Eagar, I'm sure, told you...'). Conventions calibrated on Eagar's voice have been applied with caution; Slocum's delivery is more theatrical and digressive than Eagar's. Flagged for editor review.",
+  "topics": [
+    "engineering vs science",
+    "St. Venant's principle",
+    "Maxwell reciprocity",
+    "kinematic couplings",
+    "Hertz contact stress",
+    "Teradyne / d'Arbeloff chair endowment story",
+    "APHRO (Advanced Pumped Hydro Reverse Osmosis) system",
+    "renewable energy infrastructure",
+    "deep-bore nuclear waste disposal",
+    "spiral-welded tapered wind turbine poles",
+    "engineering philosophy: catalog-itis, listening for complaints, reciprocity"
+  ],
+  "cases_mentioned": [
+    "Teradyne semiconductor tester Handler / kinematic coupling solution",
+    "Deepwater Horizon / Hairball Generator company",
+    "Masdar molten salt receiver project",
+    "APHRO system worldwide siting (Southern California, Mexico, Chile, Peru, China, Iran, UAE)",
+    "Wind turbine pole cost reduction (spiral-welded tapered tube)"
+  ],
+  "named_persons": [
+    "Alex Slocum (speaker)",
+    "Thomas Eagar (course instructor, referenced p57)",
+    "Alex d'Arbeloff (Teradyne founder, chair endower)",
+    "James Clerk Maxwell (referenced as 'Jamie Clerk' — speaker slip)",
+    "Heinrich Hertz",
+    "Mark Graham (former Slocum student, APHRO rap collaborator)",
+    "Steven Chu (Secretary of Energy, Deepwater Horizon team)",
+    "Truong (Slocum graduate student, kinematic coupling doctoral thesis)",
+    "Bob Smith Sr. (NH congressman)",
+    "Stalin (in family-history aside)"
+  ],
+  "editor_flags": [
+    "Speaker is Slocum, not Eagar — conventions may need adjustment for Layer 3.",
+    "'Limit Ling' at p43 unresolved garble.",
+    "'one and NSU' at p20 unresolved garble (restaurant name?).",
+    "'real right fruit' at p46 likely 'real ripe fruit'.",
+    "Tail fragment at p51 marked [?]."
+  ]
+}

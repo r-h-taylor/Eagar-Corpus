@@ -1,0 +1,68 @@
+{
+  "video_id": "LvhfmNDBCH8",
+  "course": "Deformation Processing",
+  "course_number": "3.371",
+  "term": "Spring 2012",
+  "video_title": "3.371 Deformation Processing - Spring 2012 [9/12]",
+  "lecture_number_in_series": 9,
+  "total_lectures_in_series": 12,
+  "raw_transcript_sha256": "76579ee8f6a77da1a5c22ecb62621a2539b33ed5041b8039fb687129f9e713fe",
+  "raw_transcript_line_count": 547,
+  "raw_transcript_word_count": 4435,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T09:38:18.795794+00:00",
+  "layer2_paragraph_count": 25,
+  "layer2_start_timestamp": "00:03",
+  "layer2_end_timestamp": "22:43",
+  "transcript_ends_mid_sentence": true,
+  "principal_topics": [
+    "project presentation logistics",
+    "critique of PowerPoint / viewgraph engineering",
+    "Lester Thurow and the discovery of sound bites",
+    "Vera Kistiakowsky quantum mechanics anecdote",
+    "anisotropy ratio and earing in sheet metal",
+    "limiting drawing ratio / forming limit diagram",
+    "biaxial vs uniaxial loading and ductility",
+    "California hydrocarbon emission standards (begin)",
+    "ternplate gas tanks (begin)"
+  ],
+  "principal_people_named": [
+    "Tom Eagar (self)",
+    "Dr. Belmar [Bhamra?]",
+    "Lester Thurow",
+    "Vera Kistiakowsky",
+    "George Kistiakowsky",
+    "Robert Eisberg",
+    "Robert Merton",
+    "Fischer Black",
+    "Myron Scholes",
+    "Lady Diana"
+  ],
+  "principal_places_named": [
+    "MIT",
+    "MIT Sloan School",
+    "MIT Endicott House",
+    "Harvard",
+    "Washington D.C.",
+    "Marriott Hotel (Cambridge)",
+    "Kresge Auditorium (MIT)",
+    "California",
+    "London"
+  ],
+  "principal_organizations_named": [
+    "General Motors",
+    "Delco",
+    "Xerox",
+    "US Navy",
+    "US Air Force"
+  ],
+  "textbook_references": [
+    "Hosford, Mechanical Behavior of Materials",
+    "Eisberg, Fundamentals of Modern Physics"
+  ],
+  "captioner_error_corrections_count": 18,
+  "tom_slip_brackets_count": 0,
+  "uncertain_flags_count": 1,
+  "notes": "Lecture opens mid-stream on project-presentation scheduling, then takes an extended detour through PowerPoint critique and the Lester Thurow sound-bite story before returning to course content (earing, forming limit diagram) at p19. Transcript ends mid-sentence at 22:43 in the middle of the California ternplate gas tank story; this is the raw transcript boundary, not a section boundary. Possible factual misstatement: Tom credits George Kistiakowsky with the Nobel Prize in Chemistry; GBK did not win a Nobel. Preserved verbatim per convention §16."
+}

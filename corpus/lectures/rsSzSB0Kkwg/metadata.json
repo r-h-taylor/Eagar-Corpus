@@ -1,0 +1,53 @@
+{
+  "video_id": "rsSzSB0Kkwg",
+  "course": "Materials Selection - Properties Costs Externalities",
+  "course_number": "3.371",
+  "term": "Fall 2016",
+  "video_title": "3.371 Materials Selection and Economics [6/12]",
+  "lecture_number": 6,
+  "lecture_total": 12,
+  "raw_transcript_sha256": "60672d9d157f711dadf96d55899a7fcca6e67d99fb06ada5bf13e1b001a42dd4",
+  "raw_transcript_line_count": 1172,
+  "raw_transcript_word_count": 8938,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T03:37:26.350688+00:00",
+  "layer2_paragraph_count": 47,
+  "layer2_duration_covered_seconds": 3050,
+  "editorial_flags_count": 9,
+  "topics": [
+    "shaped charges and demolition",
+    "World Trade Center thermite conspiracy",
+    "overselling new materials",
+    "high-temperature superconductors as 'cold silver'",
+    "speed versus cost in material selection",
+    "bladed disks (BLISK) in aerospace",
+    "sprung weight and aluminum-SiC brake calipers",
+    "X-33 space plane composite hydrogen tank failure",
+    "V-22 Osprey carbon fiber tiltrotor",
+    "BMW i3 carbon fiber economics",
+    "Air Force Mach 17 and 25,000-mile aircraft requirements",
+    "Lennard-Jones potential and chemical bond strength",
+    "thermal expansion, Young's modulus by material class",
+    "Trouton's rule and Richard's rule",
+    "toughness and defects in materials"
+  ],
+  "recurring_anchors": [
+    "$2/pound automobile, $200/pound aircraft, $20,000/pound spacecraft",
+    "Bob Sprague: defects control properties (metallurgists' view)",
+    "Jim Williams's corollary: need cheaper composites, not better ones",
+    "Diamond as highest modulus / lowest thermal expansion benchmark"
+  ],
+  "cases_mentioned": [
+    "shaped charge demolition / World Trade Center",
+    "high-T superconductors and wind turbine generators",
+    "X-33 space plane (1.3 billion dollar program, hydrogen tank failure)",
+    "V-22 Osprey tiltrotor (ship 2 miswiring, ship 4 Patuxent crash)",
+    "Detroit Diesel Allison M250 BLISK",
+    "aluminum-SiC brake caliper experiment",
+    "BMW i3 carbon fiber strategy",
+    "Air Force Mach 17 in-air requirement",
+    "Air Force 25,000-mile range requirement",
+    "Boeing 777/787 composite content history"
+  ]
+}

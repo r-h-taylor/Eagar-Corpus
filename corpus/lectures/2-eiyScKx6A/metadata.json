@@ -1,0 +1,59 @@
+{
+  "video_id": "2-eiyScKx6A",
+  "course": "Deformation Processing",
+  "course_number": "3.371",
+  "term": "Spring 2012",
+  "video_title": "3.371 Deformation Processing - Spring 2012 [5/12]",
+  "lecture_number_in_series": 5,
+  "lectures_in_series": 12,
+  "raw_transcript_sha256": "d8ead225d68490ddbf9ff0150e2263e57c3d74125a4e83306a20900171abd96f",
+  "raw_transcript_line_count": 1186,
+  "raw_transcript_word_count": 9269,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T09:12:12.034634+00:00",
+  "layer2": {
+    "paragraph_count": 48,
+    "start_timestamp": "00:40",
+    "end_timestamp": "52:10",
+    "duration_minutes_approx": 52,
+    "speakers": ["Tom Eagar", "Student (unnamed, multiple)", "Anthony (named by Tom)"],
+    "co_instructor_referenced": "Dr. Mares (provisional; named by Tom variously as 'Dr. Mar' and 'Dr. Belmar')"
+  },
+  "primary_topics": [
+    "consequences of inhomogeneous flow (loads, microstructure, defects, friction, local strength)",
+    "coining as high-Delta operation",
+    "rate effects in cold forming vs. recrystallization in hot forming",
+    "mechanical stress relief of aluminum (T651, T63)",
+    "thermal stress relief of steel; submarine deep-dive stress relief anecdote",
+    "dead zones in extrusion, ring test for friction coefficient",
+    "Conform process and redundant deformation",
+    "forging press scale: Wyman-Gordon and Alcoa 50,000-ton presses",
+    "forging lubricants (glass, graphite) and friction coefficients",
+    "forgeability ranking by alloy"
+  ],
+  "recurring_cases_referenced": [
+    "Wyman-Gordon / Alcoa 50,000-ton forging presses (USAF Heavy Press Program)",
+    "Phelps Dodge Conform process trolley wire and British spec fraud",
+    "T651 aluminum washer stress-corrosion cracking failure",
+    "70-ton water bag crane fracture (no post-weld stress relief)",
+    "US Navy submarine first-deep-dive stress relief",
+    "33-inch propeller shaft fracture (LNG tanker, Pelloux anecdote)",
+    "MIT machine shop mushroomed steel bar"
+  ],
+  "named_persons_referenced": [
+    "Isambard Kingdom Brunel (corrected from Tom's 'Kingdom Brunell')",
+    "Walter Backofen (MIT, textbook reference)",
+    "Régis Pelloux (MIT, fatigue/fracture)",
+    "Dr. Mares (co-instructor, provisional name)",
+    "Carl (student who corrected Tom on Brunel)",
+    "Anthony (student named in p15)"
+  ],
+  "companies_referenced": [
+    "Alcoa (Davenport IA rolling mill; Cleveland forging plant)",
+    "Wyman-Gordon (Grafton MA forging plant)",
+    "Krupp Steel (acquired Wyman-Gordon)",
+    "Phelps Dodge (Conform process trolley wire)",
+    "Acheson Industries (forging lubricants, provisional)"
+  ]
+}

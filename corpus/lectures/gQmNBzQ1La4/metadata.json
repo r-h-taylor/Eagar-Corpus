@@ -1,0 +1,57 @@
+{
+  "video_id": "gQmNBzQ1La4",
+  "course": "Materials Selection and Economics",
+  "term": "Fall 2017",
+  "video_title": "2017 09 26",
+  "lecture_date": "2017-09-26",
+  "raw_transcript_sha256": "556c9397195f4405bbae46ed8d88a624aa63ce8703a5ddae8f383b50f3562800",
+  "raw_transcript_line_count": 1117,
+  "raw_transcript_word_count": 8938,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T04:57:48.189629+00:00",
+  "layer2_paragraph_count": 43,
+  "duration_covered_mm_ss": "50:34",
+  "primary_topics": [
+    "course administration and schedule transition",
+    "history of steelmaking: Bessemer, Carnegie, integrated mills",
+    "blast furnace and BOF operation",
+    "John Chipman and physical chemistry of steelmaking",
+    "ingot casting versus continuous casting",
+    "argon-oxygen decarburization (AOD) for stainless steel",
+    "sensitization and intergranular corrosion in stainless steel",
+    "steel productivity history (Saugus to modern mini-mills)",
+    "productivity versus competitiveness",
+    "global steel industry restructuring: Mittal, Arcelor, POSCO, Baosteel",
+    "GM/Toyota comparison and Toyota Production System"
+  ],
+  "cases_mentioned": [
+    "Bethlehem Steel (Burns Harbor 1964; cyanide emissions; Eugene Grace executive pay)",
+    "Andrew Carnegie / US Steel",
+    "Henry Bessemer converter",
+    "John Chipman / MIT physical chemistry of steelmaking",
+    "AOD process origin (Krivsky, basement of Building 8)",
+    "John Wulff sensitization patent (1940s)",
+    "GE nuclear reactor sensitization cracking (1970s)",
+    "Westinghouse Inconel vs GE stainless reactor materials",
+    "Gordon Forward / Chaparral mini-mill ($30/ton shipping arbitrage)",
+    "Mittal / Arcelor / Thyssen Krupp consolidation",
+    "POSCO and Korean industrialization",
+    "Baosteel (China)",
+    "Saudi Arabia gas-reduction steelmaking",
+    "Saugus Ironworks (1600s)",
+    "New England shoe industry decline",
+    "Purdue charcoal-starting contest (liquid oxygen anecdote)",
+    "GM versus Toyota / Toyota Production System",
+    "Paul Krugman productivity quote",
+    "NIST visiting committee anecdote (productivity vs competitiveness)"
+  ],
+  "tom_slips_bracketed": [
+    {"paragraph": "p31", "spoken": "Gordon Ford", "corrected": "Gordon Forward"},
+    {"paragraph": "p32", "spoken": "Stanford", "corrected": "Princeton", "note": "Krugman is at Princeton, not Stanford"}
+  ],
+  "flagged_for_editor_review": [
+    {"paragraph": "p1", "issue": "Dr. Belmar / Bellman name uncertain; captioner garbled"},
+    {"paragraph": "p22", "issue": "Krivsky surname of AOD-developing Chipman student uncertain; captioner had 'Chris key'"}
+  ]
+}

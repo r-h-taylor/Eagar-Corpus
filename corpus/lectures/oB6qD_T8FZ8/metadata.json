@@ -1,0 +1,52 @@
+{
+  "video_id": "oB6qD_T8FZ8",
+  "course": "Structural Materials Selection Principles",
+  "course_number_spoken": "3.371",
+  "term": "Spring 2016",
+  "lecture_number": 1,
+  "lecture_total": 12,
+  "video_title": "3.371 Structural Materials Selection - Spring 2016 [1/12]",
+  "lecturer": "Thomas W. Eagar",
+  "co_lecturers_mentioned": ["Donald Sadoway", "[Allmer]"],
+  "raw_transcript_sha256": "60da7f024d43fec17c9fed77b4e5c3058b7c1e19aef4e3977c59a169f99934fc",
+  "raw_transcript_line_count": 1134,
+  "raw_transcript_word_count": 9130,
+  "layer2_paragraph_count": 46,
+  "layer2_first_timestamp": "00:52",
+  "layer2_last_timestamp": "54:33",
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-11T21:33:29.059555+00:00",
+  "lecture_type": "course introduction + opening content",
+  "topics_covered": [
+    "course logistics and history",
+    "Tom's teaching philosophy (no exams, ask questions, presentations)",
+    "tutored video instruction (TVI) at Stanford and the GM distance-learning experiment",
+    "the World Trade Center collapse article (JOM, Dec 2001)",
+    "Lester Thurow and the lesson 'it's not what you say, it's how you say it'",
+    "structural vs. functional materials",
+    "value of a pound saved across industries (car, aircraft, spacecraft, railroad)"
+  ],
+  "cases_mentioned": [
+    "GM distance learning / Tom's videotaped lectures (1990)",
+    "WTC collapse and JOM article",
+    "Lester Thurow at Sloan / Robert Merton departure",
+    "1989 spot-welding keynote ('3000 welds for 2000 good ones')",
+    "V-22 Osprey (composite aircraft)",
+    "X-33 space plane",
+    "Ford Fiesta weight-vs-mileage example",
+    "adobe brick student presentation"
+  ],
+  "figures_referenced": [
+    "$2/lb saved in automobile",
+    "$200/lb saved in commercial aircraft",
+    "$0.20/lb saved in railroad",
+    "$20,000/lb payload to Earth orbit",
+    "$12,000/lb fabricated for X-33 hydrogen tank",
+    "$50,000 Sloan AMP tuition (1988)",
+    "$30,000 Thurow lecture fee (1988)",
+    "100,000-mile car life / 100,000-hour aircraft life",
+    "3000 spot welds per automobile",
+    "20,000 gallons of fuel per WTC floor"
+  ]
+}

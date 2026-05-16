@@ -1,0 +1,126 @@
+{
+  "lecture_id": "7D_eu9LVGqo",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Spring 2016",
+  "session": "12/12",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Course logistics and steel recap",
+      "section_timestamp_start": "00:04",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:04", "00:21"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:21", "02:01"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:01", "04:15"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["04:15", "05:45"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["05:45", "06:17"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Why glass: transparency and ancient origins",
+      "section_timestamp_start": "06:17",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p6"], "timestamp_range": ["06:17", "07:54"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p7"], "timestamp_range": ["07:54", "09:15"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p8"], "timestamp_range": ["09:15", "10:38"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Bullseye glass and Saint-Gobain",
+      "section_timestamp_start": "10:38",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p9"], "timestamp_range": ["10:38", "10:50"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p9"], "timestamp_range": ["10:50", "11:05"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p9"], "timestamp_range": ["11:05", "12:17"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p10"], "timestamp_range": ["12:17", "14:17"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p11"], "timestamp_range": ["14:17", "15:02"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p12"], "timestamp_range": ["15:02", "16:33"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p13"], "timestamp_range": ["16:33", "18:17"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p14"], "timestamp_range": ["18:17", "18:41"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "From plate glass to the float process",
+      "section_timestamp_start": "18:41",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p15"], "timestamp_range": ["18:41", "19:52"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p16"], "timestamp_range": ["19:52", "21:11"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p17"], "timestamp_range": ["21:11", "22:00"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p17"], "timestamp_range": ["22:00", "22:10"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p17"], "timestamp_range": ["22:10", "22:37"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p18"], "timestamp_range": ["22:37", "24:18"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p19"], "timestamp_range": ["24:18", "25:37"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Thermal conductivity, residual stress, and the black light bulb",
+      "section_timestamp_start": "25:37",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p20"], "timestamp_range": ["25:37", "26:55"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p21"], "timestamp_range": ["26:55", "27:50"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p22"], "timestamp_range": ["27:50", "29:12"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p23"], "timestamp_range": ["29:12", "30:28"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p24"], "timestamp_range": ["30:28", "31:32"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p25"], "timestamp_range": ["31:32", "32:06"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Strengthening glass: mechanical, thermal, and composite approaches",
+      "section_timestamp_start": "32:06",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p26"], "timestamp_range": ["32:06", "32:38"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p27"], "timestamp_range": ["32:38", "34:35"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p28"], "timestamp_range": ["34:35", "36:01"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p29"], "timestamp_range": ["36:01", "36:55"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Laminated, tempered, and armor glass — and the RPG case",
+      "section_timestamp_start": "36:55",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p30"], "timestamp_range": ["36:55", "37:59"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p31"], "timestamp_range": ["37:59", "38:43"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p32"], "timestamp_range": ["38:43", "38:55"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p32"], "timestamp_range": ["38:55", "39:00"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p32"], "timestamp_range": ["39:00", "39:51"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p33"], "timestamp_range": ["39:51", "41:07"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p34"], "timestamp_range": ["41:07", "42:18"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p35"], "timestamp_range": ["42:18", "43:30"]},
+        {"l3_id": "§7.p9", "l2_ids": ["p36"], "timestamp_range": ["43:30", "44:04"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Tempered, laminated, and chemically tempered glass",
+      "section_timestamp_start": "44:04",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p37"], "timestamp_range": ["44:04", "44:59"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p38"], "timestamp_range": ["44:59", "45:51"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p39"], "timestamp_range": ["45:51", "46:49"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p40"], "timestamp_range": ["46:49", "47:50"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p41"], "timestamp_range": ["47:50", "48:49"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p42"], "timestamp_range": ["48:49", "49:13"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Corning Slim Glass and closing",
+      "section_timestamp_start": "49:13",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p43"], "timestamp_range": ["49:13", "49:25"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p43"], "timestamp_range": ["49:25", "50:59"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p44"], "timestamp_range": ["50:59", "52:38"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p45"], "timestamp_range": ["52:38", "53:27"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p46"], "timestamp_range": ["53:27", "53:55"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p47"], "timestamp_range": ["53:55", "54:00"]},
+        {"l3_id": "§9.p7", "l2_ids": ["p47"], "timestamp_range": ["54:00", "54:45"]}
+      ]
+    }
+  ]
+}

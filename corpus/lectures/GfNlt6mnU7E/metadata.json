@@ -1,0 +1,81 @@
+{
+  "video_id": "GfNlt6mnU7E",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "lecture_number": 22,
+  "lecture_in_series": "22/29",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [22/29]",
+  "raw_transcript_sha256": "0fc0fa286d1e41e7b24c60b15a30f2e49e20f79c35c94b0075782b39e2ae090b",
+  "raw_transcript_line_count": 783,
+  "raw_transcript_word_count": 6056,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T14:39:35.165840+00:00",
+  "layer2": {
+    "paragraph_count": 35,
+    "start_timestamp": "00:02",
+    "end_timestamp": "37:00",
+    "recording_complete": false,
+    "ends_mid_sentence": true
+  },
+  "topics": [
+    "Welding codes and standards (AWS D1, ASME BPVC)",
+    "Code economics and update cycles",
+    "Aluminum alloy designations (1xxx through 8xxx series)",
+    "Heat-treatable vs non-heat-treatable aluminum",
+    "Temper designations (O, F, H, W, T1-T7)",
+    "Aluminum alloy weldability",
+    "Crack sensitivity and freezing range",
+    "Heat treatment of aluminum (solutionizing, aging)"
+  ],
+  "cases_referenced": [
+    "AWS D1.1 structural welding code (steel)",
+    "AWS D1.2 structural welding code (aluminum)",
+    "ASME Boiler & Pressure Vessel Code economics ($16,000/3yr)",
+    "California utility wildfire liability from sagging catenaries",
+    "Werner Ladder extrusion process (T1 temper as-extruded)",
+    "Space Shuttle external tank (2219 aluminum)",
+    "Wright brothers engine housing (aluminum-copper)",
+    "GE Appliance Park sheet metal welding",
+    "AWS $40M Miami Beach building / brick donation program"
+  ],
+  "people_named": [
+    "Duane K. Miller (Lincoln Electric, AWS D1 chair)",
+    "Harry Truman (one-armed economist quote)",
+    "Howitt Campbell (Harvard, identity uncertain)",
+    "Mike (prior class presenter on welding symbols)"
+  ],
+  "organizations_named": [
+    "American Welding Society (AWS)",
+    "ASME",
+    "NIST / National Bureau of Standards",
+    "Aluminum Association",
+    "Lincoln Electric",
+    "Hobart",
+    "Butler Buildings",
+    "Walt Disney World",
+    "Shell International",
+    "ConocoPhillips",
+    "Canadian Welding Bureau",
+    "US Army Corps of Engineers",
+    "Massachusetts DOT",
+    "Federal Highway Administration",
+    "Waukesha County Technical College",
+    "General Electric Appliance Park",
+    "Werner Ladder",
+    "Home Depot",
+    "Lowe's",
+    "Boeing",
+    "Airbus",
+    "McDonnell Douglas",
+    "Alcoa"
+  ],
+  "editorial_flags": [
+    "p8: 'Howitt Campbell' identification uncertain",
+    "p9: AWS committee member name spellings ('Sindel', 'Neiman') uncertain",
+    "p17: 'the better that's the wire' — possible content loss in cleanup",
+    "p5, p12: student questions inferred, not audible",
+    "Recording ends mid-sentence at 37:00"
+  ]
+}

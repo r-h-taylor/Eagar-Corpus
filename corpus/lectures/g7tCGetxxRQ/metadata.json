@@ -1,0 +1,82 @@
+{
+  "video_id": "g7tCGetxxRQ",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [28/29]",
+  "lecture_number": 28,
+  "lecture_total": 29,
+  "raw_transcript_sha256": "9d01f9bdd268507511d1a5dcef5f163c26bcda014fd3df7ea1f258ce53f649cc",
+  "raw_transcript_line_count": 856,
+  "raw_transcript_word_count": 6899,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T15:04:15.833608+00:00",
+  "layer2_paragraph_count": 39,
+  "layer2_timestamp_range": "00:03 – 37:12",
+  "primary_topic": "Welding of titanium: processes, Soviet technology transfer, alloy metallurgy, shielding requirements",
+  "principal_cases": [
+    "Gurevich and Soviet titanium welding research (electroslag, semi-submerged GTA)",
+    "Alpha-class Soviet submarine (titanium hull)",
+    "Submerged arc welding of titanium at MIT (1970s, calcium fluoride flux)",
+    "Alvin and Sea Cliff deep-submergence vehicles",
+    "Glomar Explorer / Soviet warhead recovery",
+    "Draper Lab four-foot titanium submarine project (early 1990s)",
+    "TIMET and the economics of small-market alloy mills",
+    "Naval Air Rework Facility titanium compressor case repair (1969)"
+  ],
+  "people_mentioned": [
+    "Gurevich (Soviet titanium welding expert, Paton Institute)",
+    "B. I. Medovar (Soviet electroslag welding pioneer)",
+    "Mariinsky (KGB minder, Soviet exchange delegation)",
+    "Merton C. Flemings (MIT DMSE)",
+    "Kent Bowen (MIT)",
+    "Howard Hughes (Glomar Explorer)",
+    "Gordon (Tom's student, helicopter rotor weld repair, ~1980s)",
+    "President Obama (rhetorical reference)"
+  ],
+  "institutions_mentioned": [
+    "Paton Welding Institute (Kiev)",
+    "MIT",
+    "US Navy / David Taylor Ship Research Center",
+    "Office of Naval Research",
+    "Mare Island Naval Shipyard",
+    "Naval Air Rework Facility (Norfolk)",
+    "Oregon Graduate Center",
+    "Ohio State University",
+    "Watertown Arsenal",
+    "Woods Hole",
+    "NSF",
+    "CIA",
+    "Draper Laboratory",
+    "Pratt & Whitney",
+    "TIMET",
+    "MIT Lincoln Laboratory"
+  ],
+  "materials_systems": [
+    "Commercially pure titanium (grades 1-4)",
+    "Ti-6Al-4V (alpha-beta alloy)",
+    "Higher-strength sheet titanium alloys (180-220 ksi range)",
+    "Calcium fluoride / strontium fluoride welding fluxes",
+    "Beryllium (comparison)",
+    "SR-71 Blackbird (application)"
+  ],
+  "processes_discussed": [
+    "Submerged arc welding (SAW)",
+    "Electroslag welding (ESW)",
+    "Gas metal arc welding (GMAW)",
+    "Gas tungsten arc welding (GTAW)",
+    "Semi-submerged gas tungsten arc welding (Gurevich)",
+    "Glove-bag / argon-atmosphere welding",
+    "Hydrofluoric acid surface dissolution (castings)",
+    "Pickling"
+  ],
+  "era_anchors": [
+    "1960s (Alvin construction, Spain nuclear warhead incident)",
+    "1969 (Tom at Naval Air Rework Facility)",
+    "1974 (Gurevich ceases publishing)",
+    "1980 (Alpha sub revealed; Tom visits Soviet Union)",
+    "Early 1990s (Draper Lab titanium sub project)"
+  ],
+  "notes": "Section is a single continuous teaching unit on titanium welding, opening with admin remarks and Gurevich/KGB anecdote, then moving through welding processes, alpha-case metallurgy, market economics, and naval applications. Several captioner garbles flagged for editorial review (see transformation_log.md). One probable Tom misspeak (world steel production 'a million tons' → 'a billion tons') silently corrected because adjacent arithmetic confirms intent."
+}

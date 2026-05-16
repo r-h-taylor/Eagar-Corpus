@@ -1,0 +1,63 @@
+{
+  "video_id": "6UN5XMqMitk",
+  "course": "Structural Materials Selection",
+  "course_number": "3.371",
+  "term": "Fall 2013",
+  "video_title": "3.371 Structural Materials Selection - Fall 2013 [12/14]",
+  "lecture_number": 12,
+  "lecture_total": 14,
+  "raw_transcript_sha256": "3e8e746310063b0dc4dc6fb0ba34340e6a5f375bd1ab96b2bd585cb69d76a4f5",
+  "raw_transcript_line_count": 1420,
+  "raw_transcript_word_count": 9097,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T06:43:20.209909+00:00",
+  "layer2_paragraph_count": 61,
+  "duration_approx_minutes": 49,
+  "primary_topics": [
+    "aluminum production and corrosion-fatigue (Aloha Airlines 737)",
+    "stress corrosion cracking in Blackhawk/Seahawk tail rotor washers (6061-T6 vs T-73)",
+    "Alcoa Davenport rolling mill and residual stress relief",
+    "Alclad aluminum and continuous co-casting",
+    "America's Cup hydraulic cylinder failure (7075-T6, leak-before-break)",
+    "ratio analysis diagram and Ashby toughness vs strength plot",
+    "periodic table walkthrough of structural materials",
+    "beryllium: properties, berylliosis, non-sparking copper-beryllium tools",
+    "calcium as structural material (Portland cement)",
+    "magnesium: production, alloying, sacrificial anodes, super-corroding Navy composites, flammability, Dow Chemical pricing"
+  ],
+  "named_people": [
+    "Adam Powell",
+    "Professor Paul (unidentified)",
+    "Professor Shu (unidentified)",
+    "Professor Nicholas J. Grant (referenced)",
+    "Professor Ronald Latanision",
+    "Joel Clark",
+    "Dr. Kenney (Joel Clark's doctoral student, flagged)"
+  ],
+  "named_organizations": [
+    "Aloha Airlines",
+    "Alcoa",
+    "Boeing",
+    "Airbus",
+    "McDonnell Douglas",
+    "Sikorsky",
+    "Navtec",
+    "US Navy",
+    "US Army",
+    "US Coast Guard",
+    "Dow Chemical",
+    "Naval Research Laboratory",
+    "MIT"
+  ],
+  "case_anchors_preliminary": [
+    "Aloha Airlines 737 fuselage failure",
+    "Blackhawk/Seahawk tail rotor washer stress-corrosion failure (Arkansas crash)",
+    "Alcoa Davenport rolling mill",
+    "America's Cup hydraulic cylinder (Navtec)",
+    "MIT Manhattan Project beryllium machine shop / berylliosis discovery",
+    "Navy super-corroding magnesium composites (Port Hueneme)",
+    "Dow Chemical magnesium pricing (Clark/Kenney thesis)"
+  ],
+  "editorial_flags_count": 4
+}

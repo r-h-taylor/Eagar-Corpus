@@ -1,0 +1,72 @@
+{
+  "video_id": "zoBMgVdELNc",
+  "course": "Additive Manufacturing",
+  "term": "Fall 2019",
+  "video_title": "2019 09 11",
+  "lecture_date": "2019-09-11",
+  "raw_transcript_sha256": "8472ff7cff2eb8447e016c33f46dfb9ee6de79bb06514d252b8b444657e488e7",
+  "raw_transcript_line_count": 1000,
+  "raw_transcript_word_count": 7775,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T10:08:42.017490+00:00",
+  "layer2_paragraph_count": 45,
+  "speakers": [
+    {
+      "id": "tom",
+      "name": "Thomas W. Eagar",
+      "role": "instructor"
+    },
+    {
+      "id": "dave",
+      "name": "Dave (guest speaker)",
+      "role": "guest",
+      "background": "MIT '64; former house tutor in Tom's fraternity; later VP at Honeywell, CEO of two large chemical companies, president of fibers division of Allied Signal; retired, sits on corporate boards"
+    }
+  ],
+  "themes": [
+    "venture capital critique",
+    "great expectations / overselling of new materials",
+    "amorphous metals (Allied Signal / Metglas)",
+    "intellectual property failure (Chad Graham / U Penn)",
+    "steel industry productivity 1980s",
+    "carbon fiber composites in aerospace",
+    "turbine blade technology",
+    "Molten Metal Technologies scandal",
+    "MIT TLO conflict of interest (John Preston)",
+    "Epstein / Joi Ito Media Lab scandal (contemporaneous)",
+    "additive manufacturing critique (eyeglass hinges, vapor deposition rate)"
+  ],
+  "cases_mentioned": [
+    "graphene",
+    "amorphous metals / Metglas",
+    "Allegheny Ludlum / Dick Simmons",
+    "Tata Steel",
+    "BMW i3 carbon fiber",
+    "Boeing 787 / Airbus A350 composites",
+    "turbine blade cooling / Pratt Whitney",
+    "Molten Metal Technologies",
+    "John Preston / MIT TLO",
+    "Akamai",
+    "Desktop Metals eyeglass hinges",
+    "Digital Alloys",
+    "Pol Duwez splat cooling",
+    "Nick Grant",
+    "Hermann Schenck"
+  ],
+  "people_mentioned": [
+    "Dave (guest)",
+    "Nick Grant",
+    "Chad Graham",
+    "Dick Simmons",
+    "Ratan Tata (Tatas)",
+    "Don Sadoway",
+    "John Preston",
+    "Al Gore",
+    "Joi Ito",
+    "Jeffrey Epstein (Epstein)",
+    "Pol Duwez",
+    "Hermann Schenck"
+  ],
+  "contemporaneous_context": "Recorded September 11, 2019, four days after Joi Ito's resignation from MIT Media Lab over Epstein ties (Sept 7, 2019). Tom references this scandal directly in p32–p33 and uses it as a frame for the Molten Metal Technologies / TLO scandal of the 1990s."
+}

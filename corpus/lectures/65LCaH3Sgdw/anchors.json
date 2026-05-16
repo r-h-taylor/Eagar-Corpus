@@ -1,0 +1,121 @@
+{
+  "lecture_id": "65LCaH3Sgdw",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Spring 2016",
+  "session": "9/12",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Class logistics and rare earth market figures",
+      "section_timestamp_start": "00:00",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:00", "01:27"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:27", "01:40"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p2"], "timestamp_range": ["01:40", "02:58"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p3"], "timestamp_range": ["02:58", "04:08"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p4"], "timestamp_range": ["04:08", "04:53"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p5"], "timestamp_range": ["04:53", "07:07"]},
+        {"l3_id": "§1.p7", "l2_ids": ["p6"], "timestamp_range": ["07:07", "08:45"]},
+        {"l3_id": "§1.p8", "l2_ids": ["p7"], "timestamp_range": ["08:45", "10:00"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Modulus, geometry, and the diamond pad conditioner",
+      "section_timestamp_start": "10:00",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p8"], "timestamp_range": ["10:00", "11:26"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p9"], "timestamp_range": ["11:26", "13:13"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p10"], "timestamp_range": ["13:13", "13:50"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p10"], "timestamp_range": ["13:50", "14:48"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p11"], "timestamp_range": ["14:48", "16:59"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "From Galileo to dislocations",
+      "section_timestamp_start": "16:59",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p12"], "timestamp_range": ["16:59", "18:21"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p13"], "timestamp_range": ["18:21", "19:00"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p13"], "timestamp_range": ["19:00", "20:18"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p14"], "timestamp_range": ["20:18", "21:37"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p15"], "timestamp_range": ["21:37", "22:32"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p16"], "timestamp_range": ["22:32", "23:28"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p17"], "timestamp_range": ["23:28", "25:00"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Griffith, the Liberty ships, and the birth of fracture mechanics",
+      "section_timestamp_start": "25:00",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p18"], "timestamp_range": ["25:00", "26:02"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p19"], "timestamp_range": ["26:02", "26:55"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p20"], "timestamp_range": ["26:55", "28:39"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p21"], "timestamp_range": ["28:39", "29:34"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p22"], "timestamp_range": ["29:34", "30:34"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p23"], "timestamp_range": ["30:34", "31:47"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p24"], "timestamp_range": ["31:47", "32:26"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "The three postwar centers of brittle-fracture research",
+      "section_timestamp_start": "32:26",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p25"], "timestamp_range": ["32:26", "33:32"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p26"], "timestamp_range": ["33:32", "34:24"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p27"], "timestamp_range": ["34:24", "35:09"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p28"], "timestamp_range": ["35:09", "36:17"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The ethanol centrifuge failure",
+      "section_timestamp_start": "36:17",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p29"], "timestamp_range": ["36:17", "38:08"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p30"], "timestamp_range": ["38:08", "39:00"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p30"], "timestamp_range": ["39:00", "39:57"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Pellini's ratio analysis diagrams",
+      "section_timestamp_start": "39:57",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p31"], "timestamp_range": ["39:57", "40:51"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p32"], "timestamp_range": ["40:51", "41:40"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p33"], "timestamp_range": ["41:40", "43:57"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p34"], "timestamp_range": ["43:57", "44:26"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p35"], "timestamp_range": ["44:26", "45:25"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p36"], "timestamp_range": ["45:25", "46:12"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p37"], "timestamp_range": ["46:12", "47:01"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p38"], "timestamp_range": ["47:01", "48:09"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Navtec and the America's Cup hydraulic cylinder",
+      "section_timestamp_start": "48:09",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p39"], "timestamp_range": ["48:09", "50:00"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p40"], "timestamp_range": ["50:00", "51:15"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p41"], "timestamp_range": ["51:15", "51:59"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p42"], "timestamp_range": ["51:59", "53:42"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p43"], "timestamp_range": ["53:42", "54:08"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Closing: aluminum baseball bats and design philosophy",
+      "section_timestamp_start": "54:08",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p44"], "timestamp_range": ["54:08", "55:39"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p45"], "timestamp_range": ["55:39", "56:21"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p46"], "timestamp_range": ["56:21", "57:00"]}
+      ]
+    }
+  ]
+}

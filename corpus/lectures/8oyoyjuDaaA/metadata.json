@@ -1,0 +1,51 @@
+{
+  "video_id": "8oyoyjuDaaA",
+  "course": "Structural Materials Selection",
+  "course_number": "3.371",
+  "term": "Fall 2014",
+  "video_title": "3.371 Structural Materials Selection - Fall 2014 [7/13]",
+  "lecture_number": 7,
+  "lecture_count_in_series": 13,
+  "raw_transcript_sha256": "f06075080f7afb95361d95339ba66e9940ab5d118db2597fa59bba055fd4813f",
+  "raw_transcript_line_count": 1664,
+  "raw_transcript_word_count": 10847,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T02:10:50.837787+00:00",
+  "layer2_paragraph_count": 69,
+  "duration_approx_minutes": 56,
+  "instructor": "Thomas W. Eagar",
+  "co_instructor_referenced": "Dr. Bellmore",
+  "primary_themes": [
+    "competition among materials",
+    "water and gas conveyance pipe history",
+    "corrugated stainless steel tubing and lightning",
+    "chemical bond strength and modulus",
+    "medical implant material constraints (FDA grandfathering)"
+  ],
+  "cases_mentioned": [
+    "Hall-Héroult aluminum process and patent priority",
+    "Boston cast iron water mains (concrete relining)",
+    "copper-plated stainless steel pipe failure in Florida high-rise",
+    "Delrin (polyformaldehyde) plumbing failure and exploding toilets",
+    "Boston gas main leaks and gum-on-pipe anecdote",
+    "CSST and lightning perforation",
+    "NFPA 780 lightning protection standard (copper vs aluminum)",
+    "arthroscopic rongeur stiffness and sapphire/ruby tool proposal",
+    "Tufts silk screws for pediatric jaw fixation"
+  ],
+  "figures_and_constants": [
+    "2000 psi, 42 inch diameter, 0.75 inch wall gas pipeline",
+    "5 coulombs average lightning strike energy",
+    "0.1 coulomb perforates yellow CSST; 5 coulombs perforates improved; 80 coulombs for aluminum-layered",
+    "3 eV per atom chemical bond ceiling; ~400,000 kJ/mol",
+    "modulus: steel ~30 Mpsi (200 GPa); Mo/W ~60 Mpsi; diamond ~150 Mpsi"
+  ],
+  "stage_directions_count": 5,
+  "bracketed_slips_count": 13,
+  "editorial_register_flags": [
+    "Thurler/Thurdler name at p62 (Tufts silk researcher) — likely David Kaplan, verify",
+    "Allegheny Eleven/Ludlum at p21 — verify intended company name",
+    "900 million/billion at p28 (Hoechst Celanese class action) — verify amount"
+  ]
+}

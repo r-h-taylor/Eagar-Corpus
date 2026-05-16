@@ -1,0 +1,73 @@
+{
+  "video_id": "6TFtOotD1Dk",
+  "course": "3.371 Deformation Processing",
+  "term": "Spring 2012",
+  "video_title": "3.371 Deformation Processing - Spring 2012 [7/12]",
+  "lecture_number": 7,
+  "lecture_total": 12,
+  "raw_transcript_sha256": "8369fdc5b74a02a52d44d5b0acada07eb6d0dffa7e908bf0d50f24d77a064be9",
+  "raw_transcript_line_count": 1071,
+  "raw_transcript_word_count": 8182,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T09:26:37.951995+00:00",
+  "layer2": {
+    "paragraph_count": 43,
+    "duration_covered_mmss": "00:03–48:13",
+    "front_matter_present": true
+  },
+  "topics": [
+    "MIT/Harvard merger history (1914–1917)",
+    "George Eastman donation",
+    "project assignment guidance: touchscreen displays, indium tin oxide",
+    "blacksmith forming vs. isothermal forming",
+    "Damascus swords",
+    "super plastic forming of titanium",
+    "buy-to-fly ratio",
+    "stress tensor, principal stresses, hydrostatic stress",
+    "strain tensor, plasticity volume conservation",
+    "biaxial straining and stress",
+    "Tresca yield criterion",
+    "von Mises yield criterion",
+    "cylinder in 111 direction in stress space",
+    "n value (work hardening exponent)",
+    "m value (strain-rate sensitivity)",
+    "Newtonian flow in glass / optical fiber drawing",
+    "super plasticity threshold (m ≈ 0.3)",
+    "plane strain condition",
+    "Hooke's law in multiaxial form",
+    "anisotropy in sheet metal",
+    "R value",
+    "FCC and BCC slip systems",
+    "close-packed planes and directions",
+    "deformation texture in wire drawing"
+  ],
+  "cases_and_examples": [
+    "MIT/Harvard merger collapse 1917",
+    "George Eastman anonymous $6M donation",
+    "Harvard Business School as former engineering school",
+    "indium tin oxide as transparent conductor",
+    "ATM button wear example",
+    "paperclip as project topic (design simplicity)",
+    "Damascus sword quenching legend",
+    "1988 titanium isothermal forging part (28 kg machined from 154 kg)",
+    "Corning optical fiber drawing as Newtonian flow",
+    "1100 aluminum n value example",
+    "Bethlehem Steel trip reports (Tom autobiographical)"
+  ],
+  "people_referenced": [
+    "Thomas Edison",
+    "George Eastman",
+    "Andrew Carnegie",
+    "Robert Hooke",
+    "William F. Hosford (textbook author)",
+    "Walter Backofen (textbook author)",
+    "Dr. Belmar (co-instructor)",
+    "Jeremy (TA, inferred)"
+  ],
+  "tom_slips_bracketed": [
+    {"paragraph": "p4", "spoken": "1990s", "corrected": "1900s"},
+    {"paragraph": "p4", "spoken": "(omitted ordinal)", "corrected": "first"},
+    {"paragraph": "p40", "spoken": "BCC", "corrected": "HCP", "context": "zinc, magnesium, titanium crystal structure"}
+  ]
+}

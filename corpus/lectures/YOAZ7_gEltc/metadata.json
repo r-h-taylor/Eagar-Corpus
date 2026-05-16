@@ -1,0 +1,26 @@
+{
+  "video_id": "YOAZ7_gEltc",
+  "course": "Solid State Welding",
+  "term": "Spring 2013",
+  "video_title": "Friction Welding",
+  "raw_transcript_sha256": "fd170f1071c5f0eef75f89a4458e6caadde157e6a0782fe52a62defebc3c13b5",
+  "raw_transcript_line_count": 523,
+  "raw_transcript_word_count": 3394,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T11:17:30.198244+00:00",
+  "layer2_paragraph_count": 44,
+  "duration_covered": "00:08–24:18",
+  "content_type": "industrial_film_soundtrack",
+  "tom_voice_present": false,
+  "anomaly_flag": true,
+  "anomaly_description": "Recording is the soundtrack of a Manufacturing Technology, Inc. promotional film on inertia welding (c. late 1970s / early 1980s), shown in class. No Tom Eagar lecture content present except a brief room-audio fragment at 22:49 of uncertain attribution. Recommend editor review before producing layer 3.",
+  "captioner_uncertainties_flagged": [
+    {"timestamp": "14:54", "raw": "Monison", "note": "possibly Mannesmann; preserved with [?]"},
+    {"timestamp": "16:03", "raw": "froff", "note": "trailer brake cam manufacturer; possibly Rockwell; preserved with [?]"},
+    {"timestamp": "22:49", "raw": "room audio fragment", "note": "speaker attribution uncertain (Tom? student?); preserved verbatim with stage direction"}
+  ],
+  "silent_corrections_count": 17,
+  "bracketed_slips_count": 0,
+  "stage_directions_count": 1
+}

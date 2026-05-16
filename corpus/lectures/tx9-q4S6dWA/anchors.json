@@ -1,0 +1,25 @@
+{
+  "lecture_id": "tx9-q4S6dWA",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2014",
+  "session": "8/35",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Cupronickel, Monel, and seawater piping",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {
+          "l3_id": "§1.p1",
+          "l2_ids": ["p1"],
+          "timestamp_range": ["00:02", "00:33"]
+        },
+        {
+          "l3_id": "§1.p2",
+          "l2_ids": ["p2"],
+          "timestamp_range": ["00:33", "00:45"]
+        }
+      ]
+    }
+  ]
+}

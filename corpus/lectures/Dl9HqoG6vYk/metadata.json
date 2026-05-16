@@ -1,0 +1,77 @@
+{
+  "video_id": "Dl9HqoG6vYk",
+  "course": "How to be a Successful Engineer",
+  "course_number": "3.371",
+  "term": "Fall 2015",
+  "video_title": "3.371 What is Engineering - Fall 2015 [9/12]",
+  "lecture_number": 9,
+  "lecture_total": 12,
+  "raw_transcript_sha256": "ef68f5340fd90c6241ae0dcb6d4bb7c2a6891fe97c16adf15314d844dbea1ed3",
+  "raw_transcript_line_count": 1114,
+  "raw_transcript_word_count": 9200,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T00:29:20.236288+00:00",
+  "layer2_paragraph_count": 46,
+  "duration_approx_minutes": 52,
+  "speakers": ["Tom Eagar", "Student (unattributed)"],
+  "topics": [
+    "scientist vs engineer distinction",
+    "Brian Josephson and the Josephson effect",
+    "Frank Whittle and the turbine engine",
+    "Rafael Reif / MIT Spectrum quote",
+    "Kahneman system 1 / system 2",
+    "priming effect and politics",
+    "pad eye failure analysis (Johns Hopkins APL case)",
+    "Career anchors (Schein)",
+    "Surviving at MIT heuristics",
+    "Morris Engel and logical fallacies",
+    "scientific method (NFPA Guide)",
+    "forensic consulting tactics under oath",
+    "commercial oven fire / aluminum tube creep case",
+    "Nancy Hopkins / Birgeneau women faculty data case"
+  ],
+  "cases_introduced": [
+    "Johns Hopkins APL pad eye failure",
+    "Church commercial oven fire (aluminum gas tube)",
+    "MIT women faculty salary equity (Hopkins/Birgeneau/Vest)"
+  ],
+  "people_referenced": [
+    "Dave Ragone",
+    "Brian Josephson",
+    "Frank Whittle",
+    "Lord Kelvin",
+    "Rafael Reif",
+    "Daniel Kahneman",
+    "Ed Schein",
+    "John Van Maanen",
+    "Morris Engel",
+    "Aristotle",
+    "Nancy Hopkins",
+    "Bob Birgeneau",
+    "Chuck Vest",
+    "Bob Brown",
+    "Lorna Gibson",
+    "Alex Slocum"
+  ],
+  "books_referenced": [
+    "Thinking, Fast and Slow (Kahneman)",
+    "Career Anchors (Schein)",
+    "The Language Trap / With Good Reason (Engel)",
+    "NFPA Guide for Fire and Explosion Investigations (2014 ed.)",
+    "MIT Spectrum (alumni magazine)",
+    "50 Years at MIT (Eagar, unfinished)"
+  ],
+  "tom_slips_bracketed": [
+    {"raw": "Whipple", "corrected": "Whittle", "paragraph": "p6"},
+    {"raw": "filled", "corrected": "failed", "paragraph": "p18"},
+    {"raw": "confidence", "corrected": "competence", "paragraph": "p26"}
+  ],
+  "flagged_for_review": [
+    {"paragraph": "p16", "issue": "uncertain word: Marine vs patrolman"},
+    {"paragraph": "p29", "issue": "Morris Engel name reconstruction from heavy captioner garble"},
+    {"paragraph": "p33", "issue": "'Laying about flat' utterance unclear"},
+    {"paragraph": "p40", "issue": "'DGA' captioner artifact, meaning unclear"},
+    {"paragraph": "p45", "issue": "assistant dean name 'Darkness Avicii' badly garbled, needs identification"}
+  ]
+}

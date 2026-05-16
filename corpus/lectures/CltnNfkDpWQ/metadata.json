@@ -1,0 +1,58 @@
+{
+  "video_id": "CltnNfkDpWQ",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Fall 2013",
+  "video_title": "3.371 Structural Materials Selection - Fall 2013 [7/14]",
+  "lecture_number": 7,
+  "lecture_total": 14,
+  "raw_transcript_sha256": "b7bb56dabe4895c3faae46e8252da915faa561f843bde9508afcaf479fa77a16",
+  "raw_transcript_line_count": 1623,
+  "raw_transcript_word_count": 10830,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T06:07:01.021622+00:00",
+  "layer2_paragraph_count": 78,
+  "layer2_timestamp_start": "00:05",
+  "layer2_timestamp_end": "54:50",
+  "duration_approx_minutes": 55,
+  "tom_slips_bracketed": [
+    {"raw": "Gordon Ford", "correction": "Gordon Forward", "occurrences": 2, "paragraphs": ["p41", "p50"]}
+  ],
+  "captioner_corrections_count": 14,
+  "inferred_student_turns_count": 7,
+  "primary_topics": [
+    "Steel productivity history (1600–2013)",
+    "Bessemer converter",
+    "Open hearth and Andrew Carnegie",
+    "Basic oxygen furnace and continuous casting",
+    "Mini mills and Chaparral Steel",
+    "Boeing door cost center / sales-per-employee metric",
+    "Jet turbine blade metallurgy and operating temperature",
+    "National Aerospace Plane / Mach 17 scramjet critique"
+  ],
+  "cases_mentioned": [
+    "Bessemer converter (1856)",
+    "Andrew Carnegie / open hearth",
+    "U.S. Steel 450-ton open hearth (1970s misstep)",
+    "Bethlehem Steel Burns Harbor plant",
+    "Chaparral Steel / Gordon Forward",
+    "Clayton Christensen Innovator's Dilemma reference",
+    "Boeing door product center",
+    "Pratt & Whitney directional solidification / Mert Shank",
+    "Tony Giamei article",
+    "CMSX-4 / CMSX-5 rhenium alloys",
+    "Nick Grant platinum anecdote",
+    "Niobium alloy United Technologies $18M misstep",
+    "National Aerospace Plane (NASP, mid-1980s)",
+    "Osama bin Laden ordnance-delivery anecdote"
+  ],
+  "personal_anecdotes": [
+    "Grandfather Thomas Thompson and Andrew Carnegie $25,000 check",
+    "Bethlehem Steel young engineer hospital observation",
+    "Daughter's research for Clayton Christensen",
+    "Saginaw airport sketching the steel mill cost figures",
+    "Nick Grant's first day platinum lecture",
+    "NRC propulsion committee niobium story",
+    "Iacocca / Ford executive hamburger story"
+  ]
+}

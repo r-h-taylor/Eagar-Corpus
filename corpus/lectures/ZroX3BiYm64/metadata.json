@@ -1,0 +1,61 @@
+{
+  "video_id": "ZroX3BiYm64",
+  "course": "Welding Quality",
+  "course_number": "3.371",
+  "course_title_spoken": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [19/35]",
+  "lecture_number_in_series": 19,
+  "lecture_series_total": 35,
+  "raw_transcript_sha256": "4a1c442d92b4e4d97c5fd254d7f9ff9c622a9806c29054550b24fe7f530820aa",
+  "raw_transcript_line_count": 799,
+  "raw_transcript_word_count": 5131,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T18:16:47.340770+00:00",
+  "layer2_paragraph_count": 40,
+  "layer2_starts_at": "00:02",
+  "layer2_ends_at": "27:57",
+  "principal_topics": [
+    "carbon equivalent formulas (CE and Pcm)",
+    "hydrogen control levels H1/H2/H3",
+    "restraint classification (low/medium/high)",
+    "preheat susceptibility tables (A–G groupings)",
+    "HY80, HY100, HY130 weld metal and hydrogen cracking",
+    "HSLA steels and preheat cost savings for surface ships",
+    "submarine vs surface ship conservatism (Pellini explosion bulge test)",
+    "WPS / PQR / welder certification distinction",
+    "AWS pre-qualified welding procedures and their economics",
+    "the cake-baking analogy for WPS/PQR/certification"
+  ],
+  "named_entities": {
+    "people": ["Stout", "Dota", "Pellini"],
+    "organizations": [
+      "American Welding Society (AWS)",
+      "ASME",
+      "Welding Research Council",
+      "Sandia National Lab",
+      "DOE",
+      "Bethlehem Steel",
+      "Caterpillar",
+      "John Deere",
+      "Triangle Engineering",
+      "Ohio State"
+    ],
+    "places": ["Boston", "Miami", "Peoria, Illinois", "Iowa"],
+    "codes_and_standards": [
+      "Structural Welding Code (AWS D1.1, Annex N)",
+      "ASME code",
+      "AWS standard WPS (May 28, 1996, SMAW carbon steel)"
+    ],
+    "materials": ["HY80", "HY100", "HY130", "HSLA steels", "A36 steel", "E6010", "E7018", "6010 cellulosic"]
+  },
+  "editorial_flags": [
+    "L06:43 captioner garbling 'the water codes the susceptibility' — reconstructed",
+    "L06:47 captioner garbling 'zepty grill' — dropped",
+    "L25:52 student question inaudible",
+    "p31 Tom geographical slip (John Deere/Iowa/Peoria) — preserved per §16",
+    "p40 student name 'Jiggo/Jiggle' unrecoverable"
+  ],
+  "next_layer": "layer3 sectioning pending"
+}

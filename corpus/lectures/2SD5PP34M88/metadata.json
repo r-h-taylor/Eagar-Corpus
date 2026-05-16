@@ -1,0 +1,40 @@
+{
+  "video_id": "2SD5PP34M88",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [7/29]",
+  "lecture_number": 7,
+  "lecture_total": 29,
+  "raw_transcript_sha256": "03a37049b3a12c694a8b485091ae5c9d068b739b47258f553f24220178cee41a",
+  "raw_transcript_line_count": 264,
+  "raw_transcript_word_count": 2165,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T13:40:18.492091+00:00",
+  "layer2_paragraph_count": 14,
+  "duration_covered_mmss": "00:10-13:30",
+  "primary_topics": [
+    "manganese sulfide and sulfur control in steel",
+    "carbon steel composition (Fe-Mn-Si-C)",
+    "hardenability vs. hardness",
+    "surface hardening (carburizing, nitriding)",
+    "TTT/CCT transformation diagrams",
+    "weldability of steels and welding procedure development"
+  ],
+  "people_named": [
+    "John Chapman (MIT metallurgy faculty)",
+    "Nick Grant (Nicholas J. Grant, MIT metallurgy faculty)",
+    "Jonathan (student in class)",
+    "Dr. Belmar [?] (uncertain transcription)"
+  ],
+  "works_referenced": [
+    "Weldability of Steels (4th ed., ~1985)",
+    "Metals Handbook (transformation diagram reference)",
+    "Structural Welding Code"
+  ],
+  "stage_directions_count": 1,
+  "bracketed_slips_count": 0,
+  "uncertain_readings_count": 1,
+  "notes": "Continuation lecture; opens mid-discussion of Mn-S phase diagram from prior session. Closes with 'that's it until tomorrow' indicating daily-meeting cadence."
+}

@@ -1,0 +1,50 @@
+{
+  "video_id": "FbVfohm67zw",
+  "course": "How to be a Successful Engineer",
+  "course_number": "3.371",
+  "term": "Fall 2015",
+  "video_title": "3.371 What is Engineering - Fall 2015 [7/12]",
+  "lecture_number_in_series": 7,
+  "lecture_total_in_series": 12,
+  "raw_transcript_sha256": "920e9b4618359e132559c701de40607f47a03be841b71f6fc0db5fd89bf37057",
+  "raw_transcript_line_count": 1218,
+  "raw_transcript_word_count": 9937,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T00:14:53.243641+00:00",
+  "layer2_paragraph_count": 57,
+  "duration_approx_minutes": 55,
+  "primary_topics": [
+    "paperclips as a structural materials case",
+    "Young's modulus and the Lennard-Jones potential",
+    "science vs engineering vs medicine",
+    "the transistor as engineering, not basic science",
+    "Lord Kelvin on measurement",
+    "leaders vs managers (Nibley)",
+    "Asian vs Western academic culture",
+    "advisor-student mentorship style",
+    "respect for support staff (custodians, hourly workers)",
+    "the Honeywell plastic plant turnaround anecdote"
+  ],
+  "recurring_cases": [
+    "Bardeen-Shockley-Brattain transistor",
+    "Hartzell Propeller (MIT-grad president, parking lot)",
+    "Honeywell plastic sheet plant (the donut intervention)",
+    "Mark, the Taiwanese doctoral student who learned he could do anything",
+    "MIT department-head Christmas breakfast for custodians"
+  ],
+  "figures_referenced": [
+    "Lord Kelvin (measurement quote)",
+    "Hugh Nibley (Leaders to Managers: The Fatal Shift, early 1980s)",
+    "Theodore von Karman (create something that never was)",
+    "Bardeen, Shockley, Brattain (transistor)",
+    "Professor Cohen (Institute Professor in Course 3)"
+  ],
+  "editorial_flags": [
+    "Tewmen (p29) — unidentified place",
+    "Jodo C (p41, p51) — admin officer name unverifiable",
+    "fluffy (p35) — possible captioner garbling",
+    "chip and rub up (p51) — possible captioner garbling",
+    "unrecoverable fragments in p32 and p49"
+  ]
+}

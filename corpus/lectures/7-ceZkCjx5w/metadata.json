@@ -1,0 +1,51 @@
+{
+  "video_id": "7-ceZkCjx5w",
+  "course": "Codes and Standards for Safety",
+  "course_number": "3.371",
+  "term": "Fall 2012",
+  "video_title": "3.371 Codes and Standards - Fall 2012 [13/14]",
+  "lecture_number": 13,
+  "lecture_total": 14,
+  "instructor": "Thomas W. Eagar",
+  "guest_next_session": "Dr. Belmar (Simone)",
+  "raw_transcript_sha256": "b40e169e3df6ab6159174cecb579d247442016d2b8a2facb2463379fd06fecc7",
+  "raw_transcript_line_count": 1312,
+  "raw_transcript_word_count": 9582,
+  "layer2_paragraph_count": 49,
+  "duration_approx_minutes": 53,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T01:49:51.863753+00:00",
+  "primary_themes": [
+    "shaving of safety factors",
+    "bulking up of safety factors",
+    "fracture toughness / Charpy test",
+    "Liberty ships",
+    "Alaskan Pipeline / gas pipeline fracture criteria",
+    "V-22 Osprey crash",
+    "Boeing 747-400 catalytic converter spec",
+    "MAP gas cylinders",
+    "fire sprinkler heads",
+    "corrugated stainless steel tubing (CSST) lightning failures"
+  ],
+  "cases_mentioned": [
+    "X-33 space plane",
+    "Battery plant roof collapse (Pennsylvania)",
+    "Liberty ships / SS Schenectady / Esso tanker",
+    "Quincy Shipyard LNG tanker skirts (A537 steel)",
+    "Alaskan Pipeline / Prudhoe Bay",
+    "Iran embassy rescue attempt (1979)",
+    "bin Laden assassination raid",
+    "V-22 Osprey Ship 4 crash (Patuxent River)",
+    "Boeing 747-400 catalytic converter weld spec",
+    "MAP gas cylinder plumber/cigar incident",
+    "Fire sprinkler head storage",
+    "CSST lightning fires"
+  ],
+  "captioner_error_corrections": 22,
+  "tom_spoken_slips_bracketed": 2,
+  "items_flagged_for_editor": [
+    "p8: 'Don[?]' — unclear referent",
+    "p5: 'Esso' ship name — verify against 1946 Navy report ship list"
+  ]
+}

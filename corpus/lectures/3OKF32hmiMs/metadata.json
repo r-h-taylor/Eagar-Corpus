@@ -1,0 +1,43 @@
+{
+  "video_id": "3OKF32hmiMs",
+  "course": "Additive Manufacturing",
+  "term": "Fall 2019",
+  "video_title": "2019 09 26",
+  "lecture_date": "2019-09-26",
+  "raw_transcript_sha256": "78360bc979707484d0fac77d9cfd6ecce5d6ef4a8b7eff9fba6b6591fb49ef0d",
+  "raw_transcript_line_count": 1153,
+  "raw_transcript_word_count": 9134,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T10:36:15.146352+00:00",
+  "lecture_format": "guest_presentation_with_qa",
+  "primary_speaker": "Alex Stephens (VP Business Development, Digital Alloys)",
+  "moderator": "Thomas W. Eagar",
+  "speaker_attribution_in_layer2": true,
+  "layer2_paragraph_count": 60,
+  "lecture_duration_estimate_minutes": 51,
+  "topics": [
+    "metal additive manufacturing taxonomy",
+    "Joule Printing (Digital Alloys process)",
+    "wire feedstock vs. powder feedstock economics",
+    "conformally cooled tooling",
+    "thermal management and residual stresses in 3D printing",
+    "isotropy vs anisotropy in printed parts",
+    "near net shape processes",
+    "aerospace titanium applications (Boeing)",
+    "automotive tool steel applications (Ford)",
+    "hybrid CNC + printing machines"
+  ],
+  "cases_referenced": [
+    "Stratasys (FDM, PolyJet)",
+    "Carbon (DLP)",
+    "Digital Alloys (Joule Printing)",
+    "Desktop Metal (binder jet)",
+    "Boeing (titanium aerospace)",
+    "Ford (automotive stamping dies)",
+    "Lincoln Electric (welding wire supplier)"
+  ],
+  "tom_spoken_slips": [],
+  "captioner_garblings_flagged_for_editorial_review": 5,
+  "notes": "Guest lecture by Alex Stephens of Digital Alloys. Tom Eagar appears in moderator and interjector role only; he introduces the speaker, asks clarifying questions, and adds metallurgical context at key points (p21 chemical milling, p25 alloy specifics, p32 thermal management history, p36 widmanstätten microstructure, p51 die economics, p58 binder jet). The audio quality on the captioner side appears to be poor for Tom's interjections (multiple unresolvable garblings); Alex's presenter audio is much cleaner. Section breaks for Layer 3 should track Alex's teaching units: (s1) self-introduction and overview of metal AM taxonomy; (s2) business value drivers — prototyping, tooling, machined-part replacement; (s3) thermal management, microstructure, materials limitations; (s4) Joule Printing process described; (s5) toolpath and isotropy/multi-metal future; (s6) target applications — aerospace titanium, automotive tool steel; (s7) hybrid machines and process selection."
+}

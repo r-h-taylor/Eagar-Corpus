@@ -1,0 +1,78 @@
+{
+  "video_id": "01D4_i5L5gk",
+  "course": "Additive Manufacturing",
+  "term": "Fall 2019",
+  "video_title": "2019 09 04",
+  "session_date": "2019-09-04",
+  "session_role": "course introduction / first day",
+  "lecturer": "Thomas W. Eagar",
+  "duration_seconds_approx": 2940,
+  "raw_transcript_sha256": "4bdde81f8dc42528b3b51d52c39d8fe229b7e1668cede554b2871216527cc7a3",
+  "raw_transcript_line_count": 1058,
+  "raw_transcript_word_count": 8504,
+  "layer2_paragraph_count": 54,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-11T22:18:43.742778+00:00",
+  "topics_covered": [
+    "course logistics and module structure",
+    "attendance and grading policy (no quizzes, no finals, 10-page paper, summaries, peer review)",
+    "Eagar's teaching philosophy (anti-derivation, anti-test-prep)",
+    "history of MIT vs Caltech (Noyes/Walker/Edison)",
+    "MIT Practice School",
+    "additive manufacturing preview (Digital Alloys, Desktop Metals, electron-beam parts)",
+    "World Trade Center collapse article and the 'truthers'",
+    "PowerPoint critique (Tufte, Gettysburg Address)"
+  ],
+  "named_persons": [
+    "Chris Schuh",
+    "Brian Holman",
+    "Giancarlo",
+    "Jerry Hills",
+    "Simone Belmar",
+    "Neil Jenkins",
+    "Steve Lyons",
+    "Mike Tarkanian",
+    "Vera Kistiakowsky",
+    "Arthur Amos Noyes",
+    "William Walker",
+    "Arthur D. Little",
+    "William Barton Rogers",
+    "Thomas Edison",
+    "Robert A. Millikan",
+    "Henry Bessemer",
+    "Edward Tufte"
+  ],
+  "named_organizations": [
+    "MIT",
+    "Caltech",
+    "Throop Institute of Technology",
+    "Sloan School",
+    "Digital Alloys",
+    "Desktop Metals",
+    "Boeing",
+    "US Navy",
+    "MIT Technology Review",
+    "National Research Council",
+    "JOM (journal)",
+    "BMW",
+    "Arthur D. Little"
+  ],
+  "flagged_for_editor_review": [
+    "Simone Belmar — spelling uncertain",
+    "Eagar Spring 2016 — likely slip for Spring 2015",
+    "p46 'are healthy' — possible captioner error for 'helpful'",
+    "p53 Gettysburg Address garbling — not reconstructed",
+    "p4 'Toby's stories' — partial recovery of student evaluation phrase",
+    "p1 'ten years over the peers' — idiom recovery uncertain"
+  ],
+  "tom_slips_bracketed": [
+    {"paragraph": "p44", "raw": "Spring 2016", "corrected": "Spring 2015", "type": "memory slip"}
+  ],
+  "captioner_corrections_silent": [
+    "Chris Schuh", "Vera Kistiakowsky", "Arthur Amos Noyes", "Arthur D. Little",
+    "Millikan", "mens et manus", "Throop", "Fick's law", "Fourier's first law",
+    "Inconel", "BMW i3", "Stellar", "Costco", "eagar.mit.edu",
+    "percent restorations", "Henry Bessemer"
+  ]
+}

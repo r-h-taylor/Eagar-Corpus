@@ -1,0 +1,54 @@
+{
+  "video_id": "cjom37YsqTM",
+  "course": "Deformation Processing",
+  "course_number": "3.371",
+  "term": "Spring 2012",
+  "video_title": "3.371 Deformation Processing - Spring 2012 [3/12]",
+  "lecture_number_in_series": 3,
+  "lecture_total_in_series": 12,
+  "raw_transcript_sha256": "f832c0e9e3da1274faff9e6bf0bdc9b2826b35db92a021c1e8249fd1fbc38b50",
+  "raw_transcript_line_count": 1196,
+  "raw_transcript_word_count": 9360,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T08:57:38.615148+00:00",
+  "layer2_paragraph_count": 41,
+  "layer2_start_timestamp": "00:02",
+  "layer2_end_timestamp": "50:16",
+  "duration_approx_minutes": 50,
+  "primary_topics": [
+    "tolerances and precision measurement",
+    "gauge blocks and thermal expansion",
+    "aluminum can manufacturing (Alcoa)",
+    "cold heading / extrusion",
+    "progressive dies",
+    "friction in deformation processing",
+    "inhomogeneous deformation",
+    "redundant deformation",
+    "deformation zone geometry (Delta)",
+    "alligatoring and residual stress defects",
+    "molybdenum rolling (Philips Elmet)",
+    "Blackhawk helicopter washer failure case"
+  ],
+  "recurring_referents": {
+    "Backofen": "Walter A. Backofen, MIT — textbook author, source of figures",
+    "Hosford": "William F. Hosford — assigned textbook",
+    "Making, Shaping and Treating of Steel": "US Steel / AISI publication, 11th edition",
+    "Joel Clark": "MIT materials economics professor",
+    "Ferro Catrakis": "Joel Clark's first PhD student, ~1976-77, Charles River Associates",
+    "Philips Elmet": "Maine firm, tungsten/molybdenum alloys",
+    "Don Blickwede [?]": "Bethlehem Steel VP Research, MIT alum, Tom's first boss"
+  },
+  "stage_directions_count": 5,
+  "tom_spoken_slips_bracketed": [
+    {"paragraph": "p21", "slip": "frictional", "correction": "frictionless"},
+    {"paragraph": "p35", "slip": "aluminum trioxide", "correction": "molybdenum trioxide"}
+  ],
+  "items_flagged_for_editor": [
+    {"paragraph": "p1", "issue": "forest material likely porous material"},
+    {"paragraph": "p8", "issue": "Ferro Catrakis name spelling uncertain"},
+    {"paragraph": "p11", "issue": "Beeran referent unclear"},
+    {"paragraph": "p37", "issue": "Don Bliclet likely Don Blickwede"},
+    {"paragraph": "p33", "issue": "applause sound cause unclear"}
+  ]
+}

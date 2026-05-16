@@ -1,0 +1,89 @@
+{
+  "video_id": "xkHiipw7N9Y",
+  "course": "Recitations",
+  "term": "Fall 2018",
+  "video_title": "2018-09-05",
+  "session_type": "orientation_first_meeting",
+  "duration_approx_minutes": 51,
+  "raw_transcript_sha256": "9ec55c9f0fb1932669c5362024e1181ff434d31c17cb1db38189852090586f22",
+  "raw_transcript_line_count": 1129,
+  "raw_transcript_word_count": 9192,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-11T22:11:56.233265+00:00",
+  "layer2_paragraph_count": 59,
+  "topics": [
+    "course administration",
+    "distance education history (GM, Stanford tutored video instruction)",
+    "flipped classroom model",
+    "course requirements (36 lectures, 10-page paper, module outlines)",
+    "Tom's teaching philosophy (stories, no quizzes, simplification)",
+    "MIT educational culture (humility, integration skills)",
+    "total quality management (IBM CDQ, Thresher, SUBSAFE)",
+    "USS Thresher disaster",
+    "HMS Sheffield / Falklands War",
+    "Edward Tufte and PowerPoint critique",
+    "Lou Gerstner at IBM",
+    "World Trade Center collapse article",
+    "Occam's razor"
+  ],
+  "named_people": [
+    "Tom Eagar",
+    "Brian Hellman",
+    "Simone Belmar",
+    "Steve Lyons",
+    "Neil Jenkins",
+    "Paul Gray",
+    "Chuck Vest",
+    "Vera Kistiakowsky",
+    "Lou Gerstner",
+    "Edward Tufte",
+    "William of Ockham",
+    "Hyman Rickover"
+  ],
+  "named_institutions": [
+    "MIT",
+    "MIT Sloan School",
+    "General Motors",
+    "Stanford University",
+    "Rensselaer Polytechnic",
+    "Purdue University",
+    "IBM",
+    "Naval Sea Systems Command",
+    "NSF",
+    "Yale"
+  ],
+  "cases_mentioned": [
+    "USS Thresher disaster",
+    "HMS Sheffield (Falklands)",
+    "World Trade Center collapse",
+    "IBM Customer Driven Quality program",
+    "Toyota Production System",
+    "pole vault pole composite",
+    "HMS Titanic (student paper topic)",
+    "Japanese sword-smithing (student paper topic)"
+  ],
+  "tom_slips_bracketed": [
+    {"paragraph": "p1", "raw": "Tommy ger", "corrected": "Tom Eagar"},
+    {"paragraph": "p15", "raw": "What's the feet", "corrected": "What's the fif—"},
+    {"paragraph": "p49", "raw": "he didn't we'll", "corrected": "didn't want to"},
+    {"paragraph": "p58", "raw": "ribbon to it", "corrected": "refer to it"}
+  ],
+  "captioner_errors_corrected_silent": [
+    {"paragraph": "p18", "raw": "press key", "corrected": "Kresge"},
+    {"paragraph": "p20", "raw": "Vera Castilla Kowski", "corrected": "Vera Kistiakowsky"},
+    {"paragraph": "p30", "raw": "sub safe", "corrected": "SUBSAFE"},
+    {"paragraph": "p47", "raw": "Chuck vest", "corrected": "Chuck Vest"},
+    {"paragraph": "p48", "raw": "CDM", "corrected": "CDQ"},
+    {"paragraph": "p52", "raw": "akhom their alarm", "corrected": "Occam — d'Ockham"},
+    {"paragraph": "p55", "raw": "Lucas Kershner", "corrected": "Lou Gerstner"},
+    {"paragraph": "p6", "raw": "Adelaide video", "corrected": "delayed video"}
+  ],
+  "flagged_for_editorial_review": [
+    "Spelling of 'Simone Belmar' (likely Simon Bellemare or similar)",
+    "Tom's factual claim that Vera Kistiakowsky's father won the Nobel Prize (George Kistiakowsky did not win the Nobel)",
+    "Inaudible student question at p38",
+    "Spelling of 'Brian Hellman'"
+  ],
+  "notes": "Orientation/first-meeting session. No structural-materials teaching content; entirely administrative + philosophical. Layer 3 sectioning may be unusual for this lecture — consider whether to skip L3 entirely or produce a condensed administrative summary. The session is largely free of the case-study material that anchors the rest of the corpus."
+}

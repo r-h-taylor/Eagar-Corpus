@@ -1,0 +1,109 @@
+{
+  "lecture_id": "HuLV8P6ouwA",
+  "course": "3.080 Materials Selection and Economics",
+  "term": "Fall 2017",
+  "session": "2017-09-12",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Closing the externalities thread: regulation, IP, offsets, transportation",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:02", "00:44"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:44", "01:39"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:39", "02:41"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["02:41", "03:28"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["03:28", "04:22"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p6"], "timestamp_range": ["04:22", "05:16"]},
+        {"l3_id": "§1.p7", "l2_ids": ["p7"], "timestamp_range": ["05:16", "06:06"]},
+        {"l3_id": "§1.p8", "l2_ids": ["p8"], "timestamp_range": ["06:06", "07:09"]},
+        {"l3_id": "§1.p9", "l2_ids": ["p9"], "timestamp_range": ["07:09", "08:20"]},
+        {"l3_id": "§1.p10", "l2_ids": ["p10"], "timestamp_range": ["08:20", "09:42"]},
+        {"l3_id": "§1.p11", "l2_ids": ["p11"], "timestamp_range": ["09:42", "10:43"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Cost, availability, and the materials-usage chart",
+      "section_timestamp_start": "10:43",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p12"], "timestamp_range": ["10:43", "11:13"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p13"], "timestamp_range": ["11:13", "11:54"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p14"], "timestamp_range": ["11:54", "13:14"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p15"], "timestamp_range": ["13:14", "13:44"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p16"], "timestamp_range": ["13:44", "15:10"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p17"], "timestamp_range": ["15:10", "15:44"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p18"], "timestamp_range": ["15:44", "16:31"]},
+        {"l3_id": "§2.p8", "l2_ids": ["p19"], "timestamp_range": ["16:31", "17:30"]},
+        {"l3_id": "§2.p9", "l2_ids": ["p20"], "timestamp_range": ["17:30", "18:36"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Energy as the cost driver: steel, oil, and the hydrogen economy",
+      "section_timestamp_start": "18:36",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p21"], "timestamp_range": ["18:36", "19:24"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p22"], "timestamp_range": ["19:24", "20:27"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p23"], "timestamp_range": ["20:27", "21:18"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p24"], "timestamp_range": ["21:18", "22:35"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p25"], "timestamp_range": ["22:35", "23:16"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p26"], "timestamp_range": ["23:16", "24:07"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p27"], "timestamp_range": ["24:07", "25:07"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p28"], "timestamp_range": ["25:07", "25:54"]},
+        {"l3_id": "§3.p9", "l2_ids": ["p29"], "timestamp_range": ["25:54", "26:36"]},
+        {"l3_id": "§3.p10", "l2_ids": ["p30"], "timestamp_range": ["26:36", "27:25"]},
+        {"l3_id": "§3.p11", "l2_ids": ["p31"], "timestamp_range": ["27:25", "28:35"]},
+        {"l3_id": "§3.p12", "l2_ids": ["p32"], "timestamp_range": ["28:35", "29:10"]},
+        {"l3_id": "§3.p13", "l2_ids": ["p33"], "timestamp_range": ["29:10", "29:10"]},
+        {"l3_id": "§3.p14", "l2_ids": ["p34"], "timestamp_range": ["29:10", "30:23"]},
+        {"l3_id": "§3.p15", "l2_ids": ["p35"], "timestamp_range": ["30:23", "30:27"]},
+        {"l3_id": "§3.p16", "l2_ids": ["p36"], "timestamp_range": ["30:27", "31:13"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Ashby plots and the geography of material selection",
+      "section_timestamp_start": "31:13",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p37"], "timestamp_range": ["31:13", "32:11"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p38"], "timestamp_range": ["32:11", "32:48"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p39"], "timestamp_range": ["32:48", "34:13"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p40"], "timestamp_range": ["34:13", "35:37"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p41"], "timestamp_range": ["35:37", "36:27"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p42"], "timestamp_range": ["36:27", "37:08"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p43"], "timestamp_range": ["37:08", "37:13"]},
+        {"l3_id": "§4.p8", "l2_ids": ["p44"], "timestamp_range": ["37:13", "37:53"]},
+        {"l3_id": "§4.p9", "l2_ids": ["p45"], "timestamp_range": ["37:53", "39:05"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Scandium, plating, and the gold capital of the world",
+      "section_timestamp_start": "39:05",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p46"], "timestamp_range": ["39:05", "41:06"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p47"], "timestamp_range": ["41:06", "41:52"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p48"], "timestamp_range": ["41:52", "42:08"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p49"], "timestamp_range": ["42:08", "43:15"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p50"], "timestamp_range": ["43:15", "43:22"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p51"], "timestamp_range": ["43:22", "44:54"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Value of weight saved and the automotive sweet spot",
+      "section_timestamp_start": "44:54",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p52"], "timestamp_range": ["44:54", "45:40"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p53"], "timestamp_range": ["45:40", "46:54"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p54"], "timestamp_range": ["46:54", "48:44"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p55"], "timestamp_range": ["48:44", "49:51"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p56"], "timestamp_range": ["49:51", "51:29"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p57"], "timestamp_range": ["51:29", "53:17"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p58"], "timestamp_range": ["53:17", "53:43"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p59"], "timestamp_range": ["53:43", "55:30"]}
+      ]
+    }
+  ]
+}

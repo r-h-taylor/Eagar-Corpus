@@ -1,0 +1,40 @@
+{
+  "video_id": "WV6COuYpZuk",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "lecture_number": 16,
+  "lecture_total": 29,
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [16/29]",
+  "lecturer": "Mike Balfour (guest)",
+  "lecturer_role": "guest lecturer; Prof. Eagar present and occasionally interjecting",
+  "topic_primary": "Weld inspection and Certified Welding Inspectors",
+  "topics": [
+    "Definition of quality in manufactured products",
+    "Discontinuity vs. defect",
+    "Welding codes, specifications, recommended practices, guides",
+    "AWS D1.1 Structural Welding Code",
+    "Role and duties of the Certified Welding Inspector (CWI)",
+    "CWI certification requirements (education, experience, exam, vision)",
+    "CWI personal attributes (KASH: Knowledge, Attitude, Skills, Habits)",
+    "Welding positions (1F/2F/1G/2G/5G/6G/6GR etc.)",
+    "Joint types (butt, corner, T, lap, edge)",
+    "Edge preparations (single/double bevel, J-groove, U-groove)",
+    "Welding symbols (reference line, arrow, tail, weld symbol vs. welding symbol)",
+    "Electrode identification systems (SMAW, GMAW, FCAW, SAW)",
+    "Structure of the AWS D1.1 code"
+  ],
+  "cases_referenced": [
+    "Mike Balfour's prior National Lab work on nuclear weapon components (every-part inspection example)",
+    "Automotive parts (statistical sampling example)"
+  ],
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T14:15:36.476986+00:00",
+  "raw_transcript_sha256": "7ee4bd63f81edcc7281962222ae7b5858a0e0080c37f5b5c40c7d923eb34d901",
+  "raw_transcript_line_count": 766,
+  "raw_transcript_word_count": 5706,
+  "layer2_paragraph_count": 66,
+  "layer2_time_span": "[00:07] – [37:12]",
+  "notes": "Guest lecture by Mike Balfour. Tom Eagar audibly interjects briefly (inaudible on auto-captions) during the welding symbols discussion around 28:00–29:00. The captioner produces unusually heavy duplicate-line artifacts in this transcript; many cleanup decisions were duplicate-line removal rather than substantive editorial choices. Several technical proper-noun captioner errors (porosity→paracity, fillet→Philip, E7018→e718, flux-cored→flux cord) corrected silently. One probable factual slip by Mike (D1.3 as aluminum code; canonically D1.2) preserved per convention §16 and flagged for the editorial register."
+}

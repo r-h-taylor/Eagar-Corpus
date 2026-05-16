@@ -1,0 +1,72 @@
+{
+  "video_id": "U8oDDDozYqs",
+  "course": "3.371 Codes and Standards",
+  "course_subtitle": "Codes and Standards Definitions and History",
+  "term": "Fall 2012",
+  "lecture_number": 2,
+  "lecture_total": 14,
+  "video_title": "3.371 Codes and Standards - Fall 2012 [2/14]",
+  "raw_transcript_sha256": "92cf2a0ee502a4d433b55bd22e1e10883d9fef73932f7e9b9fe1fa97d4b7df22",
+  "raw_transcript_line_count": 1341,
+  "raw_transcript_word_count": 8720,
+  "layer2_paragraph_count": 87,
+  "duration_observed_mmss": "51:32",
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T00:28:31.583399+00:00",
+  "topics": [
+    "measurement extremes: sublime vs ridiculous",
+    "LIGO interferometer precision",
+    "spark testing for steel composition",
+    "in-class material identification lab (19 balls)",
+    "length measurement: tape, ruler, calipers, gauge blocks",
+    "thermal expansion limits on precision",
+    "semiconductor manufacturing tolerances",
+    "shipbuilding manufacturing tolerances",
+    "weight/mass measurement: gravimetric, fire assay for gold",
+    "time measurement: mechanical to quartz to atomic clocks"
+  ],
+  "cases_mentioned": [
+    "LIGO (Laser Interferometric Gravitational Observatory)",
+    "Ray Weiss (MIT physics, LIGO co-PI)",
+    "NIST F1 atomic clock",
+    "Katharine Gebbie (NIST)",
+    "Fire assay for gold purity",
+    "Cow magnets (400-series stainless)",
+    "Johansson/Joe gauge blocks",
+    "Intel semiconductor lithography",
+    "Shipbuilding precision tolerances"
+  ],
+  "physical_props_used": [
+    "grinder and steel rod samples (1018, 1045, 440C, M50, alloy steels)",
+    "19 half-inch balls of various materials (brass, aluminum, low carbon steel, 300/440 stainless, tool steel, two rubbers including Viton, Torlon, acrylic, polystyrene, tungsten carbide, aluminum oxide, silicon nitride, nylon, etc.)",
+    "magnets including cow magnet",
+    "Farberware stainless pot (304 base, magnetic upper)",
+    "tape measure",
+    "machinist ruler",
+    "vernier caliper with dial gauge",
+    "chromium-carbide gauge blocks (Starrett/Webber, traditionally Johansson)"
+  ],
+  "editorial_flags": [
+    {
+      "paragraph": "p6",
+      "issue": "Tom says LIGO Louisiana site is in Lafayette; it is actually in Livingston, Louisiana",
+      "disposition": "preserve, footnote in layer 3 if misleading"
+    },
+    {
+      "paragraph": "p24",
+      "issue": "'911 department CMS' — captioner garble or Tom slip; likely course 22 (NSE) or DMSE reference",
+      "disposition": "rendered as '911 [course 22] department, CMSE [DMSE]'; flag for editor review"
+    },
+    {
+      "paragraph": "p44",
+      "issue": "Tom states paraffin formula as 'C2N H2N+2' — incorrect (should be CnH2n+2)",
+      "disposition": "preserve as Tom said it; footnote in layer 3 only if misleading"
+    },
+    {
+      "paragraph": "p72",
+      "issue": "'Catherine Gebbie' — likely Katharine Gebbie of NIST",
+      "disposition": "spelling preserved as captioned; may normalize in layer 3"
+    }
+  ]
+}

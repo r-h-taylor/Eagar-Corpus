@@ -1,0 +1,42 @@
+{
+  "video_id": "LLiigEgH8Eo",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Summer 2015",
+  "video_title": "3.371 Welding Metallurgy - Summer 2015 [14/18]",
+  "lecture_number": 14,
+  "lecture_count_in_series": 18,
+  "raw_transcript_sha256": "50b9466d442fd14ea45a9d7aa7efafbbf772f0b2312a0a172173cb1c4b87445c",
+  "raw_transcript_line_count": 549,
+  "raw_transcript_word_count": 4351,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T16:24:41.496209+00:00",
+  "layer2_paragraph_count": 24,
+  "duration_covered_mmss_start": "00:04",
+  "duration_covered_mmss_end": "27:08",
+  "transcript_quality": "poor",
+  "transcript_quality_notes": "Heavy captioner damage throughout. Multiple passages preserved verbatim because unambiguous correction would require guessing. Flagged passages: p2 (barn cross-sections / light elements), p6 (landing-gear force absorption), p7 (Coast Guard anecdote), p13 (Navy magnesium-carbon battery), p17 (Honeywell brake leasing). Layer 3 will require editorial judgment on these.",
+  "primary_topics": [
+    "lightweight structural alloys",
+    "aluminum alloy series (1000-8000)",
+    "magnesium alloys and corrosion",
+    "titanium alloys (crystal bar process, Ti-6Al-4V, Ti-100)",
+    "high-strength steels for landing gear",
+    "carbon-carbon composite aircraft brakes",
+    "power-by-the-hour aviation maintenance economics"
+  ],
+  "cases_or_anecdotes_present": [
+    "crystal bar titanium production (DuPont, ~$30/foot)",
+    "Air Force turbine blade refurbishment (Oklahoma City)",
+    "Boeing 747 fuselage-to-wing four-bolt attachment",
+    "Boeing 777 brake-fire certification test",
+    "Honeywell brake leasing model",
+    "Pratt Whitney / GE power-by-the-hour engine leasing",
+    "Space Shuttle main tank (2219 aluminum)",
+    "Wright brothers crankcase weldability",
+    "Navy magnesium-carbon hydrogen-generating salvage device",
+    "Deer Island sewage treatment plant (aluminum construction)",
+    "Boy Scout aluminum foil dinner heat-transfer lesson"
+  ]
+}

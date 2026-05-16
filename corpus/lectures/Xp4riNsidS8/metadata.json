@@ -1,0 +1,62 @@
+{
+  "video_id": "Xp4riNsidS8",
+  "course": "3.371 Deformation Processing",
+  "term": "Spring 2012",
+  "lecture_number": 8,
+  "lecture_in_series": "8/12",
+  "video_title": "3.371 Deformation Processing - Spring 2012 [8/12]",
+  "raw_transcript_sha256": "7b72d732a09b9f3ceb7c2171f2c5f3ed379de74ff5cfe5e4cf9aee18ff01f0d1",
+  "raw_transcript_line_count": 1200,
+  "raw_transcript_word_count": 9512,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T09:32:17.664408+00:00",
+  "layer2": {
+    "paragraph_count": 39,
+    "start_timestamp": "00:04",
+    "end_timestamp": "52:12",
+    "duration_minutes_approx": 52,
+    "topics": [
+      "sheet metal property parameters (n, R, m values)",
+      "R-value measurement via ultrasonics (US Steel modul-R machine)",
+      "slip systems and the five-independent-slip-systems rule",
+      "Backofen analysis of cube-on-face, cube-on-edge, cube-on-corner textures",
+      "R-value tables for low carbon steel, HSLA, copper, brass, aluminum, zinc, alpha titanium",
+      "twinning in hexagonal close-packed crystals",
+      "c/a ratio and twinning tendency",
+      "Dion Lee biaxial yield data for alpha titanium",
+      "pressure vessel failure case (Mississippi, 2200 psi nitrogen)",
+      "Edison New Jersey pipeline failure case",
+      "cup-and-cone fracture and texture",
+      "Charpy impact testing",
+      "wire drawing and wavy slip in BCC niobium / piano wire",
+      "elevator cable failure case (New Jersey prison)",
+      "hydrogen embrittlement without intergranular fracture",
+      "cup drawing mechanics and earring"
+    ],
+    "stage_directions_count": 6,
+    "bracketed_corrections_count": 4,
+    "flagged_for_editorial_review": [
+      "p14: cube-on-face/cube-on-edge texture notation (Tom said '110' for both)",
+      "p19: c/a ratio given as √3 rather than √(8/3) — possible genuine misstatement",
+      "p26-p27: 'Dr. Belmir' co-instructor name spelling uncertain"
+    ]
+  },
+  "cases_introduced": [
+    "Varian crossfield amplifier brazing (copper-to-molybdenum, TLP diffusion bond by dumb luck)",
+    "Mississippi pressure vessel failure (door blown half a mile, 2200 psi nitrogen test)",
+    "Edison New Jersey pipeline failure (42-inch, 1,000 psi, 1990s)",
+    "Texas gas compressor station Charpy testing",
+    "New Jersey prison elevator failure ($1.6M settlement)",
+    "Elevator cable wire hydrogen embrittlement diagnostic question",
+    "California texting driver fatal rear-end (cliffhanger for next lecture)"
+  ],
+  "people_named": [
+    "William F. Hosford (textbook author, MIT alum, Michigan faculty)",
+    "Walter A. Backofen (MIT professor, Tom's predecessor)",
+    "Dion Lee (Backofen doctoral student 1965, retired GE)",
+    "Captain Hood (Tom's high school physics teacher)",
+    "Carl (student in class)",
+    "Dr. Belmir [?] (apparent co-instructor)"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "video_id": "K4LxKVNarnM",
+  "course": "3.371 Deformation Processing",
+  "term": "Spring 2012",
+  "lecture_number": 6,
+  "lecture_in_series": "6/12",
+  "video_title": "3.371 Deformation Processing - Spring 2012 [6/12]",
+  "raw_transcript_sha256": "cf5e84c98d235bd2dff7152b0f45470f9bc9b21a28184b6af530d71fa56e9ac9",
+  "raw_transcript_line_count": 1245,
+  "raw_transcript_word_count": 10089,
+  "layer2_paragraph_count": 49,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T09:18:57.561171+00:00",
+  "duration_covered_mmss": "00:34 - 53:38",
+  "primary_topics": [
+    "redundant work in deformation (slipline / streamline interpretation)",
+    "forgeability and buy-to-fly ratio",
+    "closed die vs. open die forging; clay demonstration",
+    "forging laps and defects (LNG shaft, seamless pipe piercing)",
+    "ingot vs. continuous casting; 65% to 97% yield revolution",
+    "rolling-pass sequences for I-beams, channels, angles, pilings",
+    "Chaparral Steel near-net-shape dog-bone casting (Gordon Forward)",
+    "Bethlehem Steel corporate decline; Kodak parallel"
+  ],
+  "recurring_cases_mentioned": [
+    "Bethlehem Steel (Tom's first employer, 1974)",
+    "Burns Harbor plant (1965-1972 construction, $5B)",
+    "Chaparral Steel / Gordon Forward (MIT-trained, mini-mill, near-net-shape I-beams)",
+    "LNG carrier propeller shaft fracture (33-inch, Philippine Sea, mid '80s)",
+    "Gulf of Mexico pipeline hydro-test failure (mandrel fragment)",
+    "Attleboro karat-gold tubing die redesign",
+    "Harry Gatos and gallium arsenide / flute hobby",
+    "Charles M. Schwab and Bethlehem Steel high-speed (Mo) tool steel",
+    "POSCO Steel (Korea)",
+    "Kodak film/digital decline parallel"
+  ],
+  "tom_slips_bracketed": [
+    {"location": "p43", "said": "Gordon Ford", "correction": "Gordon Forward"},
+    {"location": "p45", "said": "Gordon forward (lowercase, mid-sentence)", "correction": "Gordon [Forward]"}
+  ],
+  "editor_flags": [
+    "p44: 'Don beds' tentatively corrected to 'Don Trauttleins' (Donald Trautlein, Bethlehem Steel CEO 1980-86). Verify or restore [?] marker.",
+    "p48: 'Kim' (HBS Dean friend) tentatively identified as Kim B. Clark. Verify.",
+    "Student attributions in p29-p31 are unattributed — single student or multiple?",
+    "p17 extrusion demonstration: captioner garbled physical-business speech; rendering preserves the garble. Consider stage direction in layer 3."
+  ]
+}

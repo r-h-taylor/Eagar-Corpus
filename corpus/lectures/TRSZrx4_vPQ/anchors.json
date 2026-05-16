@@ -1,0 +1,234 @@
+{
+  "lecture_id": "TRSZrx4_vPQ",
+  "course": "3.371 Materials Processing and Casting",
+  "term": "Summer 2011",
+  "session": "2/7",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Course handouts and orientation",
+      "section_timestamp_start": "00:03",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:03", "00:47"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:47", "02:08"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:08", "03:17"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["03:17", "03:35"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "MP35N: properties, cold work, and section-size limits",
+      "section_timestamp_start": "03:35",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p5"], "timestamp_range": ["03:35", "05:08"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p6"], "timestamp_range": ["05:08", "05:21"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p6"], "timestamp_range": ["05:18", "05:21"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p7"], "timestamp_range": ["05:21", "06:24"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p8"], "timestamp_range": ["06:24", "07:29"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p9"], "timestamp_range": ["07:29", "08:20"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p10"], "timestamp_range": ["08:20", "09:31"]},
+        {"l3_id": "§2.p8", "l2_ids": ["p11"], "timestamp_range": ["09:31", "10:31"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Velcro and the case for fastening",
+      "section_timestamp_start": "10:31",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p12"], "timestamp_range": ["10:31", "11:45"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p13"], "timestamp_range": ["11:45", "12:35"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p14"], "timestamp_range": ["12:35", "12:46"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p14"], "timestamp_range": ["12:42", "12:46"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p14b"], "timestamp_range": ["12:46", "13:49"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p15"], "timestamp_range": ["13:49", "15:01"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p16"], "timestamp_range": ["15:01", "15:49"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p17"], "timestamp_range": ["15:49", "16:40"]},
+        {"l3_id": "§3.p9", "l2_ids": ["p18"], "timestamp_range": ["16:40", "17:41"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Bolt preload, reuse, and high-strength applications",
+      "section_timestamp_start": "17:41",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p19"], "timestamp_range": ["17:41", "18:49"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p20"], "timestamp_range": ["18:49", "19:39"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p20"], "timestamp_range": ["19:35", "19:39"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p21"], "timestamp_range": ["19:39", "19:57"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p21"], "timestamp_range": ["19:50", "19:57"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p21b"], "timestamp_range": ["19:57", "20:05"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p21b"], "timestamp_range": ["20:03", "20:05"]},
+        {"l3_id": "§4.p8", "l2_ids": ["p21c"], "timestamp_range": ["20:05", "20:47"]},
+        {"l3_id": "§4.p9", "l2_ids": ["p21c"], "timestamp_range": ["20:40", "20:47"]},
+        {"l3_id": "§4.p10", "l2_ids": ["p22"], "timestamp_range": ["20:47", "22:18"]},
+        {"l3_id": "§4.p11", "l2_ids": ["p22"], "timestamp_range": ["22:10", "22:18"]},
+        {"l3_id": "§4.p12", "l2_ids": ["p23"], "timestamp_range": ["22:18", "22:56"]},
+        {"l3_id": "§4.p13", "l2_ids": ["p23"], "timestamp_range": ["22:50", "22:56"]},
+        {"l3_id": "§4.p14", "l2_ids": ["p23b"], "timestamp_range": ["22:56", "23:13"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Structural materials, cost per pound, and the X-33",
+      "section_timestamp_start": "23:13",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p24"], "timestamp_range": ["23:13", "24:10"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p25"], "timestamp_range": ["24:10", "25:10"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p26"], "timestamp_range": ["25:10", "26:03"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p27"], "timestamp_range": ["26:03", "27:11"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p28"], "timestamp_range": ["27:11", "28:10"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p29"], "timestamp_range": ["28:10", "29:20"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p30"], "timestamp_range": ["29:20", "30:04"]},
+        {"l3_id": "§5.p8", "l2_ids": ["p31"], "timestamp_range": ["30:04", "31:17"]},
+        {"l3_id": "§5.p9", "l2_ids": ["p32"], "timestamp_range": ["31:17", "33:23"]},
+        {"l3_id": "§5.p10", "l2_ids": ["p33"], "timestamp_range": ["33:23", "33:38"]},
+        {"l3_id": "§5.p11", "l2_ids": ["p33"], "timestamp_range": ["33:35", "33:38"]},
+        {"l3_id": "§5.p12", "l2_ids": ["p33b"], "timestamp_range": ["33:38", "34:16"]},
+        {"l3_id": "§5.p13", "l2_ids": ["p33c"], "timestamp_range": ["34:16", "34:20"]},
+        {"l3_id": "§5.p14", "l2_ids": ["p33d"], "timestamp_range": ["34:20", "34:26"]},
+        {"l3_id": "§5.p15", "l2_ids": ["p33d"], "timestamp_range": ["34:23", "34:26"]},
+        {"l3_id": "§5.p16", "l2_ids": ["p33e"], "timestamp_range": ["34:26", "34:42"]},
+        {"l3_id": "§5.p17", "l2_ids": ["p34"], "timestamp_range": ["34:42", "35:25"]},
+        {"l3_id": "§5.p18", "l2_ids": ["p35"], "timestamp_range": ["35:25", "36:39"]},
+        {"l3_id": "§5.p19", "l2_ids": ["p36"], "timestamp_range": ["36:39", "37:15"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The X-33 space plane and rapid prototyping",
+      "section_timestamp_start": "37:15",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p36"], "timestamp_range": ["37:10", "37:15"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p37"], "timestamp_range": ["37:15", "38:14"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p38"], "timestamp_range": ["38:14", "39:04"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p39"], "timestamp_range": ["39:04", "40:28"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p40"], "timestamp_range": ["40:28", "41:28"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p41"], "timestamp_range": ["41:28", "42:45"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p42"], "timestamp_range": ["42:45", "43:28"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p42"], "timestamp_range": ["43:23", "43:28"]},
+        {"l3_id": "§6.p9", "l2_ids": ["p42b"], "timestamp_range": ["43:28", "43:35"]},
+        {"l3_id": "§6.p10", "l2_ids": ["p42b"], "timestamp_range": ["43:30", "43:35"]},
+        {"l3_id": "§6.p11", "l2_ids": ["p43"], "timestamp_range": ["43:35", "44:27"]},
+        {"l3_id": "§6.p12", "l2_ids": ["p44"], "timestamp_range": ["44:27", "45:36"]},
+        {"l3_id": "§6.p13", "l2_ids": ["p44"], "timestamp_range": ["45:30", "45:36"]},
+        {"l3_id": "§6.p14", "l2_ids": ["p44b"], "timestamp_range": ["45:36", "45:46"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Engineering disciplines and the history of MIT departments",
+      "section_timestamp_start": "45:46",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p45", "p46"], "timestamp_range": ["45:46", "47:18"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p47"], "timestamp_range": ["47:18", "47:52"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p48"], "timestamp_range": ["47:52", "48:25"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p49"], "timestamp_range": ["48:25", "49:30"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p50"], "timestamp_range": ["49:30", "49:54"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p50"], "timestamp_range": ["49:50", "49:54"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p50b"], "timestamp_range": ["49:54", "50:46"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p51"], "timestamp_range": ["50:46", "51:59"]},
+        {"l3_id": "§7.p9", "l2_ids": ["p52"], "timestamp_range": ["51:59", "53:05"]},
+        {"l3_id": "§7.p10", "l2_ids": ["p53"], "timestamp_range": ["53:05", "53:42"]},
+        {"l3_id": "§7.p11", "l2_ids": ["p54"], "timestamp_range": ["53:42", "54:22"]},
+        {"l3_id": "§7.p12", "l2_ids": ["p55"], "timestamp_range": ["54:22", "55:13"]},
+        {"l3_id": "§7.p13", "l2_ids": ["p55"], "timestamp_range": ["55:08", "55:13"]},
+        {"l3_id": "§7.p14", "l2_ids": ["p55b"], "timestamp_range": ["55:13", "56:06"]},
+        {"l3_id": "§7.p15", "l2_ids": ["p56"], "timestamp_range": ["56:06", "56:48"]},
+        {"l3_id": "§7.p16", "l2_ids": ["p57"], "timestamp_range": ["56:48", "57:50"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Structural vs. functional materials and the ceramics critique",
+      "section_timestamp_start": "57:50",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p58"], "timestamp_range": ["57:50", "58:30"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p59"], "timestamp_range": ["58:30", "59:12"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p59"], "timestamp_range": ["59:08", "59:12"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p59b"], "timestamp_range": ["59:12", "60:26"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p60"], "timestamp_range": ["60:26", "61:22"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p61"], "timestamp_range": ["61:22", "62:36"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p62"], "timestamp_range": ["62:36", "63:19"]},
+        {"l3_id": "§8.p8", "l2_ids": ["p63"], "timestamp_range": ["63:19", "63:47"]},
+        {"l3_id": "§8.p9", "l2_ids": ["p64"], "timestamp_range": ["63:47", "65:00"]},
+        {"l3_id": "§8.p10", "l2_ids": ["p65"], "timestamp_range": ["65:00", "65:22"]},
+        {"l3_id": "§8.p11", "l2_ids": ["p65"], "timestamp_range": ["65:18", "65:22"]},
+        {"l3_id": "§8.p12", "l2_ids": ["p65b"], "timestamp_range": ["65:22", "65:47"]},
+        {"l3_id": "§8.p13", "l2_ids": ["p66"], "timestamp_range": ["65:47", "66:52"]},
+        {"l3_id": "§8.p14", "l2_ids": ["p66"], "timestamp_range": ["66:48", "66:52"]},
+        {"l3_id": "§8.p15", "l2_ids": ["p66b"], "timestamp_range": ["66:52", "67:01"]},
+        {"l3_id": "§8.p16", "l2_ids": ["p66b"], "timestamp_range": ["66:55", "67:01"]},
+        {"l3_id": "§8.p17", "l2_ids": ["p66c"], "timestamp_range": ["67:01", "67:28"]},
+        {"l3_id": "§8.p18", "l2_ids": ["p67"], "timestamp_range": ["67:28", "68:23"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "The dollars-per-mole argument and Soviet titanium",
+      "section_timestamp_start": "68:23",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p68"], "timestamp_range": ["68:23", "69:13"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p69"], "timestamp_range": ["69:13", "69:50"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p70"], "timestamp_range": ["69:50", "70:55"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p71"], "timestamp_range": ["70:55", "72:00"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p72"], "timestamp_range": ["72:00", "72:54"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p73"], "timestamp_range": ["72:54", "73:53"]},
+        {"l3_id": "§9.p7", "l2_ids": ["p74"], "timestamp_range": ["73:53", "74:55"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "Why vapor deposition cannot make structural materials",
+      "section_timestamp_start": "74:55",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p75"], "timestamp_range": ["74:55", "75:55"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p76"], "timestamp_range": ["75:55", "76:42"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p77"], "timestamp_range": ["76:42", "77:45"]},
+        {"l3_id": "§10.p4", "l2_ids": ["p78"], "timestamp_range": ["77:45", "79:21"]},
+        {"l3_id": "§10.p5", "l2_ids": ["p79"], "timestamp_range": ["79:21", "79:55"]},
+        {"l3_id": "§10.p6", "l2_ids": ["p79"], "timestamp_range": ["79:50", "79:55"]},
+        {"l3_id": "§10.p7", "l2_ids": ["p79b"], "timestamp_range": ["79:55", "80:29"]},
+        {"l3_id": "§10.p8", "l2_ids": ["p80"], "timestamp_range": ["80:29", "81:37"]},
+        {"l3_id": "§10.p9", "l2_ids": ["p81"], "timestamp_range": ["81:37", "82:43"]},
+        {"l3_id": "§10.p10", "l2_ids": ["p81"], "timestamp_range": ["82:40", "82:43"]},
+        {"l3_id": "§10.p11", "l2_ids": ["p81b"], "timestamp_range": ["82:43", "83:35"]},
+        {"l3_id": "§10.p12", "l2_ids": ["p82"], "timestamp_range": ["83:35", "84:25"]},
+        {"l3_id": "§10.p13", "l2_ids": ["p83"], "timestamp_range": ["84:25", "85:23"]},
+        {"l3_id": "§10.p14", "l2_ids": ["p84"], "timestamp_range": ["85:23", "86:46"]},
+        {"l3_id": "§10.p15", "l2_ids": ["p85"], "timestamp_range": ["86:46", "87:38"]},
+        {"l3_id": "§10.p16", "l2_ids": ["p86"], "timestamp_range": ["87:38", "88:42"]},
+        {"l3_id": "§10.p17", "l2_ids": ["p87"], "timestamp_range": ["88:42", "89:55"]}
+      ]
+    },
+    {
+      "section_id": "s11",
+      "section_title": "Bulk metallic glasses and why we cast from the liquid",
+      "section_timestamp_start": "89:55",
+      "anchors": [
+        {"l3_id": "§11.p1", "l2_ids": ["p87"], "timestamp_range": ["89:50", "89:55"]},
+        {"l3_id": "§11.p2", "l2_ids": ["p88"], "timestamp_range": ["89:55", "90:56"]},
+        {"l3_id": "§11.p3", "l2_ids": ["p88"], "timestamp_range": ["90:50", "90:56"]},
+        {"l3_id": "§11.p4", "l2_ids": ["p88b"], "timestamp_range": ["90:56", "91:54"]},
+        {"l3_id": "§11.p5", "l2_ids": ["p89"], "timestamp_range": ["91:54", "93:08"]},
+        {"l3_id": "§11.p6", "l2_ids": ["p90"], "timestamp_range": ["93:08", "94:24"]},
+        {"l3_id": "§11.p7", "l2_ids": ["p91", "p91b"], "timestamp_range": ["94:24", "95:43"]},
+        {"l3_id": "§11.p8", "l2_ids": ["p92"], "timestamp_range": ["95:43", "96:59"]},
+        {"l3_id": "§11.p9", "l2_ids": ["p92"], "timestamp_range": ["96:50", "96:59"]},
+        {"l3_id": "§11.p10", "l2_ids": ["p92b"], "timestamp_range": ["96:59", "97:51"]},
+        {"l3_id": "§11.p11", "l2_ids": ["p92b"], "timestamp_range": ["97:45", "97:51"]},
+        {"l3_id": "§11.p12", "l2_ids": ["p93"], "timestamp_range": ["97:51", "98:40"]},
+        {"l3_id": "§11.p13", "l2_ids": ["p93"], "timestamp_range": ["98:35", "98:40"]},
+        {"l3_id": "§11.p14", "l2_ids": ["p94"], "timestamp_range": ["98:40", "99:27"]},
+        {"l3_id": "§11.p15", "l2_ids": ["p94"], "timestamp_range": ["99:20", "99:27"]},
+        {"l3_id": "§11.p16", "l2_ids": ["p94b"], "timestamp_range": ["99:27", "100:01"]},
+        {"l3_id": "§11.p17", "l2_ids": ["p95"], "timestamp_range": ["100:01", "100:32"]},
+        {"l3_id": "§11.p18", "l2_ids": ["p96"], "timestamp_range": ["100:32", "101:15"]},
+        {"l3_id": "§11.p19", "l2_ids": ["p97"], "timestamp_range": ["101:15", "102:02"]},
+        {"l3_id": "§11.p20", "l2_ids": ["p98"], "timestamp_range": ["102:02", "102:30"]},
+        {"l3_id": "§11.p21", "l2_ids": ["p99"], "timestamp_range": ["102:30", "103:50"]},
+        {"l3_id": "§11.p22", "l2_ids": ["p100"], "timestamp_range": ["103:50", "104:08"]},
+        {"l3_id": "§11.p23", "l2_ids": ["p101"], "timestamp_range": ["104:08", "105:00"]}
+      ]
+    }
+  ]
+}

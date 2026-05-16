@@ -1,0 +1,26 @@
+{
+  "video_id": "NBKezMyc29c",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [29/29]",
+  "lecture_number": 29,
+  "lecture_of": 29,
+  "raw_transcript_sha256": "4e057caa9f2e2f91a8dd0187683613396b5b82f9d360370bea749271cff2cd04",
+  "raw_transcript_line_count": 52,
+  "raw_transcript_word_count": 358,
+  "layer2_paragraph_count": 4,
+  "duration_captured_seconds": 95,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T15:10:21.771070+00:00",
+  "editor_flags": [
+    "Raw transcript appears truncated; only ~90 seconds of audio captured for lecture nominally 29/29. Verify source.",
+    "L46 'how can the health professors work' — bracketed best-guess inserted at layer 2; verify against audio."
+  ],
+  "tom_slips_bracketed": [],
+  "captioner_corrections_silent": [
+    "Seawolf (L8)",
+    "Navy (L12)",
+    "Jonesy (L58, L62)"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "97xAeQRs69g",
+  "course": "Welding Quality",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [26/35]",
+  "raw_transcript_sha256": "88d036896fa00d560e7f03edbaa8062255347ee0385e388a46ae92f4c94ec7c3",
+  "raw_transcript_line_count": 446,
+  "raw_transcript_word_count": 2928,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T18:54:29.566672+00:00",
+  "layer2_paragraph_count": 21,
+  "layer2_timestamp_range": "00:03 - 14:51",
+  "topics": [
+    "nickel-aluminum precipitation hardening",
+    "sterling silver alloy development (Reed and Barton)",
+    "nickel superalloy strengthening mechanisms",
+    "gamma prime and gamma double prime phases",
+    "topologically close-packed phases (sigma, mu, Laves)",
+    "chromium and aluminum oxide scales",
+    "submarine hull material economics (steel vs stainless vs titanium)",
+    "Soviet Alpha-class titanium submarine",
+    "creep-fatigue interaction in titanium",
+    "liquation cracking in nickel-base alloys",
+    "Bettis welding code allowing micro-cracks",
+    "weld profile and solidification grain structure",
+    "Varestraint test"
+  ],
+  "people_mentioned": [
+    "John Lippold (in room)"
+  ],
+  "institutions_mentioned": [
+    "Reed and Barton",
+    "Westinghouse Bettis Atomic Power Laboratory",
+    "Boston Navy Yard",
+    "Naval Research Laboratory (NRL)",
+    "Office of Naval Research (ONR)",
+    "David Taylor / NSWC Carderock",
+    "Rensselaer Polytechnic Institute"
+  ],
+  "materials_mentioned": [
+    "Ni3Al",
+    "sterling silver (Ag-Cu with Li-Sn additions)",
+    "nickel-base superalloys",
+    "Monel",
+    "Inconel",
+    "AL-6XN stainless steel",
+    "HSLA steel",
+    "chrome-moly steel",
+    "titanium"
+  ],
+  "stories": [
+    "1984 Tokyo trip and the nickel-aluminum hard gold alloy",
+    "Sterling silver dinnerware vs baby cups (Reed and Barton)",
+    "1980 International Herald Tribune Alpha-sub headline",
+    "NRL question about Soviet creep-fatigue solution",
+    "Boston Navy Yard chrome-moly tube welding"
+  ],
+  "flags_for_editorial_register": [
+    "p4: 'panel' likely tantalum — inferred",
+    "p12: 'Rocky class' — unclear referent",
+    "p13: '$118 billion' arithmetic possibly slip for $18 billion"
+  ]
+}

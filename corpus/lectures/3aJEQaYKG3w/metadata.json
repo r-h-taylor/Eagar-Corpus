@@ -1,0 +1,36 @@
+{
+  "video_id": "3aJEQaYKG3w",
+  "course": "Total Quality Improvement",
+  "term": "Spring 2018",
+  "video_title": "2018-03-06",
+  "lecture_date": "2018-03-06",
+  "raw_transcript_sha256": "dd9fbf85c260c6db6a0585b2b26417716f018d36ecd5b4857247a4ece17e8c8e",
+  "raw_transcript_line_count": 1062,
+  "raw_transcript_word_count": 8099,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T20:10:21.024099+00:00",
+  "layer2_paragraph_count": 71,
+  "speaker": "Brian Holman (guest lecturer)",
+  "instructor_of_record": "Thomas W. Eagar",
+  "is_eagar_lecture": false,
+  "guest_lecture_note": "This lecture was delivered by guest lecturer Brian Holman, not by Tom Eagar. Topic: critical airplane engine components and the United Airlines Flight 232 (Sioux City, 1989) case study. Tom is the course instructor; the speaker references prior content from 'Professor Eagar.'",
+  "primary_topics": [
+    "airplane engine architecture (two-spool)",
+    "turbine and compressor section materials (Ni-base superalloys, Ti-6Al-4V)",
+    "engine life-limited parts (LLPs) and FAA safe-life methodology",
+    "titanium alloy metallurgy (alpha/beta phases, Widmanstätten structure)",
+    "manufacturing defects (hard alpha inclusions, segregation, white spots, freckles)",
+    "non-destructive evaluation (visual, fluorescent/liquid penetrant, ultrasonic)",
+    "failure analysis (ratchet marks, beach marks, fractography)",
+    "United Airlines Flight 232 case study (Sioux City, July 1989)",
+    "cost-benefit analysis of NDE failures"
+  ],
+  "primary_case": "United Airlines Flight 232 / Sioux City, Iowa, 1989 (CF6-6 engine, hard alpha inclusion in titanium fan disc)",
+  "flagged_for_editorial_review": [
+    "Speaker identity: guest lecture, not Eagar",
+    "Five inaudible student questions",
+    "Numerical correction 22,000°F → 2,200°F at [24:44]",
+    "Captioner error sulfonation → sulfidation at [29:24]"
+  ]
+}

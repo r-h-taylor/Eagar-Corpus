@@ -1,0 +1,40 @@
+{
+  "lecture_id": "0Iz9AY5pXvk",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2014",
+  "session": "35/35",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "The Davenport Works air knife that never got installed",
+      "section_timestamp_start": "00:01",
+      "anchors": [
+        {
+          "l3_id": "§1.p1",
+          "l2_ids": ["p1"],
+          "timestamp_range": ["00:01", "00:42"]
+        },
+        {
+          "l3_id": "§1.p2",
+          "l2_ids": ["p2"],
+          "timestamp_range": ["00:42", "01:24"]
+        },
+        {
+          "l3_id": "§1.p3",
+          "l2_ids": ["p3"],
+          "timestamp_range": ["01:24", "02:09"]
+        },
+        {
+          "l3_id": "§1.p4",
+          "l2_ids": ["p4"],
+          "timestamp_range": ["02:09", "02:38"]
+        },
+        {
+          "l3_id": "§1.p5",
+          "l2_ids": ["p5"],
+          "timestamp_range": ["02:38", "02:50"]
+        }
+      ]
+    }
+  ]
+}

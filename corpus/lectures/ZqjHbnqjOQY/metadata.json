@@ -1,0 +1,52 @@
+{
+  "video_id": "ZqjHbnqjOQY",
+  "course": "Corrosion",
+  "term": "Summer 2016",
+  "video_title": "3.371 Corrosion - Summer 2016 [5/5]",
+  "raw_transcript_sha256": "d5a8f46115bb8d90b6cef969bb0da4cab7520a3f55dcb986d296cbd6cd11ce4c",
+  "raw_transcript_line_count": 544,
+  "raw_transcript_word_count": 4349,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T16:57:50.793224+00:00",
+  "lecture_duration_approx_minutes": 24,
+  "layer2_paragraph_count": 24,
+  "primary_topics": [
+    "Alvin submersible HOV upgrade (NSF study, ~2003-2004)",
+    "National Academy of Sciences / National Research Council studies",
+    "Mansfield Amendment (1972) and DoD research scope",
+    "DoD R&D budget categories (6.1/6.2/6.3/6.4)",
+    "ONR, NAVAIR, NAVSEA, NRL, David Taylor / Carderock organizational structure",
+    "Syntactic foam (microballoon-resin buoyancy material)",
+    "Titanium pressure hull (Alvin, Sea Cliff)",
+    "Sea Cliff DSRV and Thresher disaster legacy",
+    "Cost estimation: Jason 2 vs new Alvin ($/pound analysis)",
+    "China 2007-2008 metals market disruption",
+    "US shipbuilding infrastructure loss",
+    "Gas metal arc vs gas tungsten arc welding on titanium hulls",
+    "Radiography vs ultrasonic testing in naval shipyards",
+    "Civil service inefficiencies in Navy shipyards"
+  ],
+  "cases_mentioned": [
+    "Alvin submersible (1964 commissioning, titanium hull upgrade ~1970, HOV upgrade ~2003-2012)",
+    "Sea Cliff DSRV",
+    "Jason 2 tethered UUV",
+    "Thresher disaster (referenced, deferred to later lecture)",
+    "Shinkai 6500 (Japanese submersible)",
+    "Mir 1 and 2 (Soviet submersibles)",
+    "Mare Island Naval Shipyard (Sea Cliff construction)",
+    "Deepwater Horizon (mentioned as NRC study trigger)",
+    "Spain H-bomb recovery (Palomares, 1966; Alvin role)"
+  ],
+  "people_mentioned": [
+    "Abraham Lincoln (NAS charter 1863)",
+    "Mike Mansfield (Mansfield Amendment 1972)"
+  ],
+  "tom_slips_bracketed": [
+    {"spoken": "HY-140", "corrected": "HY-100", "paragraph": "p1", "note": "Alvin pressure vessel steel; HY-100 is canonical"}
+  ],
+  "editorial_flags": [
+    "p20: student question about radiography on titanium is muffled/lost in raw; Tom's answer implies the question. Bracketed inference flagged for editor review.",
+    "p1: HY-140 vs HY-100 — verify whether Tom misspoke or whether captioner garbled. If captioner error rather than spoken slip, demote to silent correction."
+  ]
+}

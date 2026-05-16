@@ -1,0 +1,70 @@
+{
+  "video_id": "7ghihjZEZvk",
+  "course": "3.371 Deformation Processing",
+  "term": "Spring 2012",
+  "lecture_number": 11,
+  "lecture_total": 12,
+  "video_title": "3.371 Deformation Processing - Spring 2012 [11/12]",
+  "raw_transcript_sha256": "20176411115bbac9c69c96f1f03f4fc9e0fe132332845e6e5697d546b661ad82",
+  "raw_transcript_line_count": 1147,
+  "raw_transcript_word_count": 8800,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T09:49:24.589259+00:00",
+  "layer2_paragraph_count": 43,
+  "primary_topics": [
+    "super plasticity",
+    "strain rate sensitivity (M value)",
+    "Conform continuous extrusion",
+    "dynamic recrystallization",
+    "two-phase microstructure stabilization (30 volume percent rule)",
+    "creep mechanisms (Nabarro-Herring, Coble, dislocation, diffusional)",
+    "Hall-Petch and grain size (ASTM)",
+    "deep drawing case study: Farberware Millennium Cookware hydrogen embrittlement",
+    "production quantity and process selection"
+  ],
+  "named_people": [
+    "Walter A. Backofen",
+    "Richard W. Hertzberg",
+    "William F. Hosford",
+    "Michael F. Ashby",
+    "R. L. Coble",
+    "F. R. N. Nabarro",
+    "David Holt",
+    "Carl Thompson",
+    "Christopher A. Schuh",
+    "Jeremy (TA)"
+  ],
+  "named_organizations": [
+    "Air Force",
+    "Rolls-Royce",
+    "Watertown Arsenal",
+    "Cambridge University",
+    "Harvard",
+    "General Electric",
+    "MIT",
+    "Farberware",
+    "MIT Industrial Liaison Program"
+  ],
+  "named_alloys_systems": [
+    "Ti-6Al-4V",
+    "aluminum-zinc (Zn-22Al)",
+    "7000 series aluminum",
+    "IN-100",
+    "IN-738",
+    "IN-629",
+    "nickel aluminum bronze",
+    "304 stainless",
+    "301 stainless (TRIP steel)",
+    "18-8 stainless",
+    "duplex stainless steels",
+    "nickel-tungsten (Schuh)",
+    "high strength low alloy (HSLA) steel"
+  ],
+  "captioner_garblings_flagged": [
+    {"para": "p26", "raw": "herburger places", "rendered": "Hertzberg [?]", "note": "ambiguous antecedent"},
+    {"para": "p27", "raw": "aluminum copper tic Alloys", "rendered": "aluminum copper [?] alloys", "note": "tic unresolved"}
+  ],
+  "student_questions": 2,
+  "stage_directions_inserted": 3
+}

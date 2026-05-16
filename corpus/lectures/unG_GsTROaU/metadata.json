@@ -1,0 +1,63 @@
+{
+  "video_id": "unG_GsTROaU",
+  "course": "Solid State Welding",
+  "course_number": "3.371",
+  "term": "Spring 2013",
+  "video_title": "3.371 Solid State Welding - Spring 2013 [12/12]",
+  "lecture_number": 12,
+  "lecture_total": 12,
+  "raw_transcript_sha256": "30210e850d80732d8c9f9f07d2e27bcb4293d85dbb2047171623881cd2498121",
+  "raw_transcript_line_count": 1402,
+  "raw_transcript_word_count": 8809,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T12:01:38.684236+00:00",
+  "layer2_paragraph_count": 51,
+  "layer2_timestamp_first": "00:35",
+  "layer2_timestamp_last": "49:58",
+  "primary_topics": [
+    "electronic packaging (J-leads, gull wings, flip chip, C4 solder bumps)",
+    "thermal expansion mismatch in chip-to-board bonding",
+    "gas thermal conductivity and chip cooling (helium, water)",
+    "focused ion beams for chip repair",
+    "brazing fundamentals: temperature regimes, fluxes, wettability",
+    "braze joint strength and creep",
+    "erosion in brazing (Norton asphalt-tip case, jet engine shroud honeycomb)",
+    "naval recuperator heat exchanger failure (Rolls-Royce, 2D FEM error)",
+    "gold-nickel braze theft case (aerospace company, salt-shaker accounting)",
+    "aluminum radiator brazing (Alcan flux revolution)",
+    "cadmium toxicity, metal fume fever, light switch contacts",
+    "Swedish cadmium ban and housefire reversal",
+    "hot shortness and freezing range"
+  ],
+  "recurring_cases_referenced": [
+    "molybdenum-to-copper braze for cross-field amplifier (radar) — TLP solution",
+    "Norton asphalt-reclamation carbide tip brazing (student thesis project)",
+    "Naval recuperator at Rolls-Royce England — 100,000 hour design failed in 2 minutes",
+    "Connecticut aerospace company gold-nickel braze theft (mid-1970s, $1.6-2.5M)",
+    "Alcan aluminum brazing flux (~1980) enabling field-repairable aluminum radiators",
+    "IBM 360 mainframe helium cooling",
+    "Tom's personal wedding ring / engagement ring (palladium, platinum, iridium from Engelhard)",
+    "Sweden cadmium ban reversal"
+  ],
+  "people_mentioned": [
+    "Bob Rose (Tom's thesis advisor)"
+  ],
+  "companies_mentioned": [
+    "Cisco Systems",
+    "Intel",
+    "IBM",
+    "Rolls-Royce",
+    "Norton",
+    "Alcan Aluminum",
+    "Engelhard",
+    "Handy & Harman",
+    "Krylon"
+  ],
+  "editor_review_flags": [
+    "p8: focused ion [iron] beam — slip attribution uncertain",
+    "p35: captioner garbling on salt-shaker weighing comparison",
+    "p44: captioner garbling on silver/antimony solder composition list",
+    "p51: lecture cuts off mid-sentence"
+  ]
+}

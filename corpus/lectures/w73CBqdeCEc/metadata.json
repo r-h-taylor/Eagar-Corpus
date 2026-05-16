@@ -1,0 +1,47 @@
+{
+  "video_id": "w73CBqdeCEc",
+  "course": "Corrosion Cracking and More",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [12/35]",
+  "raw_transcript_sha256": "6cc9666a82d4725684c73342fb01ddd12576352a8df6a739f370b2f1254962ee",
+  "raw_transcript_line_count": 932,
+  "raw_transcript_word_count": 6884,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T17:45:16.048482+00:00",
+  "layer2": {
+    "paragraph_count": 44,
+    "first_timestamp": "00:02",
+    "last_timestamp": "36:39",
+    "lecture_topic": "Hardness vs hardenability; alloy content and weldability; HY-80, HSLA steels, Sea Wolf, USS Iowa",
+    "key_cases": [
+      "HY-80 / HY-100 / HY-130 submarine steels",
+      "4340 steel America's Cup keel (Koch / Ingram)",
+      "Sea Wolf SSN-21 high-side weld chemistry cracking",
+      "Lukens Steel Title III HSLA plate line",
+      "Japanese shipyard HSLA tunnel cooling",
+      "USS Iowa turret explosion repair",
+      "ASTM A106 pipe purchase specification",
+      "Stout and Doty Weldability of Steels tables"
+    ],
+    "people_named": [
+      "Edgar C. Bain",
+      "Bob Stout",
+      "W.D. Doty",
+      "John Gross",
+      "Jerry Ingram (tentative)",
+      "David Koch"
+    ],
+    "places_named": [
+      "Quonset Point",
+      "Lehigh University",
+      "Bethlehem Steel",
+      "Inland Steel",
+      "Lukens Steel",
+      "Draper Lab",
+      "Puerto Rico",
+      "MGH MTA station",
+      "Japan"
+    ]
+  }
+}

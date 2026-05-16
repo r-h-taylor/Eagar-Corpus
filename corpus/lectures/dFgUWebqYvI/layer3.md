@@ -1,0 +1,32 @@
+# Lecture 19 — Hydrogen Cracking in a Hot Isostatic Press Vessel
+
+*3.371 Welding Metallurgy, Spring 2014, session 19 of 29.*
+*Source video: `dFgUWebqYvI`.*
+
+*Note: this layer 2 input covers only the opening minutes of the lecture, in which Tom concludes a forensic analysis of a 200-ton hot isostatic press vessel failure begun in the prior session. A single section is produced here because the available material is a continuous teaching unit on one case; sectioning will resume when additional layer 2 material is processed.*
+
+---
+
+## §1. The 200-ton HIP vessel failure: three causes converging [00:01]
+
+`§1.p1` And we knew what the toughness was supposed to be. In fact there were three problems. One is they had residual stresses — actually take that back, the thing had been stress relieved. They had thermal stresses from startup. They had just put a new load in two hours before, and the whole thing was coming up to temperature. I remember coming back after being there the first day and going into Joe Dose's office, and I said, "Joe, beware the thermal stresses." That was my summary, because I had done the calculation. In two hours you would only diffuse heat about halfway in.
+
+`§1.p2` So the thing's trying to expand on the inside where it's hot — the heaters were on the inside. The inside goes into compression, the outside goes into tension. And everybody says, why do the cracks start on the outside? I said, that's where the thermal stresses were highest. These were transient thermal stresses. They had never done that in the Crate [Cray] computer because it was too big a problem. In 1982 or whenever they were designing this, there were not computers powerful enough to worry about the transient heat flow analysis. Nowadays get yourself a good PC and you can do it with a finite element program. But they couldn't do it back then.
+
+`§1.p3` So they had too high a stress — they had never calculated they should have a stress that high. It was under the maximum service stresses plus the thermal stresses, which they hadn't accounted for. The susceptible microstructure: well, it turns out since the heaters were in here, these little corners down here never had been heated during operation. They still had the same properties as from the steel mill. They went and they measured that, and guess what, it was a little bit better than the first one that failed, but it still failed by a large margin. So they had lousy toughness. If you want to talk about susceptible microstructure, you have bigger stresses, you have lower toughness.
+
+`§1.p4` And then, where did the hydrogen come from? Well, the whole thing was water cooled. It was inside a water-cooled jacket. And they hadn't done frequent enough inspection — the whole outside surface was corrosion pits. And guess what, it started at a great big corrosion pit — another stress concentrator on the whole thing. And this was a high-strength steel, it was like 280 ksi steel. They had the worst of all worlds. They had hydrogen, low toughness, higher stress than they expected. The critical flaw size that I measured by looking at this 16-ton piece was half an inch. It was a crack a half inch long that blew up a 200-ton vessel, because all three things were just destroying it.
+
+`§1.p5` **Student:** *[Asks how the steel ended up with poor toughness.]*
+
+`§1.p6` Because this was heat treated to a high strength, so it's quenched and tempered. And during the quenching and tempering operation, the steel composition or the furnace wasn't right, whatever. So you have three people on the hook. Japan Steelworks didn't supply what was specified. You had the people who operated it — they didn't worry about the thermal stresses. They could have slowed the whole process down by bringing things up to temperature before they pressurized it. You can't do it exactly because you don't actually have pumps that pump in 20,000 psi argon. At room temperature you put high-pressure argon in here, which might be a thousand or 2,000 psi, and then when you heat it up, thermal expansion gives you the rest of the pressure. It's a closed vessel. I mean, you're building a bomb here. There's no pressure relief valve on this at 20,000 psi.
+
+`§1.p7` But it was all three things. If you looked at the toughness, your critical flaw size went from ten inches to five inches. If you looked at the stress, it went down to about two inches. And if you looked at hydrogen, well, I could explain all kinds of things with hydrogen. I can get up to 75% reduction in strength if I have a lot of hydrogen.
+
+`§1.p8` **Student:** *[Asks about the water treatment.]*
+
+`§1.p9` Yeah. They started checking their water treatment. The company that did the water treatment so it wouldn't corrode, they were sort of on the hook too. They were not supposed to put things in there. They put molybdates [?] in the water, which some French researchers had shown — for the same type of steel and a great big generator rotor forging — they had a failure in France of a great big generator rotor forging in a utility, an electrical generating plant. It had stress corrosion cracking in the same type of steel with the same type of water treatment, because of pitting. So if you started looking back in the literature of the previous five or ten years, yeah, the water treatment they were using was sort of out of date. And they hadn't done inspections — the inspection company was sort of on the hook too, and they were worth about a million dollars. Hey, just throw your money in. They didn't have enough money to be held responsible.
+
+`§1.p10` **Student:** *[Asks about the operating temperature at the time of failure.]*
+
+`§1.p11` I don't remember exactly what they were doing. I think it was transient, it was still coming up in temperature. I think it might have been at 2,000 degrees Fahrenheit or so. It may have only been at 1,800 degrees, but typically you might hit these things at about 1,800, 2,000 degrees Fahrenheit for a typical steel part. You don't go so hot for an aluminum part, but they were doing steel parts. It's sort of a hydrogen cracking problem, okay. Not everything is a welding problem. Some things other than welds cause problems, to my regret. After all, I'm a welding engineer, I'd much rather have welds for —

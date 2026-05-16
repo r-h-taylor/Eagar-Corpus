@@ -1,0 +1,88 @@
+{
+  "lecture_id": "HoUo7Qj4LHg",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2015",
+  "session": "12/18",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Ultrasonics, weld metal, and the TMI insurance fight",
+      "section_timestamp_start": "00:11",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:11", "01:09"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:09", "01:16"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:16", "02:25"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["02:25", "04:28"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Introducing nickel-based alloys",
+      "section_timestamp_start": "04:28",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p5"], "timestamp_range": ["04:28", "05:54"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p6"], "timestamp_range": ["05:54", "06:20"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p6"], "timestamp_range": ["06:20", "07:20"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p7"], "timestamp_range": ["07:20", "09:01"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p8"], "timestamp_range": ["09:01", "10:13"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Precipitation-strengthened alloys and intermetallics",
+      "section_timestamp_start": "10:13",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p9"], "timestamp_range": ["10:13", "11:30"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p10"], "timestamp_range": ["11:30", "13:00"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p11"], "timestamp_range": ["13:00", "13:45"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Solidification cracking and the Bettis specification",
+      "section_timestamp_start": "13:00",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p11"], "timestamp_range": ["13:45", "14:26"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p12"], "timestamp_range": ["14:26", "15:18"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p13"], "timestamp_range": ["15:18", "16:27"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p14"], "timestamp_range": ["16:27", "17:35"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p15"], "timestamp_range": ["17:35", "18:25"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p16"], "timestamp_range": ["18:25", "19:07"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "The Savage school and the metallurgy bias",
+      "section_timestamp_start": "19:07",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p17"], "timestamp_range": ["19:07", "19:57"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p18"], "timestamp_range": ["19:57", "20:30"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p18"], "timestamp_range": ["20:30", "21:13"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p19"], "timestamp_range": ["21:13", "22:06"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The artist's-conception microstructure",
+      "section_timestamp_start": "22:06",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p20"], "timestamp_range": ["22:06", "23:03"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p21"], "timestamp_range": ["23:03", "24:13"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p22"], "timestamp_range": ["24:13", "25:33"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "The three circles and the submarine hull",
+      "section_timestamp_start": "25:33",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p23"], "timestamp_range": ["25:33", "26:11"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p24"], "timestamp_range": ["26:11", "27:30"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p25"], "timestamp_range": ["27:30", "27:47"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p26"], "timestamp_range": ["27:47", "28:31"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p27"], "timestamp_range": ["28:31", "29:54"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p28"], "timestamp_range": ["29:54", "30:30"]}
+      ]
+    }
+  ]
+}

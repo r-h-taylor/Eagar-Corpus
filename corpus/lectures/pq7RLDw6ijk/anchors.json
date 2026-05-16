@@ -1,0 +1,245 @@
+{
+  "lecture_id": "pq7RLDw6ijk",
+  "course": "3.371 Materials Processing and Casting",
+  "term": "Summer 2011",
+  "session": "4/7",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Bessemer and the problem of melting steel",
+      "section_timestamp_start": "00:03",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:03", "00:55"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:55", "01:43"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3", "p4"], "timestamp_range": ["01:43", "03:47"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p5"], "timestamp_range": ["03:47", "04:30"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p6"], "timestamp_range": ["04:30", "05:15"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Survey of melting technologies",
+      "section_timestamp_start": "05:15",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p7"], "timestamp_range": ["05:15", "06:14"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p8"], "timestamp_range": ["06:14", "07:05"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p9", "p10"], "timestamp_range": ["07:05", "09:32"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Blast furnaces, cupolas, and slag",
+      "section_timestamp_start": "09:32",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p11"], "timestamp_range": ["09:32", "10:19"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p12"], "timestamp_range": ["10:19", "11:55"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p13"], "timestamp_range": ["11:55", "13:12"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p14"], "timestamp_range": ["13:12", "14:01"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p15"], "timestamp_range": ["14:01", "14:47"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p16"], "timestamp_range": ["14:47", "15:37"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p17"], "timestamp_range": ["15:37", "16:21"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Open hearth, BOP, and electric arc",
+      "section_timestamp_start": "16:21",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p18"], "timestamp_range": ["16:21", "17:27"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p19"], "timestamp_range": ["17:27", "18:13"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p20"], "timestamp_range": ["18:13", "19:42"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p21", "p22"], "timestamp_range": ["19:42", "21:42"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Ingot casting and rim steels",
+      "section_timestamp_start": "21:42",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p23"], "timestamp_range": ["21:42", "22:58"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p24"], "timestamp_range": ["22:58", "24:36"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Continuous casting and the productivity revolution",
+      "section_timestamp_start": "24:36",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p25"], "timestamp_range": ["24:36", "25:24"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p26"], "timestamp_range": ["25:24", "26:18"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p27"], "timestamp_range": ["26:18", "27:27"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p28"], "timestamp_range": ["27:27", "28:55"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p29"], "timestamp_range": ["28:55", "29:50"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Hazards of the steel mill",
+      "section_timestamp_start": "29:50",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p30"], "timestamp_range": ["29:50", "30:27"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p31"], "timestamp_range": ["30:27", "31:38"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p32"], "timestamp_range": ["31:38", "32:35"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Defects, segregation, and vacuum degassing",
+      "section_timestamp_start": "32:35",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p33"], "timestamp_range": ["32:35", "33:49"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p34"], "timestamp_range": ["33:49", "34:21"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p35"], "timestamp_range": ["34:21", "35:41"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "AOD and the stainless steel revolution",
+      "section_timestamp_start": "35:41",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p36"], "timestamp_range": ["35:41", "36:29"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p37"], "timestamp_range": ["36:29", "37:30"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p38"], "timestamp_range": ["37:30", "38:34"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p39"], "timestamp_range": ["38:34", "39:39"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p40"], "timestamp_range": ["39:39", "40:49"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p41"], "timestamp_range": ["40:49", "41:16"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "Who innovates in the steel industry",
+      "section_timestamp_start": "41:16",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p42"], "timestamp_range": ["41:16", "42:14"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p43"], "timestamp_range": ["42:14", "43:17"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p44"], "timestamp_range": ["43:17", "44:50"]}
+      ]
+    },
+    {
+      "section_id": "s11",
+      "section_title": "Induction, vacuum, and consumable-electrode melting",
+      "section_timestamp_start": "44:50",
+      "anchors": [
+        {"l3_id": "§11.p1", "l2_ids": ["p45"], "timestamp_range": ["44:50", "45:30"]},
+        {"l3_id": "§11.p2", "l2_ids": ["p46"], "timestamp_range": ["45:30", "46:18"]},
+        {"l3_id": "§11.p3", "l2_ids": ["p47"], "timestamp_range": ["46:18", "47:47"]},
+        {"l3_id": "§11.p4", "l2_ids": ["p48"], "timestamp_range": ["47:47", "48:41"]},
+        {"l3_id": "§11.p5", "l2_ids": ["p49"], "timestamp_range": ["48:41", "49:55"]},
+        {"l3_id": "§11.p6", "l2_ids": ["p50"], "timestamp_range": ["49:55", "50:41"]}
+      ]
+    },
+    {
+      "section_id": "s12",
+      "section_title": "Electroslag and the Paton Institute",
+      "section_timestamp_start": "50:41",
+      "anchors": [
+        {"l3_id": "§12.p1", "l2_ids": ["p51"], "timestamp_range": ["50:41", "51:24"]},
+        {"l3_id": "§12.p2", "l2_ids": ["p52"], "timestamp_range": ["51:24", "53:07"]},
+        {"l3_id": "§12.p3", "l2_ids": ["p53"], "timestamp_range": ["53:07", "54:50"]}
+      ]
+    },
+    {
+      "section_id": "s13",
+      "section_title": "The productivity revolution of the 1980s",
+      "section_timestamp_start": "54:50",
+      "anchors": [
+        {"l3_id": "§13.p1", "l2_ids": ["p54"], "timestamp_range": ["54:50", "55:28"]},
+        {"l3_id": "§13.p2", "l2_ids": ["p55"], "timestamp_range": ["55:28", "57:01"]},
+        {"l3_id": "§13.p3", "l2_ids": ["p56"], "timestamp_range": ["57:01", "57:52"]},
+        {"l3_id": "§13.p4", "l2_ids": ["p57"], "timestamp_range": ["57:52", "58:59"]},
+        {"l3_id": "§13.p5", "l2_ids": ["p58"], "timestamp_range": ["58:59", "59:38"]}
+      ]
+    },
+    {
+      "section_id": "s14",
+      "section_title": "Surveying and the SS LNG Libra",
+      "section_timestamp_start": "59:38",
+      "anchors": [
+        {"l3_id": "§14.p1", "l2_ids": ["p59"], "timestamp_range": ["59:38", "60:18"]},
+        {"l3_id": "§14.p2", "l2_ids": ["p60"], "timestamp_range": ["60:18", "61:34"]},
+        {"l3_id": "§14.p3", "l2_ids": ["p61"], "timestamp_range": ["61:34", "62:24"]},
+        {"l3_id": "§14.p4", "l2_ids": ["p62"], "timestamp_range": ["62:24", "63:28"]}
+      ]
+    },
+    {
+      "section_id": "s15",
+      "section_title": "LNG dangers and the Qatar explosion",
+      "section_timestamp_start": "63:28",
+      "anchors": [
+        {"l3_id": "§15.p1", "l2_ids": ["p63"], "timestamp_range": ["63:28", "64:13"]},
+        {"l3_id": "§15.p2", "l2_ids": ["p64"], "timestamp_range": ["64:13", "65:24"]},
+        {"l3_id": "§15.p3", "l2_ids": ["p65"], "timestamp_range": ["65:24", "66:08"]}
+      ]
+    },
+    {
+      "section_id": "s16",
+      "section_title": "Davao City harbor transfer and the broken tail shaft",
+      "section_timestamp_start": "66:08",
+      "anchors": [
+        {"l3_id": "§16.p1", "l2_ids": ["p66"], "timestamp_range": ["66:08", "67:12"]},
+        {"l3_id": "§16.p2", "l2_ids": ["p67"], "timestamp_range": ["67:12", "68:26"]}
+      ]
+    },
+    {
+      "section_id": "s17",
+      "section_title": "The shrinkage pipe and the Seattle steel mill",
+      "section_timestamp_start": "68:26",
+      "anchors": [
+        {"l3_id": "§17.p1", "l2_ids": ["p68"], "timestamp_range": ["68:26", "69:25"]},
+        {"l3_id": "§17.p2", "l2_ids": ["p69"], "timestamp_range": ["69:25", "70:50"]},
+        {"l3_id": "§17.p3", "l2_ids": ["p70"], "timestamp_range": ["70:50", "72:13"]},
+        {"l3_id": "§17.p4", "l2_ids": ["p71"], "timestamp_range": ["72:13", "73:25"]},
+        {"l3_id": "§17.p5", "l2_ids": ["p72"], "timestamp_range": ["73:25", "74:10"]},
+        {"l3_id": "§17.p6", "l2_ids": ["p73"], "timestamp_range": ["74:10", "74:41"]}
+      ]
+    },
+    {
+      "section_id": "s18",
+      "section_title": "The ignored inspection report",
+      "section_timestamp_start": "74:41",
+      "anchors": [
+        {"l3_id": "§18.p1", "l2_ids": ["p74"], "timestamp_range": ["74:41", "75:45"]},
+        {"l3_id": "§18.p2", "l2_ids": ["p75"], "timestamp_range": ["75:45", "76:21"]}
+      ]
+    },
+    {
+      "section_id": "s19",
+      "section_title": "The clink defect",
+      "section_timestamp_start": "76:21",
+      "anchors": [
+        {"l3_id": "§19.p1", "l2_ids": ["p76"], "timestamp_range": ["76:21", "77:27"]},
+        {"l3_id": "§19.p2", "l2_ids": ["p77"], "timestamp_range": ["77:27", "78:06"]},
+        {"l3_id": "§19.p3", "l2_ids": ["p78"], "timestamp_range": ["78:06", "79:11"]},
+        {"l3_id": "§19.p4", "l2_ids": ["p79"], "timestamp_range": ["79:11", "80:01"]},
+        {"l3_id": "§19.p5", "l2_ids": ["p80"], "timestamp_range": ["80:01", "80:56"]},
+        {"l3_id": "§19.p6", "l2_ids": ["p81"], "timestamp_range": ["80:56", "81:49"]},
+        {"l3_id": "§19.p7", "l2_ids": ["p82"], "timestamp_range": ["81:49", "83:08"]},
+        {"l3_id": "§19.p8", "l2_ids": ["p83"], "timestamp_range": ["83:08", "83:48"]},
+        {"l3_id": "§19.p9", "l2_ids": ["p84"], "timestamp_range": ["83:48", "84:15"]},
+        {"l3_id": "§19.p10", "l2_ids": ["p85"], "timestamp_range": ["84:15", "85:15"]}
+      ]
+    },
+    {
+      "section_id": "s20",
+      "section_title": "Big-shaft forging and the limits of capacity",
+      "section_timestamp_start": "85:15",
+      "anchors": [
+        {"l3_id": "§20.p1", "l2_ids": ["p86"], "timestamp_range": ["85:15", "86:47"]},
+        {"l3_id": "§20.p2", "l2_ids": ["p87"], "timestamp_range": ["86:47", "87:52"]},
+        {"l3_id": "§20.p3", "l2_ids": ["p88"], "timestamp_range": ["87:52", "88:25"]},
+        {"l3_id": "§20.p4", "l2_ids": ["p89"], "timestamp_range": ["88:25", "89:37"]},
+        {"l3_id": "§20.p5", "l2_ids": ["p90"], "timestamp_range": ["89:37", "90:46"]}
+      ]
+    },
+    {
+      "section_id": "s21",
+      "section_title": "Closing the Libra case",
+      "section_timestamp_start": "90:46",
+      "anchors": [
+        {"l3_id": "§21.p1", "l2_ids": ["p91"], "timestamp_range": ["90:46", "91:38"]},
+        {"l3_id": "§21.p2", "l2_ids": ["p92"], "timestamp_range": ["91:38", "92:54"]},
+        {"l3_id": "§21.p3", "l2_ids": ["p93"], "timestamp_range": ["92:54", "93:50"]}
+      ]
+    }
+  ]
+}

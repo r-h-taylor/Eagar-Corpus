@@ -1,0 +1,184 @@
+{
+  "lecture_id": "Aq3Q1CyX8uU",
+  "course": "3.371 Fusion Welding",
+  "term": "Summer 2013",
+  "session": "4/6",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Transferred and non-transferred plasma arcs",
+      "section_timestamp_start": "00:30",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:30", "01:30"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:30", "02:21"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:21", "03:27"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["03:27", "04:03"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["04:03", "04:33"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p6"], "timestamp_range": ["04:33", "05:40"]},
+        {"l3_id": "§1.p7", "l2_ids": ["p7"], "timestamp_range": ["05:40", "06:18"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The boundary layer in a plasma and characteristic lengths",
+      "section_timestamp_start": "06:18",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p8"], "timestamp_range": ["06:18", "06:58"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p9"], "timestamp_range": ["06:58", "07:48"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p10"], "timestamp_range": ["07:48", "08:48"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p11"], "timestamp_range": ["08:48", "09:45"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p12"], "timestamp_range": ["09:45", "10:23"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p13"], "timestamp_range": ["10:23", "11:05"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p14"], "timestamp_range": ["11:05", "11:59"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "How arcs actually ignite: Holm's contact heating",
+      "section_timestamp_start": "11:59",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p15"], "timestamp_range": ["11:59", "13:06"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p16"], "timestamp_range": ["13:06", "14:07"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p17"], "timestamp_range": ["14:07", "15:13"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p18"], "timestamp_range": ["15:13", "16:08"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p19"], "timestamp_range": ["16:08", "16:55"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p20"], "timestamp_range": ["16:55", "17:44"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p21"], "timestamp_range": ["17:44", "18:33"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p22"], "timestamp_range": ["18:33", "19:48"]},
+        {"l3_id": "§3.p9", "l2_ids": ["p23"], "timestamp_range": ["19:48", "20:46"]},
+        {"l3_id": "§3.p10", "l2_ids": ["p24"], "timestamp_range": ["20:46", "21:25"]},
+        {"l3_id": "§3.p11", "l2_ids": ["p25"], "timestamp_range": ["21:25", "22:34"]},
+        {"l3_id": "§3.p12", "l2_ids": ["p26"], "timestamp_range": ["22:34", "23:53"]},
+        {"l3_id": "§3.p13", "l2_ids": ["p27"], "timestamp_range": ["23:53", "25:01"]},
+        {"l3_id": "§3.p14", "l2_ids": ["p28"], "timestamp_range": ["25:01", "25:36"]},
+        {"l3_id": "§3.p15", "l2_ids": ["p29"], "timestamp_range": ["25:36", "25:43"]},
+        {"l3_id": "§3.p16", "l2_ids": ["p30"], "timestamp_range": ["25:43", "25:52"]},
+        {"l3_id": "§3.p17", "l2_ids": ["p31"], "timestamp_range": ["25:52", "26:00"]},
+        {"l3_id": "§3.p18", "l2_ids": ["p32"], "timestamp_range": ["26:00", "26:54"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Light switches, cadmium, and high-frequency arc ignition",
+      "section_timestamp_start": "26:54",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p33"], "timestamp_range": ["26:54", "27:49"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p34"], "timestamp_range": ["27:49", "28:26"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p35"], "timestamp_range": ["28:26", "29:48"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p36"], "timestamp_range": ["29:48", "30:31"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p37"], "timestamp_range": ["30:31", "31:08"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p38"], "timestamp_range": ["31:08", "31:41"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p39"], "timestamp_range": ["31:41", "32:18"]},
+        {"l3_id": "§4.p8", "l2_ids": ["p40"], "timestamp_range": ["32:18", "33:16"]},
+        {"l3_id": "§4.p9", "l2_ids": ["p41"], "timestamp_range": ["33:16", "34:00"]},
+        {"l3_id": "§4.p10", "l2_ids": ["p42"], "timestamp_range": ["34:00", "34:35"]},
+        {"l3_id": "§4.p11", "l2_ids": ["p43"], "timestamp_range": ["34:35", "34:47"]},
+        {"l3_id": "§4.p12", "l2_ids": ["p44"], "timestamp_range": ["34:47", "35:38"]},
+        {"l3_id": "§4.p13", "l2_ids": ["p45"], "timestamp_range": ["35:38", "36:24"]},
+        {"l3_id": "§4.p14", "l2_ids": ["p46"], "timestamp_range": ["36:24", "37:07"]},
+        {"l3_id": "§4.p15", "l2_ids": ["p47"], "timestamp_range": ["37:07", "38:02"]},
+        {"l3_id": "§4.p16", "l2_ids": ["p48"], "timestamp_range": ["38:02", "38:48"]},
+        {"l3_id": "§4.p17", "l2_ids": ["p49"], "timestamp_range": ["38:48", "39:22"]},
+        {"l3_id": "§4.p18", "l2_ids": ["p50"], "timestamp_range": ["39:22", "39:24"]},
+        {"l3_id": "§4.p19", "l2_ids": ["p51"], "timestamp_range": ["39:24", "39:24"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Plasma jets: the Maecker effect and arc dynamics",
+      "section_timestamp_start": "39:24",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p51"], "timestamp_range": ["39:24", "40:11"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p52"], "timestamp_range": ["40:11", "41:01"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p53"], "timestamp_range": ["41:01", "41:38"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p54"], "timestamp_range": ["41:38", "42:22"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p55"], "timestamp_range": ["42:22", "43:06"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p56"], "timestamp_range": ["43:06", "43:38"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p57"], "timestamp_range": ["43:38", "44:31"]},
+        {"l3_id": "§5.p8", "l2_ids": ["p58"], "timestamp_range": ["44:31", "45:12"]},
+        {"l3_id": "§5.p9", "l2_ids": ["p59"], "timestamp_range": ["45:12", "46:11"]},
+        {"l3_id": "§5.p10", "l2_ids": ["p60"], "timestamp_range": ["46:11", "46:50"]},
+        {"l3_id": "§5.p11", "l2_ids": ["p61"], "timestamp_range": ["46:50", "47:30"]},
+        {"l3_id": "§5.p12", "l2_ids": ["p62"], "timestamp_range": ["47:30", "48:07"]},
+        {"l3_id": "§5.p13", "l2_ids": ["p63"], "timestamp_range": ["48:07", "49:02"]},
+        {"l3_id": "§5.p14", "l2_ids": ["p64"], "timestamp_range": ["49:02", "49:43"]},
+        {"l3_id": "§5.p15", "l2_ids": ["p65"], "timestamp_range": ["49:43", "50:14"]},
+        {"l3_id": "§5.p16", "l2_ids": ["p66"], "timestamp_range": ["50:14", "51:09"]},
+        {"l3_id": "§5.p17", "l2_ids": ["p67"], "timestamp_range": ["51:09", "52:00"]},
+        {"l3_id": "§5.p18", "l2_ids": ["p68"], "timestamp_range": ["52:00", "53:17"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Weld pool depression, plasma jets, and arc blow",
+      "section_timestamp_start": "53:17",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p69"], "timestamp_range": ["53:17", "54:21"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p70"], "timestamp_range": ["54:21", "55:06"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p71"], "timestamp_range": ["55:06", "55:56"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p72"], "timestamp_range": ["55:56", "56:36"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p73"], "timestamp_range": ["56:36", "57:22"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p74"], "timestamp_range": ["57:22", "58:46"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p75"], "timestamp_range": ["58:46", "59:33"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p76"], "timestamp_range": ["59:33", "60:06"]},
+        {"l3_id": "§6.p9", "l2_ids": ["p77"], "timestamp_range": ["60:06", "60:55"]},
+        {"l3_id": "§6.p10", "l2_ids": ["p78"], "timestamp_range": ["60:55", "61:51"]},
+        {"l3_id": "§6.p11", "l2_ids": ["p79"], "timestamp_range": ["61:51", "62:47"]},
+        {"l3_id": "§6.p12", "l2_ids": ["p80"], "timestamp_range": ["62:47", "62:49"]},
+        {"l3_id": "§6.p13", "l2_ids": ["p81"], "timestamp_range": ["62:49", "64:00"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Titanium submarines, composite submarines, and arc blow",
+      "section_timestamp_start": "64:00",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p82"], "timestamp_range": ["64:00", "64:33"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p83"], "timestamp_range": ["64:33", "65:39"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p84"], "timestamp_range": ["65:39", "66:50"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p85"], "timestamp_range": ["66:50", "67:44"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p86"], "timestamp_range": ["67:44", "68:44"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p87"], "timestamp_range": ["68:44", "69:33"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p88"], "timestamp_range": ["69:33", "70:42"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p89"], "timestamp_range": ["70:42", "71:16"]},
+        {"l3_id": "§7.p9", "l2_ids": ["p90"], "timestamp_range": ["71:16", "72:22"]},
+        {"l3_id": "§7.p10", "l2_ids": ["p91"], "timestamp_range": ["72:22", "73:09"]},
+        {"l3_id": "§7.p11", "l2_ids": ["p92"], "timestamp_range": ["73:09", "73:36"]},
+        {"l3_id": "§7.p12", "l2_ids": ["p93"], "timestamp_range": ["73:36", "74:36"]},
+        {"l3_id": "§7.p13", "l2_ids": ["p94"], "timestamp_range": ["74:36", "75:00"]},
+        {"l3_id": "§7.p14", "l2_ids": ["p95"], "timestamp_range": ["75:00", "75:46"]},
+        {"l3_id": "§7.p15", "l2_ids": ["p96"], "timestamp_range": ["75:46", "76:28"]},
+        {"l3_id": "§7.p16", "l2_ids": ["p97"], "timestamp_range": ["76:28", "77:00"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Heat flow in welding: Rosenthal, Christensen, and dimensional solutions",
+      "section_timestamp_start": "77:00",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p98"], "timestamp_range": ["77:00", "77:37"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p99"], "timestamp_range": ["77:37", "78:38"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p100"], "timestamp_range": ["78:38", "79:51"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p101"], "timestamp_range": ["79:51", "80:37"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p102"], "timestamp_range": ["80:37", "81:25"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p103"], "timestamp_range": ["81:25", "82:15"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p104"], "timestamp_range": ["82:15", "82:55"]},
+        {"l3_id": "§8.p8", "l2_ids": ["p105"], "timestamp_range": ["82:55", "83:49"]},
+        {"l3_id": "§8.p9", "l2_ids": ["p106"], "timestamp_range": ["83:49", "85:01"]},
+        {"l3_id": "§8.p10", "l2_ids": ["p107"], "timestamp_range": ["85:01", "86:01"]},
+        {"l3_id": "§8.p11", "l2_ids": ["p108"], "timestamp_range": ["86:01", "86:53"]},
+        {"l3_id": "§8.p12", "l2_ids": ["p109", "p110"], "timestamp_range": ["86:53", "88:30"]},
+        {"l3_id": "§8.p13", "l2_ids": ["p111"], "timestamp_range": ["88:30", "89:11"]},
+        {"l3_id": "§8.p14", "l2_ids": ["p111", "p112"], "timestamp_range": ["89:11", "89:54"]},
+        {"l3_id": "§8.p15", "l2_ids": ["p113"], "timestamp_range": ["89:54", "90:48"]},
+        {"l3_id": "§8.p16", "l2_ids": ["p114"], "timestamp_range": ["90:48", "90:52"]},
+        {"l3_id": "§8.p17", "l2_ids": ["p115"], "timestamp_range": ["90:52", "91:48"]},
+        {"l3_id": "§8.p18", "l2_ids": ["p116"], "timestamp_range": ["91:48", "92:42"]},
+        {"l3_id": "§8.p19", "l2_ids": ["p117"], "timestamp_range": ["92:42", "93:22"]},
+        {"l3_id": "§8.p20", "l2_ids": ["p118"], "timestamp_range": ["93:22", "94:15"]},
+        {"l3_id": "§8.p21", "l2_ids": ["p119"], "timestamp_range": ["94:15", "95:13"]},
+        {"l3_id": "§8.p22", "l2_ids": ["p120"], "timestamp_range": ["95:13", "96:30"]}
+      ]
+    }
+  ]
+}

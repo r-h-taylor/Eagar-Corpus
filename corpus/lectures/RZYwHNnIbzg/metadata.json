@@ -1,0 +1,65 @@
+{
+  "video_id": "RZYwHNnIbzg",
+  "course": "Corrosion Cracking and More",
+  "course_number": "3.371",
+  "course_title": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "lecture_number": 15,
+  "lecture_total": 35,
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [15/35]",
+  "raw_transcript_sha256": "c08379bab03fcc9d103141f47a641ffc75e063220f3ad31e560494bcec208860",
+  "raw_transcript_line_count": 1035,
+  "raw_transcript_word_count": 6819,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T17:58:34.875123+00:00",
+  "layer2_paragraph_count": 54,
+  "duration_covered_mmss": "00:02-37:01",
+  "primary_topics": [
+    "stress relief of welded pressure vessels and submarines",
+    "hydrogen-induced cracking in high-strength steel welds",
+    "the Seawolf (SSN-21) weld-cracking incident and Tom's role advising the Navy",
+    "mechanical vs. thermal stress relief",
+    "Tom's early consulting work at JG Sylvester and Associates"
+  ],
+  "cases_mentioned": [
+    "Bonal Technologies (vibratory stress relief)",
+    "USS Seawolf weld cracking (HY-100, 1991-1992)",
+    "Aluminum aircraft wing plate stress relief (Davenport, Iowa)",
+    "Submarine first-deep-dive mechanical stress relief",
+    "JG Sylvester and Associates (Bruce Sylvester embezzlement)",
+    "Hunt for Red October / submarine scuttling off Newport News"
+  ],
+  "people_named": [
+    "John (student, prior reference)",
+    "Stout and Doty (textbook authors)",
+    "Frank Coe (British Welding Institute, hydrogen cracking plot)",
+    "Admiral Fireball (Bruce DeMars?, Navy Chief Engineer)",
+    "Bruce Sylvester",
+    "JG Sylvester",
+    "Ken Baker",
+    "Dave Holt"
+  ],
+  "organizations_named": [
+    "U.S. Coast Guard",
+    "ASME (Boiler and Pressure Vessel Code)",
+    "Nooter Construction",
+    "CANMET (Canada)",
+    "Bonal Technologies (Columbus, Ohio)",
+    "U.S. Navy",
+    "British Welding Institute",
+    "Airco / Lincoln Electric",
+    "Electric Boat",
+    "Air Force",
+    "Boeing",
+    "Mass Tank",
+    "Bethlehem Steel",
+    "Factory Mutual Research",
+    "JG Sylvester and Associates",
+    "MIT"
+  ],
+  "editorial_flags": [
+    "Admiral Fireball identity uncertain — bracketed as [Bruce DeMars?] on first occurrence",
+    "8027 steel — captioner had 827, corrected from context but verification recommended"
+  ]
+}

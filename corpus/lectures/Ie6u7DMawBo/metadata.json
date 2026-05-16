@@ -1,0 +1,63 @@
+{
+  "video_id": "Ie6u7DMawBo",
+  "course": "Casting",
+  "course_number": "3.371",
+  "course_title": "Materials Processing and Casting",
+  "term": "Summer 2011",
+  "video_title": "3.371 Materials Processing and Casting - Summer 2011 [7/7]",
+  "lecture_number_in_series": 7,
+  "total_lectures_in_series": 7,
+  "raw_transcript_sha256": "8350c7beee0d63fc201b355b3c08ffe871ff5537a6b5b5a6b9cd58042802d8c8",
+  "raw_transcript_line_count": 1624,
+  "raw_transcript_word_count": 12843,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T08:41:58.219758+00:00",
+  "layer2_paragraph_count": 77,
+  "duration_covered_mm_ss_start": "00:02",
+  "duration_covered_mm_ss_end": "70:14",
+  "primary_topics": [
+    "HIP (hot isostatic pressing) and fatigue life",
+    "Solidification: phase diagrams, partition coefficient, zone melting",
+    "Constitutional supercooling and dendrite formation",
+    "Micro-segregation and the Sea Wolf welding wire case",
+    "Dendrite arm spacing vs. cooling rate (Flemings)",
+    "Gradient furnace single-crystal turbine blade growth",
+    "Forging: cold heading, isothermal forging, super plasticity",
+    "Backofen's deformation zone geometry",
+    "Frictional boundary conditions in metal forming",
+    "Rolling mills: four-high, planetary, Z-mill, pack rolling",
+    "Alcoa Davenport air knife consulting case"
+  ],
+  "cases_mentioned": [
+    "Sea Wolf submarine welding wire / hydrogen embrittlement",
+    "Aircraft engine HIP vessel ($2B near-miss)",
+    "Navy internally cooled recuperator (ICR) failure",
+    "Pfann zone refining of silicon (Bell Labs)",
+    "Flemings constitutional supercooling / single-crystal turbine blades",
+    "Cold-heading wood inserts (11-step forging)",
+    "Air Force buy-to-fly ratio",
+    "Backofen aluminum-zinc super plastic candy dish",
+    "Reynolds Wrap / Reynolds Aluminum origin (cigarette packaging)",
+    "Alcoa Davenport aluminum plate rolling / air knife (1990, Owen Richmond)"
+  ],
+  "people_mentioned": [
+    "William Pfann (Bell Labs, zone refining)",
+    "Merton C. Flemings (MIT, solidification)",
+    "Al Backofen (MIT, deformation processing)",
+    "Don Avery (Backofen graduate student)",
+    "Dion Lee (Backofen graduate student)",
+    "Morris Cohen (MIT)",
+    "Don Bliquhouse [spelling unverified] (Bethlehem Steel VP of research)",
+    "Owen Richmond (Alcoa, head of deformation)",
+    "Clarence Zener (Hungarian metallurgist, Z-mill)",
+    "R.J. Reynolds (Reynolds Aluminum / cigarettes)"
+  ],
+  "stage_directions_present": true,
+  "biographical_asides_present": true,
+  "editorial_flags": [
+    "p32: student attribution inferred",
+    "p62: 'Bliquhouse' spelling unverified — could be Bleekrode or similar",
+    "p68: student question content inferred from Tom's response"
+  ]
+}

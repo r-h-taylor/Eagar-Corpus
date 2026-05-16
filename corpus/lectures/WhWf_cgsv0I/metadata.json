@@ -1,0 +1,68 @@
+{
+  "video_id": "WhWf_cgsv0I",
+  "raw_transcript_sha256": "744f8753df187db324a62253d24f024f86e740c0cd9c0d7932e5915f3178c86f",
+  "raw_transcript_word_count": 18959,
+  "raw_transcript_line_count": 2419,
+  "pipeline_version": "2.0-chunked",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-15T19:41:14.191394+00:00",
+  "chunked": true,
+  "n_chunks": 4,
+  "chunk_overlap_seconds": 30,
+  "chunks_summary": [
+    {
+      "chunk_id": 1,
+      "chunk_start_seconds": 3,
+      "chunk_end_seconds": 1597,
+      "section_count": 6,
+      "section_range_after_renumber": [
+        1,
+        6
+      ],
+      "raw_word_count": 4638
+    },
+    {
+      "chunk_id": 2,
+      "chunk_start_seconds": 1570,
+      "chunk_end_seconds": 3195,
+      "section_count": 8,
+      "section_range_after_renumber": [
+        7,
+        14
+      ],
+      "raw_word_count": 4813
+    },
+    {
+      "chunk_id": 3,
+      "chunk_start_seconds": 3169,
+      "chunk_end_seconds": 4792,
+      "section_count": 9,
+      "section_range_after_renumber": [
+        15,
+        23
+      ],
+      "raw_word_count": 4861
+    },
+    {
+      "chunk_id": 4,
+      "chunk_start_seconds": 4766,
+      "chunk_end_seconds": 6393,
+      "section_count": 7,
+      "section_range_after_renumber": [
+        24,
+        30
+      ],
+      "raw_word_count": 4862
+    }
+  ],
+  "layer2_paragraph_count": 69,
+  "cases_mentioned": [],
+  "flags_for_editor": [
+    {
+      "issue": "This lecture was processed via chunk-and-stitch due to length exceeding the pipeline's effective output ceiling. Section boundaries near chunk transitions and case-index frame text for cross-chunk cases require human editorial review and consolidation."
+    }
+  ],
+  "course": [],
+  "term": [],
+  "total_section_count": 30
+}

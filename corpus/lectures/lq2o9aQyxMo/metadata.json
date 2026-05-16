@@ -1,0 +1,55 @@
+{
+  "video_id": "lq2o9aQyxMo",
+  "course": "Solid State Welding",
+  "term": "Spring 2013",
+  "video_title": "3.371 Solid State Welding - Spring 2013 [7/12]",
+  "raw_transcript_sha256": "8b21d4032cbe3fc78d9f64dce07ee964d7248290dc97b9c952d7ebbf6d970980",
+  "raw_transcript_line_count": 1137,
+  "raw_transcript_word_count": 8865,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T11:28:49.291421+00:00",
+  "layer2_paragraph_count": 49,
+  "duration_approx_minutes": 50,
+  "primary_topics": [
+    "surface energy of fluoropolymers and Teflon",
+    "type 1 vs type 2 adhesive bonding (wetting vs mechanical interlocking)",
+    "cold bonding in Farberware cookware (aluminum-to-stainless cladding)",
+    "hydrogen cracking diagnosis in plasma-sprayed cookware",
+    "adhesive cure mechanisms (solvent removal, polymerization, vaporization, solidification)",
+    "history of automotive adhesives and the rust-resistance problem post-1973",
+    "fish glue / gurry / horse-hoof gelatin as historical adhesives",
+    "Lord Corporation and the rubber-to-steel patent",
+    "scarf and step joints to increase bonded area",
+    "Boeing adhesive bonding plus rivets (belt-and-suspenders)",
+    "Teflon and vapor-deposited water (carburetor icing application)",
+    "polyethylene vs polypropylene glycol aircraft deicing",
+    "phosphate-coated steel and calcium stearate lubrication for cold heading",
+    "diffusion bonding stages and oxide-solubility criterion",
+    "titanium fires in jet engines"
+  ],
+  "stage_directions_count": 2,
+  "spoken_slips_bracketed": [
+    {
+      "paragraph": "p8",
+      "timestamp": "06:49",
+      "spoken": "helium",
+      "intended": "hydrogen",
+      "note": "Tom names helium as the 5% constituent but immediately reads it as hydrogen and the diagnosis depends on it being hydrogen."
+    }
+  ],
+  "captioner_corrections_silent": 14,
+  "student_turns": 1,
+  "factual_issues_flagged_for_layer3": [
+    {
+      "paragraph": "p36",
+      "issue": "Tom attributes methanol-producing metabolism to polyethylene glycol; the metabolic pathway he describes is in fact ethylene glycol's. PEG is not significantly metabolized.",
+      "disposition": "preserved per constitutional §16; consider layer 3 footnote"
+    },
+    {
+      "paragraph": "p46",
+      "issue": "Tom mentions 'F20' and self-questions 'is that the Raptor?' The Raptor is F-22; F-20 was the Northrop Tigershark. Tom's uncertainty is on tape.",
+      "disposition": "preserved verbatim with Tom's self-question; not bracketed"
+    }
+  ]
+}

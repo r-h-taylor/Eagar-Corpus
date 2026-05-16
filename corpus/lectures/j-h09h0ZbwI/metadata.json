@@ -1,0 +1,57 @@
+{
+  "video_id": "j-h09h0ZbwI",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Fall 2013",
+  "video_title": "3.371 Structural Materials Selection - Fall 2013 [1/14]",
+  "lecture_number": 1,
+  "lecture_title": "Course introduction; externalities in materials selection",
+  "session_date": "2013-09-04",
+  "raw_transcript_sha256": "e58ac62d05248d07b4d6e28e417e83171eafb4e37054a1a590e5685f87a32a65",
+  "raw_transcript_line_count": 1586,
+  "raw_transcript_word_count": 10432,
+  "duration_approx_minutes": 53,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T05:24:52.893849+00:00",
+  "layer2_paragraph_count": 62,
+  "spoken_slips_bracketed": [
+    {"paragraph": "p11", "raw": "foraging", "corrected": "forging"},
+    {"paragraph": "p24", "raw": "coil", "corrected": "toil", "note": "ambiguous: possible captioner error or Tom slip"},
+    {"paragraph": "p25", "raw": "defamation processing", "corrected": "deformation processing"},
+    {"paragraph": "p50", "raw": "chromore", "corrected": "chrome ore"},
+    {"paragraph": "p53", "raw": "30 years later", "corrected": "30 years earlier"},
+    {"paragraph": "p60", "raw": "December of 2011", "corrected": "December of 2001"}
+  ],
+  "captioner_errors_corrected_silently": [
+    "Professor Sadoway (raw: sataway)",
+    "Prudhoe Bay (raw: pluto bay / fruit bay)",
+    "samarium cobalt (raw: sumerian cobalt)",
+    "Mesabi Range (raw: wasabi range)",
+    "Don Blickwede (raw: don blickweed)",
+    "Tom Eagar (raw: tom eager)",
+    "Professor Backofen (raw: professor beckham)",
+    "Planck's law (raw: plank's law)"
+  ],
+  "editor_flags": [
+    {"paragraph": "p41", "issue": "captioner garble 'Fe-Ware parts pots' — referent unclear, marked [?]"},
+    {"paragraph": "p24", "issue": "'coil'/'toil' ambiguity"},
+    {"paragraph": "p29", "issue": "verify Christian Science Monitor cartoon caption wording"}
+  ],
+  "cases_or_examples_mentioned": [
+    "Pennzoil refinery, Oil City PA",
+    "Titusville / Edwin Drake / oil drilling history",
+    "Alaska tar sands / Prudhoe Bay",
+    "Fort McMurray tar sands and the $100K-per-goose externality",
+    "Chinese rare earth monopoly and Sumitomo Metals embargo",
+    "Samarium cobalt and neodymium iron boron magnet history",
+    "Sony Walkman battery life",
+    "Norm Augustine and aircraft cost projections",
+    "Blood diamonds from Angola",
+    "Rhodesian chrome embargo",
+    "Mesabi Range iron ore",
+    "U.S. steel industry decline (1945 → 1974 → present)",
+    "Kennedy / U.S. Steel price standoff 1962",
+    "Bethlehem Steel research labs / nuclear steel-making concept",
+    "Tom's World Trade Center collapse article (JOM, 2001)"
+  ]
+}

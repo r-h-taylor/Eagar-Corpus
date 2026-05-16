@@ -1,0 +1,46 @@
+{
+  "video_id": "OszzaQpMV50",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Summer 2015",
+  "video_title": "3.371 Welding Metallurgy - Summer 2015 [10/18]",
+  "lecture_number": 10,
+  "lecture_total": 18,
+  "raw_transcript_sha256": "fc33a57b5eb3bd7cda161d8fa068459c0b5ac5626ab6081675edcb278d6a2205",
+  "raw_transcript_line_count": 424,
+  "raw_transcript_word_count": 3399,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T16:02:25.408845+00:00",
+  "layer2_paragraph_count": 19,
+  "duration_covered_mmss": "00:03–21:00",
+  "transcript_state": "incomplete_both_ends",
+  "primary_topics": [
+    "ASTM and AWS standards (cost, monetization, accessibility via MIT libraries)",
+    "Structural welding codes and force of law",
+    "Critical pitting temperature of stainless steels (316, 317L, AL-6XN)",
+    "Schaeffler diagram and dissimilar-metal welding",
+    "Army Abrams tank welding (Egyptian export, hydrogen cracking)",
+    "Farberware pot delayed hydrogen cracking case (strain-induced martensite + plasma-spray nitrogen)",
+    "New York City structural beam consulting anecdotes"
+  ],
+  "cases_mentioned": [
+    "AWS structural welding code D1.1",
+    "AL-6XN submarine hull program (Navy, abandoned)",
+    "Boiler tube weld failure on destroyer (1978–79, chromoly to stainless)",
+    "Abrams tank welding for Egyptian Army (Lima, Ohio plant)",
+    "Farberware stainless steel pot delayed cracking (Brooklyn → Tokyo shipment)",
+    "Manhattan apartment building structural beam crack (near George Washington Bridge approach)"
+  ],
+  "people_mentioned": [
+    "Gaskell (David Gaskell, thermodynamics textbook author)"
+  ],
+  "key_figures": [
+    "$50,000–$100,000 full ASTM standards set",
+    "AWS net assets: $2–3M (mid-1990s) → $100M (2015)",
+    "$300 → $1,500 ASTM radiographic reference film over 20 years",
+    "304 stainless metastable austenite → strain-induced martensite",
+    "Plasma spray with Ar–5%N₂ → hydrogen introduction → delayed cracking"
+  ],
+  "notes": "Lecture begins and ends mid-flow. Transcript appears truncated on both ends. Several captioner garbles flagged for editorial review. Tom misstates 'ferritic' for 'austenitic' when discussing 304 — preserved per convention §16."
+}

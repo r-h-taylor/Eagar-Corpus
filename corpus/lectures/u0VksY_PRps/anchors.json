@@ -1,0 +1,119 @@
+{
+  "lecture_id": "u0VksY_PRps",
+  "course": "3.371 Codes and Standards for Safety",
+  "term": "Fall 2012",
+  "session": "7/14",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Introduction and frozen copper pipe",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:02", "01:08"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:08", "02:05"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:05", "02:59"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["02:59", "03:52"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Course outline and logistics",
+      "section_timestamp_start": "03:52",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p5"], "timestamp_range": ["03:52", "05:12"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p6"], "timestamp_range": ["05:12", "05:59"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p7"], "timestamp_range": ["05:59", "06:55"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p8", "p9"], "timestamp_range": ["06:55", "08:17"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p10", "p11"], "timestamp_range": ["08:17", "09:59"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Defining factor of safety",
+      "section_timestamp_start": "09:59",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p12"], "timestamp_range": ["09:59", "10:53"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p13"], "timestamp_range": ["10:53", "11:54"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p14"], "timestamp_range": ["11:54", "12:50"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p15"], "timestamp_range": ["12:50", "13:52"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p16"], "timestamp_range": ["13:52", "15:04"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p17"], "timestamp_range": ["15:04", "16:15"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p18"], "timestamp_range": ["16:15", "16:57"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Factor of ignorance, water hammer, welded joints",
+      "section_timestamp_start": "16:57",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p19"], "timestamp_range": ["16:57", "18:11"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p20"], "timestamp_range": ["18:11", "18:53"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p21"], "timestamp_range": ["18:53", "19:52"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p22"], "timestamp_range": ["19:52", "21:06"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p23"], "timestamp_range": ["21:06", "22:04"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p24"], "timestamp_range": ["22:04", "22:46"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Industry comparisons: levees, aircraft, buildings, automotive",
+      "section_timestamp_start": "22:46",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p25"], "timestamp_range": ["22:46", "24:02"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p26"], "timestamp_range": ["24:02", "25:10"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p27"], "timestamp_range": ["25:10", "25:43"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p28"], "timestamp_range": ["25:43", "26:45"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p29"], "timestamp_range": ["26:45", "27:32"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p30"], "timestamp_range": ["27:32", "28:12"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p31"], "timestamp_range": ["28:12", "29:13"]},
+        {"l3_id": "§5.p8", "l2_ids": ["p32"], "timestamp_range": ["29:13", "30:00"]},
+        {"l3_id": "§5.p9", "l2_ids": ["p33"], "timestamp_range": ["30:00", "30:55"]},
+        {"l3_id": "§5.p10", "l2_ids": ["p34"], "timestamp_range": ["30:55", "31:43"]},
+        {"l3_id": "§5.p11", "l2_ids": ["p35"], "timestamp_range": ["31:43", "32:50"]},
+        {"l3_id": "§5.p12", "l2_ids": ["p36"], "timestamp_range": ["32:50", "33:37"]},
+        {"l3_id": "§5.p13", "l2_ids": ["p37"], "timestamp_range": ["33:37", "34:29"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Speedboat propeller shaft fatigue failure",
+      "section_timestamp_start": "34:29",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p38"], "timestamp_range": ["34:29", "34:55"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p39"], "timestamp_range": ["34:55", "35:49"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p40"], "timestamp_range": ["35:49", "36:23"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p41"], "timestamp_range": ["36:23", "37:15"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p42"], "timestamp_range": ["37:15", "38:00"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p43"], "timestamp_range": ["38:00", "38:57"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p44"], "timestamp_range": ["38:57", "39:31"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p45"], "timestamp_range": ["39:31", "40:26"]},
+        {"l3_id": "§6.p9", "l2_ids": ["p46"], "timestamp_range": ["40:26", "41:10"]},
+        {"l3_id": "§6.p10", "l2_ids": ["p47"], "timestamp_range": ["41:10", "42:10"]},
+        {"l3_id": "§6.p11", "l2_ids": ["p48"], "timestamp_range": ["42:10", "42:37"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Jet ski fuel hose fitting and assembly-driven loads",
+      "section_timestamp_start": "42:37",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p49"], "timestamp_range": ["42:37", "43:38"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p50"], "timestamp_range": ["43:38", "44:51"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p51"], "timestamp_range": ["44:51", "45:52"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p52"], "timestamp_range": ["45:52", "47:01"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p53"], "timestamp_range": ["47:01", "47:58"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p54"], "timestamp_range": ["47:58", "48:58"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Q&A on statistical approach to safety",
+      "section_timestamp_start": "48:58",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p55"], "timestamp_range": ["48:58", "49:10"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p55"], "timestamp_range": ["49:10", "50:06"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p56"], "timestamp_range": ["50:06", "50:50"]}
+      ]
+    }
+  ]
+}

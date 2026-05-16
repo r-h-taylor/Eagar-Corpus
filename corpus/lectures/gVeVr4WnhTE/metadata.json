@@ -1,0 +1,53 @@
+{
+  "video_id": "gVeVr4WnhTE",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2015",
+  "video_title": "3.371 Welding Metallurgy - Summer 2015 [11/18]",
+  "lecture_number": 11,
+  "lecture_total": 18,
+  "raw_transcript_sha256": "1b653f5ac4b0d8cd5a3640a87f62784aec5d462330976c6772d2d3b5fa715e59",
+  "raw_transcript_line_count": 1296,
+  "raw_transcript_word_count": 10582,
+  "duration_approx_minutes": 60,
+  "layer2_paragraph_count": 53,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T16:05:57.684524+00:00",
+  "topics": [
+    "stress relief of welds",
+    "post-weld heat treatment",
+    "thermal vs mechanical stress relief",
+    "shot peening and Almen gage",
+    "weld distortion vs residual stress tradeoff",
+    "fatigue design of welded structures",
+    "stress categories in AWS D1.1",
+    "weld details and stress concentrations",
+    "doubler plates in pressure vessels",
+    "ASME boiler and pressure vessel code",
+    "professional liability for engineers",
+    "GARA (General Aviation Revitalization Act)",
+    "King Street Bridge failure (Melbourne)",
+    "USS Thresher loss and the SUBSAFE program"
+  ],
+  "cases_referenced": [
+    "stainless steel guide wire (304 SS)",
+    "cow magnet (stainless + carbon steel + cattle stomach)",
+    "Coca-Cola / 7-Up origin (digression)",
+    "Electric Boat torpedo tube welding (John Galati)",
+    "Naval Air Rework Facility CF-30 engine titanium vane peening repair (Tom's intern summer)",
+    "Davenport Iowa Alcoa plate stress relief by mechanical stretching",
+    "1985 Ford Aerostar rear axle fatigue failures",
+    "tractor-trailer ladder frame welding prohibition (NHTSA)",
+    "cement truck water tank explosion (Pennsylvania welder)",
+    "Johnson & Johnson laser surgery instrument coating consulting",
+    "$700,000 farm equipment bolt-vibration fire (recent litigation)",
+    "King Street Bridge brittle fracture (Melbourne, late 1970s)",
+    "USS Thresher loss (April 1963)",
+    "Henry Petroski, *To Engineer is Human*"
+  ],
+  "editor_flags": [
+    "captioner garbling unusually heavy in this lecture; many passages preserved with [?] equivalents pending editor review",
+    "student turn in p51 carries real technical content on SUBSAFE-relevant Thresher failure analysis but is heavily garbled",
+    "Coca-Cola / 7-Up / cow magnet digression in p4-p6 is the kind of off-topic Eagar reverie typical of the corpus; preserve in layer 2, decide at layer 3 whether to retain or compress"
+  ]
+}

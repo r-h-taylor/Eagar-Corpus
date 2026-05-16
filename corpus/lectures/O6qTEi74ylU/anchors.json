@@ -1,0 +1,75 @@
+{
+  "lecture_id": "O6qTEi74ylU",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "session": "11/29",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Heat-affected zone liquation cracking",
+      "section_timestamp_start": "00:03",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:03", "00:16"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:16", "01:00"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:00", "01:48"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["01:48", "02:19"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Mechanisms illustrated",
+      "section_timestamp_start": "02:19",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p5"], "timestamp_range": ["02:19", "02:55"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p6"], "timestamp_range": ["02:55", "03:48"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p7"], "timestamp_range": ["03:48", "03:50"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p7"], "timestamp_range": ["03:48", "04:28"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Preventing heat-affected zone liquation",
+      "section_timestamp_start": "04:28",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p8"], "timestamp_range": ["04:28", "05:10"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p9"], "timestamp_range": ["05:10", "05:46"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p10"], "timestamp_range": ["05:46", "06:39"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Strain-age cracking: mechanism",
+      "section_timestamp_start": "06:39",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p11"], "timestamp_range": ["06:39", "07:16"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p12"], "timestamp_range": ["07:16", "08:07"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p13"], "timestamp_range": ["08:07", "08:47"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p14"], "timestamp_range": ["08:47", "08:50"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p14"], "timestamp_range": ["08:47", "09:41"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Preventing strain-age cracking",
+      "section_timestamp_start": "09:41",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p15"], "timestamp_range": ["09:41", "11:17"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p16"], "timestamp_range": ["11:17", "11:35"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p17"], "timestamp_range": ["11:35", "12:01"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p18"], "timestamp_range": ["12:01", "12:59"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p19"], "timestamp_range": ["12:59", "13:42"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Design and procedure to reduce weldability cracking",
+      "section_timestamp_start": "13:42",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p20"], "timestamp_range": ["13:42", "14:25"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p21"], "timestamp_range": ["14:25", "14:46"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p22"], "timestamp_range": ["14:46", "15:25"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p23"], "timestamp_range": ["15:25", "16:00"]}
+      ]
+    }
+  ]
+}

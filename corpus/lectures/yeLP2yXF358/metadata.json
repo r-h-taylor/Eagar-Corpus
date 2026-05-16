@@ -1,0 +1,71 @@
+{
+  "video_id": "yeLP2yXF358",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "lecture_number": 14,
+  "lectures_in_series": 29,
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [14/29]",
+  "raw_transcript_sha256": "ee48f33afa4d25e20704ce00026a3e89cb9c239f46ea2717aa2e260aaeed9099",
+  "raw_transcript_line_count": 801,
+  "raw_transcript_word_count": 6438,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T14:06:22.992469+00:00",
+  "layer2_paragraph_count": 38,
+  "layer2_timestamp_start": "00:02",
+  "layer2_timestamp_end": "36:52",
+  "primary_topics": [
+    "post weld heat treatment",
+    "stress relief",
+    "hydrogen cracking",
+    "preheat",
+    "ASME boiler pressure vessel code (UCS-56)",
+    "nuclear submarine proof load test as mechanical stress relief"
+  ],
+  "cases_mentioned": [
+    {
+      "name": "Helms Pumped Storage Project penstock failure",
+      "location": "Sierra Nevada, California",
+      "era": "late 1980s — early 1990s",
+      "frame": "Penstock failure: American Bridge welded inch-and-quarter fillet weld with snow on the metal, no preheat, no post weld heat treatment; delayed hydrogen cracking after winter freeze; failure during first pressurization at 188 psi.",
+      "litigation": "Fresno trial early 1990s; PG&E lost vs. American Bridge; American Bridge awarded $17M punitive damages for slander by a PG&E-hired metallurgist who pre-announced fault in the press."
+    },
+    {
+      "name": "Cooper Heat field stress relief",
+      "frame": "Heat-treatment contractor that builds local furnaces around pressure vessels on-site; box furnace 118 feet long with railroad tracks for oil refinery vessel."
+    },
+    {
+      "name": "Nuclear submarine proof load test",
+      "frame": "Submarines too large for thermal stress relief; mechanical stress relief via first deep dive; shipyard top management required to ride along as quality control."
+    },
+    {
+      "name": "Steinmetz consulting fee anecdote",
+      "frame": "Steinmetz invoices GE $1,000 for chalk mark on misbehaving generator: $1 chalk, $999 knowing where to put the X.",
+      "era": "ca. 1900-1910"
+    },
+    {
+      "name": "John Wulff / Boston Edison consulting fee (incomplete)",
+      "frame": "Wulff demands $5,000 fee before diagnosing corrosion of stainless steel in Boston Edison generating plant; cause traced to first Venezuelan oil shipment. Story cuts off mid-telling.",
+      "era": "late 1940s — early 1950s"
+    }
+  ],
+  "people_named": [
+    "Tom Eagar (self-reference, captioner garble 'Tom Segar')",
+    "John Wulff (MIT metallurgy, captioner garble 'John Willis')",
+    "Charles Proteus Steinmetz",
+    "Morris Cohen (MIT)",
+    "John Chipman (MIT)"
+  ],
+  "organizations_named": [
+    "Pacific Gas and Electric (PG&E)",
+    "American Bridge (division of U.S. Steel)",
+    "California Public Utilities Commission",
+    "Cooper Heat",
+    "Boston Edison",
+    "General Electric",
+    "ASME (boiler pressure vessel code)"
+  ],
+  "recording_ends_mid_anecdote": true,
+  "notes": "Recording terminates at ~37:40 mid-John-Wulff anecdote. The Helms project anecdote is the centerpiece teaching case; it links the three Venn-diagram circles (residual stress, hardness, hydrogen) by demonstrating a real-world failure that violated all three preventive measures simultaneously. Captioner quality is notably poor on this transcript — recurring garbles of 'post weld heat treatment,' 'fillet weld,' 'Steinmetz,' and 'Wulff.'"
+}

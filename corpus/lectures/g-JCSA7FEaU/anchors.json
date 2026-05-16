@@ -1,0 +1,131 @@
+{
+  "lecture_id": "g-JCSA7FEaU",
+  "course": "3.371 What is Engineering",
+  "term": "Fall 2015",
+  "session": "6/12",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Marvels of engineering: bridges, caissons, and the cable-stayed era",
+      "section_timestamp_start": "00:00",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:00", "00:41"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:41", "01:43"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:43", "02:26"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["02:26", "03:05"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["03:05", "03:37"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p6"], "timestamp_range": ["03:37", "04:16"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "MIT as bellwether: how a department influences a field",
+      "section_timestamp_start": "04:16",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p7"], "timestamp_range": ["04:16", "04:51"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p8"], "timestamp_range": ["04:51", "06:11"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p9"], "timestamp_range": ["06:11", "06:13"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p10"], "timestamp_range": ["06:13", "07:09"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p11"], "timestamp_range": ["07:09", "08:43"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p12"], "timestamp_range": ["08:43", "09:48"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p13"], "timestamp_range": ["09:48", "10:17"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "From pyramids to obelisks: granite fracture toughness",
+      "section_timestamp_start": "10:17",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p14"], "timestamp_range": ["10:17", "10:46"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p15"], "timestamp_range": ["10:46", "12:00"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p16"], "timestamp_range": ["12:00", "12:06"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p17"], "timestamp_range": ["12:06", "13:50"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Paper clips: small-scale design and the role of cheap steel",
+      "section_timestamp_start": "13:50",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p18"], "timestamp_range": ["13:50", "14:51"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p19"], "timestamp_range": ["14:51", "16:28"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p20"], "timestamp_range": ["16:28", "16:30"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p21"], "timestamp_range": ["16:30", "18:16"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p22"], "timestamp_range": ["18:16", "19:23"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p23"], "timestamp_range": ["19:23", "20:18"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p24"], "timestamp_range": ["20:18", "20:21"]},
+        {"l3_id": "§4.p8", "l2_ids": ["p25"], "timestamp_range": ["20:21", "20:32"]},
+        {"l3_id": "§4.p9", "l2_ids": ["p26"], "timestamp_range": ["20:32", "20:33"]},
+        {"l3_id": "§4.p10", "l2_ids": ["p27"], "timestamp_range": ["20:33", "21:55"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Petroski, failure, and the Tacoma Narrows Bridge",
+      "section_timestamp_start": "21:55",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p28"], "timestamp_range": ["21:55", "23:12"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p29"], "timestamp_range": ["23:12", "24:35"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p30"], "timestamp_range": ["24:35", "25:15"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p31"], "timestamp_range": ["25:15", "25:46"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The steel productivity revolution and the BOF / continuous casting story",
+      "section_timestamp_start": "25:46",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p32"], "timestamp_range": ["25:46", "26:01"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p33"], "timestamp_range": ["26:01", "27:14"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p34"], "timestamp_range": ["27:14", "28:30"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p35"], "timestamp_range": ["28:30", "29:46"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p36"], "timestamp_range": ["29:46", "31:12"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p37"], "timestamp_range": ["31:12", "33:21"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p38"], "timestamp_range": ["33:21", "34:12"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p39"], "timestamp_range": ["34:12", "35:26"]},
+        {"l3_id": "§6.p9", "l2_ids": ["p40"], "timestamp_range": ["35:26", "36:33"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Integrated steel mills, The Innovator's Dilemma, and bet-your-company capital",
+      "section_timestamp_start": "36:33",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p41"], "timestamp_range": ["36:33", "37:37"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p42"], "timestamp_range": ["37:37", "38:53"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p43"], "timestamp_range": ["38:53", "40:17"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p44"], "timestamp_range": ["40:17", "40:59"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p45"], "timestamp_range": ["40:59", "42:05"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "The engineering code of ethics versus the scientific mantra",
+      "section_timestamp_start": "42:05",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p46"], "timestamp_range": ["42:05", "42:55"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p47"], "timestamp_range": ["42:55", "43:53"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p48"], "timestamp_range": ["43:53", "45:20"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p49"], "timestamp_range": ["45:20", "46:20"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p50"], "timestamp_range": ["46:20", "46:38"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Engineering degrees, Maslow's hierarchy, and who chooses engineering",
+      "section_timestamp_start": "46:38",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p51"], "timestamp_range": ["46:38", "47:39"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p52"], "timestamp_range": ["47:39", "48:42"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p53"], "timestamp_range": ["48:42", "49:07"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p54"], "timestamp_range": ["49:07", "49:12"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p55"], "timestamp_range": ["49:12", "49:14"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p56"], "timestamp_range": ["49:14", "49:45"]},
+        {"l3_id": "§9.p7", "l2_ids": ["p57"], "timestamp_range": ["49:45", "50:56"]},
+        {"l3_id": "§9.p8", "l2_ids": ["p58"], "timestamp_range": ["50:56", "51:34"]},
+        {"l3_id": "§9.p9", "l2_ids": ["p59"], "timestamp_range": ["51:34", "52:30"]},
+        {"l3_id": "§9.p10", "l2_ids": ["p60"], "timestamp_range": ["52:30", "52:40"]}
+      ]
+    }
+  ]
+}

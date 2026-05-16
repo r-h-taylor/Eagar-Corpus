@@ -1,0 +1,58 @@
+{
+  "video_id": "JqHyPQAPsao",
+  "course": "Welding Quality",
+  "course_number": "3.371",
+  "course_title_full": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "lecture_number_in_series": 21,
+  "series_total": 35,
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [21/35]",
+  "raw_transcript_sha256": "6e6ac6862062f7ce5e439117a8b98ac58cc41fcb7388859bf8050516adc46050",
+  "raw_transcript_line_count": 1052,
+  "raw_transcript_word_count": 6897,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T18:27:30.077118+00:00",
+  "layer2_paragraph_count": 39,
+  "duration_covered_seconds": 2227,
+  "primary_topics": [
+    "hydrogen embrittlement and cracking",
+    "ethical duty of the professional engineer",
+    "Alexander Kielland rig disaster (1980)",
+    "Wyman Gordon 50,000-ton forging press repair",
+    "all-welded vs. riveted construction history",
+    "brittle fracture in gas vs. liquid pipelines",
+    "IMT North Andover hot isostatic press failure",
+    "critical flaw size and leak-before-break"
+  ],
+  "cases_mentioned": [
+    "helicopter spline hydrogen cracking (defense engine, ethics case)",
+    "Alexander Kielland semi-submersible rig collapse",
+    "Wyman Gordon 50,000-ton forging press beam crack",
+    "Titanic (brittle steel comparison)",
+    "Big Inch pipeline (first all-welded critical structure)",
+    "Liberty ships (brittle fracture in WWII all-welded hulls)",
+    "Alaskan pipeline A710 crack-arrester study",
+    "IMT North Andover hot isostatic press fracture"
+  ],
+  "people_mentioned": [
+    "Kenneth Easterling (textbook author)",
+    "Professor Sata[wa]y [name uncertain — flagged]"
+  ],
+  "companies_mentioned": [
+    "Alcoa",
+    "Wyman Gordon",
+    "Bethlehem Steel",
+    "International Nickel",
+    "IMT (North Andover)",
+    "Pratt Whitney",
+    "General Electric",
+    "Rolls-Royce",
+    "Boeing"
+  ],
+  "flags_for_editorial_review": [
+    "p17: 'Professor Sataway' — name uncertain; may be captioner garbling of an MIT colleague's name. Verify against MIT metallurgy faculty roster c. 1980s.",
+    "p19: 'that's what started the decrease' — phrase unclear; may be 'the discrepancy' or 'the investigation.' Preserved verbatim.",
+    "p23 student question attribution: voice unidentified."
+  ]
+}

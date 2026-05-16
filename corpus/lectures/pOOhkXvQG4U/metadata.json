@@ -1,0 +1,39 @@
+{
+  "video_id": "pOOhkXvQG4U",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [23/29]",
+  "lecture_number_in_series": 23,
+  "lectures_in_series": 29,
+  "raw_transcript_sha256": "a4ab0c43eac7d3e7e49c8621e3b35a2c7b7e6977a3844913d913151f8f6b913b",
+  "raw_transcript_line_count": 338,
+  "raw_transcript_word_count": 2482,
+  "layer2_paragraph_count": 24,
+  "duration_covered_mm_ss": "13:46",
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T14:44:55.875385+00:00",
+  "topics": [
+    "aluminum heat treatment temperatures",
+    "Concorde skin temperature limit and aging",
+    "5000-series non-heat-treatable aluminum welding",
+    "filler metal selection (4043, 4145, 5356)",
+    "Aluminum Association welding handbook chart",
+    "Canadian aviation casting repair consulting case",
+    "weathering steel and 8018 electrodes",
+    "Alcoa Davenport 7050 plate",
+    "residual stress relief by stretching (1-3%)",
+    "T5x temper designations and aging sequence"
+  ],
+  "cases_mentioned": [
+    "Concorde retirement and skin temperature limit",
+    "Navy aluminum hydrofoils (5000-series)",
+    "FAA-authorized aluminum casting repair shop (Canadian Aviation Authority criticism, 1976-)",
+    "Alcoa Davenport Works (world's largest rolling mill, aircraft wing plate)"
+  ],
+  "student_turns_inferred": 2,
+  "captioner_corrections_logged": 11,
+  "tom_slips_bracketed": 0,
+  "notes": "Lecture opens mid-sentence (continuation from prior session). Closes mid-exchange with student question on stretch-vs-age sequence; Tom defers ('not enough of an aluminum metallurgist'). Candidate section break in layer 3 between filler-metal chart (p5-p15) and Alcoa thick-plate residual stress (p16-p24)."
+}

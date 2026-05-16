@@ -1,0 +1,120 @@
+{
+  "video_id": "MVljACLzPIk",
+  "course": "Solid State Welding",
+  "course_number": "3.371",
+  "term": "Spring 2013",
+  "video_title": "3.371 Solid State Welding - Spring 2013 [8/12]",
+  "lecture_number": 8,
+  "lecture_total": 12,
+  "instructor": "Thomas W. Eagar",
+  "co_instructor_mentioned": "Dr. Bellemare (Belmar in transcript; verification needed)",
+  "raw_transcript_sha256": "f8187e72fa1f3412146b8daa07dbf4062f2e3fcb93306fabf2344ec75f769557",
+  "raw_transcript_line_count": 1256,
+  "raw_transcript_word_count": 8003,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T11:35:53.580415+00:00",
+  "layer2_paragraph_count": 63,
+  "layer2_start_timestamp": "00:05",
+  "layer2_end_timestamp": "43:06",
+  "primary_topics": [
+    "diffusion bonding",
+    "transient liquid phase (TLP) diffusion bonding",
+    "TLP diffusion soldering",
+    "dissimilar metal joining",
+    "intermetallic formation and embrittlement",
+    "fixturing for precision machining and bonding",
+    "aerospace vs automotive economics of joining"
+  ],
+  "cases_referenced": [
+    {
+      "name": "Tantalum / vanadium / niobium intermediate layer",
+      "anchor": "p2-p4",
+      "type": "technical example"
+    },
+    {
+      "name": "Chrysler fuel injector (Italy / Learjet)",
+      "anchor": "p8",
+      "type": "industry anecdote"
+    },
+    {
+      "name": "Pratt Whitney turbine blade Christmas-tree tolerances",
+      "anchor": "p14-p15",
+      "type": "industry anecdote"
+    },
+    {
+      "name": "Ford Taurus air conditioner compressor fixturing failure",
+      "anchor": "p16-p18",
+      "type": "industry anecdote / consulting story"
+    },
+    {
+      "name": "Blisk weight cascade (1 lb disc → 20 lb engine → 200 lb aircraft)",
+      "anchor": "p21-p22",
+      "type": "framing economics"
+    },
+    {
+      "name": "Pratt Whitney 1972 TLP patent (Duvall, Owczarski, Polonis 1974 Welding Journal)",
+      "anchor": "p25-p26",
+      "type": "technical / historical"
+    },
+    {
+      "name": "Etruscan gold earring (c. 600 BC) — tin-copper-gold TLP",
+      "anchor": "p31",
+      "type": "historical case"
+    },
+    {
+      "name": "Pratt Whitney vs Chromalloy lawsuit; Rohr 1956 prior art",
+      "anchor": "p32-p33",
+      "type": "industry / legal anecdote"
+    },
+    {
+      "name": "King Tut's dagger (c. 2500 BC) — possible TLP joining",
+      "anchor": "p37",
+      "type": "historical case"
+    },
+    {
+      "name": "Varian crossed-field amplifier — gold-nickel braze, Ni3Mo intermetallic failure",
+      "anchor": "p38-p51",
+      "type": "consulting case"
+    },
+    {
+      "name": "Raytheon Navy nuclear submarine transformer — wrong solder TLP recovery",
+      "anchor": "p52-p59",
+      "type": "consulting case"
+    },
+    {
+      "name": "Japan's largest diffusion bonding press",
+      "anchor": "p47",
+      "type": "industry reference"
+    }
+  ],
+  "people_mentioned": [
+    "Scott Duvall",
+    "Bill Owczarski (Ozarski in transcript)",
+    "Dia Polonis (D. Paulonis?)",
+    "Kim Clark",
+    "Don Saturday (name needs verification — possibly Satterthwaite)",
+    "Dr. Bellemare (Belmar in transcript)",
+    "Tom Eagar (self-reference)"
+  ],
+  "companies_mentioned": [
+    "Pratt & Whitney",
+    "General Electric",
+    "Rolls-Royce",
+    "Chromalloy Corporation",
+    "Rohr Corporation",
+    "Wall Colmonoy",
+    "Ford",
+    "Chrysler",
+    "Varian",
+    "Raytheon",
+    "BJ's Warehouse",
+    "SGH"
+  ],
+  "notes": [
+    "Two suspected slip-of-the-tongue or captioner-garble proper nouns ('Don Saturday', 'Dr. Belmar') flagged for editor verification.",
+    "'Ozarski' vs canonical 'Owczarski' — bracketed convention §9 applied.",
+    "'Wall culminate' corrected silently to 'Wall Colmonoy' (industrial nickel brazing alloy supplier).",
+    "Captioner consistently rendered 'tin' as '10' in the Raytheon section; corrected silently where unambiguous, preserved where Tom's own self-correction is mid-delivery."
+  ]
+}

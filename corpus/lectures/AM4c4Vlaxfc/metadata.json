@@ -1,0 +1,76 @@
+{
+  "video_id": "AM4c4Vlaxfc",
+  "course": "Codes and Standards Definitions and History",
+  "course_number": "3.371",
+  "term": "Fall 2012",
+  "lecture_number": 4,
+  "lecture_total": 14,
+  "video_title": "3.371 Codes and Standards - Fall 2012 [4/14]",
+  "raw_transcript_sha256": "b831c37c44b3ec38b0586d9d7b2188a86f2750c09f6522ddb6ad24dfb92530b3",
+  "raw_transcript_line_count": 1165,
+  "raw_transcript_word_count": 7213,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T00:43:45.618336+00:00",
+  "layer2_paragraph_count": 37,
+  "layer2_timestamp_range": "[00:02]-[50:22]",
+  "raw_transcript_timestamp_gaps": [
+    {
+      "from": "32:08",
+      "to": "43:39",
+      "note": "Mid-Concord anecdote; appears to be captioner/audio gap, not a cut."
+    }
+  ],
+  "teaching_units_identified": [
+    {
+      "unit": "Hot dog cooker / 316 vs 304 stainless steel case",
+      "approx_range": "[00:02]-[04:37]"
+    },
+    {
+      "unit": "Desalination pump bearing failure case",
+      "approx_range": "[04:37]-[05:43]"
+    },
+    {
+      "unit": "Bonding and properties: diamond vs graphite",
+      "approx_range": "[05:50]-[12:51]"
+    },
+    {
+      "unit": "Lennard-Jones potential and bond strength",
+      "approx_range": "[12:51]-[16:48]"
+    },
+    {
+      "unit": "Energy types and measurement-perturbation effects",
+      "approx_range": "[16:48]-[25:09]"
+    },
+    {
+      "unit": "Ashby plots and property limits",
+      "approx_range": "[25:09]-[27:30]"
+    },
+    {
+      "unit": "Polyurethane foam demonstration / Woods Hole house fire",
+      "approx_range": "[27:30]-[29:47]"
+    },
+    {
+      "unit": "Granta materials selection software",
+      "approx_range": "[29:47]-[31:07]"
+    },
+    {
+      "unit": "Concorde / SST anecdote",
+      "approx_range": "[31:07]-[45:29]"
+    },
+    {
+      "unit": "Codes and standards introduction: ASTM",
+      "approx_range": "[45:29]-[50:22]"
+    }
+  ],
+  "cases_mentioned": [
+    "Ballpark Franks hot dog cooker (316 vs 304 stainless steel)",
+    "Desalination pump bearing failure (302/304 inserts in 316 pumps)",
+    "Woods Hole spray-foam attic fire",
+    "Concorde / SST commercial aviation",
+    "Alberta refinery hydrotest crack / pipe specification dispute"
+  ],
+  "stage_directions_count": 3,
+  "captioner_quality": "poor_in_second_half",
+  "notes": "Captioner quality degrades substantially from approximately p21 onward (the energy-spectrum discussion through the Concorde anecdote). Layer 3 will require significant editorial judgment in these stretches. Several anecdotes (Concorde flight, ASTM intro) have garbled syntax where Tom's thread is recoverable but individual sentences need reconstruction. Tom factual slip noted: 'Planck's constant times the wavelength' should be 'times the frequency' (E = hν). Bracketed in Layer 2."
+}

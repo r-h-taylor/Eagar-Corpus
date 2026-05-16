@@ -1,0 +1,59 @@
+{
+  "video_id": "TDSpnEuACMw",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [12/29]",
+  "lecture_number": 12,
+  "lecture_total": 29,
+  "raw_transcript_sha256": "ed2a31144fa8750cb1805ab5c9fdc2e6cce1fd67045a3dda4bd34bff7362402b",
+  "raw_transcript_line_count": 919,
+  "raw_transcript_word_count": 6270,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T13:58:41.136940+00:00",
+  "layer2_paragraph_count": 27,
+  "duration_covered_mmss_start": "00:07",
+  "duration_covered_mmss_end": "37:04",
+  "primary_topics": [
+    "hydrogen-induced cracking in steel welds",
+    "weld hydrogen levels and electrode classifications",
+    "residual stresses and stress relief",
+    "precision manufacturing tolerances (shipbuilding vs semiconductors)",
+    "peening (Almen gauge, fatigue, peening as stress relief)",
+    "weldability test methods (cruciform test, Tekken test)",
+    "delayed cracking and post-weld inspection timing"
+  ],
+  "recurring_cases_mentioned": [
+    "Radio Flyer wagon (low-strength steel example)",
+    "Simpson Gumpertz and Heger (Boston structural engineers, MIT civil)",
+    "Naval Air Rework Facility Norfolk (1969 jet engine peening anecdote)",
+    "Colorado School of Mines (dirty steel / hydrogen traps research)",
+    "Bethlehem Steel (Tom's mid-70s welding engineer role)",
+    "Pratt & Whitney (jet engine spec authority)"
+  ],
+  "key_figures_and_data": [
+    "375°F as standard hydrogen bake-out temperature",
+    "1100-1200°F as steel stress-relief range",
+    "900°F as threshold for steel residual stress relief",
+    "30 ppm hydrogen tolerance for 70 ksi steel",
+    "4 ppm hydrogen guarantee for extra-low-hydrogen electrodes",
+    "100 ppm potential hydrogen in stick electrodes",
+    "25°C as minimum-time-to-failure temperature in H2S stress corrosion",
+    "1 hour at 375°F for low-strength steel; 23 hours at 375°F for 200 ksi steel",
+    "Coefficient of thermal expansion 10^-5/°C as precision-machining floor",
+    "Shipbuilding tolerance: 1/4 inch over 100 yards (~1 part in 14,400)",
+    "Semiconductor lithography: 14 nm over 1 cm",
+    "Helicopter bearing: 42 inches ± 0.005 inch",
+    "US Navy 7-day wait before testing for hydrogen cracks",
+    "AWS D1.1 Structural Welding Code (handout reference)"
+  ],
+  "stage_directions_count": 1,
+  "tom_slips_bracketed_count": 0,
+  "captioner_corrections_count": 14,
+  "flagged_for_editorial_review": [
+    "Transcript gap between [21:41] and [25:50] (~4 minutes missing during handout distribution)",
+    "Tom's 'sitting up there in Harvard' jab re Pratt & Whitney engineers — wisecrack or geographic slip?",
+    "L41 captioner placeholder 'xx' — context suggests Tom said 'they have varying' or 'they have different'; left as broken phrase"
+  ]
+}

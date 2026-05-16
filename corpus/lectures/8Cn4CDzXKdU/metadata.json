@@ -1,0 +1,24 @@
+{
+  "video_id": "8Cn4CDzXKdU",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [25/29]",
+  "lecture_number": 25,
+  "total_lectures_in_series": 29,
+  "raw_transcript_sha256": "c70791dee74ffe6e96f0ed5cfa95c77952b73674c1bbc9138d3a852d2674c7e9",
+  "raw_transcript_line_count": 84,
+  "raw_transcript_word_count": 539,
+  "raw_transcript_duration_mm_ss": "02:46",
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T14:54:17.133250+00:00",
+  "layer2_paragraph_count": 7,
+  "topic_summary": "Surface cleaning techniques for aluminum welding: sodium hydroxide, nitric/sulfuric/phosphoric chromic acids, ferrous sulfate. Tom digresses into a reminiscence about chromic acid baths in John Wulff's lab at MIT and the change in environmental regulation since his student days.",
+  "key_cases_or_anecdotes": [
+    "John Wulff's lab chromic acid bath (MIT, Tom's student era)",
+    "Erin Brockovich / hexavalent chromium reference",
+    "EPA regulatory contrast: then vs. now"
+  ],
+  "fragment_notes": "Transcript is short (~2:46) and begins mid-discussion. Likely a tail end of a class session, ending with Tom shifting to discussion of papers. Not a full 50-minute lecture."
+}

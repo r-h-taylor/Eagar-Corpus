@@ -1,0 +1,51 @@
+{
+  "video_id": "6pZ6eQ9AqJs",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [9/29]",
+  "lecture_number": 9,
+  "lecture_of": 29,
+  "raw_transcript_sha256": "11d41dc057c8f68ac16aba031a620fbe239c5e85a709e8e71852ed34c0cfcff6",
+  "raw_transcript_line_count": 373,
+  "raw_transcript_word_count": 2548,
+  "duration_approx_minutes": 13.5,
+  "layer2_paragraph_count": 16,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T13:48:50.087341+00:00",
+  "topics": [
+    "hydrogen control in steel welding",
+    "electrode types and hydrogen levels (rutile, basic, flux-cored, GMAW)",
+    "hydrogen embrittlement reversibility",
+    "Bell Helicopter mast manufacturing",
+    "nitriding process failure case (helicopter peashooter splines)",
+    "professional engineer's duty to public safety",
+    "forging press repair case (1949 press, 14-inch crack)",
+    "thick-section welding and buried hydrogen",
+    "battleship armor plate welding (lost WWII-era technology)",
+    "Venn diagram framework for weld defect control"
+  ],
+  "cases_mentioned": [
+    "Bell Helicopter mast (electroplating + immediate bake)",
+    "Helicopter engine peashooter / nitriding hydrogen bakeout failure",
+    "1949 forging press repair (7,500 ton, aluminum truck wheels)",
+    "Battleship turret repair (16-inch shell incident, lost 14-inch armor welding technology)",
+    "Groton Connecticut submarine hull welding (1975 to present)"
+  ],
+  "figures_referenced": [
+    "4 ppm threshold for very low hydrogen process",
+    "200 ksi steel for helicopter mast",
+    "7,500 ton forging press, ~60 ton cap, 10 inches thick, 14-inch crack",
+    "10^-6 cm²/s hydrogen diffusivity in steel",
+    "14-inch and 16-inch battleship armor plate (WWII)",
+    "~$500,000 cost to develop a welding procedure for 10-inch thick steel today",
+    "300-400 weld passes in the forging press repair"
+  ],
+  "stage_business": [
+    "Tom passes a weld sample around the class (p9)"
+  ],
+  "spoken_slips": [
+    "p6: 'four to four hours' for 'one to four hours' (mis-recitation of spec)"
+  ],
+  "notes": "Lecture continues from prior session on hydrogen cracking and the three-circle Venn diagram (hydrogen / hardness / stress). Tom closes by previewing Thursday's lecture on preheating and post-heating. Mike (TA/co-instructor) will lecture the next session."
+}

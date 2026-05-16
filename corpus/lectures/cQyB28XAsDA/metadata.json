@@ -1,0 +1,62 @@
+{
+  "video_id": "cQyB28XAsDA",
+  "course": "Solid State Welding",
+  "course_number": "3.371",
+  "term": "Spring 2013",
+  "video_title": "3.371 Solid State Welding - Spring 2013 [3/12]",
+  "lecture_number": 3,
+  "lecture_position_in_series": "3 of 12",
+  "lecture_title": "Surface contamination, surface roughness, and the classification of welding processes",
+  "lecture_summary": "Tom continues from the prior day's discussion of dislocations and theoretical bond strength. He frames the entire upcoming module of joining processes (cold welding, soldering, brazing, adhesive bonding, diffusion bonding) around two underlying physical obstacles: surface contamination and surface roughness. He uses Houldcroft's two-axis classification (shielding method × source of heat) to organize the welding process landscape. Worked cases: ultrasonic welding of aluminum at Ford research and at Sandia National Labs; friction welding of automotive drive shafts and GE Lynn titanium turbine disks; the gold-on-gold ultra-high-vacuum bonding experiments of the 1950s. Recurring economic figures: $200/pound saved on commercial aircraft, $1000/pound on military aircraft, $20,000/pound to orbit, $40/lb steel sheet vs $2/lb aluminum sheet. Closes with a return to primary vs secondary bonding, the Lennard-Jones potential, and the diamond/graphite comparison as a teaser for the next session's discussion of graphite as a lubricant on Earth but an abrasive in space.",
+  "raw_transcript_sha256": "836639da9936094a2e75737b38c9fe3f1958abc62ed97a8530ee8398a91e5f7f",
+  "raw_transcript_line_count": 1421,
+  "raw_transcript_word_count": 8644,
+  "layer2_paragraph_count": 60,
+  "duration_approx": "50:30",
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T10:56:32.293347+00:00",
+  "principal_cases": [
+    "Gold-on-gold UHV bonding (1950s)",
+    "Ultrasonic welding of aluminum at Ford research",
+    "Ultrasonic welding of aluminum at Sandia National Labs",
+    "Friction welding of automotive drive shaft universal joints",
+    "Friction welding of titanium turbine disks at GE Lynn",
+    "Andrew Mellon's 1930s aluminum automobile",
+    "Alcoa/Audi all-aluminum auto body program",
+    "Diamond vs graphite property comparison"
+  ],
+  "principal_figures": [
+    "1.8 million psi: iron whisker tensile strength",
+    "2.2 million psi: aluminum oxide sapphire whisker",
+    "3 million psi: silicon carbide whisker",
+    "$200/pound: value of weight saved on commercial aircraft (Boeing 1989 study: $188/lb)",
+    "$1000/pound: value of weight saved on military aircraft",
+    "$20,000/pound: cost to put payload in orbit",
+    "$10,000/pound: original Space Shuttle target for orbital payload cost",
+    "$40/lb: steel sheet metal",
+    "~$2/lb: aluminum sheet metal (5x steel)",
+    "$25,000: value of a forged titanium turbine disk",
+    "199 welding processes listed by the American Welding Society",
+    "1 to 3 eV: primary bond energies (metallic, covalent, ionic)",
+    "0.1 eV: van der Waals bond",
+    "0.3 eV: hydrogen bond"
+  ],
+  "instructors_referenced": [
+    "Dr. Belmar/Bellmore (co-instructor, name spelling unconfirmed)",
+    "Professor Bever (Tom's undergraduate professor at MIT)",
+    "Peter Houldcroft (British Welding Institute, Welding Process Technology author)",
+    "Bob Sprague (GE Evendale, head of materials)",
+    "Jim Williams (titanium expert, succeeded Sprague at GE, later Dean at Ohio State)"
+  ],
+  "tom_slips_bracketed": [
+    "Peter Holcroft → Peter Houldcroft",
+    "Belmar → Bellmore (tentative, unconfirmed)"
+  ],
+  "notes_for_editor": [
+    "Co-instructor name spelling needs confirmation (Belmar vs Bellmore vs Belmore).",
+    "Edison 1911 quote on MIT read aloud verbatim by Tom; source is the MIT Faculty Newsletter leadership article.",
+    "The 'in the May' garble at p45 needs resolution.",
+    "The 'embraced onto a little substrate' phrase at p57 is likely 'brazed onto'."
+  ]
+}

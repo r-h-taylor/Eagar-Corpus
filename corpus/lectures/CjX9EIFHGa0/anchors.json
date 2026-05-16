@@ -1,0 +1,113 @@
+{
+  "lecture_id": "CjX9EIFHGa0",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "session": "15/29",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Vanadium in oil and the value of the right answer",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {
+          "l3_id": "§1.p1",
+          "l2_ids": ["p1"],
+          "timestamp_range": ["00:02", "00:50"]
+        },
+        {
+          "l3_id": "§1.p2",
+          "l2_ids": ["p2"],
+          "timestamp_range": ["00:50", "01:54"]
+        },
+        {
+          "l3_id": "§1.p3",
+          "l2_ids": ["p3"],
+          "timestamp_range": ["01:54", "02:20"]
+        }
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The structural welding code: two methods for preheat",
+      "section_timestamp_start": "02:20",
+      "anchors": [
+        {
+          "l3_id": "§2.p1",
+          "l2_ids": ["p4"],
+          "timestamp_range": ["02:20", "03:19"]
+        },
+        {
+          "l3_id": "§2.p2",
+          "l2_ids": ["p5"],
+          "timestamp_range": ["03:19", "04:17"]
+        }
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Carbon equivalent as hardenability index",
+      "section_timestamp_start": "04:17",
+      "anchors": [
+        {
+          "l3_id": "§3.p1",
+          "l2_ids": ["p6"],
+          "timestamp_range": ["04:17", "05:14"]
+        },
+        {
+          "l3_id": "§3.p2",
+          "l2_ids": ["p7"],
+          "timestamp_range": ["05:14", "05:47"]
+        }
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Reading the three-zone preheat chart",
+      "section_timestamp_start": "05:47",
+      "anchors": [
+        {
+          "l3_id": "§4.p1",
+          "l2_ids": ["p8"],
+          "timestamp_range": ["05:47", "06:42"]
+        },
+        {
+          "l3_id": "§4.p2",
+          "l2_ids": ["p9"],
+          "timestamp_range": ["06:42", "07:52"]
+        }
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "The America's Cup keel: 4340 in zone three",
+      "section_timestamp_start": "07:52",
+      "anchors": [
+        {
+          "l3_id": "§5.p1",
+          "l2_ids": ["p10"],
+          "timestamp_range": ["07:52", "08:18"]
+        },
+        {
+          "l3_id": "§5.p2",
+          "l2_ids": ["p11"],
+          "timestamp_range": ["08:18", "09:38"]
+        },
+        {
+          "l3_id": "§5.p3",
+          "l2_ids": ["p12"],
+          "timestamp_range": ["09:38", "10:15"]
+        },
+        {
+          "l3_id": "§5.p4",
+          "l2_ids": ["p13"],
+          "timestamp_range": ["10:15", "10:23"]
+        },
+        {
+          "l3_id": "§5.p5",
+          "l2_ids": ["p14"],
+          "timestamp_range": ["10:23", "11:30"]
+        }
+      ]
+    }
+  ]
+}

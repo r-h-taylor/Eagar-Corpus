@@ -1,0 +1,96 @@
+{
+  "lecture_id": "3MdL3fmW5NQ",
+  "course": "Additive Manufacturing",
+  "term": "Fall 2019",
+  "session": "2019-09-19",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "FAA certification and who takes the heat",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:02", "00:45"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:45", "01:50"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:50", "01:52"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["01:52", "03:01"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["03:01", "04:03"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p6"], "timestamp_range": ["04:03", "04:41"]},
+        {"l3_id": "§1.p7", "l2_ids": ["p7"], "timestamp_range": ["04:41", "05:04"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Digital Alloys: buy-to-fly and the time savings argument",
+      "section_timestamp_start": "05:04",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p8"], "timestamp_range": ["05:04", "06:01"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p9"], "timestamp_range": ["06:01", "07:15"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p10"], "timestamp_range": ["07:15", "07:56"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Process taxonomy: powder bed, directed energy, and part size",
+      "section_timestamp_start": "07:56",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p11"], "timestamp_range": ["07:56", "08:47"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p12"], "timestamp_range": ["08:47", "09:25"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p13"], "timestamp_range": ["09:25", "10:41"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p14"], "timestamp_range": ["10:41", "11:44"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Turbine blade tip repair: fifty years of additive manufacturing",
+      "section_timestamp_start": "11:44",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p15"], "timestamp_range": ["11:44", "12:43"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p16"], "timestamp_range": ["12:43", "13:28"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p17"], "timestamp_range": ["13:28", "14:43"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Binder jetting shrinkage and surface roughness",
+      "section_timestamp_start": "14:43",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p18"], "timestamp_range": ["14:43", "15:47"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p19"], "timestamp_range": ["15:47", "17:20"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Sintering shrinkage as an aerospace dealbreaker",
+      "section_timestamp_start": "17:20",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p20"], "timestamp_range": ["17:20", "17:20"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p21"], "timestamp_range": ["17:20", "18:25"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p22"], "timestamp_range": ["18:25", "19:25"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p23"], "timestamp_range": ["19:25", "20:07"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "The cost of a pound saved: aerospace, Mars, and potato chips",
+      "section_timestamp_start": "20:07",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p24"], "timestamp_range": ["20:07", "20:58"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p25"], "timestamp_range": ["20:58", "21:42"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p26"], "timestamp_range": ["21:42", "22:25"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p27"], "timestamp_range": ["22:25", "23:48"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p28"], "timestamp_range": ["23:48", "25:05"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Strategy assignment: schedule and the startup question",
+      "section_timestamp_start": "25:05",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p29"], "timestamp_range": ["25:05", "25:56"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p30"], "timestamp_range": ["25:56", "26:28"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p31"], "timestamp_range": ["26:28", "28:00"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p32"], "timestamp_range": ["28:00", "28:30"]}
+      ]
+    }
+  ]
+}

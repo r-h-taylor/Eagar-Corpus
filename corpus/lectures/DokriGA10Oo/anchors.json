@@ -1,0 +1,133 @@
+{
+  "lecture_id": "DokriGA10Oo",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2015",
+  "session": "1/18",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Course logistics and introductions",
+      "section_timestamp_start": "00:04",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:04", "00:30"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2", "p3"], "timestamp_range": ["00:30", "02:32"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p4"], "timestamp_range": ["02:32", "04:07"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The 2N Navy program and the SDM context",
+      "section_timestamp_start": "04:07",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p5"], "timestamp_range": ["04:07", "05:18"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p6"], "timestamp_range": ["05:18", "05:50"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p7"], "timestamp_range": ["05:50", "06:51"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p8"], "timestamp_range": ["06:51", "07:35"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p9"], "timestamp_range": ["07:35", "08:32"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The student presentation assignment",
+      "section_timestamp_start": "10:08",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p12"], "timestamp_range": ["10:08", "11:00"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p12", "p13"], "timestamp_range": ["11:00", "12:09"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p14"], "timestamp_range": ["12:09", "13:22"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p15"], "timestamp_range": ["13:22", "14:25"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p16"], "timestamp_range": ["14:25", "15:09"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Adjusting to MIT",
+      "section_timestamp_start": "15:09",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p17", "p18"], "timestamp_range": ["15:09", "16:50"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p19"], "timestamp_range": ["16:50", "17:52"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p20"], "timestamp_range": ["17:52", "18:50"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p21"], "timestamp_range": ["18:50", "19:47"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "World Trade Center, Lester Thurow, and the soundbite world",
+      "section_timestamp_start": "19:47",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p22"], "timestamp_range": ["19:47", "20:52"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p23"], "timestamp_range": ["20:52", "21:43"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p24"], "timestamp_range": ["21:43", "22:43"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p25"], "timestamp_range": ["22:43", "23:35"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p26"], "timestamp_range": ["23:35", "24:44"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p27"], "timestamp_range": ["24:44", "26:04"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p28"], "timestamp_range": ["26:04", "27:02"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Why steel: ceramics, toughness, and critical flaw size",
+      "section_timestamp_start": "27:02",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p29"], "timestamp_range": ["27:02", "28:21"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p30"], "timestamp_range": ["28:21", "29:16"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p31"], "timestamp_range": ["29:16", "31:01"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p32"], "timestamp_range": ["31:01", "31:55"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p33", "p34"], "timestamp_range": ["31:55", "34:14"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Ashby plots and concrete in compression",
+      "section_timestamp_start": "34:14",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p35"], "timestamp_range": ["34:14", "35:13"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p36"], "timestamp_range": ["35:13", "36:13"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p37"], "timestamp_range": ["36:13", "38:03"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p38"], "timestamp_range": ["38:03", "38:50"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p39"], "timestamp_range": ["38:50", "39:59"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p40"], "timestamp_range": ["39:59", "40:57"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "The Dan Rather building collapse",
+      "section_timestamp_start": "40:57",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p41"], "timestamp_range": ["40:57", "42:21"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p42"], "timestamp_range": ["42:21", "43:36"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p43"], "timestamp_range": ["43:36", "44:59"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "The Sea Wolf weld inspection problem",
+      "section_timestamp_start": "44:59",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p44"], "timestamp_range": ["44:59", "46:05"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p45"], "timestamp_range": ["46:05", "47:44"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p46"], "timestamp_range": ["47:44", "49:19"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "The 747-400 titanium catalytic converter and aircraft range",
+      "section_timestamp_start": "49:19",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p47"], "timestamp_range": ["49:19", "50:21"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p48"], "timestamp_range": ["50:21", "51:14"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p49"], "timestamp_range": ["51:14", "52:57"]}
+      ]
+    },
+    {
+      "section_id": "s11",
+      "section_title": "Demonstrations: ductile vs. brittle, and why metals",
+      "section_timestamp_start": "52:57",
+      "anchors": [
+        {"l3_id": "§11.p1", "l2_ids": ["p50"], "timestamp_range": ["52:57", "54:01"]},
+        {"l3_id": "§11.p2", "l2_ids": ["p51"], "timestamp_range": ["54:01", "54:42"]},
+        {"l3_id": "§11.p3", "l2_ids": ["p52"], "timestamp_range": ["54:42", "55:12"]},
+        {"l3_id": "§11.p4", "l2_ids": ["p53"], "timestamp_range": ["55:12", "56:30"]}
+      ]
+    }
+  ]
+}

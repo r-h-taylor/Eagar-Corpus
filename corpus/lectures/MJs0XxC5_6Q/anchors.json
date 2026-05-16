@@ -1,0 +1,35 @@
+{
+  "lecture_id": "MJs0XxC5_6Q",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2014",
+  "session": "17/35",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Cookware cracking on the way to Japan",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {
+          "l3_id": "§1.p1",
+          "l2_ids": ["p1"],
+          "timestamp_range": ["00:02", "00:20"]
+        },
+        {
+          "l3_id": "§1.p2",
+          "l2_ids": ["p2"],
+          "timestamp_range": ["00:20", "01:03"]
+        },
+        {
+          "l3_id": "§1.p3",
+          "l2_ids": ["p3"],
+          "timestamp_range": ["01:03", "01:44"]
+        },
+        {
+          "l3_id": "§1.p4",
+          "l2_ids": ["p4"],
+          "timestamp_range": ["01:44", "02:00"]
+        }
+      ]
+    }
+  ]
+}

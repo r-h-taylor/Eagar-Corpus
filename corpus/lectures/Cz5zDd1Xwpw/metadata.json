@@ -1,0 +1,47 @@
+{
+  "video_id": "Cz5zDd1Xwpw",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "lecture_number": 20,
+  "lecture_total": 29,
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [20/29]",
+  "raw_transcript_sha256": "18b136fdcd18de7105bbf70af9f74bf4f34ad44861e8b18153a630318ebd4ed9",
+  "raw_transcript_line_count": 812,
+  "raw_transcript_word_count": 6316,
+  "duration_covered_mmss": "37:11",
+  "layer2_paragraph_count": 46,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T14:30:56.980295+00:00",
+  "topics": [
+    "Moore's Law digression",
+    "Welding Procedure Specifications (WPS)",
+    "Procedure Qualification Records (PQR)",
+    "Welder qualification vs certification",
+    "American Welding Society standardization",
+    "Safety factors: base metal vs weld",
+    "Hydrogen cracking and paints",
+    "Bell Helicopter mast / electroplating bakeout",
+    "Helicopter auto-rotation digression",
+    "Allotropic transformation in steel and titanium welds",
+    "Acicular ferrite and oxide inclusion nucleation",
+    "Overmatching vs undermatching weld metal",
+    "Seawolf submarine HY-100 cracking case",
+    "Martensite, post-weld heat treatment, preheats"
+  ],
+  "cases_mentioned": [
+    "Seawolf submarine HY-100 hydrogen cracking",
+    "Bell Helicopter 407 mast electroplating",
+    "Harrison Ford helicopter anecdote",
+    "America's Cup yacht 4340 inquiry"
+  ],
+  "tom_slips_bracketed": [],
+  "flagged_for_review": [
+    "p17 ASTM A36 spec number",
+    "p25 'analyst' garbled word",
+    "p39 A36 carbon percentage",
+    "p43 acicular ferrite ksi ceiling",
+    "p45 Seawolf cost overrun figure"
+  ]
+}

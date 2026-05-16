@@ -1,0 +1,28 @@
+{
+  "video_id": "jkM0ewcY5SY",
+  "course": "Materials Selection - Weighing Trade-Offs",
+  "course_number": "3.371",
+  "term": "Fall 2016",
+  "video_title": "3.371 Materials Selection and Economics [7/12]",
+  "lecture_number_in_series": 7,
+  "lecture_total_in_series": 12,
+  "raw_transcript_sha256": "8d04de42e0be1ac71195768964c1324b273363c573a8b5273ec9baa6bf62aa22",
+  "raw_transcript_line_count": 1044,
+  "raw_transcript_word_count": 8144,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T03:44:28.224774+00:00",
+  "duration_approx_minutes": 49,
+  "speaker": "Brian Holman (guest lecturer; consulting engineer and former colleague of Prof. Eagar)",
+  "eagar_present": false,
+  "speaker_notes": "Lecture delivered entirely by Brian Holman in Eagar's absence. Eagar is referenced throughout in the third person; captioner garbles the surname as Eager/Iger/Egret/Igar — all normalized to [Eagar] in layer 2 per convention 9.",
+  "layer2_paragraph_count": 71,
+  "topic_summary": "Material substitution case studies: refrigerator shelving (metal to plastic), food/beverage containers (glass to polymer), water and gas conveyance (clay to concrete to wood to cast iron to HDPE), domestic plumbing (lead-tin solder to swage), CSST gas tubing and lightning-puncture fires, lithium-ion battery thermal runaway, IGU glass curtain wall failures. Second half: testing and inspection methods (ultrasonic, tensile, Charpy impact, metallurgical mounts, CT crack-growth, magnetic particle, eddy current); rail fatigue and Sperry car inspection; full-scale wire rope test; Holman's master's-thesis work on aluminum foam sandwich structures for Navy topside.",
+  "flags": [
+    "Dr. Bellmehra identity uncertain — referenced as following day's lecturer",
+    "Several student questions inaudible — attribution and content flagged",
+    "Captioner garbling of 'fall on the space shuttle' (p71) — intended word unclear",
+    "Captioner garbling of 'plummet Alec slides' (p4) — corrected as 'aluminum [metallic] slides' with bracketed alternative",
+    "Speaker's 'couplet' (p42) likely intended as NDT term 'couplant' — preserved as said"
+  ]
+}

@@ -1,0 +1,146 @@
+---
+video_id: PlfoYBkSh_M
+course: Fusion Welding
+term: Summer 2013
+video_title: High Energy Density Beam Welding
+layer: 3
+pipeline_version: 2.0
+---
+
+# High Energy Density Beam Welding
+
+*Fusion Welding, Summer 2013. Source video: `PlfoYBkSh_M`.*
+
+*Editor's note: this recording is a narrated Japanese technical film shown by Prof. Eagar in his Fusion Welding course, not a lecture in Tom's own voice. The narration accompanies x-ray, high-speed optical, and streak-photograph footage of electron beam and laser beam welding phenomena. Layer 3 sections the film at its own internal chapter breaks; no editorial reordering has been performed.*
+
+---
+
+## §1. Energy density and penetration [00:54]
+
+`§1.p1` Welding. The arc has been widely utilized in welding as a conventional heat source, but in the arc process deep penetration welding is practically impossible due to the low energy density. So when a thick plate is to be joined, the multi-pass welding process, which inherently brings wider bead width, must be employed. However, in the welding process with an electron beam or a laser beam, it is quite easy to achieve a narrow width and deep penetration welding due to its high energy density. Let's explain this difference schematically in the following film.
+
+`§1.p2` This figure shows the relationship between the penetration depth and the energy density of the heat source. Here let's imagine the welding of a steel as an example. To begin with, when the beam energy density is below 100 kW per square cm, the penetration is shallow and the bead is very wide. If the energy density is increased, say up to 500 kW per square cm, the penetration depth becomes comparable to its width, and there takes place some deep penetration at the center, though the whole depth is still shallow. But by a further increase in the energy density to over 500 kW per square cm, a very narrow and deep bead appears as seen here. With a still further increase in the energy density, only the penetration is enhanced. Then a one-pass welding of very thick plate is easily achieved by using a high energy density heat source.
+
+`§1.p3` Usually the arc heat source belongs to the energy range of the blue zone. On the other hand, the orange region marked HB is the practical range of a high energy density beam. In fact, by using a high energy density beam, the welding of thick plate is possible with less heat input than by the arc process, and its superiority is manifested more in thicker plates. Moreover, the thermal distortion becomes quite small, thus leading to a better quality joint than in the arc process.
+
+---
+
+## §2. Mechanism of beam hole formation [03:06]
+
+`§2.p1` Mechanism. Now let's proceed to the penetration process. For a low energy density heat source like an arc, the input heat is almost radially transferred in a workpiece, and the region above the melting point forms a molten pool where the heat is mainly transported by conduction and convection. As the energy density is low in an arc, loss due to vaporization on the surface is negligible. Thus the bead configuration is wide and shallow as seen in this figure.
+
+`§2.p2` Meanwhile, in the high energy density beam region, there take place of course heating and melting processes at the irradiated specimen surface, but these processes occur instantaneously due to an extremely high density of input energy, and it is followed by a violent sputtering and evaporation of the material. This strong vapor pressure causes the molten metal to push away and results in the formation of a cavity or a beam hole, and an incident beam penetrates deep in the specimen. This indeed enables us to perform deep penetration.
+
+`§2.p3` Compared to arc welding, the evaporation phenomenon plays a fundamental role and brings forth a substantially different nature in the penetration process. Now let's see how beam power density affects the penetration depth. In the case of a laser beam, for instance, the beam power density is artificially changed by varying the distance between the focal point and the workpiece. This presents the penetration in three different stages of energy density. Increasing the beam power density, the beam hole becomes deep.
+
+`§2.p4` A quite similar process is also observed in electron beam welding. As seen in this photograph, the deepest penetration is obtained when the focal point is near the surface. Due to the so-far-mentioned features, the welding by a high energy density beam is superior in areas such as deep penetration welding, high-speed welding, and high-precision welding.
+
+`§2.p5` However, a defect called spiking inherent to deep penetration welding is likely to occur. Porosity, humping, shrinkage, cracking, curl, shut, and so on are also found here as in other welding methods. In order to clarify the causes of these defects and to develop adequate suppression control methods, let's observe the dynamic behavior of the beam hole and molten pool during welding.
+
+---
+
+## §3. Beam hole behavior in electron beam welding (x-ray observation) [06:14]
+
+`§3.p1` Beam hole behavior during electron beam welding. At first, let's observe the behavior of the beam hole by the transmission x-ray method. A hard x-ray stronger than the beam hole x-ray is irradiated from the side surface of the workpiece during EB welding, and the transmitted x-ray is converted into a visible image which is filmed by a 16 mm high-speed movie camera.
+
+`§3.p2` An aluminium alloy was employed here for easier x-ray observation. Now let's observe first the forming process of a beam hole. The filming speed is 200 frames per second. The beam hole is clearly seen and it rapidly becomes deep, but as time passes the amount of molten metal becomes large and the beam hole fluctuates violently.
+
+`§3.p3` Next, let's move the workpiece at the speed of 60 cm per minute. The beam hole proceeds steadily. However, the beam hole is still not stable enough but fluctuates particularly at the rear wall. When the extent of this fluctuation is small, no spiking or porosity appear.
+
+`§3.p4` Next will be an example of spiking. In order to observe the phenomena more clearly, copper foil is inserted at the lower groove of the weld. As the x-ray absorption coefficient of copper is larger than that of aluminium, the contrast becomes higher and the spiking formation is observed clearly.
+
+`§3.p5` Next let's proceed to the formation of porosity. Generally speaking, the occurrence of porosities is correlated with the vapor pressures of elements. Therefore, a very thin film of brass, which has a higher vapor pressure than the base metal, is sandwiched between the specimens. As can be seen in this picture, the beam hole becomes wider due to the high vapor pressure of brass, but because of violent perturbation in the center of the hole, a large porosity of peculiar shape is apt to form periodically.
+
+`§3.p6` But when a volatile material such as brass foil is placed only at the bottom part, how will the phenomena be changed? The beam hole becomes wider only at the bottom and adopts a spoon-like shape. The overall behavior looks stable, though the bottom part fluctuates locally and results in porosity formation.
+
+`§3.p7` As seen so far, the behavior of the beam hole is closely related to the occurrence of spiking and porosity. In order to observe this behavior more clearly, next let's observe laser beam welding.
+
+---
+
+## §4. Laser beam welding in transparent glass [09:47]
+
+`§4.p1` Dynamic behavior during laser beam welding. Since the x-ray transmission method cannot provide high enough spatial and time resolution, laser welding of transparent glass was conducted to visualize the phenomena at 8,000 frames per second, which is a great deal higher than in the x-ray method. Due to its welding phenomena being similar to those of metal, soda lime glass was adopted here.
+
+`§4.p2` This is an example at comparatively low welding speed. Non-uniform evaporation is clearly seen at the front wall, and the rear wall fluctuates. As the welding speed increases, the opening of the beam hole becomes wide and a long molten pool tails behind the hole, and characteristically intermittent swelling melt is observed.
+
+`§4.p3` At still higher welding speeds, it is observed as a distinct rippling of melt flowing around the beam hole at a very high speed. The beam hole in the laser welding is essentially similar to that of the electron beam welding, but having a wider entrance. Here the violent local evaporation near the beam hole bottom and high-speed flow down along the front wall are clearly observed. The intense local evaporation and fast flow from the front wall produces a cave at the rear wall of the beam hole and results in the porosity formation.
+
+`§4.p4` This shows an actual state of porosity formation due to the local evaporation and fast melt flow. Next let's pay attention to the phenomena occurring at the front wall when spiking appears. It can be seen that the inclination angle of the front wall changes periodically at the same cycle as that of the spiking. This behavior will now be explained.
+
+---
+
+## §5. Front wall dynamics and the spiking mechanism [12:03]
+
+`§5.p1` The shape of the front wall is related to the beam characteristics. When a beam intensity distribution such as in this picture is given, the inclination angle theta of the front wall is larger at the part of weaker intensity, and the angle is smaller at the part of stronger intensity. If there is no downward flow, the front wall should move at the same speed as the welding speed without changing its shape.
+
+`§5.p2` On the other hand, if there is melt flow at the front wall, what will happen there? The lower part of the front wall is buried by the successive melt flow, and then the forward advance is prevented at the bottom. As a result, the angle becomes too large to balance with the heat input intensity, and thus there follows a local breakdown there producing a shoulder-like front wall. The localized breakdown occurs so as to increase the inclination angle and hence accelerates the scrape-off rate at the wall.
+
+`§5.p3` If the power density is not high, the scrape-off rate is limited. Now when the power density is applied over some critical values, the scrape-off rate becomes very large, thus leading to the formation of a spiked beam front.
+
+`§5.p4` So far we have seen the evaporation and molten metal flow at the front wall play important roles in the spiking process. Now let's observe the behavior of the front wall in more detail in the case of EB welding. First let's observe it directly by an optical method using a high-speed camera. A block of aluminium alloy is in contact with heat-proof glass. An electron beam is impinged a little inside of the metal, along the metal and glass boundary plane.
+
+`§5.p5` The beam hole front is at the left end of the bright part, where it is clearly seen that a bright point is flowing downward. This fact means that the front wall is melted not uniformly but locally, and such a melting zone moves with time. Similar behavior can be observed in an actual EB welding of metal. The x-rays are emitted from the place where the electron beam interacts with the wall, and this is called the beam hole x-ray. By detecting this beam hole x-ray with a pinhole camera, it is possible to observe directly the behavior of the interacted zone. An aluminium alloy was adopted here since it is suitable for such x-ray observation.
+
+`§5.p6` These bright points correspond to the beam interacting spot. The brighter the points, the stronger the beam's interaction. As seen here, the bright points move downward more clearly than was seen in the previous optical method. Let's repeat again schematically the interaction behavior between the beam and the wall.
+
+`§5.p7` In order to observe these phenomena more clearly, the streak photograph method will be very useful. When the film runs continually to the left and the bright point moves downward, the image of the oblique bright line like this is recorded on the film. This is the principle of the streak method. This is an example of an actual streak photograph from which the speed at which the beam interacting point is estimated to be moving is several m/s.
+
+`§5.p8` This illustrates the correlation between the motion of the interacting spot at the front wall and the trace on the streak photograph. The flashing red marks correspond with each other.
+
+`§5.p9` When the energy density is high, spiking phenomena take place frequently. The beam interacts with the upper part of the front wall and vaporizes the metal instantly, forming a shoulder there. It scrapes the wall rapidly reaching the root of the beam hole, and deep penetration is thus achieved. When the fluctuation of the molten pool is large, the beam hole narrows locally and the beam impinges on the neck part.
+
+`§5.p10` When the energy density is relatively low, there is still left a cyclic change in the shape of the front wall, but the tendency is much suppressed. It should be noted here that multiple shoulders are apt to appear and spiking phenomena are greatly reduced. At a still lower energy density, the whole front wall is practically regarded as being irradiated uniformly, as seen in this streak photograph.
+
+`§5.p11` This shows again the formation and motion of shoulders in laser beam welding. It is clearly seen here that the behavior of the shoulders is also related to the form of spiking, similar to that of electron beam welding. As has been described, the mechanism of spiking is essentially the same both in electron beam and laser beam welding. The only difference is in front shapes, which comes from the fact that in laser beam welding there is considerable beam reflection at the front wall, and this effect results in a different direction of spiking in both processes.
+
+---
+
+## §6. Suppression of defects and tandem electron beam welding [17:59]
+
+`§6.p1` Suppression of defects and tandem electron beam welding. Now let's turn to the suppression methods of defects such as spiking and so on. A typical method is to decrease the beam power density. Here it is shown in the case of laser beam welding.
+
+`§6.p2` Beam oscillation is also one of the suppression techniques. In the welding of aluminium alloy, a longitudinal oscillation makes the opening of the beam hole narrow and unstable, thus resulting in formation of defects. In the case of transverse oscillation, on the other hand, the opening of the beam hole becomes wide and the cavity is stabilized, thus defects are effectively suppressed. The frequency and amplitude in this case are 3 kHz and 3 mm. However, transverse oscillation is ineffective in the case of steel. It is therefore very important to select adequate oscillation conditions according to the material used.
+
+`§6.p3` As seen in the case of laser beam welding, porosities are often produced by such intense localized vaporization. Therefore, by detecting the physical parameters associated with this vaporization, these defects can be suppressed by the coincident regulation of the beam.
+
+`§6.p4` Now here will be introduced one of the latest ideas for the suppression of defects: tandem electron beam welding. In a single beam welding, spiking and porosities are apt to form as shown here. In tandem electron beam welding, two beams are utilized — one for the deep penetration and the other for the reheating. The low-power second beam is impinged into the beam hole produced by the first, which yields the deeper penetration.
+
+`§6.p5` Let's observe here the actual phenomena during tandem electron beam welding by the beam hole x-ray method. When two beams are separated enough, each behaves independently as in the single beam welding. When the second beam comes closer to the first and is impinged into the beam hole by the first, the cavity is widened and stabilized greatly. Though the density of the second beam is only one-twelfth of the first, the beam penetrates deep and removes defects effectively.
+
+`§6.p6` It is well known that the high energy density beam can be applied to ultra-high-speed welding, but the most troublesome defects in this case are the occurrence of undercutting or humping. Tandem electron beam welding can suppress even such defects very effectively. Let's observe the actual welding of thin plate by tandem electron beam using the method shown here.
+
+`§6.p7` This is what happens when only a single beam is used. The humping phenomenon is clearly seen. Next let's impinge the second beam on a suitable area of molten pool. Humping phenomenon disappears completely. This is due to the effects of the second beam in controlling the metal flow in a pool, that results in remelting and filling up the solidified wall produced by the first beam. Thus a sound weld is obtained by the tandem electron beam.
+
+---
+
+## §7. Laser gas cutting [21:45]
+
+`§7.p1` Cutting. Laser gas cutting is also one of the important fields of application of the high energy density beam. When the deep penetrated weld pool is blown out by a strong gas jet, for example an argon jet, the process changes to cutting. The use of an oxygen jet on oxidizable materials is very effective to increase both the cutting speed and quality.
+
+`§7.p2` This is an actual example of high-power CO2 laser gas cutting. The cutting speed is much higher than other thermal cutting processes. This is an example of sample cuts of mild steel by various thermal cutting processes. From the top, the curves show oxygen cutting, laser gas cutting, and plasma cutting, respectively. In this laser gas cutting, a very narrow kerf less than 0.2 mm is easy to obtain, which enables precision cutting.
+
+`§7.p3` The behavior of the front wall in laser gas cutting is also of substantial importance. So let's observe with a high-speed camera the behavior of the front wall during the cutting of mild steel. In this case the image on the film corresponds to the figure on the left. This is a typical phenomenon at a cutting speed of 1 m per minute. The periodic fluctuation of the reaction zone and melt flow is observed distinctly.
+
+`§7.p4` Here let's try to increase the cutting speed. At the speed of 1.5 m per minute, the frequency of intermittent phenomena becomes high. At a much higher speed, 3 m per minute for example, the cycle disappears almost completely.
+
+`§7.p5` These figures are the side and top views of the cut surface at low speed, which clearly show regular striations. These striations represent arch-like shapes as seen in the magnified picture at the bottom. This is the case of high-speed cutting, where the striations disappear and a smooth surface is obtained. Why do such differences in cutting phenomena originate? Let's find out.
+
+`§7.p6` The periodic phenomena are primarily caused by the ignition which takes place when the critical energy density of epsilon 1 is applied at the top edge. The beam having such power density level is defined as the critical beam for reaction and is colored in orange. Let's observe the process from the top. After ignition, the reaction front progresses radially at higher speed than the beam travel speed, and finally the reaction is interrupted at the edge of the yellow circle. But the beam itself is traveling at constant speed. When the orange zone contacts again, reignition takes place instantly and reaction develops rapidly. In low-speed cutting these characteristic processes are repeated periodically.
+
+`§7.p7` Here the orange beam has the minimum energy necessary for reignition and is called the inner critical beam. The yellow beam has the minimum energy for self-sustainable reaction and is defined as the outer critical beam. Each beam, especially the outer critical beam, decreases in diameter with travel speed. Accordingly, the kerf becomes narrow. When the beam travel speed is balanced with the reaction rate, the yellow zone disappears and continuous burning is self-sustained, thus leaving no striations on the cut surface. Let's explain these in detail.
+
+`§7.p8` At low-speed cutting, the critical beams are large in diameter and low in intensity, and then the wall temperature is as low as in an ordinary oxygen cutting. Increasing the travel speed, both critical beams become small and the energy densities increase so that the temperature rises gradually. An important feature of the yellow beam is that with increase in travel speed its diameter reduces radically, coming closer to the orange beam, and they finally coincide with each other when continuous burning takes place at the speed of around 2 m per minute. At still higher speed, the power density of the active beam increases remarkably and the inclination of the front wall becomes more gentle, so that the reaction temperature rises radically. At very high speed cutting such as 10 m per minute, the temperature of the front wall reaches as high as 2,150°C.
+
+`§7.p9` In general, the maximum temperature in conventional gas cutting is not so high, and the reaction rate is limited only up to 2 m per minute. The beam characteristic is the most important factor governing the cutting process. Fortunately, in laser gas cutting, the energy density of the active beam is self-regulated so as to increase the reaction temperature, thus leading to ultra-high-speed cutting by the laser process.
+
+---
+
+## §8. Summary and outlook [27:22]
+
+`§8.p1` Now we understand what happens in the processes with high energy density beams. In these processes, the phenomenon is not a simple melting process but the formation of a deep beam hole, and its behavior plays the fundamental role. In particular, phenomena occurring at the front wall of the beam hole are the most important. In the cutting process too, the dynamics of the front wall bear the essential role.
+
+`§8.p2` After full realization of these mechanisms, it is possible to achieve quite an advanced technique in welding and cutting in the most complete way, so as to use the full potential of high energy density heat sources. This type of heat source is quite easy to control, and the potential for highly sophisticated processing is promising.
+
+`§8.p3` Another important trend is the construction of higher beam power machines. One-pass welding of thick plates of aluminium or steel of over 30 cm has already been conducted by 100 kW class electron beam welder. At present a 300 kW class electron beam welder is under construction, and this will reveal more about electron beam processing. For the laser too, much higher power machines of 10 to 100 kW are expected in the near future.
+
+`§8.p4` These high energy density beams will play responsible roles in nuclear plants and the fields of space and ocean technology, electronic engineering, and so forth. There is no doubt they will be developed in the 21st century as revolutionary heat sources for material processing.

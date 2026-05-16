@@ -1,0 +1,135 @@
+{
+  "lecture_id": "nldzJUEAYsc",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2014",
+  "session": "33/35",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Electroslag welding of titanium",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {
+          "l3_id": "§1.p1",
+          "l2_ids": ["p1"],
+          "timestamp_range": ["00:02", "01:03"]
+        },
+        {
+          "l3_id": "§1.p2",
+          "l2_ids": ["p2"],
+          "timestamp_range": ["01:03", "01:53"]
+        },
+        {
+          "l3_id": "§1.p3",
+          "l2_ids": ["p3"],
+          "timestamp_range": ["01:53", "02:10"]
+        }
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Deep TIG and horizontal welding",
+      "section_timestamp_start": "01:53",
+      "anchors": [
+        {
+          "l3_id": "§2.p1",
+          "l2_ids": ["p3"],
+          "timestamp_range": ["02:10", "02:45"]
+        },
+        {
+          "l3_id": "§2.p2",
+          "l2_ids": ["p4"],
+          "timestamp_range": ["02:45", "03:50"]
+        },
+        {
+          "l3_id": "§2.p3",
+          "l2_ids": ["p5"],
+          "timestamp_range": ["03:50", "05:49"]
+        },
+        {
+          "l3_id": "§2.p4",
+          "l2_ids": ["p6"],
+          "timestamp_range": ["05:49", "06:34"]
+        }
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Gurevich, the KGB, and the value of the exchange",
+      "section_timestamp_start": "06:34",
+      "anchors": [
+        {
+          "l3_id": "§3.p1",
+          "l2_ids": ["p7"],
+          "timestamp_range": ["06:34", "07:25"]
+        }
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "The Soviets at MIT — Medovar, Paton, and Marinsky",
+      "section_timestamp_start": "07:25",
+      "anchors": [
+        {
+          "l3_id": "§4.p1",
+          "l2_ids": ["p8"],
+          "timestamp_range": ["07:25", "08:43"]
+        },
+        {
+          "l3_id": "§4.p2",
+          "l2_ids": ["p9"],
+          "timestamp_range": ["08:43", "09:55"]
+        },
+        {
+          "l3_id": "§4.p3",
+          "l2_ids": ["p10"],
+          "timestamp_range": ["09:55", "10:50"]
+        },
+        {
+          "l3_id": "§4.p4",
+          "l2_ids": ["p11"],
+          "timestamp_range": ["10:50", "12:03"]
+        }
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Travel in Moscow and Kiev",
+      "section_timestamp_start": "12:03",
+      "anchors": [
+        {
+          "l3_id": "§5.p1",
+          "l2_ids": ["p12"],
+          "timestamp_range": ["12:03", "13:01"]
+        },
+        {
+          "l3_id": "§5.p2",
+          "l2_ids": ["p13"],
+          "timestamp_range": ["13:01", "13:43"]
+        },
+        {
+          "l3_id": "§5.p3",
+          "l2_ids": ["p14"],
+          "timestamp_range": ["13:43", "14:13"]
+        }
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The Soviets in Cambridge — sports, houses, and the grocery store",
+      "section_timestamp_start": "14:13",
+      "anchors": [
+        {
+          "l3_id": "§6.p1",
+          "l2_ids": ["p15"],
+          "timestamp_range": ["14:13", "15:37"]
+        },
+        {
+          "l3_id": "§6.p2",
+          "l2_ids": ["p16"],
+          "timestamp_range": ["15:37", "17:00"]
+        }
+      ]
+    }
+  ]
+}

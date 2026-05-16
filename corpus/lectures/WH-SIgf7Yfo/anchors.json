@@ -1,0 +1,131 @@
+{
+  "lecture_id": "WH-SIgf7Yfo",
+  "course": "3.371 Codes and Standards Definitions and History",
+  "term": "Fall 2012",
+  "session": "6/14",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Class logistics and the presentation assignment",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:02", "01:14"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:14", "01:54"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:54", "03:16"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["03:16", "04:20"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["04:20", "05:04"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "How simple standards acquire force of law",
+      "section_timestamp_start": "05:04",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p6"], "timestamp_range": ["05:04", "05:59"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p7"], "timestamp_range": ["05:59", "07:18"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p8"], "timestamp_range": ["07:18", "07:53"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p9"], "timestamp_range": ["07:53", "09:10"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p10"], "timestamp_range": ["09:10", "10:34"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p11"], "timestamp_range": ["10:34", "11:25"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The economics of code books",
+      "section_timestamp_start": "11:25",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p12"], "timestamp_range": ["11:25", "12:18"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p13"], "timestamp_range": ["12:18", "13:22"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p14"], "timestamp_range": ["13:22", "14:22"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p15"], "timestamp_range": ["14:22", "15:28"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p16"], "timestamp_range": ["15:28", "16:37"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p17"], "timestamp_range": ["16:37", "17:34"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Dual-use shift and the landscape of standards bodies",
+      "section_timestamp_start": "17:34",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p18"], "timestamp_range": ["17:34", "18:26"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p19"], "timestamp_range": ["18:26", "19:41"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p20"], "timestamp_range": ["19:41", "20:59"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p21"], "timestamp_range": ["20:59", "21:38"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p22"], "timestamp_range": ["21:38", "22:30"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p23"], "timestamp_range": ["22:30", "23:53"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p24"], "timestamp_range": ["23:53", "25:00"]},
+        {"l3_id": "§4.p8", "l2_ids": ["p25"], "timestamp_range": ["25:00", "25:44"]},
+        {"l3_id": "§4.p9", "l2_ids": ["p26"], "timestamp_range": ["25:44", "26:13"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "The Raytheon Aegis aluminum-bending shutdown",
+      "section_timestamp_start": "26:13",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p27"], "timestamp_range": ["26:13", "27:12"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p28"], "timestamp_range": ["27:12", "28:28"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p29"], "timestamp_range": ["28:28", "28:58"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p30"], "timestamp_range": ["28:58", "29:52"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The cement truck case — design and the preemption gamble",
+      "section_timestamp_start": "29:52",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p31"], "timestamp_range": ["29:52", "30:53"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p32"], "timestamp_range": ["30:53", "31:30"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p33"], "timestamp_range": ["31:30", "32:43"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p34"], "timestamp_range": ["32:43", "33:58"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p35"], "timestamp_range": ["33:58", "34:48"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p36"], "timestamp_range": ["34:48", "35:32"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p37"], "timestamp_range": ["35:32", "36:42"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p38"], "timestamp_range": ["36:42", "37:57"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Doubler plates and stress concentration",
+      "section_timestamp_start": "37:57",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p39"], "timestamp_range": ["37:57", "39:27"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p40"], "timestamp_range": ["39:27", "40:16"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p41"], "timestamp_range": ["40:16", "41:17"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "The cracks, the repair, and the death",
+      "section_timestamp_start": "41:17",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p42"], "timestamp_range": ["41:17", "41:59"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p43"], "timestamp_range": ["41:59", "42:56"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p44"], "timestamp_range": ["42:56", "43:53"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Pennsylvania's force-of-law application of the ASME code",
+      "section_timestamp_start": "43:53",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p45"], "timestamp_range": ["43:53", "44:44"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p46"], "timestamp_range": ["44:44", "45:32"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p47"], "timestamp_range": ["45:32", "46:43"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p48"], "timestamp_range": ["46:43", "47:14"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "The earlier amputation, and the moral of the story",
+      "section_timestamp_start": "47:14",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p49"], "timestamp_range": ["47:14", "48:21"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p50"], "timestamp_range": ["48:21", "49:19"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p51"], "timestamp_range": ["49:19", "50:05"]},
+        {"l3_id": "§10.p4", "l2_ids": ["p52"], "timestamp_range": ["50:05", "51:14"]},
+        {"l3_id": "§10.p5", "l2_ids": ["p53"], "timestamp_range": ["51:14", "51:30"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "video_id": "BvoRq2U4FWg",
+  "course": "Structural Materials Selection Examples",
+  "course_number": "3.371",
+  "term": "Spring 2016",
+  "lecture_number": "10",
+  "lecture_total": "12",
+  "video_title": "3.371 Structural Materials Selection - Spring 2016 [10/12]",
+  "raw_transcript_sha256": "05fe9f1d180fc345d081a66339a73b7d8be2287523fbbde56c51d041aa8013bc",
+  "raw_transcript_line_count": 1054,
+  "raw_transcript_word_count": 8567,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T05:04:29.331521+00:00",
+  "layer2_paragraph_count": 37,
+  "layer2_timestamp_range": "[00:03] to [49:09]",
+  "primary_topics": [
+    "fracture toughness",
+    "Griffith criterion",
+    "Charpy impact testing",
+    "ductile-brittle transition",
+    "CTOD (crack tip opening displacement)",
+    "J-integral",
+    "fracture mode identification",
+    "Ashby plots of toughness vs strength",
+    "high entropy alloys"
+  ],
+  "cases_mentioned": [
+    "Liberty ships (WWII brittle fracture)",
+    "Northridge earthquake (1990s, $5B damage)",
+    "Alaskan pipeline (line pipe toughness)",
+    "LNG tanker shipbuilding at Quincy (Bethlehem Steel)",
+    "Sparrows Point steel runoff plate gaming (spec compliance fraud)",
+    "Prudhoe Bay ice islands (Kingery, ice as structural material)",
+    "ice fishers/dynamite anecdote",
+    "Acela overhead copper wire tensile specimen",
+    "Arizona forklift overload failure",
+    "LNG carrier tail shaft fatigue failure (Philippine Sea)",
+    "Rob Ritchie high entropy alloy Science 2014 paper"
+  ],
+  "people_named": [
+    "Dr. Belmar",
+    "Jerry Hill",
+    "A.A. Griffith",
+    "W.D. Kingery",
+    "Walter A. Backofen",
+    "Régis M.N. Pelloux",
+    "Jim Rice",
+    "Paul Paris",
+    "George Irwin",
+    "W.S. Pellini",
+    "Robert O. Ritchie"
+  ],
+  "tom_slips_bracketed": [],
+  "captioner_corrections_count": 35,
+  "editor_review_flags": [
+    "p3: 'Pryon Stellar' ambiguous",
+    "p3: 'TS, Jerry' unidentified",
+    "p15: dog/dynamite anecdote sensitivity"
+  ]
+}

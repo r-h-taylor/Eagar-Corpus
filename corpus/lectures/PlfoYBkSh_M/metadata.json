@@ -1,0 +1,37 @@
+{
+  "video_id": "PlfoYBkSh_M",
+  "course": "Fusion Welding",
+  "term": "Summer 2013",
+  "video_title": "High Energy Density Beam Welding",
+  "raw_transcript_sha256": "1e944d7858f0ac69fcf3f19bfc87112c7eb4378f0883c82df6a7d5fde6dd0c66",
+  "raw_transcript_line_count": 612,
+  "raw_transcript_word_count": 4237,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T13:11:44.467926+00:00",
+  "source_type": "technical_film",
+  "narrator": "unidentified (narrated technical educational film shown in Prof. Eagar's course; not Tom Eagar's voice)",
+  "suspected_origin": "Japanese welding research film, English-dubbed; likely Osaka University welding research group based on content focus on EB welding and dynamic x-ray observation methods",
+  "duration_minutes": 29,
+  "layer2_paragraph_count": 50,
+  "topic_areas": [
+    "high energy density beam welding",
+    "electron beam welding",
+    "laser beam welding",
+    "deep penetration welding",
+    "beam hole dynamics",
+    "spiking defects",
+    "porosity formation",
+    "tandem electron beam welding",
+    "laser gas cutting",
+    "kerf formation"
+  ],
+  "tom_eagar_voice_present": false,
+  "student_qa_present": false,
+  "stage_directions_present": false,
+  "editor_review_flags": [
+    "source_type is technical_film, not lecture; Convention Catalog §1–§16 apply only loosely",
+    "narrator's English contains apparent translation/pronunciation artifacts (e.g., 'curve' for 'kerf', 'paracity' for 'porosity'); silent corrections logged in transformation_log.md",
+    "no Tom-isms, no Q&A, no cases in the catalog sense — this lecture will not contribute to the case index"
+  ]
+}

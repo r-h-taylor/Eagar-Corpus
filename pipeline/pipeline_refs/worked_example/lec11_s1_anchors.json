@@ -1,0 +1,59 @@
+{
+  "lecture_id": "-6n9y2szRqo",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Fall 2014",
+  "session": "11/13",
+  "section_id": "s1",
+  "section_title": "What makes something expensive?",
+  "section_timestamp_start": "02:30",
+  "anchors": [
+    {
+      "l3_id": "§1.p1",
+      "l2_ids": ["p1"],
+      "timestamp_range": ["02:30", "02:38"],
+      "raw_line_range": [6, 9]
+    },
+    {
+      "l3_id": "§1.p2",
+      "l2_ids": ["p2"],
+      "timestamp_range": ["02:38", "03:23"],
+      "raw_line_range": [10, 29]
+    },
+    {
+      "l3_id": "§1.p3",
+      "l2_ids": ["p3"],
+      "timestamp_range": ["03:23", "04:11"],
+      "raw_line_range": [30, 52]
+    },
+    {
+      "l3_id": "§1.p4",
+      "l2_ids": ["p4"],
+      "timestamp_range": ["04:11", "04:53"],
+      "raw_line_range": [53, 75]
+    },
+    {
+      "l3_id": "§1.p5",
+      "l2_ids": ["p5"],
+      "timestamp_range": ["04:53", "05:37"],
+      "raw_line_range": [76, 100]
+    },
+    {
+      "l3_id": "§1.p6",
+      "l2_ids": ["p6"],
+      "timestamp_range": ["05:37", "06:10"],
+      "raw_line_range": [101, 112]
+    },
+    {
+      "l3_id": "§1.p7",
+      "l2_ids": ["p7"],
+      "timestamp_range": ["06:10", "06:49"],
+      "raw_line_range": [113, 131]
+    },
+    {
+      "l3_id": "§1.p8",
+      "l2_ids": ["p8"],
+      "timestamp_range": ["06:49", "07:01"],
+      "raw_line_range": [132, 135]
+    }
+  ]
+}

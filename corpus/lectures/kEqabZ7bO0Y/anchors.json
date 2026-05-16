@@ -1,0 +1,109 @@
+{
+  "lecture_id": "kEqabZ7bO0Y",
+  "course": "3.371 Codes and Standards for Safety",
+  "term": "Fall 2012",
+  "session": "12/14",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "The Gulf of Mexico pipe defect",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:02", "01:07"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:07", "02:10"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:10", "03:06"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["03:06", "04:04"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["04:04", "05:51"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p6"], "timestamp_range": ["05:51", "05:57"]},
+        {"l3_id": "§1.p7", "l2_ids": ["p7"], "timestamp_range": ["05:57", "06:08"]},
+        {"l3_id": "§1.p8", "l2_ids": ["p8"], "timestamp_range": ["06:08", "06:08"]},
+        {"l3_id": "§1.p9", "l2_ids": ["p9"], "timestamp_range": ["06:08", "07:18"]},
+        {"l3_id": "§1.p10", "l2_ids": ["p10"], "timestamp_range": ["07:18", "08:38"]},
+        {"l3_id": "§1.p11", "l2_ids": ["p11"], "timestamp_range": ["08:38", "09:32"]},
+        {"l3_id": "§1.p12", "l2_ids": ["p12"], "timestamp_range": ["09:32", "10:53"]},
+        {"l3_id": "§1.p13", "l2_ids": ["p13"], "timestamp_range": ["10:53", "11:58"]},
+        {"l3_id": "§1.p14", "l2_ids": ["p14"], "timestamp_range": ["11:58", "13:09"]},
+        {"l3_id": "§1.p15", "l2_ids": ["p15"], "timestamp_range": ["13:09", "14:04"]},
+        {"l3_id": "§1.p16", "l2_ids": ["p16"], "timestamp_range": ["14:04", "14:46"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Safety factors in codes",
+      "section_timestamp_start": "14:46",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p17"], "timestamp_range": ["14:46", "16:18"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p18"], "timestamp_range": ["16:18", "17:06"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p19"], "timestamp_range": ["17:06", "18:00"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p20"], "timestamp_range": ["18:00", "19:54"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p21"], "timestamp_range": ["19:54", "21:13"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p22"], "timestamp_range": ["21:13", "23:04"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p23"], "timestamp_range": ["23:04", "24:24"]},
+        {"l3_id": "§2.p8", "l2_ids": ["p24"], "timestamp_range": ["24:24", "25:43"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Aircraft lifetimes and shipbreaking in Bangladesh",
+      "section_timestamp_start": "25:43",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p25"], "timestamp_range": ["25:43", "26:58"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p26"], "timestamp_range": ["26:58", "28:14"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Pressure vessels, bridges, and the Allegheny River crack",
+      "section_timestamp_start": "28:14",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p27"], "timestamp_range": ["28:14", "28:48"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p28"], "timestamp_range": ["28:48", "28:48"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p29"], "timestamp_range": ["28:48", "29:48"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p30"], "timestamp_range": ["29:48", "30:55"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p31"], "timestamp_range": ["30:55", "31:41"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p32"], "timestamp_range": ["31:41", "32:54"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "OSHA, levees, and the X-33",
+      "section_timestamp_start": "32:54",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p33"], "timestamp_range": ["32:54", "34:18"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p34"], "timestamp_range": ["34:18", "34:48"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p35"], "timestamp_range": ["34:48", "36:17"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The Twin Towers and Northridge",
+      "section_timestamp_start": "36:17",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p36"], "timestamp_range": ["36:17", "36:50"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p37"], "timestamp_range": ["36:50", "37:52"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p38"], "timestamp_range": ["37:52", "39:10"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p39"], "timestamp_range": ["39:10", "39:57"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p40"], "timestamp_range": ["39:57", "39:57"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p41"], "timestamp_range": ["39:57", "40:56"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p42"], "timestamp_range": ["40:56", "41:52"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p43"], "timestamp_range": ["41:52", "43:31"]},
+        {"l3_id": "§6.p9", "l2_ids": ["p44"], "timestamp_range": ["43:31", "44:04"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Probabilistic fracture mechanics",
+      "section_timestamp_start": "44:04",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p45"], "timestamp_range": ["44:04", "44:51"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p46"], "timestamp_range": ["44:51", "46:00"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p47"], "timestamp_range": ["46:00", "47:20"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p48"], "timestamp_range": ["47:20", "48:49"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p49"], "timestamp_range": ["48:49", "49:08"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p50"], "timestamp_range": ["49:08", "50:14"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p51"], "timestamp_range": ["50:14", "50:14"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p52"], "timestamp_range": ["50:14", "50:30"]}
+      ]
+    }
+  ]
+}

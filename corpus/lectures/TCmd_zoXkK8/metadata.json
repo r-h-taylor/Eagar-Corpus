@@ -1,0 +1,41 @@
+{
+  "video_id": "TCmd_zoXkK8",
+  "course": "Corrosion Cracking and More",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [1/35]",
+  "lecture_number_in_series": 1,
+  "series_length": 35,
+  "raw_transcript_sha256": "25ee366d6d526f76fcd86616bd1b73c2257e581dfd4b11a2132335c4dad01f5c",
+  "raw_transcript_line_count": 323,
+  "raw_transcript_word_count": 2540,
+  "layer2_paragraph_count": 15,
+  "layer2_start_timestamp": "01:12",
+  "layer2_end_timestamp": "15:16",
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-11T21:21:56.990942+00:00",
+  "tom_slips_bracketed": [
+    {"raw": "Dylan", "correction": "Dillon", "paragraph": "p2", "note": "C.P. Dillon, NACE author"}
+  ],
+  "flagged_for_editorial_register": [
+    {"paragraph": "p7", "issue": "Peter Bridenbaugh surname reconstruction from captioner 'bball' — verify"},
+    {"paragraph": "p8", "issue": "Grand Coulee Dam reconstruction from captioner 'Gran Dam' — verify"},
+    {"paragraph": "p12", "issue": "Tom says 'Whitehorse in the UK' — Whitehorse is in Yukon, Canada; factual error preserved per convention §16"},
+    {"paragraph": "p14", "issue": "'Professor Sway' identity uncertain — possibly Soiffer, Saway, or similar"},
+    {"paragraph": "p14", "issue": "'Mexicali airline' possibly Mexicana Airlines; ambiguous"}
+  ],
+  "captioner_error_patterns": [
+    "ships → chips (recurring)",
+    "Ashby → Ash/Ashby variants",
+    "gigajoules → gigles/G",
+    "tarnish → tares/charge/carnish",
+    "turbine → turban",
+    "leapfrogged → Lea frog",
+    "Ladies' room → L's room",
+    "minesweepers → mind sweepers",
+    "platinum → IR PL (partial)",
+    "beryllium → brillium",
+    "cerium → cium"
+  ],
+  "notes": "Section 1 of multi-section lecture. Layer 2 covers 01:12-15:16, ending at Tom's break announcement. Subsequent sections to be processed separately."
+}

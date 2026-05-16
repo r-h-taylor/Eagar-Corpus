@@ -1,0 +1,84 @@
+{
+  "lecture_id": "sSdJgzB3ioQ",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "session": "18/29",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Term-paper topic selection",
+      "section_timestamp_start": "00:14",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:14", "01:22"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:22", "02:25"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:25", "02:30"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p3"], "timestamp_range": ["02:25", "03:41"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p4"], "timestamp_range": ["03:41", "04:55"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p5"], "timestamp_range": ["04:55", "05:35"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "On-site stress relief and the loss of battleship welding technology",
+      "section_timestamp_start": "05:35",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p6"], "timestamp_range": ["05:35", "06:29"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p7"], "timestamp_range": ["06:29", "07:27"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p8"], "timestamp_range": ["07:27", "08:36"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The Wyman Gordon 50,000-ton forging press and its cracked I-beam",
+      "section_timestamp_start": "08:36",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p9"], "timestamp_range": ["08:36", "10:05"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p10"], "timestamp_range": ["10:05", "11:23"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p11"], "timestamp_range": ["11:23", "12:14"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p12"], "timestamp_range": ["12:14", "13:20"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p13"], "timestamp_range": ["13:20", "15:03"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p14"], "timestamp_range": ["15:03", "16:18"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p15"], "timestamp_range": ["16:18", "17:48"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p16"], "timestamp_range": ["17:48", "17:50"]},
+        {"l3_id": "§3.p9", "l2_ids": ["p16"], "timestamp_range": ["17:48", "18:35"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Wyman Gordon, crankshafts, and product-liability exit",
+      "section_timestamp_start": "18:35",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p17"], "timestamp_range": ["18:35", "20:08"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p18"], "timestamp_range": ["20:08", "21:54"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p19"], "timestamp_range": ["21:54", "22:33"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Post-weld heat treatment: the three reasons to temper",
+      "section_timestamp_start": "22:33",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p20"], "timestamp_range": ["22:33", "23:56"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p21"], "timestamp_range": ["23:56", "24:48"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p22"], "timestamp_range": ["24:48", "26:01"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The North Andover hot isostatic press explosion",
+      "section_timestamp_start": "26:01",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p23"], "timestamp_range": ["26:01", "27:00"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p24"], "timestamp_range": ["27:00", "28:36"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p25"], "timestamp_range": ["28:36", "29:38"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p26"], "timestamp_range": ["29:38", "30:57"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p27"], "timestamp_range": ["30:57", "32:36"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p28"], "timestamp_range": ["32:36", "33:25"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p29"], "timestamp_range": ["33:25", "34:40"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p30"], "timestamp_range": ["34:40", "35:17"]},
+        {"l3_id": "§6.p9", "l2_ids": ["p31"], "timestamp_range": ["35:17", "36:39"]},
+        {"l3_id": "§6.p10", "l2_ids": ["p32"], "timestamp_range": ["36:39", "37:30"]}
+      ]
+    }
+  ]
+}

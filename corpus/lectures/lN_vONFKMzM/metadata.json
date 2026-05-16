@@ -1,0 +1,73 @@
+{
+  "video_id": "lN_vONFKMzM",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Spring 2016",
+  "video_title": "3.371 Structural Materials Selection - Spring 2016 [11/12]",
+  "lecture_number": 11,
+  "lecture_of": 12,
+  "raw_transcript_sha256": "c8b6964792f59b354026ed9d6ddfd56885b800fe02aaf6a0eb54237f81d722a7",
+  "raw_transcript_line_count": 1103,
+  "raw_transcript_word_count": 9008,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T05:11:00.556965+00:00",
+  "layer2_paragraph_count": 52,
+  "layer2_duration_covered": "00:02 to 53:28",
+  "topics": [
+    "Griffith fracture criterion (recap from prior session)",
+    "Steel as structural material: scale of industry vs semiconductors",
+    "History of iron and steel productivity",
+    "16th-century English energy crisis and the Weald",
+    "Saugus Ironworks and colonial American iron",
+    "Bessemer converter and preheated-air steelmaking",
+    "Andrew Carnegie and basic open-hearth furnaces",
+    "Basic oxygen furnace (BOF), Austria 1950s",
+    "Argon-oxygen decarburization (AOD), MIT origins",
+    "Continuous casting and yield improvement",
+    "1980s steel industry overcapacity and restructuring",
+    "POSCO Steel and national-scale capital investment",
+    "Bethlehem Steel and Burns Harbor",
+    "Allegheny Ludlum and Dick Simmons",
+    "Chaparral Steel, Gordon Forward, and the slow-rolling innovation",
+    "ArcelorMittal acquisition of Burns Harbor"
+  ],
+  "cases_mentioned": [
+    "Saugus Ironworks (1642-1688)",
+    "Bessemer converter (1850s, Sheffield)",
+    "Andrew Carnegie and the basic open hearth",
+    "BOF invention (Austria, post-WWII)",
+    "AOD process (Krivsky/Union Carbide, basic science at MIT under Chipman)",
+    "Continuous casting (perfected by Japanese, 1970s)",
+    "POSCO Steel (Korea, 1972)",
+    "Bethlehem Steel / Burns Harbor (1968-73)",
+    "Allegheny Ludlum / Dick Simmons (1980s)",
+    "Chaparral Steel / Gordon Forward (rebar splitting innovation)",
+    "ArcelorMittal acquisition (Lakshmi Mittal)"
+  ],
+  "people_mentioned": [
+    "A. A. Griffith (fracture criterion)",
+    "Henry Bessemer",
+    "Andrew Carnegie",
+    "Wernher von Braun",
+    "John Chipman (MIT, scientific steelmaking)",
+    "John Elliott (MIT)",
+    "Tom King (MIT thermo instructor)",
+    "Krivsky (AOD inventor at Union Carbide)",
+    "Gordon Forward (Chaparral Steel CEO, MIT PhD)",
+    "Dick Simmons (Allegheny Ludlum)",
+    "Colonel Park / President Park (Korea, POSCO)",
+    "Lakshmi Mittal (ArcelorMittal)",
+    "Dr. Belmore (co-instructor)"
+  ],
+  "tom_slips_bracketed": [
+    {
+      "spoken": "Gordon Ford",
+      "intended": "Gordon Forward",
+      "first_occurrence_paragraph": "p47",
+      "total_occurrences": 6
+    }
+  ],
+  "captioner_errors_corrected_count": 24,
+  "stage_directions_inserted_count": 1,
+  "notes": "Lecture opens in medias res with end of Q&A on Griffith fracture mechanics (likely continuation from prior session) and closes with Tom's preview of next day's glass lecture. Self-contained narrative arc: history of steel productivity from hand-forging (3,000 person-hours/ton) through Bessemer, Carnegie, BOF, continuous casting to modern ~0.3 person-hours/ton."
+}

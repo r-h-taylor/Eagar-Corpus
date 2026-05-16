@@ -1,0 +1,67 @@
+{
+  "video_id": "7D_eu9LVGqo",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Spring 2016",
+  "lecture_number": 12,
+  "lecture_in_series": "12/12",
+  "video_title": "3.371 Structural Materials Selection - Spring 2016 [12/12]",
+  "raw_transcript_sha256": "8b4a1095c98ac16eb0d6bd41c4657f55cd1277dc86505ef0dd93fbf791eb8664",
+  "raw_transcript_line_count": 1142,
+  "raw_transcript_word_count": 9190,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T05:17:52.826479+00:00",
+  "layer2_paragraph_count": 47,
+  "duration_approx_minutes": 54,
+  "primary_topics": [
+    "steel: attributes and liabilities recap",
+    "glass as a structural material",
+    "history of glassmaking (Roman to bullseye to plate to float)",
+    "Saint-Gobain corporate history and long-term thinking",
+    "Pilkington float glass process",
+    "residual stresses and annealing (incandescent bulb forensic case)",
+    "strengthening glass: mechanical, thermal, chemical",
+    "armor glass and MRAP vehicles (RPG/EFP physics)",
+    "John Hancock building chemically tempered glass",
+    "Corning's strategy and LCD display composite glass"
+  ],
+  "cases_mentioned": [
+    "Saugus Ironworks (passing)",
+    "Saint-Gobain (1688 founding, Versailles, corporate longevity)",
+    "Pittsburgh Plate Glass (mile-long polishing facility)",
+    "Libby-Owens-Ford (1920s continuous plate glass with Henry Ford)",
+    "Pilkington Brothers (Sir Alastair Pilkington, float glass 1953-1957)",
+    "Sylvania North Shore light bulb factory (Bob's freshly-blown bulb demo for 3.091)",
+    "Corning (incandescent bulb automation, picture tubes, displays)",
+    "General Electric Korean-made black light bulb (forensic case, kid's eye)",
+    "Corningware (three-layer thermal-expansion-mismatch process)",
+    "PAS Protective Armor Systems (western Mass, bullet-resistant glass)",
+    "Textron Systems Wilmington (conical copper EFP liners)",
+    "MRAP vehicles (six layers 2-inch glass armor)",
+    "John Hancock building (chemically tempered glass retrofit)",
+    "Corning Eagle XG Slim Glass (LCD substrate)"
+  ],
+  "notable_figures_cited": [
+    "billion tons/year steel production",
+    "70-80% steel recycling rate",
+    "$300 billion/year US corrosion cost",
+    "95% of metal made is steel",
+    "Sugar Hollow bullseye glass prices ($50-$80)",
+    "5% of 1900 top-100 US companies survived to 2000",
+    "200,000 psi fiberglass fiber strength",
+    "60-ton MRAP weight",
+    "3-foot copper jet penetrates 3 feet of steel"
+  ],
+  "tom_slips_bracketed": [
+    "mold ox [molten oxide] (p7)",
+    "you melt ass [sand] (p8)",
+    "Sango bath [Saint-Gobain] (p12, first occurrence)",
+    "Professor omen → Professor Uhlmann [?] (p40)"
+  ],
+  "stage_directions_inserted": 3,
+  "open_flags_for_editor": [
+    "p40: 'Professor omen' identification as Donald Uhlmann is inferred from context (MIT glass scientist, Tom's era); confirm.",
+    "p8: 'you melt ass' — Tom likely said 'sand'; verify against audio if available.",
+    "p43: student question at start is inaudible; Tom's response context suggests question was about modern display/architectural glass technology."
+  ]
+}

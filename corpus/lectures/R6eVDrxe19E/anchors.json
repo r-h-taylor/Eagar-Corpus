@@ -1,0 +1,130 @@
+{
+  "lecture_id": "R6eVDrxe19E",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2014",
+  "session": "23/35",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Fatigue strength of welds: why strength doesn't help",
+      "section_timestamp_start": "01:15",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p4"], "timestamp_range": ["01:15", "02:13"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p5"], "timestamp_range": ["02:13", "02:33"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p6"], "timestamp_range": ["02:33", "03:32"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Design details and the King Street Bridge",
+      "section_timestamp_start": "03:32",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p7"], "timestamp_range": ["03:32", "04:26"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p8"], "timestamp_range": ["04:26", "05:07"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p9"], "timestamp_range": ["05:07", "06:11"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p10"], "timestamp_range": ["06:11", "06:40"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The AISC Manual and its aluminum copy",
+      "section_timestamp_start": "06:40",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p11"], "timestamp_range": ["06:40", "07:46"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p12"], "timestamp_range": ["07:46", "08:13"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p13"], "timestamp_range": ["08:13", "09:15"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p14"], "timestamp_range": ["09:15", "10:20"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p15"], "timestamp_range": ["10:20", "11:27"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p16"], "timestamp_range": ["11:27", "12:10"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Weld toe profile and TIG dressing",
+      "section_timestamp_start": "12:10",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p17"], "timestamp_range": ["12:10", "13:13"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p18"], "timestamp_range": ["13:13", "13:59"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p19"], "timestamp_range": ["13:59", "15:07"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p20"], "timestamp_range": ["15:07", "15:55"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p21"], "timestamp_range": ["15:55", "16:45"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Undermatching, overmatching, and Coast Guard brackets",
+      "section_timestamp_start": "16:45",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p22"], "timestamp_range": ["16:45", "16:50"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p22"], "timestamp_range": ["16:50", "17:40"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p23"], "timestamp_range": ["17:40", "18:21"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The genealogy of stainless steels",
+      "section_timestamp_start": "18:21",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p24"], "timestamp_range": ["18:21", "18:59"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p25"], "timestamp_range": ["18:59", "19:39"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p26"], "timestamp_range": ["19:39", "20:13"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p27"], "timestamp_range": ["20:13", "21:04"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "303 sulfur, the Sub-Zero refrigerator, and the cost of catching things late",
+      "section_timestamp_start": "21:04",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p28"], "timestamp_range": ["21:04", "22:18"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p29"], "timestamp_range": ["22:18", "23:01"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p30"], "timestamp_range": ["23:01", "23:23"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Duplex, PH, martensitic, and super-austenitic stainlesses",
+      "section_timestamp_start": "23:23",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p31"], "timestamp_range": ["23:23", "24:06"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p32"], "timestamp_range": ["24:06", "24:50"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p33"], "timestamp_range": ["24:50", "25:48"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p34"], "timestamp_range": ["25:48", "26:16"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p35"], "timestamp_range": ["26:16", "27:03"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p36"], "timestamp_range": ["27:03", "27:32"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p37"], "timestamp_range": ["27:32", "28:38"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "The iron-chrome-nickel phase diagram",
+      "section_timestamp_start": "28:38",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p38"], "timestamp_range": ["28:38", "29:30"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p39"], "timestamp_range": ["29:30", "30:15"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "The Varestraint test and the Schaeffler-DeLong diagrams",
+      "section_timestamp_start": "30:15",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p40"], "timestamp_range": ["30:15", "31:12"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p41"], "timestamp_range": ["31:12", "32:35"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p42"], "timestamp_range": ["32:35", "33:35"]},
+        {"l3_id": "§10.p4", "l2_ids": ["p43"], "timestamp_range": ["33:35", "34:21"]},
+        {"l3_id": "§10.p5", "l2_ids": ["p44"], "timestamp_range": ["34:21", "34:52"]}
+      ]
+    },
+    {
+      "section_id": "s11",
+      "section_title": "Ferritic stainless and the Miami Art Museum",
+      "section_timestamp_start": "34:52",
+      "anchors": [
+        {"l3_id": "§11.p1", "l2_ids": ["p45"], "timestamp_range": ["34:52", "34:56"]},
+        {"l3_id": "§11.p2", "l2_ids": ["p45"], "timestamp_range": ["34:56", "36:23"]},
+        {"l3_id": "§11.p3", "l2_ids": ["p46"], "timestamp_range": ["36:23", "37:30"]}
+      ]
+    }
+  ]
+}

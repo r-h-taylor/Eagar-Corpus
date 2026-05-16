@@ -1,0 +1,146 @@
+{
+  "lecture_id": "OFA4nk7yyVI",
+  "course": "Recitations",
+  "term": "Spring 2021",
+  "video_title": "2021 02 19",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Course logistics: the half-page-per-module write-up",
+      "section_timestamp_start": "00:03",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:03", "00:36"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:36", "01:20"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:20", "02:04"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["02:04", "03:07"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["03:07", "04:04"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p6"], "timestamp_range": ["04:04", "04:10"]},
+        {"l3_id": "§1.p7", "l2_ids": ["p7"], "timestamp_range": ["04:10", "04:40"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Picking topics and presentations",
+      "section_timestamp_start": "04:40",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p8"], "timestamp_range": ["04:40", "05:23"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p9"], "timestamp_range": ["05:23", "06:28"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p10", "p11", "p12", "p13"], "timestamp_range": ["06:28", "07:02"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p14"], "timestamp_range": ["07:02", "07:59"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p15"], "timestamp_range": ["07:59", "08:39"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p16"], "timestamp_range": ["08:39", "09:05"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p17"], "timestamp_range": ["09:05", "09:58"]},
+        {"l3_id": "§2.p8", "l2_ids": ["p18", "p19"], "timestamp_range": ["09:58", "10:50"]},
+        {"l3_id": "§2.p9", "l2_ids": ["p20"], "timestamp_range": ["10:50", "11:27"]},
+        {"l3_id": "§2.p10", "l2_ids": ["p21", "p22", "p23"], "timestamp_range": ["11:27", "11:52"]},
+        {"l3_id": "§2.p11", "l2_ids": ["p24"], "timestamp_range": ["11:52", "11:58"]},
+        {"l3_id": "§2.p12", "l2_ids": ["p25"], "timestamp_range": ["11:58", "12:13"]},
+        {"l3_id": "§2.p13", "l2_ids": ["p26"], "timestamp_range": ["12:13", "12:56"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Deformation processing and the languages of engineering",
+      "section_timestamp_start": "12:56",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p27"], "timestamp_range": ["12:56", "13:15"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p28"], "timestamp_range": ["13:15", "14:01"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p29"], "timestamp_range": ["14:01", "14:54"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p30"], "timestamp_range": ["14:54", "15:56"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p31"], "timestamp_range": ["15:56", "16:41"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p32"], "timestamp_range": ["16:41", "17:53"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p33"], "timestamp_range": ["17:53", "18:17"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "The consulting parable: the foreman knows",
+      "section_timestamp_start": "18:17",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p34"], "timestamp_range": ["18:17", "19:07"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p35"], "timestamp_range": ["19:07", "19:48"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p36"], "timestamp_range": ["19:48", "20:35"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p37"], "timestamp_range": ["20:35", "21:37"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p38"], "timestamp_range": ["21:37", "21:59"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "The donuts story: Honeywell New Jersey",
+      "section_timestamp_start": "21:37",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p38", "p39"], "timestamp_range": ["21:37", "22:36"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p40"], "timestamp_range": ["22:36", "23:04"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p41"], "timestamp_range": ["23:04", "24:02"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p42"], "timestamp_range": ["24:02", "24:33"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p43"], "timestamp_range": ["24:33", "25:30"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p44"], "timestamp_range": ["25:30", "26:21"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p45"], "timestamp_range": ["26:21", "27:35"]},
+        {"l3_id": "§5.p8", "l2_ids": ["p46"], "timestamp_range": ["27:35", "27:39"]},
+        {"l3_id": "§5.p9", "l2_ids": ["p47"], "timestamp_range": ["27:39", "27:54"]},
+        {"l3_id": "§5.p10", "l2_ids": ["p48"], "timestamp_range": ["27:54", "28:33"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Differential equations, finite element analysis, and Bethlehem Steel",
+      "section_timestamp_start": "28:33",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p49"], "timestamp_range": ["28:33", "29:05"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p50"], "timestamp_range": ["29:05", "29:29"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p51"], "timestamp_range": ["29:29", "30:09"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p52"], "timestamp_range": ["30:09", "31:06"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p53"], "timestamp_range": ["31:06", "31:59"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p54"], "timestamp_range": ["31:59", "32:33"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Easter eggs, soccer balls, and looking where no one is looking",
+      "section_timestamp_start": "32:33",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p55"], "timestamp_range": ["32:33", "33:11"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p56"], "timestamp_range": ["33:11", "33:46"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p57"], "timestamp_range": ["33:46", "34:25"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p58"], "timestamp_range": ["34:25", "35:24"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p59"], "timestamp_range": ["35:24", "36:13"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p60"], "timestamp_range": ["36:13", "37:11"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p61"], "timestamp_range": ["37:11", "38:20"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p62"], "timestamp_range": ["38:20", "38:53"]},
+        {"l3_id": "§7.p9", "l2_ids": ["p63"], "timestamp_range": ["38:53", "39:48"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Boston landmarks and the \"Materials Research Needs\" handout",
+      "section_timestamp_start": "39:48",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p64"], "timestamp_range": ["39:48", "40:23"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p65"], "timestamp_range": ["40:23", "40:28"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p66"], "timestamp_range": ["40:28", "40:40"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p67"], "timestamp_range": ["40:40", "40:42"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p68"], "timestamp_range": ["40:42", "41:46"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p69"], "timestamp_range": ["41:46", "42:47"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "The billion-ton-per-year club: stone, wood, concrete, steel",
+      "section_timestamp_start": "42:47",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p70"], "timestamp_range": ["42:47", "43:58"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p71"], "timestamp_range": ["43:58", "44:46"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p72"], "timestamp_range": ["44:46", "45:11"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p73"], "timestamp_range": ["45:11", "46:17"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p74"], "timestamp_range": ["46:17", "47:13"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p75"], "timestamp_range": ["47:13", "48:06"]},
+        {"l3_id": "§9.p7", "l2_ids": ["p76"], "timestamp_range": ["48:06", "48:56"]},
+        {"l3_id": "§9.p8", "l2_ids": ["p77"], "timestamp_range": ["48:56", "49:52"]},
+        {"l3_id": "§9.p9", "l2_ids": ["p78", "p79"], "timestamp_range": ["49:52", "50:39"]},
+        {"l3_id": "§9.p10", "l2_ids": ["p80"], "timestamp_range": ["50:39", "50:59"]},
+        {"l3_id": "§9.p11", "l2_ids": ["p81"], "timestamp_range": ["50:59", "51:01"]},
+        {"l3_id": "§9.p12", "l2_ids": ["p82"], "timestamp_range": ["51:01", "51:30"]}
+      ]
+    }
+  ]
+}

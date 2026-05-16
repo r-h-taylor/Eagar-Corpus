@@ -1,0 +1,77 @@
+{
+  "video_id": "qBeTbWLRrVo",
+  "course": "Welding Quality",
+  "course_number": "3.371",
+  "course_title_spoken": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [20/35]",
+  "lecture_number_in_series": 20,
+  "lecture_total_in_series": 35,
+  "raw_transcript_sha256": "5ca55f70b720dc1dc150e677cb8fb73bf9346fedab348832130647268154945b",
+  "raw_transcript_line_count": 1006,
+  "raw_transcript_word_count": 7462,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T18:21:36.301257+00:00",
+  "layer2_paragraph_count": 32,
+  "first_timestamp": "00:09",
+  "last_timestamp": "37:13",
+  "transcript_truncated_mid_sentence": true,
+  "primary_topics": [
+    "post-weld heat treatment (PWHT) mechanics and rules of thumb",
+    "over-matching vs under-matching filler metal",
+    "hydrogen-induced cracking case studies"
+  ],
+  "cases_referenced": [
+    {
+      "name": "Bell Helicopter rotor mast hydrogen bakeout (Fort Worth)",
+      "first_paragraph": "p3",
+      "function": "illustration of urgency-driven PWHT scheduling (electroplate → bake in <5 min)"
+    },
+    {
+      "name": "Nautilus austenitic filler metal foundations",
+      "first_paragraph": "p6",
+      "function": "historical precedent for under-matching as expedient"
+    },
+    {
+      "name": "Navy under-matching filler metal studies (1960s and ~1990)",
+      "first_paragraph": "p7",
+      "function": "twice-relearned negative result; fracture-mechanics not welding"
+    },
+    {
+      "name": "Seawolf weld over-matching",
+      "first_paragraph": "p9",
+      "function": "brief reprise — over-matched by 30-40%, too much hardenability for available preheat"
+    },
+    {
+      "name": "Helms Pumped Storage Project failure (PG&E, High Sierras, early 1990s)",
+      "first_paragraph": "p10",
+      "function": "extended case — 22-ft pipe, 188 PSI, hydrogen crack delayed 9 months, $180M+ damage, trial loss"
+    },
+    {
+      "name": "Boston Navy Shipyard chrome-moly transition weld (~1978)",
+      "first_paragraph": "p21",
+      "function": "Tom's early-career consulting case; solved by changing joint prep to relieve restraint"
+    },
+    {
+      "name": "7,000-ton forging press top-head weld repair (Georgia welders)",
+      "first_paragraph": "p28",
+      "function": "17-inch thick weld; insufficient preheat depth and no PWHT; cracked twice"
+    },
+    {
+      "name": "Helicopter pea shooter drive coupling (Vancouver metallurgist)",
+      "first_paragraph": "p32",
+      "function": "case introduced but transcript truncates"
+    }
+  ],
+  "figures_referenced": [
+    "1 hour per inch of thickness at temperature (PWHT rule of thumb)",
+    "1100-1200°F PWHT for steels",
+    "375°F × 23 hr hydrogen bakeout (helicopter mast)",
+    "4340 steel @ 240 KSI",
+    "HY80 = 80 KSI; HY100 = 100 KSI; E11018 / E110S electrodes",
+    "5% under-matching threshold above which fracture properties degrade",
+    "22-ft diameter pipe, 188 PSI, 4 million horsepower release (Helms)",
+    "7,000-ton forging press, 17-inch weld, 400-600 passes"
+  ]
+}

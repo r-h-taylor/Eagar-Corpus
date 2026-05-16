@@ -1,0 +1,106 @@
+{
+  "lecture_id": "0wUIpk_5BRY",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2014",
+  "session": "25/35",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "King Street Bridge and the George Washington Bridge fatigue cracks",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:02", "00:45"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p1"], "timestamp_range": ["00:45", "01:14"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Underwater welding: arc instability and depth limits",
+      "section_timestamp_start": "01:14",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p2"], "timestamp_range": ["01:14", "02:31"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p3"], "timestamp_range": ["02:31", "03:32"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p4"], "timestamp_range": ["03:32", "04:13"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p5"], "timestamp_range": ["04:13", "05:52"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Wet welding, the USS Cole, and the cost of dry habitats",
+      "section_timestamp_start": "05:52",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p6"], "timestamp_range": ["05:52", "06:30"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p6"], "timestamp_range": ["06:30", "07:50"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p7"], "timestamp_range": ["07:50", "08:51"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p8"], "timestamp_range": ["08:51", "09:52"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p9"], "timestamp_range": ["09:52", "10:41"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "The bends and the Brooklyn Bridge caissons",
+      "section_timestamp_start": "10:41",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p10"], "timestamp_range": ["10:41", "11:24"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p11"], "timestamp_range": ["11:24", "12:53"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Altitude sickness and PIGMA welding at Rocky Flats",
+      "section_timestamp_start": "12:53",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p12"], "timestamp_range": ["12:53", "14:33"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p13"], "timestamp_range": ["14:33", "14:55"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p13"], "timestamp_range": ["14:55", "16:22"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Why wet welds crack: hydrogen, not the cooling rate",
+      "section_timestamp_start": "16:22",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p14"], "timestamp_range": ["16:22", "17:30"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p15"], "timestamp_range": ["17:30", "17:51"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p15"], "timestamp_range": ["17:51", "19:13"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p16"], "timestamp_range": ["19:13", "20:20"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p17"], "timestamp_range": ["20:20", "22:30"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p18"], "timestamp_range": ["22:30", "23:20"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p18"], "timestamp_range": ["23:20", "24:16"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Teaching by first principles, and a sermon about feeding the cow",
+      "section_timestamp_start": "24:16",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p19"], "timestamp_range": ["24:16", "26:06"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p20"], "timestamp_range": ["26:06", "27:17"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p21"], "timestamp_range": ["27:17", "27:40"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Critical pitting temperature and the Nautilus air conditioning story",
+      "section_timestamp_start": "27:17",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p21"], "timestamp_range": ["27:40", "28:43"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p22"], "timestamp_range": ["28:43", "29:30"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p22"], "timestamp_range": ["29:30", "30:10"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Nickel-based alloys: Monel, Inconel, and the Sudbury ore",
+      "section_timestamp_start": "30:10",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p23"], "timestamp_range": ["30:10", "31:31"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p24"], "timestamp_range": ["31:31", "32:32"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p25"], "timestamp_range": ["32:32", "33:30"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p25"], "timestamp_range": ["33:30", "34:46"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p26"], "timestamp_range": ["34:46", "35:53"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p27"], "timestamp_range": ["35:53", "37:00"]}
+      ]
+    }
+  ]
+}

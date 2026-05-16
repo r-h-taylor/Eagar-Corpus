@@ -1,0 +1,33 @@
+{
+  "video_id": "XI3NzU5YHIQ",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [28/35]",
+  "lecture_number": "28/35",
+  "raw_transcript_sha256": "2eda644a616d025c017b840d030ccdeece85f3fb0146b2555f58e4823fa3caed",
+  "raw_transcript_line_count": 358,
+  "raw_transcript_word_count": 2246,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T19:04:25.089412+00:00",
+  "layer2_paragraph_count": 19,
+  "duration_covered_mmss": "00:02-12:20",
+  "primary_case": "Blackhawk tail rotor washer stress corrosion cracking (Sikorsky, 6061-T6, ~1990)",
+  "topics": [
+    "stress corrosion cracking",
+    "residual stress",
+    "aluminum precipitation heat treatment",
+    "T6 vs T7 (over-aging)",
+    "T-51 / T-62 mechanical stress relief",
+    "government contractors defense",
+    "alloy 6061",
+    "alloy 7050 vs 7075",
+    "Alcoa Davenport rolling mill"
+  ],
+  "bracketed_slips": [
+    {"paragraph": "p1", "raw": "Pratt Whitney Sikorski", "bracketed": "Pratt Whitney [Pratt & Whitney / Sikorsky]"},
+    {"paragraph": "p9", "raw": "374", "bracketed": "374 [340]"},
+    {"paragraph": "p10", "raw": "C7", "bracketed": "C7 [T7]"}
+  ],
+  "notes": "Single-section lecture excerpt; opens mid-thought and closes with class-management cutoff. Sectioning will be deferred to layer 3 production."
+}

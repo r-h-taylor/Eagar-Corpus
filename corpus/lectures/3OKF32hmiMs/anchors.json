@@ -1,0 +1,134 @@
+{
+  "lecture_id": "3OKF32hmiMs",
+  "course": "Additive Manufacturing",
+  "term": "Fall 2019",
+  "session": "2019-09-26",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Introductions",
+      "section_timestamp_start": "00:03",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:03", "01:29"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:29", "02:07"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:07", "03:53"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The metal additive landscape",
+      "section_timestamp_start": "03:53",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p4"], "timestamp_range": ["03:53", "04:35"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p5"], "timestamp_range": ["04:35", "05:31"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p6"], "timestamp_range": ["05:31", "06:45"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p7"], "timestamp_range": ["06:45", "07:45"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Business value and design drivers",
+      "section_timestamp_start": "07:45",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p8"], "timestamp_range": ["07:45", "09:24"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p9"], "timestamp_range": ["09:24", "10:47"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p10"], "timestamp_range": ["10:47", "12:19"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Buy-to-fly: machining waste and the Boeing case",
+      "section_timestamp_start": "12:19",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p11"], "timestamp_range": ["12:19", "13:14"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p12"], "timestamp_range": ["13:14", "14:52"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p13"], "timestamp_range": ["14:52", "15:18"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p14"], "timestamp_range": ["15:18", "16:24"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p15"], "timestamp_range": ["16:24", "16:24"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p16", "p17"], "timestamp_range": ["16:24", "17:19"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Near-net-shape processes: casting and chemical milling",
+      "section_timestamp_start": "17:19",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p18"], "timestamp_range": ["17:19", "19:00"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p19"], "timestamp_range": ["19:00", "19:55"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p20"], "timestamp_range": ["19:55", "21:01"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p21"], "timestamp_range": ["21:01", "22:08"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Thermal management and microstructure",
+      "section_timestamp_start": "22:08",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p22"], "timestamp_range": ["22:08", "23:42"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p23"], "timestamp_range": ["23:42", "24:39"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p24"], "timestamp_range": ["24:39", "25:18"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p25"], "timestamp_range": ["25:18", "26:06"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Joule Printing: how it works",
+      "section_timestamp_start": "26:06",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p26"], "timestamp_range": ["26:06", "27:15"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p27"], "timestamp_range": ["27:15", "27:31"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p28"], "timestamp_range": ["27:31", "27:34"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p29"], "timestamp_range": ["27:34", "27:48"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p30"], "timestamp_range": ["27:48", "27:48"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p31"], "timestamp_range": ["27:48", "28:43"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p32"], "timestamp_range": ["28:43", "29:36"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p33"], "timestamp_range": ["29:36", "30:25"]},
+        {"l3_id": "§7.p9", "l2_ids": ["p34"], "timestamp_range": ["30:25", "30:25"]},
+        {"l3_id": "§7.p10", "l2_ids": ["p35"], "timestamp_range": ["30:25", "32:19"]},
+        {"l3_id": "§7.p11", "l2_ids": ["p36"], "timestamp_range": ["32:19", "32:56"]},
+        {"l3_id": "§7.p12", "l2_ids": ["p37"], "timestamp_range": ["32:56", "33:21"]},
+        {"l3_id": "§7.p13", "l2_ids": ["p38"], "timestamp_range": ["33:21", "33:21"]},
+        {"l3_id": "§7.p14", "l2_ids": ["p39", "p40"], "timestamp_range": ["33:21", "34:10"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Customer adoption and multi-metal future",
+      "section_timestamp_start": "34:10",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p41"], "timestamp_range": ["34:10", "35:29"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p42"], "timestamp_range": ["35:29", "35:29"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p43"], "timestamp_range": ["35:29", "37:04"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p44", "p45", "p46"], "timestamp_range": ["37:04", "37:27"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Application strategy: titanium aerospace and tool steel for automotive",
+      "section_timestamp_start": "37:27",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p47"], "timestamp_range": ["37:27", "38:30"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p48"], "timestamp_range": ["38:30", "39:25"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p49"], "timestamp_range": ["39:25", "41:07"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p50"], "timestamp_range": ["41:07", "41:37"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p51"], "timestamp_range": ["41:37", "42:54"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p52"], "timestamp_range": ["42:54", "43:54"]},
+        {"l3_id": "§9.p7", "l2_ids": ["p53"], "timestamp_range": ["43:54", "44:33"]},
+        {"l3_id": "§9.p8", "l2_ids": ["p54"], "timestamp_range": ["44:33", "46:12"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "Hybrid machines, process tradeoffs, and scaling",
+      "section_timestamp_start": "46:12",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p55"], "timestamp_range": ["46:12", "46:12"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p56"], "timestamp_range": ["46:12", "48:19"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p57"], "timestamp_range": ["48:19", "48:22"]},
+        {"l3_id": "§10.p4", "l2_ids": ["p58"], "timestamp_range": ["48:22", "49:17"]},
+        {"l3_id": "§10.p5", "l2_ids": ["p59"], "timestamp_range": ["49:17", "50:18"]},
+        {"l3_id": "§10.p6", "l2_ids": ["p60"], "timestamp_range": ["50:18", "51:00"]}
+      ]
+    }
+  ]
+}

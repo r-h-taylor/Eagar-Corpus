@@ -1,0 +1,62 @@
+{
+  "video_id": "kF4wXqPHw-o",
+  "course": "Codes and Standards for Safety",
+  "course_number": "3.371",
+  "term": "Fall 2012",
+  "lecture_number": 11,
+  "lecture_total": 14,
+  "video_title": "3.371 Codes and Standards - Fall 2012 [11/14]",
+  "raw_transcript_sha256": "5880b70a6b0efdf9a28b64d73ac27fea06364cd25ba1dd8e7300eb4d5ce5ad32",
+  "raw_transcript_line_count": 1121,
+  "raw_transcript_word_count": 9256,
+  "layer2_paragraph_count": 41,
+  "layer2_timestamp_start": "00:03",
+  "layer2_timestamp_end": "50:28",
+  "duration_approx_minutes": 50,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T01:34:18.315198+00:00",
+  "primary_topics": [
+    "levels of design (conceptual, architectural, detailed, shop, erection, as-built)",
+    "codes prohibiting welding on tractor-trailer frames",
+    "weld vs bolt strength distributions",
+    "load path failures",
+    "Hyatt Regency Kansas City walkway collapse (1981)",
+    "Ford Taurus air conditioner manufacturing failure",
+    "CAD-era design and clash detection"
+  ],
+  "cases_mentioned": [
+    "Belmar trailer (student/colleague reference)",
+    "Nova Scotia sailboat trailer slugged weld",
+    "Tron-air jet engine bolt over-torque",
+    "MIT Stata Center / Frank Gehry crumpled-paper concept",
+    "Harvard Bridge (Mass Ave) vs Longfellow Bridge",
+    "Boeing 737 / 777 digital design transition",
+    "Hyatt Regency Kansas City walkway collapse",
+    "Chevy Vega spark plug servicing",
+    "Ford Taurus air conditioner clamping fixture",
+    "1985 GM van door (Tom's lemon law case)"
+  ],
+  "people_named": [
+    "Dr. Belmar (guest lecturer, referenced)",
+    "Vicki Sirianni (MIT facilities)",
+    "Frank Gehry (architect)",
+    "Henry Petroski (referenced as author of To Engineer is Human)",
+    "Andrew Carnegie",
+    "unnamed dean of Harvard Business School"
+  ],
+  "tom_slips_bracketed": [
+    "Mass Ave [Bridge]",
+    "Massachusetts lemon [law]"
+  ],
+  "tom_misstatements_preserved": [
+    "p26: 'should have been intersecting' (inverse of intent)",
+    "p35: '1978 Chevy Vega' (Vega production ended 1977)"
+  ],
+  "flagged_for_editorial_register": [
+    "p13: 'biggest piece of okay' captioner-bowdlerized; rendered as 'crap'",
+    "p9: 'Tron air' — uncertain referent",
+    "p27: inaudible student question reconstructed from Tom's response",
+    "p37: 'coughed a lot' may be captioner mis-hearing of a cough sound"
+  ]
+}

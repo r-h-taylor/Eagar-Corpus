@@ -1,0 +1,76 @@
+{
+  "video_id": "KynrfNqtHaU",
+  "course": "3.371 Codes and Standards",
+  "course_full_title": "Codes and Standards Definitions and History",
+  "term": "Fall 2012",
+  "lecture_number": 5,
+  "lecture_in_series": "5/14",
+  "video_title": "3.371 Codes and Standards - Fall 2012 [5/14]",
+  "raw_transcript_sha256": "9bfa94f8bedded92c99ec55d4d2c9321faf89dfba1dd786b2d14059f635c679f",
+  "raw_transcript_line_count": 1324,
+  "raw_transcript_word_count": 10070,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T00:50:02.543291+00:00",
+  "layer2_paragraph_count": 78,
+  "duration_approx_minutes": 58,
+  "lecture_topics": [
+    "manufacturing science as a discipline",
+    "three sources of wealth: agriculture, mining, manufacturing",
+    "history of codes: Hammurabi, Hippocratic Oath, Magna Carta",
+    "Ben Franklin and lightning protection / NFPA 780",
+    "CSST tubing failures from lightning strikes",
+    "Franklin Institute and the first federal research contract (steamship boiler explosions)",
+    "ASME Boiler and Pressure Vessel Code history (Brockton shoe factory explosion)",
+    "Galloping Gertie (Tacoma Narrows) and Petroski's 'To Engineer is Human'",
+    "Middletown CT 2010 gas explosion and NFPA 56",
+    "ASTM A106 / ASME B31.1 refinery pipe dispute (hydrostatic vs NDT testing)",
+    "code interpretations process and code committee structure",
+    "MMPDS / MIL-Handbook-5 aerospace materials data",
+    "fair use of codes and standards",
+    "ASME Section 9 welding procedure qualification"
+  ],
+  "cases_mentioned": [
+    "Israeli Corvette variable-pitch propeller bolts (Monel, taper-shank, stretch-tightened)",
+    "CSST tubing house fire in Maryland (lightning perforation)",
+    "Ohio River steamship boiler explosions (1830s)",
+    "Brockton MA shoe factory boiler explosion",
+    "Galloping Gertie / Tacoma Narrows Bridge collapse",
+    "Middletown CT 2010 gas-pipe blowdown explosion (six fatalities)",
+    "$60M refinery pipe dispute (A106 / B31.1 hydrostatic vs NDT)",
+    "Cement-truck pressure vessel fatality (previewed for next lecture)"
+  ],
+  "people_referenced": [
+    "Dr. Belmar (course coordinator)",
+    "Petronius Arbiter (200 BC quote on reorganization)",
+    "Hammurabi (1750 BC)",
+    "Ben Franklin (1752 lightning rod)",
+    "John Godfrey Saxe (1872 poem, 'The Blind Men and the Elephant')",
+    "Henry Petroski (Duke, NAE class of 1997, 'To Engineer is Human')"
+  ],
+  "standards_referenced": [
+    "NFPA 780 (Lightning Protection Systems, 2011)",
+    "NFPA 56 (Gas piping cleanout, 2012, post-Middletown)",
+    "ASME Boiler and Pressure Vessel Code (Section 8 Div 1, Section 9)",
+    "ASTM A106 (seamless carbon steel pipe)",
+    "ASME B31.1 (power piping)",
+    "ANSI B36.1 (pipe dimensions)",
+    "AWS Structural Welding Code (steel and aluminum)",
+    "MMPDS-05 (formerly MIL-Handbook-5, metallic materials properties)",
+    "ISO 9000 (mentioned in passing)"
+  ],
+  "stage_directions_count": 7,
+  "student_turns_count": 4,
+  "captioner_corrections_count": 28,
+  "spoken_slips_bracketed": [
+    "Lou [Louvre]",
+    "John Geoffrey Saxe [John Godfrey Saxe]",
+    "turban [turbine]",
+    "B31.1.2 [311.32]"
+  ],
+  "flags_for_editorial_review": [
+    "NFPA 780 thickness threshold: captioner produced both '3/8 inch' and '3/16 inch' in same paragraph; normalized to 3/16 per standard.",
+    "B31.1 subsection reference at L40:00 may have been '311.32' rather than 'B31.1.2'; bracketed alongside.",
+    "X-15 builder: Tom says 'Bell developed the X-15' — actually North American Aviation built the X-15; Bell built the X-1. Preserved per convention §16 (Tom's genuine misstatement)."
+  ]
+}

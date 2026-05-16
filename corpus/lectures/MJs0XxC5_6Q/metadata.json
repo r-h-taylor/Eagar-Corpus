@@ -1,0 +1,41 @@
+{
+  "video_id": "MJs0XxC5_6Q",
+  "course": "Corrosion Cracking and More",
+  "course_number": "3.371",
+  "course_title_full": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [17/35]",
+  "lecture_index": 17,
+  "lecture_total": 35,
+  "raw_transcript_sha256": "9ff7578b839463d008d7216717c60a6dc6ea28d3b2239b08aff572724db8422b",
+  "raw_transcript_line_count": 62,
+  "raw_transcript_word_count": 403,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T18:09:48.131265+00:00",
+  "layer2_paragraph_count": 4,
+  "layer2_start_timestamp": "00:02",
+  "layer2_end_timestamp": "02:02",
+  "section_title": "The cookware hydrogen-cracking case",
+  "cases_mentioned": [
+    {
+      "name": "Cookware plasma-spray hydrogen cracking (Brooklyn → Japan)",
+      "diagnosis": "delayed hydrogen cracking in martensitic stainless cookware; H₂ source traced to 95Ar/5H₂ plasma spray gas mixture used to deposit porous stainless layer for non-stick impregnation",
+      "anchor": "p1–p4"
+    }
+  ],
+  "technical_concepts": [
+    "delayed hydrogen cracking",
+    "martensite susceptibility to hydrogen cracking",
+    "HY steels (high-yield, martensitic)",
+    "HSLA steels (high-strength low-alloy, fine-grain controlled-cooling)",
+    "Japanese steel metallurgy precedent (1970s → US 1980s)",
+    "plasma spray with Ar/H₂ gas mixture",
+    "residual stresses from forming operations"
+  ],
+  "tom_slips_bracketed": [],
+  "captioner_corrections": [
+    {"raw": "martinsite", "corrected": "martensite", "occurrences": 2},
+    {"raw": "could it be", "corrected": "could it be (doubled 'it' trimmed)", "occurrences": 1}
+  ]
+}

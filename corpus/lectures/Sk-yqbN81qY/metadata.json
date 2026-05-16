@@ -1,0 +1,50 @@
+{
+  "video_id": "Sk-yqbN81qY",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "lecture_number": "10/29",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [10/29]",
+  "speaker": "Mike Bauman IV (guest lecturer; former Eagar student)",
+  "speaker_notes": "Prof. Eagar appears briefly in p21 to discuss SCC vs. hydrogen embrittlement",
+  "raw_transcript_sha256": "84ada1d4a388c9b3da1e68342321d3620a65c2cc26a60e9560f60343c7bac40b",
+  "raw_transcript_line_count": 676,
+  "raw_transcript_word_count": 4918,
+  "layer2_paragraph_count": 42,
+  "layer2_start_timestamp": "00:03",
+  "layer2_end_timestamp": "37:10",
+  "recording_truncated": true,
+  "truncation_note": "Recording cuts off mid-sentence at p42 during discussion of HAZ liquation cracking",
+  "topics": [
+    "martensitic stainless steels",
+    "nickel-based alloys",
+    "solid solution strengthening",
+    "precipitation hardening",
+    "weldability",
+    "solidification cracking",
+    "heat affected zone liquation cracking",
+    "strain age cracking",
+    "stress corrosion cracking",
+    "hydrogen embrittlement"
+  ],
+  "alloys_referenced": [
+    "410", "416", "420", "422", "440",
+    "Nickel 200", "Monel", "Nickel 400",
+    "Inconel 600", "Inconel 625", "Inconel 690",
+    "Hastelloy X", "Haynes 230", "RA 330",
+    "Alloy 718", "Alloy 713C", "Rene 41", "Waspaloy",
+    "Incoloy 925", "A-286"
+  ],
+  "books_referenced": [
+    "Lippold & Kotecki, Welding Metallurgy and Weldability of Stainless Steels (inferred)",
+    "Lippold, Kiser & DuPont, Welding Metallurgy and Weldability of Nickel-Base Alloys (inferred)"
+  ],
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T13:52:00.103719+00:00",
+  "editor_flags": [
+    "Bauman name spelling unconfirmed",
+    "RA 330 vs RA 333 alloy designation",
+    "p21 contains heavily captioner-degraded Eagar speech; audio re-check recommended"
+  ]
+}

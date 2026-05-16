@@ -1,0 +1,37 @@
+{
+  "video_id": "GTYVZje3nmY",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [5/29]",
+  "lecture_number_in_series": 5,
+  "lectures_in_series": 29,
+  "raw_transcript_sha256": "575d3e2ba71d255f4388c5c9edbf855834856d4df254b2a9670944e883066ee7",
+  "raw_transcript_line_count": 378,
+  "raw_transcript_word_count": 2352,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T13:31:32.602236+00:00",
+  "layer2_paragraph_count": 24,
+  "layer2_start_timestamp": "00:01",
+  "layer2_end_timestamp": "17:00",
+  "duration_minutes_approx": 17,
+  "topic_summary": "Stainless steel welding metallurgy: austenitic carbide precipitation and prevention (low-carbon alloys, Ti/Nb stabilization in 321/347); rapid solidification effects in laser and electron beam welding; Suutala diagram and modified Suutala diagram for cracking susceptibility; ferritic stainless steel alloys (430, 409, E-BRITE), their compositions, applications (automotive exhaust, trim), service temperature limits, embrittlement modes (sigma phase, 885°F alpha-prime embrittlement, grain growth), filler metal selection, post-weld heat treatment, hydrogen-induced cracking, and grain boundary sensitization.",
+  "speaker_attribution_flag": "This recording appears to deliver Tom Eagar's 3.371 Welding Metallurgy course material but the speaker's self-reference ('taught to me originally in about a half a semester') and closing logistics ('contact information on the sheets handed out on the first day') suggest a guest lecturer or TA rather than Tom himself. Flagged for editor (Richard Taylor) review.",
+  "tom_slips_bracketed": [
+    {"first_occurrence_paragraph": "p5", "spoken": "Sutula", "correction": "Suutala", "note": "Possibly pronunciation variant; bracketed for searchability"},
+    {"first_occurrence_paragraph": "p12", "spoken": "ebright", "correction": "E-BRITE", "note": "Allegheny Ludlum 26Cr-1Mo superferritic trade name"}
+  ],
+  "captioner_errors_corrected_silently": [
+    "ferritic (multiple variants: phrytic, phoridic, pheritic)",
+    "Schaeffler diagram (from 'schaefer')",
+    "corrosion resistant (from 'corrosive resistant')",
+    "removed spurious article 'a' before 'high hydrogen levels'",
+    "removed duplicated phrase 'economical like i said they have' at L218",
+    "'or no one somewhere' corrected to 'or no — somewhere' (hesitation misrecognition)"
+  ],
+  "editorial_flags": [
+    "Speaker identity not confirmed as Tom Eagar",
+    "p15 'shrinkage stretches [stresses]' — bracketed correction provided, editor to confirm"
+  ]
+}

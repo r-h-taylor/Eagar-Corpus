@@ -1,0 +1,120 @@
+{
+  "lecture_id": "kwG1vlILhH0",
+  "course": "3.371 How to be a Successful Engineer",
+  "term": "Fall 2015",
+  "session": "8/12",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Tenure, sabbatical, and managing the department head",
+      "section_timestamp_start": "00:00",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:00", "00:48"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:48", "02:07"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:07", "02:47"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["02:47", "03:14"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["03:14", "04:00"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p6"], "timestamp_range": ["04:00", "04:56"]},
+        {"l3_id": "§1.p7", "l2_ids": ["p7"], "timestamp_range": ["04:56", "06:01"]},
+        {"l3_id": "§1.p8", "l2_ids": ["p8"], "timestamp_range": ["06:01", "06:49"]},
+        {"l3_id": "§1.p9", "l2_ids": ["p9"], "timestamp_range": ["06:49", "07:40"]},
+        {"l3_id": "§1.p10", "l2_ids": ["p10"], "timestamp_range": ["07:40", "08:53"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Personality, DSM, and amateur psychology in the department",
+      "section_timestamp_start": "08:53",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p11"], "timestamp_range": ["08:53", "09:25"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p12"], "timestamp_range": ["09:25", "10:00"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p13"], "timestamp_range": ["10:00", "11:37"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p14"], "timestamp_range": ["11:37", "12:28"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p15"], "timestamp_range": ["12:28", "13:29"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p16"], "timestamp_range": ["13:29", "14:20"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p17"], "timestamp_range": ["14:20", "15:04"]},
+        {"l3_id": "§2.p8", "l2_ids": ["p18"], "timestamp_range": ["15:04", "16:02"]},
+        {"l3_id": "§2.p9", "l2_ids": ["p19"], "timestamp_range": ["16:02", "16:45"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Why someone hires you; leaders vs. managers",
+      "section_timestamp_start": "16:45",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p20"], "timestamp_range": ["16:45", "17:37"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p21"], "timestamp_range": ["17:37", "18:20"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p22"], "timestamp_range": ["18:20", "19:08"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p23"], "timestamp_range": ["19:08", "19:43"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p24"], "timestamp_range": ["19:43", "20:33"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p25"], "timestamp_range": ["20:33", "21:34"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p26"], "timestamp_range": ["21:34", "22:25"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "The candy jar and the make-work survey",
+      "section_timestamp_start": "22:25",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p27"], "timestamp_range": ["22:25", "23:06"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p28"], "timestamp_range": ["23:06", "23:56"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p29"], "timestamp_range": ["23:56", "24:42"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p30"], "timestamp_range": ["24:42", "26:05"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "The critical mass of management",
+      "section_timestamp_start": "26:05",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p31"], "timestamp_range": ["26:05", "26:57"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p32"], "timestamp_range": ["26:57", "28:18"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p33"], "timestamp_range": ["28:18", "29:00"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p34"], "timestamp_range": ["29:00", "30:42"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "What a leader does; balancing personal and professional",
+      "section_timestamp_start": "30:42",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p35"], "timestamp_range": ["30:42", "31:39"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p36"], "timestamp_range": ["31:39", "32:04"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p37"], "timestamp_range": ["32:04", "33:14"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p38"], "timestamp_range": ["33:14", "34:11"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p39"], "timestamp_range": ["34:11", "35:39"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p40"], "timestamp_range": ["35:39", "36:31"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p41"], "timestamp_range": ["36:31", "37:25"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p42"], "timestamp_range": ["37:25", "38:08"]},
+        {"l3_id": "§6.p9", "l2_ids": ["p43"], "timestamp_range": ["38:08", "38:37"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Decisions, trade-offs, and Kahneman on small numbers",
+      "section_timestamp_start": "38:37",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p44"], "timestamp_range": ["38:37", "39:52"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p45"], "timestamp_range": ["39:52", "40:59"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p46"], "timestamp_range": ["40:59", "41:42"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p47"], "timestamp_range": ["41:42", "42:54"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p48"], "timestamp_range": ["42:54", "43:24"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p49"], "timestamp_range": ["43:24", "45:02"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p50"], "timestamp_range": ["45:02", "45:55"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "System One, System Two, and heuristics",
+      "section_timestamp_start": "45:55",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p51"], "timestamp_range": ["45:55", "46:43"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p52"], "timestamp_range": ["46:43", "47:56"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p53"], "timestamp_range": ["47:56", "48:42"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p54"], "timestamp_range": ["48:42", "50:18"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p55"], "timestamp_range": ["50:18", "51:22"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p56"], "timestamp_range": ["51:22", "52:00"]}
+      ]
+    }
+  ]
+}

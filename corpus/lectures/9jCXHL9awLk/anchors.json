@@ -1,0 +1,179 @@
+{
+  "lecture_id": "9jCXHL9awLk",
+  "course": "3.371 Codes and Standards",
+  "term": "Summer 2012",
+  "session": "6/7",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "What a safety factor actually is",
+      "section_timestamp_start": "00:03",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:03", "01:00"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:00", "01:45"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:45", "02:30"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4", "p5"], "timestamp_range": ["02:30", "04:52"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p6"], "timestamp_range": ["04:52", "05:43"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p7", "p8"], "timestamp_range": ["05:43", "06:23"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Industry-by-industry safety factors",
+      "section_timestamp_start": "06:23",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p9"], "timestamp_range": ["06:23", "07:26"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p10"], "timestamp_range": ["07:26", "07:55"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p11"], "timestamp_range": ["07:55", "09:24"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p12"], "timestamp_range": ["09:24", "10:41"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p13"], "timestamp_range": ["10:41", "11:39"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p14"], "timestamp_range": ["11:39", "12:42"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "High-speed boat propeller shaft",
+      "section_timestamp_start": "12:42",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p15"], "timestamp_range": ["12:42", "13:51"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p16"], "timestamp_range": ["13:51", "14:18"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p17"], "timestamp_range": ["14:18", "15:21"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p18"], "timestamp_range": ["15:21", "16:25"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p19"], "timestamp_range": ["16:25", "17:13"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p20"], "timestamp_range": ["17:13", "18:09"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p21"], "timestamp_range": ["18:09", "19:55"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p22"], "timestamp_range": ["19:55", "19:59"]},
+        {"l3_id": "§3.p9", "l2_ids": ["p23"], "timestamp_range": ["19:59", "20:42"]},
+        {"l3_id": "§3.p10", "l2_ids": ["p24"], "timestamp_range": ["20:42", "20:46"]},
+        {"l3_id": "§3.p11", "l2_ids": ["p25"], "timestamp_range": ["20:46", "21:22"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Minneapolis I-35W bridge collapse",
+      "section_timestamp_start": "21:22",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p26"], "timestamp_range": ["21:22", "22:30"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p27"], "timestamp_range": ["22:30", "24:02"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p28"], "timestamp_range": ["24:02", "25:24"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p29"], "timestamp_range": ["25:24", "26:38"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p30"], "timestamp_range": ["26:38", "28:14"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p31"], "timestamp_range": ["28:14", "29:10"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p32"], "timestamp_range": ["29:10", "30:15"]},
+        {"l3_id": "§4.p8", "l2_ids": ["p33"], "timestamp_range": ["30:15", "30:15"]},
+        {"l3_id": "§4.p9", "l2_ids": ["p34"], "timestamp_range": ["30:15", "30:39"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Two stainless steel pressure-vessel failures",
+      "section_timestamp_start": "30:39",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p35"], "timestamp_range": ["30:39", "31:42"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p36"], "timestamp_range": ["31:42", "32:27"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p37"], "timestamp_range": ["32:27", "33:31"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p38"], "timestamp_range": ["33:31", "34:29"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p39"], "timestamp_range": ["34:29", "35:29"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p40"], "timestamp_range": ["35:29", "36:46"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p41"], "timestamp_range": ["36:46", "37:23"]},
+        {"l3_id": "§5.p8", "l2_ids": ["p42"], "timestamp_range": ["37:23", "38:00"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Variability, ignorance, and acceptable failure rates",
+      "section_timestamp_start": "38:00",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p43"], "timestamp_range": ["38:00", "38:46"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p44"], "timestamp_range": ["38:46", "40:24"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p45"], "timestamp_range": ["40:24", "41:34"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p46"], "timestamp_range": ["41:34", "42:20"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Design methods and the BP Macondo example",
+      "section_timestamp_start": "42:20",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p47"], "timestamp_range": ["42:20", "43:10"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p48"], "timestamp_range": ["43:10", "44:24"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p49"], "timestamp_range": ["44:24", "45:56"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p50"], "timestamp_range": ["45:56", "47:01"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p51"], "timestamp_range": ["47:01", "48:08"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p52"], "timestamp_range": ["48:08", "49:18"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p53"], "timestamp_range": ["49:18", "49:45"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Statistics: variability and stochastic safety factor",
+      "section_timestamp_start": "49:45",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p54"], "timestamp_range": ["49:45", "50:18"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p55"], "timestamp_range": ["50:18", "51:49"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p56"], "timestamp_range": ["51:49", "52:20"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p57"], "timestamp_range": ["52:20", "53:28"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p58"], "timestamp_range": ["53:28", "54:24"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p59"], "timestamp_range": ["54:24", "55:09"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p60"], "timestamp_range": ["55:09", "56:24"]},
+        {"l3_id": "§8.p8", "l2_ids": ["p61"], "timestamp_range": ["56:24", "57:34"]},
+        {"l3_id": "§8.p9", "l2_ids": ["p62"], "timestamp_range": ["57:34", "58:59"]},
+        {"l3_id": "§8.p10", "l2_ids": ["p63"], "timestamp_range": ["58:59", "60:14"]},
+        {"l3_id": "§8.p11", "l2_ids": ["p64"], "timestamp_range": ["60:14", "60:59"]},
+        {"l3_id": "§8.p12", "l2_ids": ["p65", "p66"], "timestamp_range": ["60:59", "62:27"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Helicopter blade spar and alloy substitution",
+      "section_timestamp_start": "62:27",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p67", "p68"], "timestamp_range": ["62:27", "63:46"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p69"], "timestamp_range": ["63:46", "64:55"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p70"], "timestamp_range": ["64:55", "66:18"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p71"], "timestamp_range": ["66:18", "67:08"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p72"], "timestamp_range": ["67:08", "67:56"]},
+        {"l3_id": "§9.p6", "l2_ids": ["p73"], "timestamp_range": ["67:56", "68:36"]},
+        {"l3_id": "§9.p7", "l2_ids": ["p74"], "timestamp_range": ["68:36", "69:40"]},
+        {"l3_id": "§9.p8", "l2_ids": ["p75"], "timestamp_range": ["69:40", "70:41"]},
+        {"l3_id": "§9.p9", "l2_ids": ["p76"], "timestamp_range": ["70:41", "72:00"]},
+        {"l3_id": "§9.p10", "l2_ids": ["p77"], "timestamp_range": ["72:00", "73:06"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "Pre-loaded bolts and the Goodman analysis",
+      "section_timestamp_start": "73:06",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p78"], "timestamp_range": ["73:06", "74:00"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p79"], "timestamp_range": ["74:00", "75:00"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p80"], "timestamp_range": ["75:00", "75:26"]},
+        {"l3_id": "§10.p4", "l2_ids": ["p81"], "timestamp_range": ["75:26", "76:13"]},
+        {"l3_id": "§10.p5", "l2_ids": ["p82"], "timestamp_range": ["76:13", "77:21"]},
+        {"l3_id": "§10.p6", "l2_ids": ["p83"], "timestamp_range": ["77:21", "78:38"]},
+        {"l3_id": "§10.p7", "l2_ids": ["p84"], "timestamp_range": ["78:38", "79:47"]}
+      ]
+    },
+    {
+      "section_id": "s11",
+      "section_title": "Designing from scratch: snowmobiles, trailers, and joints",
+      "section_timestamp_start": "79:47",
+      "anchors": [
+        {"l3_id": "§11.p1", "l2_ids": ["p85"], "timestamp_range": ["79:47", "80:54"]},
+        {"l3_id": "§11.p2", "l2_ids": ["p86"], "timestamp_range": ["80:54", "81:53"]},
+        {"l3_id": "§11.p3", "l2_ids": ["p87"], "timestamp_range": ["81:53", "82:32"]},
+        {"l3_id": "§11.p4", "l2_ids": ["p88"], "timestamp_range": ["82:32", "83:30"]},
+        {"l3_id": "§11.p5", "l2_ids": ["p89"], "timestamp_range": ["83:30", "84:46"]},
+        {"l3_id": "§11.p6", "l2_ids": ["p90"], "timestamp_range": ["84:46", "85:50"]},
+        {"l3_id": "§11.p7", "l2_ids": ["p91"], "timestamp_range": ["85:50", "85:50"]},
+        {"l3_id": "§11.p8", "l2_ids": ["p92"], "timestamp_range": ["85:50", "86:05"]},
+        {"l3_id": "§11.p9", "l2_ids": ["p93"], "timestamp_range": ["86:05", "86:05"]},
+        {"l3_id": "§11.p10", "l2_ids": ["p94"], "timestamp_range": ["86:05", "86:12"]},
+        {"l3_id": "§11.p11", "l2_ids": ["p95"], "timestamp_range": ["86:12", "86:21"]},
+        {"l3_id": "§11.p12", "l2_ids": ["p96"], "timestamp_range": ["86:21", "86:34"]},
+        {"l3_id": "§11.p13", "l2_ids": ["p97"], "timestamp_range": ["86:34", "86:40"]},
+        {"l3_id": "§11.p14", "l2_ids": ["p98"], "timestamp_range": ["86:40", "87:00"]}
+      ]
+    }
+  ]
+}

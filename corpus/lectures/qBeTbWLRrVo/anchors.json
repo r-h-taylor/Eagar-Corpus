@@ -1,0 +1,84 @@
+{
+  "lecture_id": "qBeTbWLRrVo",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2014",
+  "session": "20/35",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Post-weld heat treatment: what it does and why",
+      "section_timestamp_start": "00:09",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:09", "01:11"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:11", "02:00"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:00", "03:19"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p3", "p4"], "timestamp_range": ["02:00", "04:11"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p4"], "timestamp_range": ["03:19", "04:30"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Over-matching and under-matching filler metal",
+      "section_timestamp_start": "04:30",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p5"], "timestamp_range": ["04:30", "05:57"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p6"], "timestamp_range": ["05:57", "06:47"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p7"], "timestamp_range": ["06:47", "08:15"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p8"], "timestamp_range": ["08:15", "09:13"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The Helms Project: nine-month delayed hydrogen crack",
+      "section_timestamp_start": "09:13",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p9"], "timestamp_range": ["09:13", "10:08"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p10"], "timestamp_range": ["10:08", "10:57"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p11", "p16"], "timestamp_range": ["10:57", "11:56"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p12"], "timestamp_range": ["11:56", "13:23"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p13"], "timestamp_range": ["13:23", "14:42"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p14"], "timestamp_range": ["14:42", "16:05"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p15"], "timestamp_range": ["16:05", "17:17"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p16"], "timestamp_range": ["17:17", "18:21"]},
+        {"l3_id": "§3.p9", "l2_ids": ["p17"], "timestamp_range": ["18:21", "19:27"]},
+        {"l3_id": "§3.p10", "l2_ids": ["p18"], "timestamp_range": ["19:27", "20:47"]},
+        {"l3_id": "§3.p11", "l2_ids": ["p19"], "timestamp_range": ["20:47", "21:53"]},
+        {"l3_id": "§3.p12", "l2_ids": ["p20"], "timestamp_range": ["21:53", "23:03"]},
+        {"l3_id": "§3.p13", "l2_ids": ["p21"], "timestamp_range": ["23:03", "23:30"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Boston Navy Yard destroyer boiler weld",
+      "section_timestamp_start": "23:03",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p21"], "timestamp_range": ["23:03", "23:59"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p22"], "timestamp_range": ["23:59", "25:32"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p23"], "timestamp_range": ["25:32", "26:54"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p24"], "timestamp_range": ["26:54", "28:04"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p25"], "timestamp_range": ["28:04", "29:23"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p26"], "timestamp_range": ["29:23", "30:52"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p27"], "timestamp_range": ["30:52", "31:33"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "The 7,000-ton forging press repair",
+      "section_timestamp_start": "31:33",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p28"], "timestamp_range": ["31:33", "32:31"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p29"], "timestamp_range": ["32:31", "33:34"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p30"], "timestamp_range": ["33:34", "34:49"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p31"], "timestamp_range": ["34:49", "36:14"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The pea shooter: a more disconcerting story",
+      "section_timestamp_start": "36:14",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p32"], "timestamp_range": ["36:14", "37:00"]}
+      ]
+    }
+  ]
+}

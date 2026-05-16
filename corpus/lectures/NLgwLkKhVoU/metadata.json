@@ -1,0 +1,48 @@
+{
+  "video_id": "NLgwLkKhVoU",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Summer 2015",
+  "video_title": "3.371 Welding Metallurgy - Summer 2015 [8/18]",
+  "lecture_number": 8,
+  "lecture_of_total": "8/18",
+  "raw_transcript_sha256": "a8254538a5423e8a38945902446f04b6540594ba62ac830f9889d70557b0cc28",
+  "raw_transcript_line_count": 668,
+  "raw_transcript_word_count": 5486,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T15:56:54.900952+00:00",
+  "layer2_paragraph_count": 36,
+  "duration_covered_mmss": "00:02-31:56",
+  "topics": [
+    "corrosion under insulation (lagging)",
+    "stress corrosion cracking in stainless steel",
+    "Navy ship life extension and piping replacement",
+    "hydrogen embrittlement mechanism",
+    "diffusion equation analogies (Einstein, Navier-Stokes, Fick, Fourier)",
+    "hydrogen diffusion times vs. plate thickness",
+    "hydrogen content by welding process",
+    "carbon equivalent and hardenability",
+    "notch tensile strength vs. temperature with hydrogen",
+    "Boston Navy Yard chromoly-to-stainless transition joint case"
+  ],
+  "cases_mentioned": [
+    "Manwich plant hot water tank chloride corrosion",
+    "Tom's mother and bleach-pitted stainless dinnerware",
+    "Fore River Bridge (Quincy) thick-steel welding",
+    "Boston Navy Yard destroyer steam-system transition joint"
+  ],
+  "people_mentioned": [
+    "Albert Einstein",
+    "John Crank (Mathematics of Diffusion)",
+    "Carslaw and Jaeger (Conduction of Heat in Solids)"
+  ],
+  "captioner_quality_notes": "Significantly degraded relative to §1 worked-example baseline. Frequent proper-noun garbling (Einstein, Inconel, Boston Navy Yard, HY-80). Several passages of Tom's mid-sentence mumbling or trailing-off rendered as nonsense strings (e.g., 'porque estoy', 'Lucille hide my gal'); these preserved verbatim with notes in transformation_log.md. Recommend human review at flagged [?] points.",
+  "review_flags": [
+    "p7: CARE-34 / CRA designation unclear",
+    "p9: 'Jud Olds' textbook author identification uncertain",
+    "p10: 'Lucille hide my gal' fragment unrecoverable",
+    "p20: extended flux-core welding passage heavily garbled",
+    "p33: 'porque estoy' fragment preserved as captioner artifact"
+  ]
+}

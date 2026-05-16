@@ -1,0 +1,53 @@
+{
+  "video_id": "nldzJUEAYsc",
+  "course": "Welding Quality",
+  "course_number": "3.371",
+  "course_title_on_tape": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [33/35]",
+  "lecture_number": 33,
+  "lecture_total": 35,
+  "raw_transcript_sha256": "924fbc25c7b43995f4efd4ed96965fdc49e99f39eee6038be836b29d2b3557b2",
+  "raw_transcript_line_count": 409,
+  "raw_transcript_word_count": 3345,
+  "duration_covered_mmss": "00:02-16:55",
+  "layer2_paragraph_count": 16,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T19:25:36.961117+00:00",
+  "topics": [
+    "electroslag welding of titanium",
+    "deep TIG / semi-submerged arc",
+    "Paton Institute (Kiev)",
+    "US-Soviet scientific exchange, 1978-1979",
+    "Quonset Point Navy submarine welding facility",
+    "Soviet titanium submarine hull technology",
+    "cultural anecdotes of Soviet visitors to MIT"
+  ],
+  "people_named": [
+    "B.E. Paton",
+    "Gurevich (Paton Institute)",
+    "B.I. Medovar",
+    "Patarya (tentative reconstruction)",
+    "Marinsky (KGB minder)",
+    "William F. Savage (RPI)",
+    "Nicholas J. Grant (MIT)",
+    "Merton Flemings (MIT)",
+    "Kent Bowen (MIT)",
+    "Donald R. Sadway (MIT)",
+    "Julian Szekely (MIT)"
+  ],
+  "institutions_named": [
+    "MIT",
+    "Paton Institute (Kiev)",
+    "Oregon Graduate Center",
+    "Rensselaer Polytechnic Institute",
+    "Edison Welding Institute",
+    "Ohio State University",
+    "General Dynamics / Quonset Point",
+    "David Taylor Research Center",
+    "Winchester Country Club"
+  ],
+  "section_character": "technical_with_extended_anecdote",
+  "section_note": "Lecture opens technical (electroslag and deep TIG welding of titanium, ~6 minutes) then pivots at p7 to an extended anecdotal recollection (~10 minutes) of Tom's 1978-79 interactions with Soviet welding scientists, including travel to Kiev and Soviet visitors to MIT. Ends with a class break."
+}

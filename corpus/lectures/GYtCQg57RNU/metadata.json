@@ -1,0 +1,53 @@
+{
+  "video_id": "GYtCQg57RNU",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2015",
+  "session_number": 7,
+  "session_total": 18,
+  "video_title": "3.371 Welding Metallurgy - Summer 2015 [7/18]",
+  "raw_transcript_sha256": "6f4429c4a8720a9de6ec43082ab74bfa28b70a87b0ad8a8be198dffb31f8f95d",
+  "raw_transcript_line_count": 1465,
+  "raw_transcript_word_count": 11907,
+  "duration_mmss_approx": "64:14",
+  "layer2_paragraph_count": 39,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T15:48:21.010752+00:00",
+  "primary_topics": [
+    "Why we have so many steels (alloy content and product forms)",
+    "Hardenability and the Jominy test",
+    "TTT diagrams and martensite formation",
+    "Cost of alloying elements (nickel, chromium, molybdenum, vanadium)",
+    "HY-80 / HY-100 / HY-130 plate steels",
+    "Aircraft carrier weight gain and HSLA-65 study",
+    "Diffusion coefficients of H and C in alpha- vs gamma-iron",
+    "Stout & Doty Weldability of Steels reference tables",
+    "Seawolf submarine HY-100 hydrogen cracking incident",
+    "Fracture mechanics applied to in-service inspection decisions",
+    "Aloha Airlines 737 fatigue failure",
+    "Cape Air / Cessna failure analysis consulting"
+  ],
+  "cases_referenced": [
+    "Burns Harbor steel mill (Bethlehem Steel, 1965)",
+    "747 origin as failed C-5A bid",
+    "Jerry Milgram America's Cup center board (HY-80 / 4340)",
+    "Newport News HSLA-65 carrier weight study (1996)",
+    "Charles Street MBTA station (1910) welding procedure",
+    "Seawolf SSN HY-100 hydrogen cracking",
+    "Aloha Airlines Flight 243 (1988) fuselage failure",
+    "de Havilland Comet square-window fatigue (1950s)",
+    "Cape Air Cessna fatigue consulting"
+  ],
+  "people_named": [
+    "Morris Cohen",
+    "Henry Ford",
+    "Alfred Sloan",
+    "Jerry Milgram",
+    "John Lippold",
+    "John Galligan",
+    "Robert Stout",
+    "W. D'Orville Doty",
+    "Régis Pelloux"
+  ],
+  "notes": "Lecture continues Tom's hydrogen-cracking arc into the question of why so many steels exist and how alloy content interacts with hardenability, weldability, and cost. The Seawolf HY-100 case is the central technical narrative, with Aloha Airlines and Cape Air as fracture-mechanics analogues. Captioner garbled many proper nouns and metallurgical terms (Aloha, Jominy, martensite, NAVSEA, Doty, Pelloux); all corrected silently per convention 10."
+}

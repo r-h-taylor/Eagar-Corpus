@@ -1,0 +1,61 @@
+{
+  "video_id": "mHFW4IX-TCs",
+  "course": "How to be a Successful Engineer",
+  "course_number": "3.371",
+  "term": "Fall 2015",
+  "video_title": "3.371 What is Engineering - Fall 2015 [10/12]",
+  "lecture_number": 10,
+  "lecture_total": 12,
+  "raw_transcript_sha256": "9961cbb0fe769a26db9cd7d6de743cec18f507bca45eb7d8e578b9717620c891",
+  "raw_transcript_line_count": 1090,
+  "raw_transcript_word_count": 8679,
+  "layer2_paragraph_count": 49,
+  "duration_start": "00:00",
+  "duration_end": "49:20",
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T00:36:00.325628+00:00",
+  "primary_topics": [
+    "Edward Tufte and visual display of information",
+    "Scientific method and confirmation bias",
+    "John Snow and the 1854 Broad Street cholera outbreak",
+    "Space Shuttle Challenger disaster (1986)",
+    "Engineer's responsibility under structural welding code",
+    "Codes and standards pricing"
+  ],
+  "cases_mentioned": [
+    "Tufte's Napoleon march to Moscow graph",
+    "Gettysburg Address in PowerPoint",
+    "John Snow / Broad Street pump",
+    "Space Shuttle Challenger / Morton Thiokol / Boisjoly",
+    "Feynman C-clamp ice-water demonstration",
+    "Space-based laser weapon / Rockwell / NIF",
+    "Butler prefabricated buildings",
+    "Lawrence Livermore visit anecdote",
+    "Columbia disaster courtroom anecdote"
+  ],
+  "people_mentioned": [
+    "Edward Tufte",
+    "Lester Thurow",
+    "Sir Francis Bacon",
+    "Isaac Newton",
+    "Napoleon",
+    "Aristotle",
+    "Sir Arthur Conan Doyle / Sherlock Holmes",
+    "Daniel Kahneman",
+    "John Snow",
+    "Queen Victoria",
+    "Ronald Reagan",
+    "Christa McAuliffe",
+    "Roger Boisjoly",
+    "Richard Feynman",
+    "Professor Bowen"
+  ],
+  "tom_slips_bracketed": [
+    {"paragraph": "p30", "spoken": "Krista McAuliffe", "corrected": "Christa McAuliffe"},
+    {"paragraph": "p31", "spoken": "Bosco Lee", "corrected": "Boisjoly"},
+    {"paragraph": "p33", "spoken": "quantum chromodynamics", "corrected": "quantum electrodynamics"}
+  ],
+  "captioner_corrections_count": 28,
+  "notes": "Lecture covers two teaching arcs: (1) Tufte on visual presentation of data with John Snow and Challenger as success/failure case studies; (2) engineer's legal responsibility under AWS structural welding code. Substantial digression in p23–p27 on classified space-laser work. Tom announces he will be in Canada and a substitute will cover the next three sessions."
+}

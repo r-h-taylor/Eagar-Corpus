@@ -1,0 +1,57 @@
+{
+  "video_id": "HoUo7Qj4LHg",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Summer 2015",
+  "video_title": "3.371 Welding Metallurgy - Summer 2015 [12/18]",
+  "lecture_number": 12,
+  "lecture_total": 18,
+  "raw_transcript_sha256": "64d3ac8978d510fae91f4f5c901749a97a5c8300b8ba08307be57fd731f5b886",
+  "raw_transcript_line_count": 659,
+  "raw_transcript_word_count": 5267,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T16:14:10.097719+00:00",
+  "layer2_paragraph_count": 28,
+  "duration_covered_mmss": "00:11-30:37",
+  "primary_topics": [
+    "nickel-based alloys",
+    "weldability",
+    "solidification cracking",
+    "superalloy microstructure",
+    "three circles framework (metallurgy/stress/environment)"
+  ],
+  "cases_referenced": [
+    "Three Mile Island insurance arbitration",
+    "Ohio graphite pressure vessel arbitration",
+    "Eastern Massachusetts Navy reactor EB welding qualification",
+    "Seabrook weld cracking",
+    "submarine hull longevity"
+  ],
+  "people_referenced": [
+    "Jonathan Lippold",
+    "John Connelly",
+    "Elwood Haynes",
+    "Warren Savage",
+    "Koichi Masubuchi",
+    "Anselm (superalloys textbook author)"
+  ],
+  "institutions_referenced": [
+    "MIT",
+    "RPI",
+    "American Nuclear Insurers",
+    "GPU (General Public Utilities)",
+    "Westinghouse Bettis",
+    "GE KAPL (Knolls Atomic Power Lab)",
+    "Pratt & Whitney",
+    "NAVSEA",
+    "Oak Ridge National Lab",
+    "US Coast Guard"
+  ],
+  "editorial_flags": [
+    "Seabrook plant name reading uncertain (L3)",
+    "Patrick Henderson submarine name unverified (p27)",
+    "Several captioner-garbled passages preserved with [unclear] markers",
+    "Student question at p23 and p25 heavily garbled"
+  ]
+}

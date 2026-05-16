@@ -1,0 +1,51 @@
+{
+  "video_id": "1lzA2zvky9E",
+  "course": "Materials Selection and Economics",
+  "course_number": "3.80",
+  "term": "Fall 2017",
+  "lecture_date": "2017-09-07",
+  "video_title": "2017 09 07",
+  "lecture_topic": "Introduction to structural materials; externalities in materials selection",
+  "raw_transcript_sha256": "7df128ee00f12b8cdb2200d3084a58f7754ec4b788f46449ed8e8deaac53392e",
+  "raw_transcript_line_count": 1049,
+  "raw_transcript_word_count": 8352,
+  "duration_mmss": "49:57",
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T04:23:07.428165+00:00",
+  "layer2_paragraph_count": 47,
+  "key_cases_mentioned": [
+    "Pennzoil Oil City facility (1996 visit; legacy environmental costs)",
+    "Northeast Corridor copper conductor rejection (Amtrak Acela trolley wire)",
+    "China rare-earth embargo on Japan (2010)",
+    "1973 Arab oil embargo (5-year recovery timeline)",
+    "Flint, Michigan lead-in-water episode",
+    "Rhodesian chromite embargo evasion",
+    "Conflict diamonds (Angola)",
+    "Pre-WWII US iron-and-steel-scrap embargo on Japan",
+    "Toyota/Toyoda $25M lead-acid battery prize (1925)",
+    "$250,000 gold shirt (wealthy Indian, murdered)"
+  ],
+  "key_figures_mentioned": [
+    "Robert Hutchins (University of Chicago)",
+    "Andrew Carnegie",
+    "Norm Augustine (Martin Marietta; age of socio-engineering)",
+    "Donald Sadoway (MIT; non-carbon metal reduction)",
+    "Edwin Drake (Titusville oil discovery, 1857)",
+    "Mark [Edwards] (Virginia Tech; Flint whistleblower)"
+  ],
+  "billion_ton_club": ["stone (53 Bt/yr)", "concrete (4 Bt/yr)", "engineered wood", "steel (1.6 Bt/yr)"],
+  "externality_taxonomy_introduced": [
+    "economic (rare earths, EPA Superfund / legacy costs)",
+    "political (rare-earth supply, Rhodesian chromite)",
+    "social (conflict diamonds)",
+    "environmental (lead, mercury, arsenic, carbon)",
+    "military (pre-WWII scrap embargo)",
+    "cultural (gold)"
+  ],
+  "editorial_flags": [
+    "p37: Tom says 'lead' when context is arsenic — bracketed as spoken slip",
+    "p38: Toyota/sewing-machines almost certainly Toyoda/looms — preserved without bracket, flagged for review",
+    "p47: guest lecturer name 'Simone Belmar' uncertain — captioner garble flagged"
+  ]
+}

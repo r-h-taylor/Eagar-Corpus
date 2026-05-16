@@ -1,0 +1,54 @@
+{
+  "video_id": "9yU362dFVWM",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Spring 2016",
+  "lecture_number": 7,
+  "lecture_in_series": "7/12",
+  "video_title": "3.371 Structural Materials Selection - Spring 2016 [7/12]",
+  "raw_transcript_sha256": "4f5640a9743a12bcfe11e57848ad437ef8fd1e33ca719174be070738dc57e5e1",
+  "raw_transcript_line_count": 1058,
+  "raw_transcript_word_count": 8766,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T01:50:07.232503+00:00",
+  "layer2_paragraph_count": 53,
+  "layer2_duration_covered_seconds": 2897,
+  "layer2_start_timestamp": "00:00",
+  "layer2_end_timestamp": "48:17",
+  "tom_slips_bracketed": [
+    {"paragraph": "p9", "spoken": "turban disk", "correction": "turbine disk"},
+    {"paragraph": "p9", "spoken": "bliss", "correction": "blisk"},
+    {"paragraph": "p12", "spoken": "Zine x y know why", "correction": "Does anyone know why"},
+    {"paragraph": "p14", "spoken": "lowing people", "correction": "Boeing people"},
+    {"paragraph": "p40", "spoken": "vigorous steel pipe", "correction": "rigorous? (unclear)", "uncertain": true}
+  ],
+  "captioner_errors_corrected_count": 41,
+  "stage_directions_inserted": [
+    {"paragraph": "p7", "direction": "Tom holds up another sample."},
+    {"paragraph": "p10", "direction": "Tom hands a single-crystal blade sample around."},
+    {"paragraph": "p23", "direction": "Tom takes a hand from the class."},
+    {"paragraph": "p35", "direction": "Tom holds up a piece of PVC for comparison."}
+  ],
+  "student_turns_inferred": ["p20", "p24"],
+  "editorial_flags": [
+    "p26: 'Matt or' fragment in limestone/dolomite passage",
+    "p40: 'Inson' — officer's name, spelling unverified",
+    "p40: 'vigorous steel pipe' — possible 'rigorous' or specific grade",
+    "p43: alloy percentages misstated by Tom (95-5 tin-antimony)"
+  ],
+  "topics_covered": [
+    "magnetic materials (soft/hard, amorphous foil, neodymium iron boron)",
+    "blisk / bladed disk turbine technology",
+    "single-crystal turbine blades, cooling",
+    "collateral weight savings in aircraft engines",
+    "material substitution and design coupling (Chrysler aluminum, refrigerator shelves)",
+    "water conveyance materials history (dirt, leaves, wood, lead, galvanized, copper, PEX)",
+    "lead toxicity (Trail BC, Flint MI)",
+    "MIT history digression (Back Bay, 77 Mass Ave, beaver)",
+    "plumbing solder transition (lead-tin to 95-5), fire watch externality",
+    "Navy submarine titanium piping",
+    "Englehard 747-400 titanium catalyst welding case study",
+    "gas conveyance materials history (wooden gun-drilled logs, cast iron, steel, polyethylene, corrugated stainless steel)",
+    "CSST lightning strike fire hazard"
+  ]
+}

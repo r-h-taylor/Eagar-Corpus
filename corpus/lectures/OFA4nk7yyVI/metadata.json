@@ -1,0 +1,57 @@
+{
+  "video_id": "OFA4nk7yyVI",
+  "course": "Recitations",
+  "term": "Spring 2021",
+  "video_title": "2021 02 19",
+  "date_recorded": "2021-02-19",
+  "raw_transcript_sha256": "6f88f9874af9b8f9c2ddfe299272b970d0e3b104a86206b87b63089afd6164cf",
+  "raw_transcript_line_count": 1342,
+  "raw_transcript_word_count": 9054,
+  "layer2_paragraph_count": 82,
+  "duration_approx_minutes": 51,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T04:09:48.401459+00:00",
+  "format": "recitation_qa",
+  "primary_speakers": ["Tom Eagar", "Steve", "Don Baskin", "students"],
+  "topics": [
+    "course logistics: module write-ups",
+    "career advice: three-year self-reinvention",
+    "consulting parable: hourly workers know the problem",
+    "Honeywell donuts parable: communications and respect",
+    "creativity: looking where others are not looking",
+    "Bethlehem Steel finite element anecdote",
+    "billion-ton-per-year structural materials club: stone, wood, concrete, steel",
+    "steel vs aluminum in automobiles, F-150"
+  ],
+  "cases_mentioned": [
+    "Bethlehem Steel research culture (mid-1970s)",
+    "Honeywell New Jersey plastics plant internship",
+    "Mercedes vs Lexus vs Tesla (mid-2000s)",
+    "F-150 aluminum body with steel primary structure",
+    "Westbrook 1962 GE materials usage plot",
+    "Ford F-150 aluminum transition",
+    "USS Constitution wooden structure vs engineered wood",
+    "Boston gas tank Ho Chi Minh silhouette",
+    "Harvard glass flowers"
+  ],
+  "people_mentioned": [
+    "Don Baskin",
+    "Steve (co-instructor)",
+    "Professor Lyons",
+    "Simone Belmar [?]",
+    "Neil Jenkins",
+    "Walter A. Backofen",
+    "Jack Westbrook",
+    "Art Nied [?] (GE Research)",
+    "Elon Musk",
+    "Ho Chi Minh",
+    "Corita Kent [referenced as 'Kozakovic'?]"
+  ],
+  "editorial_flags": [
+    "Simone Belmar spelling unverified",
+    "Art Nied spelling unverified",
+    "Kozakovic almost certainly Corita Kent or captioner garble",
+    "'bladder crystal' student utterance unrecoverable"
+  ]
+}

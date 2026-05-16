@@ -1,0 +1,53 @@
+{
+  "video_id": "aLn70m1IMnc",
+  "course": "Recitations",
+  "term": "Fall 2018",
+  "video_title": "2018-09-10",
+  "raw_transcript_sha256": "d7b8aac5bc6deb3de264a52b6f8077defa24feefc6522fcde2a13c9ae0a02353",
+  "raw_transcript_line_count": 995,
+  "raw_transcript_word_count": 7919,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T02:53:11.264046+00:00",
+  "layer2_paragraph_count": 42,
+  "layer2_timestamp_range": {
+    "start": "00:02",
+    "end": "46:18"
+  },
+  "topics": [
+    "factors of safety",
+    "history of engineering schools (West Point, Norwich, RPI, MIT)",
+    "ASME boiler and pressure vessel code",
+    "AWS structural welding code",
+    "OSHA man-rated factors of safety",
+    "tree stand safety",
+    "X-33 spaceplane failure",
+    "New Orleans levees (1880)",
+    "helicopter safety factors",
+    "National Academies / National Research Council",
+    "BSEE and offshore bolting committee",
+    "bolt mechanics (tension/shear)",
+    "torque wrench accuracy and tensioning methods",
+    "John Bickford's bolting book",
+    "rolled vs cut threads",
+    "fatigue fracture analysis of bolts"
+  ],
+  "cases_mentioned": [
+    "Tacoma Narrows Bridge (1942)",
+    "Brockton MA shoe factory boiler explosion (~1905)",
+    "Ohio River steamboat boiler (1836 federal research contract)",
+    "World Trade Center (5/3 static factor)",
+    "X-33 spaceplane liquid hydrogen tank failure",
+    "BP Deepwater Horizon",
+    "New Orleans levees (1880, Eagar's grandfather)",
+    "Aberdeen Proving Ground (Army Ballistics Lab)",
+    "Alvin submarine renewal study",
+    "nuclear reactor bolt fracture forensics (early 1980s)",
+    "university sports complex anchor bolt failure",
+    "50,000-ton forging press bolt failure",
+    "variable-pitch propeller bolts (military ship)"
+  ],
+  "editorial_flags": 4,
+  "bracketed_corrections": 5,
+  "format": "recitation, informal Q&A with five students; Tom delivers prepared slide content on factors of safety and bolting"
+}

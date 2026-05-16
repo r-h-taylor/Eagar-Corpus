@@ -1,0 +1,67 @@
+{
+  "video_id": "PLoJwbIouJc",
+  "course": "3.371 Welding Metallurgy",
+  "course_short": "Welding Metallurgy",
+  "term": "Spring 2014",
+  "lecture_number_in_series": 8,
+  "lecture_total_in_series": 29,
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [8/29]",
+  "lecture_topic": "Hydrogen cracking in welded steels",
+  "primary_themes": [
+    "phase transformations in steel cooling (CCT diagram)",
+    "martensitic vs diffusion-controlled transformations",
+    "hydrogen embrittlement and hydrogen-induced cracking",
+    "the stress / hardness / hydrogen Venn diagram",
+    "delayed cracking and the 48-hour inspection rule",
+    "stick electrode types (6011 cellulosic, 7014, 7018 low-hydrogen)",
+    "electrode moisture control and rod ovens",
+    "HY80 and submarine hull welding history",
+    "iron-hydrogen phase diagram and hydrogen solubility"
+  ],
+  "cases_mentioned": [
+    "electroplated bicycle tube paraplegic case (backward reference)",
+    "Nautilus submarine mockup hydrogen cracking, mid-1950s",
+    "ESAB origin (Gothenburg muddy-electrode story, ~1910)",
+    "cellulosic electrode origin (paper-wrapped, 1910)",
+    "Seawolf submarine lubricant-hydrogen incident (brief mention)",
+    "Clayton Christensen / $15 billion steel plant cost figure (anecdote)",
+    "700,000 welders estimate / Bureau of Labor Statistics circular citation"
+  ],
+  "people_mentioned": [
+    "Carl Zapffe",
+    "Frank Coe",
+    "Clayton Christensen",
+    "Rebecca Eagar (Tom's daughter)",
+    "Clark Gable",
+    "Burt Lancaster",
+    "Jordan (student)"
+  ],
+  "works_referenced": [
+    "Welding Steels Without Hydrogen Cracking (Frank Coe et al., British Welding Institute)",
+    "The Innovator's Dilemma (Clayton Christensen)",
+    "Run Silent, Run Deep (1958 film)",
+    "Welding Handbook, 8th edition (American Welding Society, early 1990s)",
+    "DNV (Det Norske Veritas) hydrogen cracking video"
+  ],
+  "institutions_mentioned": [
+    "Rensselaer Polytechnic Institute (RPI)",
+    "ESAB",
+    "British Welding Institute (TWI)",
+    "DNV (Det Norske Veritas)",
+    "US Navy",
+    "Bureau of Labor Statistics",
+    "American Welding Society",
+    "General Motors",
+    "Electric Boat / Groton, Connecticut",
+    "Newport News Shipbuilding"
+  ],
+  "raw_transcript_sha256": "84a7be00f93a37b61369d6237cd177ea276d2a942e2c5c90b88422cf946ff927",
+  "raw_transcript_line_count": 847,
+  "raw_transcript_word_count": 6665,
+  "layer2_paragraph_count": 40,
+  "lecture_runtime_approximate_minutes": 37,
+  "lecture_ends_mid_sentence": true,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T13:43:00.648888+00:00"
+}

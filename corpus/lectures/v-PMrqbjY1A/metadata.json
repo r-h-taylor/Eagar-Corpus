@@ -1,0 +1,43 @@
+{
+  "video_id": "v-PMrqbjY1A",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Fall 2013",
+  "session_number": 3,
+  "session_count": 14,
+  "video_title": "3.371 Structural Materials Selection - Fall 2013 [3/14]",
+  "raw_transcript_sha256": "8f4c21eed89c01626d295d048f6d6fece95f8d601c7afa6f8b27dc09ef377550",
+  "raw_transcript_line_count": 1450,
+  "raw_transcript_word_count": 9355,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T05:38:38.041822+00:00",
+  "layer2_paragraph_count": 63,
+  "start_timestamp": "03:12",
+  "end_timestamp": "51:47",
+  "approximate_duration_minutes": 48,
+  "speakers": ["Tom Eagar", "Student (unattributed)"],
+  "primary_themes": [
+    "What fraction of a product's cost is the material",
+    "Value of a pound saved (automobile, aircraft, military aircraft, spacecraft)",
+    "X-33 space plane failure case",
+    "Boutique materials: Sprague and Williams laws",
+    "Neodymium availability and the rare-earth magnet story",
+    "Polyethylene and the hula hoop market",
+    "Ashby chart: material price per ton by industry tier",
+    "Friction welding and blisks",
+    "European diesel engines and the lighter-weight cascade",
+    "Career advice: work in the unplowed field"
+  ],
+  "tom_slips_bracketed": [
+    {"said": "Sango Ban / Sangoman", "intended": "Saint-Gobain", "first_paragraph": "p2"},
+    {"said": "John Kahn", "intended": "John Cahn", "first_paragraph": "p63"},
+    {"said": "Brighton cycle", "intended": "Brayton cycle", "first_paragraph": "p53"},
+    {"said": "Sati Corona Carno", "intended": "Sadi Carnot", "first_paragraph": "p53"}
+  ],
+  "flags_for_editorial_review": [
+    "p15: false start 'first one is gasoline' trimmed; verify against audio if available",
+    "p23: 'hex hexel foam' — Hexcel honeycomb? ambiguous, preserved verbatim",
+    "p46: 'Michoud is in Stennis' — Tom's geographic confusion preserved; note for layer 3 footnote",
+    "p53: 'farming' — likely captioner garble of a thermodynamic cycle name (Rankine?); ambiguous"
+  ]
+}

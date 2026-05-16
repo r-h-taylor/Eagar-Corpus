@@ -1,0 +1,62 @@
+{
+  "video_id": "QFpqOBjwo34",
+  "course": "Total Quality Improvement",
+  "term": "Spring 2018",
+  "video_title": "2018-02-21",
+  "raw_transcript_sha256": "b04e1ae65d098e73a2b3334506029652905a1f56249c3cb71abb7231a823fbc1",
+  "raw_transcript_line_count": 1106,
+  "raw_transcript_word_count": 8826,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T19:50:51.391784+00:00",
+  "layer2_paragraph_count": 43,
+  "layer2_timespan": "00:02-51:04",
+  "lecture_themes": [
+    "Total Productive Maintenance",
+    "Zero defects principle",
+    "Japanese supplier relationships",
+    "Quality Assurance vs Quality Control",
+    "ISO 9000 / ISO 9001",
+    "Malcolm Baldrige National Quality Award",
+    "Good Manufacturing Practice (GMP) and FDA",
+    "SUBSAFE program and W. Edwards Deming",
+    "Government contractor defense (design defect immunity)"
+  ],
+  "cases_referenced": [
+    "GM Linden NJ locating pin",
+    "Motorola Boynton Beach pagers",
+    "Ford Mustang assembly line tow motors",
+    "Columbus Ohio supplier / Toyota vs GM",
+    "Honda Civic rust (early 1970s)",
+    "Raytheon Aegis aluminum bar heating incident",
+    "Boston Navy Yard destroyer weld (1977)",
+    "Lloyd's of London and ship classification societies",
+    "USS Thresher and SUBSAFE origin"
+  ],
+  "people_referenced": [
+    "Frederick Fish (patent attorney)",
+    "Louis Brandeis",
+    "Leon Jaworski",
+    "Karl Ulrich",
+    "Steven Eppinger",
+    "Rudolf Stapelberg",
+    "Andreas Mortensen",
+    "Eiji Toyoda",
+    "Douglas McGregor",
+    "Malcolm Baldrige",
+    "W. Edwards Deming",
+    "Hyman Rickover",
+    "Upton Sinclair",
+    "Jack Welch",
+    "Larry Bossidy",
+    "Ray Stata",
+    "Brian Haslam"
+  ],
+  "captioner_uncertainties_flagged": [
+    "L862 'fouling system' / 'falling system' — likely Phalanx CIWS, not Aegis",
+    "L750 'patriotical' — unrecovered word",
+    "L455 'Murdering' — unclear referent in Alcoa/union context",
+    "L905 'Edwards Deming' — canonical W. Edwards Deming; unclear if Tom slip or captioner",
+    "Student turns at p17, p31, p38 — inaudible in raw transcript"
+  ]
+}

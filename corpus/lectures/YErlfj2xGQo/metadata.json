@@ -1,0 +1,71 @@
+{
+  "video_id": "YErlfj2xGQo",
+  "course": "3.371 Deformation Processing",
+  "term": "Spring 2012",
+  "lecture_number": 4,
+  "lecture_of": 12,
+  "video_title": "3.371 Deformation Processing - Spring 2012 [4/12]",
+  "raw_transcript_sha256": "0cbc07ffa62c893f2d3fea5d598185e0259b0b290be76364eafc7ad99534c935",
+  "raw_transcript_line_count": 1347,
+  "raw_transcript_word_count": 10773,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T09:04:35.030662+00:00",
+  "layer2_paragraph_count": 53,
+  "layer2_duration_covered": "00:04 to 56:06",
+  "primary_topics": [
+    "Blackhawk U-washer stress corrosion failure case",
+    "ductile fracture and void nucleation at inclusions",
+    "vacuum arc remelting for inclusion control",
+    "orange peel from large grain size",
+    "redundant deformation and inhomogeneity factor",
+    "delta-dependence of inhomogeneous flow",
+    "hard water and stearate soap (digression)",
+    "forging at Bethlehem Steel (1975 anecdote)",
+    "three regimes of metal forming: cold heading, hot forging, isothermal forging",
+    "James Nasmyth steam hammer and V-shaped anvil",
+    "Walter Backofen biographical anecdotes",
+    "Amtrak trolley wire arbitration case",
+    "extrusion dead zones and shear bands",
+    "Stamixco static mixer puzzle"
+  ],
+  "named_people": [
+    "Walter A. Backofen",
+    "William F. Hosford",
+    "Taylan Altan",
+    "Tony Thompson",
+    "Donald J. Blickwede",
+    "James Nasmyth",
+    "Isambard Kingdom Brunel",
+    "Jim Melcher",
+    "Mike Mousakas",
+    "Dr. Belmar",
+    "Simone"
+  ],
+  "named_organizations": [
+    "Amtrak",
+    "Phelps Dodge",
+    "Bethlehem Steel",
+    "Japan Steel Works",
+    "MIT",
+    "Naval Air Rework Facility",
+    "FBI",
+    "Stamixco"
+  ],
+  "stories_told": [
+    "Blackhawk tail rotor washer SCC failure investigation",
+    "Bethlehem Steel summer 1975 — steelworkers shoveling hot slag",
+    "Backofen's pocket-of-Valium advice; Marblehead house sale; New Hampshire tree farm and antiques sideline",
+    "Virginia Beach postman summer job (Vietnam-era)",
+    "Naval Air Rework Facility plus drugstore clerk — 80-hour weeks",
+    "Amtrak trolley wire arbitration — fraud against federal government, FBI raid",
+    "Stamixco static mixer puzzle — blue resin migrating to outside",
+    "Jim Melcher / atomistic-vs-circuit thinking; chemical engineer boundary-layer thinking"
+  ],
+  "physical_samples_shown": [
+    "Blackhawk U-washer (multiple colors: gray Seahawk, green Army; steel and aluminum variants)",
+    "Two decks of cards with rubber bands (shear demonstration)",
+    "Trolley wire sample (Phelps Dodge superfine grain copper-silver)",
+    "Tensile bars (referenced as previously circulated)"
+  ]
+}

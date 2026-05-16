@@ -1,0 +1,77 @@
+{
+  "video_id": "kaKkRC6Yu_c",
+  "course": "Materials Selection - Weighing Trade-Offs",
+  "course_number": "3.371",
+  "term": "Fall 2016",
+  "video_title": "3.371 Materials Selection and Economics [11/12]",
+  "lecture_number": 11,
+  "lecture_total": 12,
+  "raw_transcript_sha256": "97251e72e0b887ef7cf7caa0785f3486a4b3b62c93f4920f57bd5c1d09e71313",
+  "raw_transcript_line_count": 1181,
+  "raw_transcript_word_count": 9120,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T04:09:38.814299+00:00",
+  "layer2_paragraph_count": 48,
+  "duration_approx_minutes": 50,
+  "primary_topics": [
+    "productivity vs competitiveness",
+    "steel mini mills",
+    "Chaparral Steel case study",
+    "net-shape casting of structural beams",
+    "Bethlehem Steel management culture",
+    "four-strand rebar rolling",
+    "reinforced concrete",
+    "glass corrosion and Willow Glass"
+  ],
+  "primary_cases": [
+    "Chaparral Steel (Midlothian, Texas)",
+    "Bethlehem Steel (looper program, Homer Research Labs)",
+    "Nucor / Ken Iverson",
+    "Boeing aircraft door plant",
+    "Armco Steel (Houston)",
+    "CF&I (Colorado Fuel and Iron)",
+    "Burns Harbor (Bethlehem Steel, Indiana)",
+    "Corning Willow Glass",
+    "Harvard football stadium (reinforced concrete)",
+    "NIST competitiveness laboratory"
+  ],
+  "recurring_figures": [
+    "1990 steel productivity: one person-hour per ton (integrated); 0.8 person-hours per ton (Chaparral)",
+    "scrap steel: ~$100/ton; cast iron from blast furnace: $180/ton",
+    "integrated steel mill capital cost: $20 billion; mini mill: 20× less",
+    "$30/ton Japanese shipping cost across Pacific (Chaparral's labor-cost benchmark)",
+    "$100,000 sales/employee rule of thumb; Chaparral: $450,000",
+    "Boeing door estimation: 750 doors / 250 employees → $50,000/door (1990s); ~$100,000/door today",
+    "75% energy savings from inline reheating + net-shape casting at Chaparral",
+    "28 rolling-mill passes → 11 passes",
+    "36 ksi vs 50 ksi structural steel; Chaparral produced one product meeting both specs",
+    "reinforced concrete: 4.2 billion tons/year; concrete tensile ~3,000 psi vs steel 30,000–60,000 psi",
+    "Willow Glass: 100–200 microns thick (4 or 8 thousandths of an inch)",
+    "glass strength: 14,000 psi initial, dropping to ~1,000 psi over a month due to moisture attack"
+  ],
+  "notable_anecdotes": [
+    "NIST competitiveness vs productivity exchange",
+    "Bethlehem Steel VP Finance claiming old depreciated equipment cost nothing",
+    "Armco Steel employee's only plant visit being a vacation stop at CF&I",
+    "Chaparral four-strand rolling innovation (running slower with more strands)",
+    "Chaparral secretary explaining cement-kiln emissions as 'two cars per hour'",
+    "Chaparral 'who gets the blame?' culture inversion",
+    "Bethlehem executives flying Gulfstreams to Florida for weekend golf",
+    "Bob Rose throwing fresh light bulbs against the wall in 3.091"
+  ],
+  "tom_spoken_slips": [
+    {
+      "raw": "Gordon for words",
+      "corrected": "Gordon Forward",
+      "first_occurrence_paragraph": "p11",
+      "context": "Chaparral Steel CEO; MIT PhD; recurring slip across Eagar corpus"
+    },
+    {
+      "raw": "Ford shop",
+      "corrected": "Forge shop",
+      "first_occurrence_paragraph": "p15",
+      "context": "Bethlehem Steel looper program; the forge shop where new engineers worked with hot slag"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "video_id": "kwG1vlILhH0",
+  "course": "How to be a Successful Engineer",
+  "course_number": "3.371",
+  "term": "Fall 2015",
+  "video_title": "3.371 What is Engineering - Fall 2015 [8/12]",
+  "lecture_number": 8,
+  "lecture_total": 12,
+  "raw_transcript_sha256": "766d6db7c4f2238022219006fee3fa94337c3c3ca0bbed8bbae29374b97efba9",
+  "raw_transcript_line_count": 1175,
+  "raw_transcript_word_count": 9789,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T00:21:53.183472+00:00",
+  "layer2_paragraph_count": 56,
+  "layer2_timestamp_start": "00:00",
+  "layer2_timestamp_end": "51:55",
+  "lecture_themes": [
+    "managing your boss",
+    "leaders vs. managers",
+    "personality disorders and DSM",
+    "critical mass of management (WWII ball-bearing factory story)",
+    "the candy jar (changing department culture)",
+    "Kahneman's Thinking Fast and Slow",
+    "System 1 vs. System 2",
+    "heuristics in faculty hiring and weld failure analysis"
+  ],
+  "people_mentioned": [
+    "Alex Slocum",
+    "Bob Langer",
+    "Don Sadoway",
+    "Merton (former dept head, likely Merton Flemings)",
+    "Bob Armstrong",
+    "Bob Brown",
+    "Peter Drucker",
+    "Hans-Lukas Teuber",
+    "Daniel Kahneman",
+    "Charlie (Nashua Corp CEO)",
+    "Vicki (assistant dean)",
+    "Kathy (secretary)"
+  ],
+  "organizations_mentioned": [
+    "MIT",
+    "3M",
+    "Nashua Corporation",
+    "United Technologies",
+    "McKinsey",
+    "Korn/Ferry International",
+    "Sloan / LGO program",
+    "Boston University",
+    "National Institute of Mental Health",
+    "World Health Organization"
+  ],
+  "books_referenced": [
+    "Personality Self-Portrait (Oldham & Morris)",
+    "Thinking, Fast and Slow (Kahneman)",
+    "Diagnostic and Statistical Manual (DSM)"
+  ],
+  "flags_for_editor": [
+    "p2/p27: 'MADD' / 'David Donuts' references depend on prior-lecture context; confirm referent.",
+    "p11: bowl/projector pocket-patting preserved; layer 3 will need stage direction.",
+    "p13: Tom says 'DSM 6'; DSM-5 was current in 2015. Bracketed.",
+    "p24: 'Joe Doe-see' administrative officer name — confirm spelling.",
+    "p49: Kahneman attribution 'Wagner answers Lynn' is captioner garbling of likely 'Wainer and Zwerling' (the kidney cancer example sources in Thinking Fast and Slow). Preserved best-effort.",
+    "p56: 'Dr. Bell Mars' speaker name — confirm spelling (possibly Belmar, Bellomar, or similar).",
+    "p29: 'Hazel grove glass lab' — unclear referent; possibly the MIT Glass Lab artisan's name."
+  ]
+}

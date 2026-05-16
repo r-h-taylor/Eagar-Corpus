@@ -1,0 +1,49 @@
+{
+  "video_id": "M7jStS1Pxss",
+  "course": "Codes and Standards",
+  "course_number": "3.371",
+  "term": "Summer 2012",
+  "video_title": "3.371 Codes and Standards - Summer 2012 [4/7]",
+  "lecture_number": 4,
+  "lecture_total": 7,
+  "raw_transcript_sha256": "3f2a09a0e808f9c5f5e25fe301d566b6c815d99201edaa6ef68e5f78e55381f0",
+  "raw_transcript_line_count": 2078,
+  "raw_transcript_word_count": 16191,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T21:15:21.222675+00:00",
+  "layer2_paragraph_count": 96,
+  "duration_approx_minutes": 88,
+  "primary_topics": [
+    "standards vs. standard reference materials (NIST terminology)",
+    "history of codes (lightning protection, boiler and pressure vessel)",
+    "scope and fair use of codes",
+    "code conflicts and the Code of Federal Regulations",
+    "code interpretations and commentaries",
+    "collaboration and competition in standards (ISO vs. ANSI, dual use)",
+    "ISO 9000 and quality management",
+    "purchase orders and contractor responsibility",
+    "safety factors in welding codes",
+    "the Seawolf submarine weld defect case",
+    "ASTM A106 vs. A53 pipe specifications",
+    "heat analysis vs. product analysis",
+    "Romanian pipe / refinery dispute case (hydrostatic test vs. NDT)",
+    "Gulf of Mexico underwater pipeline tool fragment case"
+  ],
+  "recurring_cases_mentioned": [
+    "Seawolf submarine weld defects",
+    "Romanian A106 pipe at petroleum refinery",
+    "Gulf of Mexico 4-inch pipeline with broken tool fragment",
+    "X-33 space plane (NASA / Lockheed Martin Skunk Works failure)",
+    "Andrew Mellon's aluminum Pierce Arrow",
+    "Duesenbergs (all-aluminum 1930s cars)",
+    "Ford ISO 9000 supplier mandate",
+    "Iowa State Fire Marshal 1926 lightning data"
+  ],
+  "guest_lecturer_referenced": "Dr. Belmir (next Wednesday, on safety factors)",
+  "editor_flags": [
+    "ASME code subscription cost in p43: captioner '112,000' vs. plausible '11,000-12,000' — verify",
+    "Dr. Belmir / Belmar — colleague's name spelling uncertain",
+    "p79 'A106 D26' — standard designation form A106-26 likely intended"
+  ]
+}

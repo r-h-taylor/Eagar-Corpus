@@ -1,0 +1,171 @@
+{
+  "lecture_id": "3aJEQaYKG3w",
+  "course": "Total Quality Improvement",
+  "term": "Spring 2018",
+  "session": "2018-03-06",
+  "guest_lecturer": "Brian Holman",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Introduction and lecture logistics",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:02", "00:27"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:27", "00:54"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Engine architecture and operating environment",
+      "section_timestamp_start": "00:54",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p3"], "timestamp_range": ["00:54", "01:28"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p4"], "timestamp_range": ["01:28", "02:12"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p5"], "timestamp_range": ["02:12", "03:13"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p6"], "timestamp_range": ["03:13", "04:05"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p7"], "timestamp_range": ["04:05", "05:21"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p8"], "timestamp_range": ["05:21", "06:07"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Critical parts, life-limited parts, and uncontained engine events",
+      "section_timestamp_start": "06:07",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p9"], "timestamp_range": ["06:07", "07:22"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p10"], "timestamp_range": ["07:22", "08:22"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p11"], "timestamp_range": ["08:22", "09:11"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p12"], "timestamp_range": ["09:11", "09:47"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p13"], "timestamp_range": ["09:47", "10:54"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p14"], "timestamp_range": ["10:54", "11:35"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Microstructure, manufacturing, and rejection of critical parts",
+      "section_timestamp_start": "11:35",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p15"], "timestamp_range": ["11:35", "12:12"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p16"], "timestamp_range": ["12:12", "12:58"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p17"], "timestamp_range": ["12:58", "13:43"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p18"], "timestamp_range": ["13:43", "14:47"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Failure modes and disc design constraints",
+      "section_timestamp_start": "14:47",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p19"], "timestamp_range": ["14:47", "15:57"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p20"], "timestamp_range": ["15:57", "16:51"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p21"], "timestamp_range": ["16:51", "17:32"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Titanium alloys, Ti-6-4, and microstructural defects",
+      "section_timestamp_start": "17:32",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p22"], "timestamp_range": ["17:32", "18:25"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p23"], "timestamp_range": ["18:25", "19:38"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p24"], "timestamp_range": ["19:38", "20:36"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p25"], "timestamp_range": ["20:36", "21:48"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p26"], "timestamp_range": ["21:48", "22:08"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Nickel-base superalloy segregation and titanium inclusion types",
+      "section_timestamp_start": "22:08",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p27"], "timestamp_range": ["22:08", "23:28"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p28"], "timestamp_range": ["23:28", "24:07"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p29"], "timestamp_range": ["24:07", "25:15"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p30"], "timestamp_range": ["25:15", "25:58"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "In-service damage, inspection, and degradation mechanisms",
+      "section_timestamp_start": "25:58",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p31"], "timestamp_range": ["25:58", "26:32"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p32"], "timestamp_range": ["26:32", "27:20"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p33"], "timestamp_range": ["27:20", "28:08"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p34"], "timestamp_range": ["28:08", "28:10"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p35"], "timestamp_range": ["28:10", "29:06"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p36"], "timestamp_range": ["29:06", "30:08"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p37"], "timestamp_range": ["30:08", "31:09"]},
+        {"l3_id": "§8.p8", "l2_ids": ["p38"], "timestamp_range": ["31:09", "32:08"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Non-destructive evaluation methods",
+      "section_timestamp_start": "32:08",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p39"], "timestamp_range": ["32:08", "33:09"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p40"], "timestamp_range": ["33:09", "34:07"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p41"], "timestamp_range": ["34:07", "34:49"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p42"], "timestamp_range": ["34:49", "35:16"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "United Airlines Flight 232 — accident and disc recovery",
+      "section_timestamp_start": "35:16",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p43"], "timestamp_range": ["35:16", "36:03"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p44"], "timestamp_range": ["36:03", "36:50"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p45"], "timestamp_range": ["36:50", "37:17"]},
+        {"l3_id": "§10.p4", "l2_ids": ["p46"], "timestamp_range": ["37:17", "38:02"]},
+        {"l3_id": "§10.p5", "l2_ids": ["p47"], "timestamp_range": ["38:02", "38:53"]},
+        {"l3_id": "§10.p6", "l2_ids": ["p48"], "timestamp_range": ["38:53", "39:38"]},
+        {"l3_id": "§10.p7", "l2_ids": ["p49"], "timestamp_range": ["39:38", "39:50"]},
+        {"l3_id": "§10.p8", "l2_ids": ["p50"], "timestamp_range": ["39:50", "39:59"]},
+        {"l3_id": "§10.p9", "l2_ids": ["p51"], "timestamp_range": ["39:59", "40:15"]},
+        {"l3_id": "§10.p10", "l2_ids": ["p52"], "timestamp_range": ["40:15", "40:18"]},
+        {"l3_id": "§10.p11", "l2_ids": ["p53"], "timestamp_range": ["40:18", "41:14"]}
+      ]
+    },
+    {
+      "section_id": "s11",
+      "section_title": "Fracture analysis and the hard alpha inclusion finding",
+      "section_timestamp_start": "41:14",
+      "anchors": [
+        {"l3_id": "§11.p1", "l2_ids": ["p54"], "timestamp_range": ["41:14", "42:10"]},
+        {"l3_id": "§11.p2", "l2_ids": ["p55"], "timestamp_range": ["42:10", "43:01"]},
+        {"l3_id": "§11.p3", "l2_ids": ["p56"], "timestamp_range": ["43:01", "43:13"]},
+        {"l3_id": "§11.p4", "l2_ids": ["p57"], "timestamp_range": ["43:13", "43:31"]},
+        {"l3_id": "§11.p5", "l2_ids": ["p58"], "timestamp_range": ["43:31", "44:18"]},
+        {"l3_id": "§11.p6", "l2_ids": ["p59"], "timestamp_range": ["44:18", "45:02"]},
+        {"l3_id": "§11.p7", "l2_ids": ["p60"], "timestamp_range": ["45:02", "45:16"]},
+        {"l3_id": "§11.p8", "l2_ids": ["p61"], "timestamp_range": ["45:16", "45:19"]},
+        {"l3_id": "§11.p9", "l2_ids": ["p62"], "timestamp_range": ["45:19", "45:56"]}
+      ]
+    },
+    {
+      "section_id": "s12",
+      "section_title": "NTSB findings — inspection failures and process changes",
+      "section_timestamp_start": "45:56",
+      "anchors": [
+        {"l3_id": "§12.p1", "l2_ids": ["p63"], "timestamp_range": ["45:56", "47:07"]},
+        {"l3_id": "§12.p2", "l2_ids": ["p64"], "timestamp_range": ["47:07", "47:50"]},
+        {"l3_id": "§12.p3", "l2_ids": ["p65"], "timestamp_range": ["47:50", "48:50"]}
+      ]
+    },
+    {
+      "section_id": "s13",
+      "section_title": "Cost-benefit analysis of NDE failures",
+      "section_timestamp_start": "48:50",
+      "anchors": [
+        {"l3_id": "§13.p1", "l2_ids": ["p66"], "timestamp_range": ["48:50", "49:23"]},
+        {"l3_id": "§13.p2", "l2_ids": ["p67"], "timestamp_range": ["49:23", "50:21"]},
+        {"l3_id": "§13.p3", "l2_ids": ["p68"], "timestamp_range": ["50:21", "50:50"]},
+        {"l3_id": "§13.p4", "l2_ids": ["p69"], "timestamp_range": ["50:50", "51:55"]},
+        {"l3_id": "§13.p5", "l2_ids": ["p70"], "timestamp_range": ["51:55", "52:58"]},
+        {"l3_id": "§13.p6", "l2_ids": ["p71"], "timestamp_range": ["52:58", "53:30"]}
+      ]
+    }
+  ]
+}

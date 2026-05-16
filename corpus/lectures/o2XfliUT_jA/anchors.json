@@ -1,0 +1,184 @@
+{
+  "lecture_id": "o2XfliUT_jA",
+  "course": "3.371 Codes and Standards",
+  "term": "Summer 2012",
+  "session": "3/7",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Johansson gauge blocks and temperature calibration",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:02", "00:45"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:45", "01:41"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Ashby plots and limits to material properties",
+      "section_timestamp_start": "01:41",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p3"], "timestamp_range": ["01:41", "02:15"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p4"], "timestamp_range": ["02:15", "03:17"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p5"], "timestamp_range": ["03:17", "04:01"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p6"], "timestamp_range": ["04:01", "05:18"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p7"], "timestamp_range": ["05:18", "06:14"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p8"], "timestamp_range": ["06:14", "07:16"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p9"], "timestamp_range": ["07:16", "07:57"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "National Aerospace Plane and the Concorde detour",
+      "section_timestamp_start": "07:57",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p10"], "timestamp_range": ["07:57", "09:16"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p10"], "timestamp_range": ["08:30", "09:16"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p11"], "timestamp_range": ["09:16", "10:39"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p12"], "timestamp_range": ["10:39", "11:07"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p13"], "timestamp_range": ["11:07", "12:11"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p14"], "timestamp_range": ["12:11", "13:07"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p15"], "timestamp_range": ["13:07", "14:25"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p16"], "timestamp_range": ["14:25", "14:52"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Air Force Mach 5 strike aircraft and the limits of materials",
+      "section_timestamp_start": "14:52",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p17"], "timestamp_range": ["14:52", "15:55"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p18"], "timestamp_range": ["15:55", "17:18"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p19"], "timestamp_range": ["17:18", "17:52"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Observables: forms of energy and the electromagnetic spectrum",
+      "section_timestamp_start": "17:52",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p20"], "timestamp_range": ["17:52", "19:15"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p21"], "timestamp_range": ["19:15", "20:35"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p22"], "timestamp_range": ["20:35", "22:17"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The Debye frequency and hot isostatic pressing",
+      "section_timestamp_start": "22:17",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p23"], "timestamp_range": ["22:17", "23:23"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p24"], "timestamp_range": ["23:23", "24:20"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p25"], "timestamp_range": ["24:20", "25:29"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p26"], "timestamp_range": ["25:29", "26:14"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p27"], "timestamp_range": ["26:14", "27:17"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p28"], "timestamp_range": ["27:17", "28:14"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p29"], "timestamp_range": ["28:14", "29:24"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p30"], "timestamp_range": ["29:24", "30:25"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Who writes the codes? Federal agencies and standards bodies",
+      "section_timestamp_start": "30:25",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p31"], "timestamp_range": ["30:25", "31:06"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p32"], "timestamp_range": ["31:06", "32:15"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p33"], "timestamp_range": ["32:15", "32:56"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p34"], "timestamp_range": ["32:56", "33:55"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p35"], "timestamp_range": ["33:55", "34:54"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p36"], "timestamp_range": ["34:54", "36:57"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p37", "p38"], "timestamp_range": ["36:57", "38:44"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p39"], "timestamp_range": ["38:44", "40:29"]},
+        {"l3_id": "§7.p9", "l2_ids": ["p40"], "timestamp_range": ["40:29", "41:12"]},
+        {"l3_id": "§7.p10", "l2_ids": ["p41"], "timestamp_range": ["41:12", "42:35"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "ASTM, ANSI, and the marketing of standards",
+      "section_timestamp_start": "42:35",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p42"], "timestamp_range": ["42:35", "43:48"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p43"], "timestamp_range": ["43:48", "44:26"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p44"], "timestamp_range": ["44:26", "45:06"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p45"], "timestamp_range": ["45:06", "45:54"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p46"], "timestamp_range": ["45:54", "47:00"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p46"], "timestamp_range": ["47:00", "47:13"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p47"], "timestamp_range": ["47:13", "47:53"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Lightning protection: a history of empirical standards",
+      "section_timestamp_start": "47:53",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p48"], "timestamp_range": ["47:53", "48:54"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p49"], "timestamp_range": ["48:54", "49:48"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p50"], "timestamp_range": ["49:48", "50:55"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p51"], "timestamp_range": ["50:55", "51:51"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p52"], "timestamp_range": ["51:51", "53:14"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "Enforcement of standards: civil, criminal, and contractual",
+      "section_timestamp_start": "53:14",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p53"], "timestamp_range": ["53:14", "54:21"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p53", "p54"], "timestamp_range": ["54:21", "55:00"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p54"], "timestamp_range": ["55:00", "55:39"]},
+        {"l3_id": "§10.p4", "l2_ids": ["p55"], "timestamp_range": ["55:39", "56:47"]},
+        {"l3_id": "§10.p5", "l2_ids": ["p56"], "timestamp_range": ["56:47", "58:22"]},
+        {"l3_id": "§10.p6", "l2_ids": ["p56", "p57"], "timestamp_range": ["58:22", "59:00"]},
+        {"l3_id": "§10.p7", "l2_ids": ["p57"], "timestamp_range": ["59:00", "60:00"]},
+        {"l3_id": "§10.p8", "l2_ids": ["p57"], "timestamp_range": ["60:00", "60:18"]},
+        {"l3_id": "§10.p9", "l2_ids": ["p58"], "timestamp_range": ["60:18", "61:45"]}
+      ]
+    },
+    {
+      "section_id": "s11",
+      "section_title": "Who pays for the codes: government, not-for-profit, and for-profit",
+      "section_timestamp_start": "61:45",
+      "anchors": [
+        {"l3_id": "§11.p1", "l2_ids": ["p59"], "timestamp_range": ["61:45", "62:26"]},
+        {"l3_id": "§11.p2", "l2_ids": ["p60"], "timestamp_range": ["62:26", "64:00"]},
+        {"l3_id": "§11.p3", "l2_ids": ["p61"], "timestamp_range": ["64:00", "64:30"]},
+        {"l3_id": "§11.p4", "l2_ids": ["p62"], "timestamp_range": ["64:30", "65:11"]},
+        {"l3_id": "§11.p5", "l2_ids": ["p63"], "timestamp_range": ["65:11", "66:30"]},
+        {"l3_id": "§11.p6", "l2_ids": ["p64"], "timestamp_range": ["66:30", "67:55"]}
+      ]
+    },
+    {
+      "section_id": "s12",
+      "section_title": "The aluminum cement truck tank failure",
+      "section_timestamp_start": "67:55",
+      "anchors": [
+        {"l3_id": "§12.p1", "l2_ids": ["p65"], "timestamp_range": ["67:55", "68:33"]},
+        {"l3_id": "§12.p2", "l2_ids": ["p66"], "timestamp_range": ["68:33", "69:17"]},
+        {"l3_id": "§12.p3", "l2_ids": ["p67"], "timestamp_range": ["69:17", "70:32"]},
+        {"l3_id": "§12.p4", "l2_ids": ["p68"], "timestamp_range": ["70:32", "71:39"]},
+        {"l3_id": "§12.p5", "l2_ids": ["p69"], "timestamp_range": ["71:39", "72:26"]},
+        {"l3_id": "§12.p6", "l2_ids": ["p70", "p71"], "timestamp_range": ["72:26", "74:05"]},
+        {"l3_id": "§12.p7", "l2_ids": ["p72"], "timestamp_range": ["74:05", "75:04"]},
+        {"l3_id": "§12.p8", "l2_ids": ["p73"], "timestamp_range": ["75:04", "75:44"]},
+        {"l3_id": "§12.p9", "l2_ids": ["p74"], "timestamp_range": ["75:44", "76:51"]},
+        {"l3_id": "§12.p10", "l2_ids": ["p75"], "timestamp_range": ["76:51", "77:54"]},
+        {"l3_id": "§12.p11", "l2_ids": ["p76"], "timestamp_range": ["77:54", "78:23"]},
+        {"l3_id": "§12.p12", "l2_ids": ["p77"], "timestamp_range": ["78:23", "78:48"]},
+        {"l3_id": "§12.p13", "l2_ids": ["p78"], "timestamp_range": ["78:48", "79:22"]},
+        {"l3_id": "§12.p14", "l2_ids": ["p79"], "timestamp_range": ["79:22", "80:43"]},
+        {"l3_id": "§12.p15", "l2_ids": ["p80"], "timestamp_range": ["80:43", "81:53"]},
+        {"l3_id": "§12.p16", "l2_ids": ["p81"], "timestamp_range": ["81:53", "82:56"]},
+        {"l3_id": "§12.p17", "l2_ids": ["p82"], "timestamp_range": ["82:56", "83:41"]},
+        {"l3_id": "§12.p18", "l2_ids": ["p83"], "timestamp_range": ["83:41", "84:27"]},
+        {"l3_id": "§12.p19", "l2_ids": ["p84"], "timestamp_range": ["84:27", "85:27"]},
+        {"l3_id": "§12.p20", "l2_ids": ["p85"], "timestamp_range": ["85:27", "86:07"]},
+        {"l3_id": "§12.p21", "l2_ids": ["p86"], "timestamp_range": ["86:07", "86:32"]},
+        {"l3_id": "§12.p22", "l2_ids": ["p87"], "timestamp_range": ["86:32", "87:01"]},
+        {"l3_id": "§12.p23", "l2_ids": ["p88"], "timestamp_range": ["87:01", "87:44"]},
+        {"l3_id": "§12.p24", "l2_ids": ["p89"], "timestamp_range": ["87:44", "89:00"]}
+      ]
+    }
+  ]
+}

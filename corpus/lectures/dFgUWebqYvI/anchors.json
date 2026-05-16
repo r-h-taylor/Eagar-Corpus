@@ -1,0 +1,70 @@
+{
+  "lecture_id": "dFgUWebqYvI",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "session": "19/29",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "The 200-ton HIP vessel failure: three causes converging",
+      "section_timestamp_start": "00:01",
+      "anchors": [
+        {
+          "l3_id": "§1.p1",
+          "l2_ids": ["p1"],
+          "timestamp_range": ["00:01", "00:55"]
+        },
+        {
+          "l3_id": "§1.p2",
+          "l2_ids": ["p2"],
+          "timestamp_range": ["00:55", "01:43"]
+        },
+        {
+          "l3_id": "§1.p3",
+          "l2_ids": ["p3"],
+          "timestamp_range": ["01:43", "02:29"]
+        },
+        {
+          "l3_id": "§1.p4",
+          "l2_ids": ["p4"],
+          "timestamp_range": ["02:29", "03:22"]
+        },
+        {
+          "l3_id": "§1.p5",
+          "l2_ids": ["p5"],
+          "timestamp_range": ["03:22", "03:28"]
+        },
+        {
+          "l3_id": "§1.p6",
+          "l2_ids": ["p5"],
+          "timestamp_range": ["03:28", "04:30"]
+        },
+        {
+          "l3_id": "§1.p7",
+          "l2_ids": ["p6"],
+          "timestamp_range": ["04:30", "04:59"]
+        },
+        {
+          "l3_id": "§1.p8",
+          "l2_ids": ["p7"],
+          "timestamp_range": ["04:59", "05:05"]
+        },
+        {
+          "l3_id": "§1.p9",
+          "l2_ids": ["p7"],
+          "timestamp_range": ["05:05", "06:01"]
+        },
+        {
+          "l3_id": "§1.p10",
+          "l2_ids": ["p8"],
+          "timestamp_range": ["06:01", "06:07"]
+        },
+        {
+          "l3_id": "§1.p11",
+          "l2_ids": ["p8"],
+          "timestamp_range": ["06:07", "06:50"]
+        }
+      ]
+    }
+  ]
+}

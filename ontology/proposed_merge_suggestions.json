@@ -1,0 +1,770 @@
+[
+  {
+    "proposed_cluster_id": "PROPOSED: AISI presidents Orlando resort talk (1991, Tom on why steel matters)",
+    "candidate_canons": [
+      "Gary Wennick conductive polymers research talk"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Alexander Slocum hydroelectric-desalination integration concept",
+    "candidate_canons": [
+      "Concept Blazers titanium racing car parts manufacturing",
+      "Alexander Kielland disaster",
+      "Pacific Gas and Electric pumped-storage hydroelectric project",
+      "Desalination pump bearing failure"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Arkansas Blackhawk night-vision-goggle exercise crash (eight fatalities)",
+    "candidate_canons": [
+      "2003 Arkansas flexible gas piping class action",
+      "California auto crash (forming limit case)",
+      "Helicopter bearing failure and crash (Stratford)",
+      "Blackhawk helicopter stress corrosion cracking failure",
+      "Parag Green Falcon crash (first aircraft)",
+      "Caydon bearing defect and helicopter crash"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Armco Steel Houston benchmarking failure (CF&I Pueblo gate-tour anecdote)",
+    "candidate_canons": [
+      "1980s stainless steel box consulting case",
+      "1986 church building galvanized steel handrail paint failure",
+      "1980s American steel industry restructuring",
+      "Armco Steel continuous casting decision",
+      "1920s steel bridge repair consulting (MTA/MGH station)",
+      "1985 automotive galvanized steel spot-weld electrode failure"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Bethlehem Steel Homer Research Labs (mid-1960s build, post-bankruptcy donation to Lehigh)",
+    "candidate_canons": [
+      "Bethlehem Steel Burns Harbor",
+      "1980s stainless steel box consulting case",
+      "1986 church building galvanized steel handrail paint failure",
+      "Bell Labs zone melting semiconductor purification (1950s)",
+      "1980s American steel industry restructuring",
+      "1920s steel bridge repair consulting (MTA/MGH station)"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Boeing 747 long geronde beam distortion",
+    "candidate_canons": [
+      "America's Cup yacht keel beam",
+      "Pittsburgh Plate Glass mile-long facility",
+      "Boeing 747-400 Titanium Air Tubing and Catalytic Converter",
+      "Torpedo tube welding distortion control",
+      "Boeing 747 long geronde beam distortion",
+      "Military ultra-long-range aircraft requirement"
+    ],
+    "decision": {
+      "merge_into": "Boeing 747 long geronde beam distortion",
+      "reason": "duplicate"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Boeing-Airbus aircraft offset agreements (Africa, South America, Japan)",
+    "candidate_canons": [
+      "Boeing 747 C-5A competition",
+      "Boeing 747 cleaning specification failure",
+      "Air Force Buy-to-Fly Ratio in Aircraft Manufacturing",
+      "Alcoa-Boeing aircraft wing spar business loss",
+      "Boeing 747 long geronde beam distortion",
+      "Air Force Mach 17 air-breathing aircraft program"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Burt Westwood 1960 GE structural-materials cost-volume plot",
+    "candidate_canons": [
+      "50,000-ton Wyman-Gordon forging press structural crack",
+      "Engine nacelle structural failures (Boeing 787/777)",
+      "304L stainless steel production cost reduction",
+      "GE GTD-111 nickel superalloy patent dispute",
+      "Boeing aircraft door manufacturing and cost analysis",
+      "1988 nor'easter structural collapses (New Jersey/Pennsylvania)"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: B\u00fcy\u00fck\u00f6zt\u00fcrk Kuwait $25M concrete research program",
+    "candidate_canons": [
+      "Kuwait depleted uranium contamination",
+      "BU Management School minority fellowship program",
+      "Air Force Mach 17 air-breathing aircraft program",
+      "Air Force One friction welding blade-to-disc program",
+      "B1 bomber program titanium surplus repurposing",
+      "Harvard Stadium reinforced concrete (1910)"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Carbon DLP automotive vertical",
+    "candidate_canons": [
+      "Adhesive-bonded automotive door panels failure (1980s\u20131990s)",
+      "Aluminum automotive applications (1990s Ford Taurus vs. Toyota Camry)",
+      "BMW i3 carbon fiber automobile design",
+      "Automotive sheet metal stretcher strain defects",
+      "Automotive spot welding aluminum inspection",
+      "Carbon composite filter for precious metal catalyst recovery"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Chaparral recycling project (cement plant, automobile foam, Motorola arsenic wastewater)",
+    "candidate_canons": [
+      "Alcoa Tennessee lead-contaminated aluminum beverage can recycling failure",
+      "Lead solder in automotive recycling",
+      "Nucor/Chaparral mini-mill competitive challenge to integrated steel mills",
+      "Aluminum can recycling contamination problem",
+      "MIT desk recycling (cast iron and maple)",
+      "Mini mills steel recycling boom"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Continuous caster steel-roll resurfacing by weld deposition",
+    "candidate_canons": [
+      "7000-ton forging press casting weld failure",
+      "1980s stainless steel box consulting case",
+      "Attorney deposition settlement case",
+      "Steel mill roll reconditioning and welding",
+      "7,000-ton forging press weld repair",
+      "Copper checks from continuous caster startup"
+    ],
+    "decision": {
+      "merge_into": "Steel mill roll reconditioning and welding",
+      "reason": "duplicate"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Corningware three-layer glass-ceramic",
+    "candidate_canons": [
+      "1985-1986 ceramic engine development failure (anticipated, not realized)",
+      "Ceramic engine development (1990s ceramics hype)",
+      "1980s all-ceramic engine development initiative",
+      "Ceramic coating on turbine blades thermal stress",
+      "Three-tank RPG penetration test (1985)",
+      "Bulk metallic glass golf clubs"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Digital Alloys Joule Printing process development",
+    "candidate_canons": [
+      "Manganese aluminum bronze electron-beam 3D printing trial",
+      "US Navy/Pratt Whitney 25 kW laser 3D printing turbine disc (1975)",
+      "Unnamed aerospace parts 3D printing project (Boulder, Massachusetts, ~2015)",
+      "Joule printing six-inch part cracking due to thermal gradients",
+      "3D metal printing propeller test for US Navy",
+      "Kodak film digital photography failure"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Digital Alloys metal AM startup (Burlington, MA)",
+    "candidate_canons": [
+      "Automotive sheet metal stretcher strain defects",
+      "Allied Signal amorphous metal foil patent dispute",
+      "Amorphous metal ribbon commercialization",
+      "Copper checks from continuous caster startup",
+      "Private jet friction-welded titanium startup",
+      "3D metal printing propeller test for US Navy"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Electric Boat HY-80 demonstration weld sample (Tom's classroom artifact)",
+    "candidate_canons": [
+      "Bath Ironworks and Electric Boat shipyard conflicts",
+      "7000-ton forging press casting weld failure",
+      "Fractured sample consulting case",
+      "Naval Research Lab Laser Welding of HY-80",
+      "Ed Metzbower laser welding of HY-80 steel",
+      "Electric Boat welding humidity specification violation"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Ford automotive stamping die manufacturing",
+    "candidate_canons": [
+      "Ford F-150 air conditioner assembly constraint",
+      "Automotive sheet metal stretcher strain defects",
+      "1984-1985 Japan Manufacturing Study",
+      "Ford stamping die failure case study",
+      "Ford Aerostar axle fatigue failures",
+      "Additive manufacturing powder bed part failure"
+    ],
+    "decision": {
+      "merge_into": "Ford stamping die failure case study",
+      "reason": "duplicate"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: General Electric synthetic diamond development (Tracy Hall)",
+    "candidate_canons": [
+      "Bath Ironworks and Electric Boat shipyard conflicts",
+      "Baltimore Gas and Electric under-deposit corrosion",
+      "American Electric Power Texas transmission line investment",
+      "Asphalt reclamation tool diamond tip brazing",
+      "Diamond tool wear in steel machining",
+      "Consulting case: diamond tool company acquisition evaluation"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Guest lecturer's home-built mixed-metal trailer",
+    "candidate_canons": [
+      "Automotive sheet metal stretcher strain defects",
+      "Allied Signal amorphous metal foil patent dispute",
+      "Plastic-to-steel gas pipe connection failure at home",
+      "Custom-built trailer design and field testing",
+      "Homemade trailer wheel-to-fender contact issue",
+      "Oil rig repair design-as-built mismatch"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Houston oil company clad-pipe offset project cancellation",
+    "candidate_canons": [
+      "Backhoe-caused gas pipe rupture protocol",
+      "Black iron pipe corrosion rate field observation",
+      "1973 Arab oil embargo",
+      "Attleboro brass-rat jewelry company ring theft via river",
+      "Titanium-clad steel gasoline refinery vessel production",
+      "Oil pipeline corrosion project cancellation\u2014offset regulations"
+    ],
+    "decision": {
+      "merge_into": "Oil pipeline corrosion project cancellation\u2014offset regulations",
+      "reason": "duplicate"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Idaho National Engineering Lab nuclear reactor component preheat failure",
+    "candidate_canons": [
+      "Simpson Governance and Hager firm preheat procedure violation",
+      "National Aerospace Plane",
+      "Hurricane Sandy cast iron component failure",
+      "MIT Lincoln Lab 300 GHz Radar Dish Structure",
+      "Motorola circuit board component shortage",
+      "Egyptian obelisk engineering mystery (Al Bakun / Wendell Wilkenning fracture analysis)"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: J.P. Morgan all-aluminum automobile (1930s)",
+    "candidate_canons": [
+      "1930s all-aluminum Duesenberg automobiles",
+      "1980s aluminum beverage can design optimization using supercomputers",
+      "Alcoa Tennessee lead-contaminated aluminum beverage can recycling failure",
+      "Automobile spot welding quality",
+      "Automobile drive shaft universal joint friction welding",
+      "1980s all-ceramic engine development initiative"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Jet engine company hydrogen bake-out timing failure",
+    "candidate_canons": [
+      "F-21 jet fighter engine diffusion bonding development",
+      "Aircraft engine crankcase stud failure and warranty repair",
+      "Early jet engine turbine blades (1940s-1950s)",
+      "1985-1986 ceramic engine development failure (anticipated, not realized)",
+      "Bay Bridge California corrosion-induced hydrogen cracking",
+      "Aluminum company vibratory stress relief proposal (2014)"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: LFM (Leaders for Manufacturing) project Chaparral case study (early 1990s, with Steve Wheelwright)",
+    "candidate_canons": [
+      "Chaparral Steel",
+      "Nucor/Chaparral mini-mill competitive challenge to integrated steel mills"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: LNG tanker 33-inch propeller shaft fracture",
+    "candidate_canons": [
+      "Israeli Corvette propeller blade bolt failure",
+      "Generator rotor shaft welding feasibility study (US Steel)",
+      "Hart Cell propeller failure",
+      "Joule printing six-inch part cracking due to thermal gradients",
+      "LNG tanker ship construction failure and abandonment",
+      "Lockheed Skunk Works X-33 spaceplane composite tank (rapid prototyping redesign)"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Lincoln Electric welding wire / Digital Alloys strategic investment",
+    "candidate_canons": [
+      "Bath Ironworks and Electric Boat shipyard conflicts",
+      "MIT Lincoln Lab 300 GHz Radar Dish Structure",
+      "Kodak film digital photography failure",
+      "Soviet scandium aluminum alloys research",
+      "Boeing Friction-Stir Welding Machine Investment",
+      "Accel trolley wire for Boston-New Haven electrified rail upgrade"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: MIT $220M powder metallurgy 3D printing startup (circa 2017)",
+    "candidate_canons": [
+      "Manganese aluminum bronze electron-beam 3D printing trial",
+      "Private jet friction-welded titanium startup",
+      "Joule printing six-inch part cracking due to thermal gradients",
+      "3D-printed solder droplet circuit boards research",
+      "Air Force titanium powder prototype facility (Wyman Gordon)",
+      "CMSX4/CMSX5 rhenium alloy pigtails in MIT lab"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: MIT 3D inkjet printing origin (Sachs/Cima, early 1990s)",
+    "candidate_canons": [
+      "Beryllium toxicity discovery at MIT",
+      "Manganese aluminum bronze electron-beam 3D printing trial",
+      "US Navy/Pratt Whitney 25 kW laser 3D printing turbine disc (1975)",
+      "Unnamed aerospace parts 3D printing project (Boulder, Massachusetts, ~2015)",
+      "MIT Berylliosis cases",
+      "3D metal printing propeller test for US Navy"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: MIT Building 35 Metals Processing construction (John Wulff)",
+    "candidate_canons": [
+      "Iranian pipeline construction",
+      "Beryllium toxicity discovery at MIT",
+      "US-Japan rare earth metals embargo",
+      "MIT Berylliosis cases",
+      "Building and nuclear facility bolt inspection protocol",
+      "Amorphous metals development"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: MIT custodial Christmas breakfast (Eagar department head)",
+    "candidate_canons": [
+      "Beryllium toxicity discovery at MIT",
+      "MIT Berylliosis cases",
+      "MIT Building 56/66 glass panel spontaneous breakage",
+      "CMSX4/CMSX5 rhenium alloy pigtails in MIT lab",
+      "MIT Building 20 asbestos liability"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: MIT undergraduate mercury fulminate fly-catcher",
+    "candidate_canons": [
+      "Beryllium toxicity discovery at MIT",
+      "Air Force Buy-to-Fly Ratio in Aircraft Manufacturing",
+      "MIT Berylliosis cases",
+      "MIT undergraduate lab chromic acid disposal practice",
+      "Undergraduate 2024 aluminum welding lab",
+      "MIT Building 56/66 glass panel spontaneous breakage"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Mid-Atlantic Ridge manganese sea nodule mining (Kennecott, 1970s)",
+    "candidate_canons": [
+      "Manganese aluminum bronze electron-beam 3D printing trial",
+      "Deep-sea titanium submersible pressure hull cost overrun",
+      "Naval fighter flameout recovery over Atlantic",
+      "Alvin and Sea Cliff deep-ocean research submersible development",
+      "New England Aquarium sea water piping corrosion",
+      "Deep-sea cable towing failure case"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: NASCAR magnesium components",
+    "candidate_canons": [
+      "Corvette magnesium engine cradle corrosion study",
+      "Fort Fundy magnesium-graphite composite diving application",
+      "Dow Chemical magnesium price cartel (1946\u20131975)",
+      "Nuclear weapon components inspection",
+      "Infinium magnesium extraction process development",
+      "Detroit automotive steering components cold forming"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: National Academy of Sciences 2002-2003 Defense Department materials research committee",
+    "candidate_canons": [
+      "MIT Materials Department tenure discrimination settlement",
+      "2003 Arkansas flexible gas piping class action",
+      "MIT inconel department griddles fabrication",
+      "Japanese Maritime Self-Defense Force helicopter swashplate seizure",
+      "National Aerospace Plane",
+      "National Academy of Sciences Air Force propulsion research committee"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Navy nuclear reactor disposal practices",
+    "candidate_canons": [
+      "Nuclear submarine electrode control practices",
+      "British technology transfer to China in zirconium reactor development",
+      "General Electric nuclear reactor safe-end cracking",
+      "Navy 25 kilowatt laser welder at Naval Research Laboratory",
+      "Building and nuclear facility bolt inspection protocol",
+      "3D metal printing propeller test for US Navy"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Obsidian as natural glass",
+    "candidate_canons": [
+      "Wyoming liquefied natural gas storage facility release",
+      "Quincy Shipyard liquid natural gas tanker construction (mid-1970s)",
+      "Bulk metallic glass golf clubs",
+      "Bullet-resistant glass installation failure investigation",
+      "Bulk metallic glass commercialization effort",
+      "Bullseye glass fire hazard"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Peter Bridenbaugh Alcoa aluminum vehicle economics communication (October 2001)",
+    "candidate_canons": [
+      "1930s all-aluminum Duesenberg automobiles",
+      "Hydrogen vehicle safety concerns (Obama hydrogen economy)",
+      "Alcoa LNG ship sphere welding project",
+      "1980s aluminum beverage can design optimization using supercomputers",
+      "Alcoa Davenport quench-and-temper failure",
+      "Alcoa Tennessee lead-contaminated aluminum beverage can recycling failure"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Preheat lapse before Monday welding",
+    "candidate_canons": [
+      "AAFCO 25 kW laser welding trials",
+      "Air Force blisk (bladed disc) welding development",
+      "Simpson Governance and Hager firm preheat procedure violation",
+      "Air Force One friction welding blade-to-disc program",
+      "MIT compressed air tank inspection lapse (Massachusetts)",
+      "1980 technical exchange with Soviet welding scientists"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Protective Armor Systems (PAS) bullet-resistant glass",
+    "candidate_canons": [
+      "Aberdeen Proving Ground kinetic energy penetrator armor defeat (1984-1985)",
+      "Improved lightning-resistant flexible gas tubing development",
+      "Annealed glass door fatality",
+      "1985 RPG armor penetration demonstration",
+      "Bulk metallic glass golf clubs",
+      "Bullet-resistant glass installation failure investigation"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Red Adair oil well blowout firefighting",
+    "candidate_canons": [
+      "Blowout preventer investigations (4-5 cases)",
+      "1973 Arab oil embargo",
+      "Deepwater Horizon / BP Macondo well blowout",
+      "Louisiana blowout preventer failures",
+      "BP Deepwater Horizon blowout preventer failure",
+      "Consulting work on BP oil rig failure (unnamed)"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Reynolds Aluminum origin in Reynolds Tobacco cigarette foil",
+    "candidate_canons": [
+      "1930s all-aluminum Duesenberg automobiles",
+      "1980s aluminum beverage can design optimization using supercomputers",
+      "Alcoa Tennessee lead-contaminated aluminum beverage can recycling failure",
+      "Allied Signal amorphous metal foil patent dispute",
+      "Tobacco company metal powder research",
+      "Alcoa Davenport aluminum rolling mill thickness variation"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Roman concrete research (Admir Masic, MIT civil)",
+    "candidate_canons": [
+      "Roman aqueducts",
+      "Harvard Stadium reinforced concrete (1910)",
+      "MIT Concrete Canoe Contest",
+      "Connecticut hockey rink concrete failure",
+      "Thomas Edison concrete homes"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Sachs and Cima 3D printing invention (MIT, ~1990)",
+    "candidate_canons": [
+      "Manganese aluminum bronze electron-beam 3D printing trial",
+      "US Navy/Pratt Whitney 25 kW laser 3D printing turbine disc (1975)",
+      "Unnamed aerospace parts 3D printing project (Boulder, Massachusetts, ~2015)",
+      "Velcro invention (serendipitous discovery)",
+      "Whipple gas turbine invention",
+      "Joule printing six-inch part cracking due to thermal gradients"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Selective laser sintering invention (Texas, ~1985)",
+    "candidate_canons": [
+      "AAFCO 25 kW laser welding trials",
+      "Velcro invention (serendipitous discovery)",
+      "Whipple gas turbine invention",
+      "Lost foam casting invention and commercialization",
+      "1975 Pratt & Whitney laser turbine disk demonstration",
+      "Avco Everett laser welder demonstrations (early 1980s)"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Stratasys FDM and PolyJet",
+    "candidate_canons": [],
+    "decision": {
+      "merge_into": null,
+      "reason": "no_candidates"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Student spring-steel pressure vessel proposal",
+    "candidate_canons": [
+      "1980s stainless steel box consulting case",
+      "High-pressure vessel explosion (200-ton)",
+      "University of Oslo semester abroad student language accommodation",
+      "Spring steel pressure vessel design study",
+      "Deep-sea titanium submersible pressure hull cost overrun",
+      "Cement truck pressure vessel explosion (Pennsylvania)"
+    ],
+    "decision": {
+      "merge_into": "Spring steel pressure vessel design study",
+      "reason": "duplicate"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: TRIP steels for automotive deep drawing",
+    "candidate_canons": [
+      "Aluminum deep-diving submersible stress corrosion cracking",
+      "Adhesive-bonded automotive door panels failure (1980s\u20131990s)",
+      "Aluminum automotive applications (1990s Ford Taurus vs. Toyota Camry)",
+      "Automotive sheet metal stretcher strain defects",
+      "Automotive spot welding aluminum inspection",
+      "Wire drawing defects in extrusion"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Tesla new-vehicle tooling investment scale",
+    "candidate_canons": [
+      "Hydrogen vehicle safety concerns (Obama hydrogen economy)",
+      "Edison, New Jersey gas pipeline explosion",
+      "American Electric Power Texas transmission line investment",
+      "Boston and New York cast-iron water main failures",
+      "Amtrak New Haven to Boston trolley wire",
+      "Audi-Alcoa aluminum vehicle development partnership"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Tiffany Rhode Island Super Bowl ring 3D-printed mold manufacturing",
+    "candidate_canons": [
+      "Manganese aluminum bronze electron-beam 3D printing trial",
+      "US Navy/Pratt Whitney 25 kW laser 3D printing turbine disc (1975)",
+      "1922 additive manufacturing weld-buildup on cast iron",
+      "Space Shuttle O-ring failure",
+      "Bosco Lee Morton Thiokol O-ring engineering decision",
+      "Attleboro brass-rat jewelry company ring theft via river"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Tom Eagar 80-year-old home renovation (Spring 2016)",
+    "candidate_canons": [
+      "America's Cup HY-80 keel failure",
+      "Plastic-to-steel gas pipe connection failure at home",
+      "Old Ironsides oak wood repair delay",
+      "Aircraft piston engine crankcase 30-year repair defect pattern",
+      "Speaker's home gas service sleeving (three-quarter inch pipe)",
+      "Star Trek IV: The Voyage Home - transparent aluminum whale tank"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Walker spy case (military base security tightening)",
+    "candidate_canons": [],
+    "decision": {
+      "merge_into": null,
+      "reason": "no_candidates"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Werner Ladder Company extrusion temper case",
+    "candidate_canons": [
+      "Alcoa Davenport quench-and-temper failure",
+      "Wire drawing defects in extrusion",
+      "Attleboro brass-rat jewelry company ring theft via river",
+      "W-temper aluminum sale and incomplete heat treatment",
+      "Ladder with unauthorized welds",
+      "Boston Gas Company buried steel pipe corrosion and gas leaks"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  },
+  {
+    "proposed_cluster_id": "PROPOSED: Westbrook 1962 General Electric structural materials price-vs-volume plot",
+    "candidate_canons": [
+      "50,000-ton Wyman-Gordon forging press structural crack",
+      "Bath Ironworks and Electric Boat shipyard conflicts",
+      "Engine nacelle structural failures (Boeing 787/777)",
+      "General Dynamics Quincy shipyard LNG tanker problems",
+      "General Electric 70,000 dollar titanium compressor part welding",
+      "1988 nor'easter structural collapses (New Jersey/Pennsylvania)"
+    ],
+    "decision": {
+      "merge_into": null,
+      "reason": "new_or_unsure"
+    }
+  }
+]

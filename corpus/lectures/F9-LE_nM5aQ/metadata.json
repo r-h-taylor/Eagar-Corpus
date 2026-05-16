@@ -1,0 +1,65 @@
+{
+  "video_id": "F9-LE_nM5aQ",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Fall 2013",
+  "video_title": "3.371 Structural Materials Selection - Fall 2013 [10/14]",
+  "lecture_number": 10,
+  "lecture_total": 14,
+  "duration_approx_minutes": 54,
+  "raw_transcript_sha256": "ee7b2b9a4563d750949248111395607f1bb4be5cc54fd8c66e832aecd83de699",
+  "raw_transcript_line_count": 1229,
+  "raw_transcript_word_count": 9573,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T06:29:05.353327+00:00",
+  "layer2_paragraph_count": 55,
+  "topics": [
+    "presentation logistics and project guidance",
+    "beverage container materials (Japan steel cans case)",
+    "European vs U.S. automobile material choice",
+    "carbon steel grades (10xx series) and alloy steels",
+    "hardness vs hardenability vs hardening ability",
+    "HY-130 and 4340 in America's Cup keel beam",
+    "Tom's welding background and oxyacetylene teaching anecdote",
+    "stainless steel genealogy (Sedriks)",
+    "manganese in steel and sulfur control (Chipman, Grant)",
+    "austenitic, ferritic, martensitic, duplex, precipitation-hardening stainlesses",
+    "Sub-Zero refrigerator hinge failure case",
+    "duplex stainless centrifuge case",
+    "Hadfield's manganese steel",
+    "316 vs 304 — Fenway Frank hot dog cooker case",
+    "galvanic series and passive vs active stainless",
+    "chrome oxide passivation; chloride vs fluoride attack",
+    "New England Aquarium fish-scale facade case",
+    "George Washington Bridge condo crack anecdote",
+    "AOD (argon-oxygen decarburization) and Krivsky/Chipman"
+  ],
+  "recurring_cases": [
+    "America's Cup keel beam (4340 welding)",
+    "Sub-Zero refrigerator hinge (303 vs carbon steel mix-up)",
+    "Fenway Frank hot dog cooker (304 vs 316 mix-up)",
+    "New England Aquarium fish scales (passivation lost to brushing)",
+    "Japanese steel beverage cans (political/industrial protection)"
+  ],
+  "named_people": [
+    "Adam Powell (guest lecturer, Infinium)",
+    "Tony Zona (MIT welding lab technician)",
+    "Professor Adams (Tom's predecessor in welding lab)",
+    "John A. Sedriks (Corrosion of Stainless Steels)",
+    "John Chipman (MIT, physical chemistry of steel)",
+    "Nick Grant (MIT, sulfur control 1930s)",
+    "Walter A. Krivsky (MIT thesis, AOD co-inventor)",
+    "Robert Hadfield (Hadfield's manganese steel)"
+  ],
+  "tom_slips_bracketed": [
+    {"paragraph": "p23", "spoken": "Sedrik", "correct": "Sedriks"},
+    {"paragraph": "p45", "spoken": "hydrochloric acid", "correct": "hydrofluoric acid", "note": "Tom says hydrochloric twice; context demands hydrofluoric"}
+  ],
+  "captioner_proper_noun_fixes": [
+    "betham → Bethlehem",
+    "Cedric → Sedriks",
+    "had Fields → Hadfield's",
+    "kky / crafy → Krivsky"
+  ],
+  "notes_for_layer3": "Lecture has natural sections: (1) presentation logistics + beverage containers + European cars [00:02–06:27]; (2) recap of steels and hardness trio [06:27–11:40]; (3) HY-130 / 4340 America's Cup case [11:40–13:06]; (4) Tom's welding biography and reaction-time digression [13:06–17:44]; (5) why many steels exist and the manganese/sulfur story [17:44–27:20]; (6) stainless steel genealogy: austenitic, sulfurized (303), duplex, precipitation-hardening, Mn-substituted, Hadfield's, martensitic, FCC/BCC/BCT taxonomy [27:20–37:21]; (7) hydrogen embrittlement and Mo for chloride resistance: Fenway Frank case [37:21–42:05]; (8) galvanic series, active vs passive, Aquarium case, GW Bridge anecdote [42:05–51:15]; (9) L-grades and AOD steelmaking [51:15–end]. Recommend 8–9 sections."
+}

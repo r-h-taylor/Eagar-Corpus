@@ -1,0 +1,81 @@
+{
+  "video_id": "ZWgkUrtyK-4",
+  "course": "Corrosion Cracking and More",
+  "course_number": "3.371",
+  "course_full_title": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [5/35]",
+  "lecture_number_in_series": 5,
+  "lecture_total_in_series": 35,
+  "raw_transcript_sha256": "353655064a8ac9b7abfeb4300a634cf83eac26a00fb422bf50294d27b7d42189",
+  "raw_transcript_line_count": 1086,
+  "raw_transcript_word_count": 7026,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T17:11:59.982288+00:00",
+  "layer2_paragraph_count": 47,
+  "layer2_starting_timestamp": "00:01",
+  "layer2_ending_timestamp": "36:22",
+  "layer2_truncated_at_end": true,
+  "primary_topics": [
+    "military design liability and the 1992 Supreme Court ruling",
+    "V-22 Osprey Quantico crash",
+    "military vs commercial jet engine divergence",
+    "high bypass jet engines and momentum equations",
+    "g-force limits and the case for drones",
+    "war casualties philosophy digression",
+    "cost of corrosion statistics (NIST, NACE)",
+    "Three Mile Island reactor 2 stress corrosion / SCC vs stress-assisted cracking",
+    "metals immunity / nobility / practical nobility via protective oxides",
+    "black iron pipe and magnetite (Fe3O4) coating",
+    "corrosion rate of steel: 2-10 mils per year",
+    "carbon steel piping lifetime on ships, transition to cupro-nickel/Monel/titanium",
+    "history of polyethylene and the hula hoop",
+    "polybutylene fittings stress corrosion cracking",
+    "Delrin (polyformaldehyde) chlorine-induced SCC and exploding toilets",
+    "PEX-A vs PEX-B cross-linked polyethylene",
+    "Charles Goodyear, Mayan rubber, and Mike Tarkanian's bachelor's thesis"
+  ],
+  "cases_mentioned": [
+    "V-22 Osprey Quantico crash",
+    "Three Mile Island reactor 2 startup SCC",
+    "polybutylene fittings class action",
+    "DuPont Delrin / Hoechst class action settlements",
+    "PEX brass fittings Las Vegas lawsuits"
+  ],
+  "people_named": [
+    "Clausewitz",
+    "Charles Goodyear",
+    "Mike Tarkanian"
+  ],
+  "companies_organizations_named": [
+    "Pratt and Whitney",
+    "Boeing",
+    "Bell",
+    "NAVAIR",
+    "NAVSEA",
+    "Supreme Court",
+    "GPU Nuclear",
+    "NIST",
+    "National Association of Corrosion Engineers (NACE)",
+    "Home Depot",
+    "Victaulic",
+    "DuPont",
+    "Hoechst",
+    "Uponor",
+    "EPA"
+  ],
+  "stage_directions_count": 1,
+  "student_turns_count": 7,
+  "tom_slips_bracketed": [
+    {"raw": "Quantz", "correction": "Quantico", "paragraph": "p2"},
+    {"raw": "explosion time", "correction": "exposure time", "paragraph": "p19"}
+  ],
+  "captioner_errors_corrected_silently_count": 11,
+  "editor_flags": [
+    {"paragraph": "p10", "issue": "FPS rendered as 'FOBs?' — unclear what Tom said"},
+    {"paragraph": "p33", "issue": "student turn '[PEX?]' inferred from Tom's reply; not clearly captured"}
+  ],
+  "lecture_truncated_at_capture": true,
+  "truncation_note": "Transcript ends mid-sentence at 36:22 with Tom beginning to discuss boiler systems made of black iron pipe. The recording cuts off before the third point on corrosion (free oxygen/sulfur) is developed."
+}

@@ -1,0 +1,127 @@
+{
+  "lecture_id": "v-PMrqbjY1A",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Fall 2013",
+  "session": "3/14",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "The long view: Saint-Gobain and material cost as fraction of product cost",
+      "section_timestamp_start": "03:12",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p2"], "timestamp_range": ["03:24", "04:19"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p3"], "timestamp_range": ["04:19", "04:45"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p4"], "timestamp_range": ["04:45", "05:12"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p5"], "timestamp_range": ["05:12", "06:06"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p6"], "timestamp_range": ["06:06", "06:35"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p7"], "timestamp_range": ["06:35", "07:40"]},
+        {"l3_id": "§1.p7", "l2_ids": ["p8"], "timestamp_range": ["07:40", "08:12"]},
+        {"l3_id": "§1.p8", "l2_ids": ["p9"], "timestamp_range": ["08:12", "08:43"]},
+        {"l3_id": "§1.p9", "l2_ids": ["p10"], "timestamp_range": ["08:43", "09:44"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The value of a pound saved",
+      "section_timestamp_start": "09:44",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p11"], "timestamp_range": ["09:44", "10:18"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p12"], "timestamp_range": ["10:18", "11:00"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p13"], "timestamp_range": ["11:00", "11:45"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p14"], "timestamp_range": ["11:45", "12:13"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p15"], "timestamp_range": ["12:13", "12:44"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p16"], "timestamp_range": ["12:44", "13:44"]},
+        {"l3_id": "§2.p7", "l2_ids": ["p17"], "timestamp_range": ["13:44", "14:37"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The X-33 space plane and the 10-day shelf-life bullet point",
+      "section_timestamp_start": "14:37",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p18"], "timestamp_range": ["14:37", "15:28"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p19"], "timestamp_range": ["15:28", "16:17"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p20"], "timestamp_range": ["16:17", "17:08"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p21"], "timestamp_range": ["17:08", "17:46"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p22"], "timestamp_range": ["17:46", "18:33"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p23"], "timestamp_range": ["18:33", "19:36"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p24"], "timestamp_range": ["19:36", "20:17"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p25"], "timestamp_range": ["20:17", "21:06"]},
+        {"l3_id": "§3.p9", "l2_ids": ["p26"], "timestamp_range": ["21:06", "22:13"]},
+        {"l3_id": "§3.p10", "l2_ids": ["p27"], "timestamp_range": ["22:13", "22:51"]},
+        {"l3_id": "§3.p11", "l2_ids": ["p28"], "timestamp_range": ["22:51", "23:27"]},
+        {"l3_id": "§3.p12", "l2_ids": ["p29"], "timestamp_range": ["23:27", "24:07"]},
+        {"l3_id": "§3.p13", "l2_ids": ["p30"], "timestamp_range": ["24:07", "24:39"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Sprague's law, Williams's corollary, and the availability problem",
+      "section_timestamp_start": "24:39",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p31"], "timestamp_range": ["24:39", "25:13"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p32"], "timestamp_range": ["25:13", "26:11"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p33"], "timestamp_range": ["26:11", "26:46"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p34"], "timestamp_range": ["26:46", "27:27"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p35"], "timestamp_range": ["27:27", "29:00"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p36"], "timestamp_range": ["29:00", "29:55"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p37"], "timestamp_range": ["29:55", "30:56"]},
+        {"l3_id": "§4.p8", "l2_ids": ["p38"], "timestamp_range": ["30:56", "32:39"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Ashby's selection map: spacecraft, aircraft, automobile",
+      "section_timestamp_start": "32:39",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p39"], "timestamp_range": ["32:39", "33:48"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p40"], "timestamp_range": ["33:48", "34:42"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p41"], "timestamp_range": ["34:42", "35:23"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p42"], "timestamp_range": ["35:23", "36:15"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The blisk and friction welding",
+      "section_timestamp_start": "36:15",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p43"], "timestamp_range": ["36:15", "37:06"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p44"], "timestamp_range": ["37:06", "38:09"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p45"], "timestamp_range": ["38:09", "39:25"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p46"], "timestamp_range": ["39:25", "40:31"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p47"], "timestamp_range": ["40:31", "41:15"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p48"], "timestamp_range": ["41:15", "41:45"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p49"], "timestamp_range": ["41:45", "42:16"]},
+        {"l3_id": "§6.p8", "l2_ids": ["p50"], "timestamp_range": ["42:16", "42:58"]},
+        {"l3_id": "§6.p9", "l2_ids": ["p51"], "timestamp_range": ["42:58", "43:30"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Diesel as the next efficiency revolution",
+      "section_timestamp_start": "43:30",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p51"], "timestamp_range": ["43:30", "44:01"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p52"], "timestamp_range": ["44:01", "44:46"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p53"], "timestamp_range": ["44:46", "45:14"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p54"], "timestamp_range": ["45:14", "46:21"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p55"], "timestamp_range": ["46:21", "46:55"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p56", "p57"], "timestamp_range": ["46:55", "48:09"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p57"], "timestamp_range": ["47:37", "48:09"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p58"], "timestamp_range": ["48:09", "48:48"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "The unplowed field: a life lesson",
+      "section_timestamp_start": "48:48",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p59"], "timestamp_range": ["48:48", "49:15"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p60"], "timestamp_range": ["49:15", "49:54"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p61"], "timestamp_range": ["49:54", "50:31"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p62"], "timestamp_range": ["50:31", "51:04"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p63"], "timestamp_range": ["51:04", "51:50"]}
+      ]
+    }
+  ]
+}

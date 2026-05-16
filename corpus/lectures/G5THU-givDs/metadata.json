@@ -1,0 +1,67 @@
+{
+  "video_id": "G5THU-givDs",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "lecture_number": 26,
+  "lecture_in_series": "26/29",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [26/29]",
+  "raw_transcript_sha256": "5547847469fdc8aa4641448714e58fe9033bd7e012f41afb89dd777899c435f7",
+  "raw_transcript_line_count": 845,
+  "raw_transcript_word_count": 6855,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T14:55:37.179902+00:00",
+  "layer2_paragraph_count": 34,
+  "duration_covered_mmss": {
+    "start": "00:13",
+    "end": "37:13"
+  },
+  "primary_topics": [
+    "aluminum crank case repair for piston aircraft engines",
+    "FAA repair station regulations and product liability",
+    "General Aviation Revitalization Act (GARA) 1992",
+    "aluminum filler metal selection (4043, 4145, 4009) for 355 castings",
+    "under-matching vs over-matching filler metal in fatigue applications",
+    "machining 7075 aluminum and cutting tool diffusion bonding",
+    "Johnson & Johnson anodized aluminum laser surgical instrument patent",
+    "professional liability for independent consultant designers",
+    "introduction to titanium alloys"
+  ],
+  "cases_introduced": [
+    "Lycoming/Teledyne Continental piston engine aluminum crank case repair",
+    "Canadian Transportation Safety Board under-matching filler metal critique",
+    "3/8 inch stud pull-out test, 4043 vs 4145 vs helicoil",
+    "Johnson & Johnson anodized aluminum laser instrument (Tom's patent)"
+  ],
+  "people_named": [
+    "Chuck (chief engineer, repair company)",
+    "Ken (student)",
+    "John (Johnson & Johnson contact)"
+  ],
+  "organizations_named": [
+    "Lycoming",
+    "Teledyne Continental Engines",
+    "Cessna",
+    "Piper",
+    "Beechcraft",
+    "FAA (Federal Aviation Administration)",
+    "Canadian Transportation Safety Board",
+    "NTSB (National Transportation Safety Board)",
+    "General Electric",
+    "Pratt & Whitney",
+    "Rolls-Royce",
+    "SAE (Society of Automotive Engineers)",
+    "Johnson & Johnson",
+    "MIT Industrial Liaison Program"
+  ],
+  "legislation_referenced": [
+    "General Aviation Revitalization Act (GARA) 1992"
+  ],
+  "reviewer_flags": [
+    "p10: '204 foot inch pounds' vs '204 inch pounds' — captioner inserted 'foot' on first occurrence; reviewer to verify audio.",
+    "p27: 'Don't get done this is not so bad' — captioner garbling, exact reading uncertain.",
+    "p21: Student question inaudible in raw transcript; attribution and content inferred from Tom's response.",
+    "Lycoming bracketing: treated as captioner error but bracketed for transparency given recurrence. Reviewer to confirm preferred convention."
+  ]
+}

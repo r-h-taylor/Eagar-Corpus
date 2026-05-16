@@ -1,0 +1,50 @@
+{
+  "video_id": "Jh5DokU5lSU",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [21/29]",
+  "lecture_number": 21,
+  "lecture_total": 29,
+  "raw_transcript_sha256": "a8f6a8608d0e9236be764ec3fdce6b6bafb19163ca959e8c3d8a8fd5a05416b8",
+  "raw_transcript_line_count": 389,
+  "raw_transcript_word_count": 2458,
+  "duration_approx": "14:01",
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T14:36:16.802353+00:00",
+  "layer2_paragraph_count": 26,
+  "topics": [
+    "high-strength steel weldability",
+    "HY130 in America's Cup keel",
+    "fatigue design of weldments",
+    "weld notch as stress concentration",
+    "GM/Ford spot-welded high-strength steel minivans, mid-80s",
+    "AISC fatigue design categories A-F",
+    "LRFD (Load and Resistance Factor Design)",
+    "Northridge earthquake (1990s) lessons",
+    "King Street Bridge failure, Melbourne 1962",
+    "mouse holes and triaxial constraint at weld intersections"
+  ],
+  "cases_referenced": [
+    "America's Cup yacht keel (HY130)",
+    "GM/Ford mid-80s minivans (high-strength spot welds)",
+    "King Street Bridge, Melbourne, ~1962"
+  ],
+  "people_referenced": [
+    "George Santayana",
+    "Barbie (student)",
+    "Small (student)"
+  ],
+  "toms_slips_bracketed": [
+    {"paragraph": "p21", "said": "LMRD", "intended": "LRFD"}
+  ],
+  "captioner_corrections_silent": [
+    {"raw": "santana", "corrected": "Santayana"},
+    {"raw": "big not", "corrected": "big knot"},
+    {"raw": "feed fatigue curve", "corrected": "fatigue curve"},
+    {"raw": "i don't think you got killed", "corrected": "I don't think anybody got killed"}
+  ],
+  "student_turns_inferred": ["p11", "p19", "p25"],
+  "notes": "Short class session (~14 min). Two teaching units: (1) closing remarks on welding ultra-high-strength steels, (2) introduction to fatigue design of weldments with AISC categories. Tom himself flags uncertainty on LRFD acronym; student supplies correction in dialogue. Lecture ends with 'see you tomorrow' suggesting this is one of a sequence."
+}

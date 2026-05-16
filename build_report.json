@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-05-16",
+  "stats": {
+    "lectures_copied": 231,
+    "lectures_skipped_incomplete": 0,
+    "extended_refs_copied": 158,
+    "files_stripped": 44
+  },
+  "incomplete_lectures": []
+}

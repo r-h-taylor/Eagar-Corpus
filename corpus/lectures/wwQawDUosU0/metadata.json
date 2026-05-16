@@ -1,0 +1,63 @@
+{
+  "video_id": "wwQawDUosU0",
+  "course": "3.371 Structural Materials Selection",
+  "term": "Fall 2014",
+  "lecture_number": 5,
+  "lecture_total": 13,
+  "video_title": "3.371 Structural Materials Selection - Fall 2014 [5/13]",
+  "raw_transcript_sha256": "b3ddc4c551be244e693db615d2d105acf41260da921927bb3ed10afb017bb4d6",
+  "raw_transcript_line_count": 1603,
+  "raw_transcript_word_count": 10735,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T07:27:42.918924+00:00",
+  "layer2_paragraph_count": 48,
+  "layer2_start_timestamp": "00:13",
+  "layer2_end_timestamp": "55:59",
+  "lecture_themes": [
+    "Cost of structural materials and energy content",
+    "Material cost as fraction of total product cost across industries",
+    "Value of weight saved by industry: $2/lb automobiles, $200/lb commercial aircraft, $1000/lb military aircraft, $20000/lb spacecraft",
+    "Sprung weight and collateral weight savings (turbine blisk example)",
+    "Composites in V-22 Osprey, X-33 space plane, America's Cup yachts, Visby corvette",
+    "Material substitution case: water conveyance from clay to wood to lead to galvanized to copper to PEX"
+  ],
+  "key_cases": [
+    "V-22 Osprey (composites)",
+    "X-33 space plane (1.3B program, multifunctional tank structure)",
+    "America's Cup yacht hydraulics (7500 psi)",
+    "Cruise missile carbon composite engine (2-hour life)",
+    "Aluminum brake calipers (creep / fade problem)",
+    "Air Force blisk program / M250 Allison",
+    "Visby corvette (Swedish composite, modulus failure)",
+    "USN Zumwalt destroyer",
+    "Aircraft carrier as instrument of diplomacy (tsunami anecdote)",
+    "Beryllium copper non-sparking tools",
+    "Berylliosis at MIT Manhattan Project",
+    "Water pipe material history (clay → wood → lead → copper → PEX)"
+  ],
+  "people_named": [
+    "Lester Thurow",
+    "Robert Merton",
+    "Fischer Black",
+    "Myron Scholes",
+    "Bob Sprague",
+    "Jim Williams",
+    "Michael Ashby",
+    "Jack Westwood",
+    "Admiral Grace Hopper",
+    "Admiral Zumwalt",
+    "Charles Goodyear",
+    "Mike Tarkanian",
+    "J.P. Morgan",
+    "William Lyman Underwood",
+    "Samuel Cate Prescott"
+  ],
+  "tom_slips_bracketed": 8,
+  "captioner_corrections_silent": 25,
+  "editorial_flags": [
+    "p8 date sequence '1990, 1997, 220 years ago' confused; likely meant 1790",
+    "p41 beryllium disc thickness '15,000 thick' likely '.015 inches'",
+    "p41 'Chase Brass and Copper' supplier name — actual Be-Cu supplier is Brush Wellman/Materion"
+  ]
+}

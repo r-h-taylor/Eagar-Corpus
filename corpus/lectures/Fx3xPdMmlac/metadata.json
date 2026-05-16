@@ -1,0 +1,56 @@
+{
+  "video_id": "Fx3xPdMmlac",
+  "course": "3.371 Fusion Welding",
+  "term": "Summer 2013",
+  "session": "3 of 6",
+  "video_title": "3.371 Fusion Welding - Summer 2013 [3/6]",
+  "raw_transcript_sha256": "630e654d61fd23b2fad703df3fc02c8c8f10c35b3c5dbc05267260234d2bf7ba",
+  "raw_transcript_line_count": 2236,
+  "raw_transcript_word_count": 15815,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T20:42:11.200962+00:00",
+  "layer2": {
+    "paragraph_count": 107,
+    "duration_covered_seconds": 5346,
+    "duration_covered_mmss": "89:06"
+  },
+  "candidate_sections": [
+    {"id": "s1", "title": "Flame straightening and residual stresses", "start": "00:04", "end": "08:13"},
+    {"id": "s2", "title": "Submarine hulls and stress relief", "start": "08:13", "end": "11:24"},
+    {"id": "s3", "title": "Battleships, the Iowa, and 16-inch armor welds", "start": "11:24", "end": "14:48"},
+    {"id": "s4", "title": "Shape charges and armor defeat", "start": "14:48", "end": "23:07"},
+    {"id": "s5", "title": "Tank warfare and the M1 Abrams", "start": "23:07", "end": "27:36"},
+    {"id": "s6", "title": "Flame cutting versus flame straightening", "start": "27:36", "end": "35:40"},
+    {"id": "s7", "title": "Boundary layers and the arc as augmented flame", "start": "35:40", "end": "42:25"},
+    {"id": "s8", "title": "Heat balance in the arc: Metcalf-Quigley", "start": "42:25", "end": "47:12"},
+    {"id": "s9", "title": "Electron flow and the three voltage components", "start": "47:12", "end": "57:09"},
+    {"id": "s10", "title": "Electrode polarity choice and power supplies", "start": "57:09", "end": "65:59"},
+    {"id": "s11", "title": "Arc constriction and thoriated tungsten", "start": "65:59", "end": "73:36"},
+    {"id": "s12", "title": "The Alpha sub and Soviet titanium welding", "start": "73:36", "end": "89:06"}
+  ],
+  "key_cases": [
+    "Cincinnati Reds stadium I-beam (Roy McCauley flame straightening)",
+    "Forging press repair weld (13-inch submerged arc weld sample passed around)",
+    "USS Iowa gun turret explosion repair (1989)",
+    "Aberdeen Proving Ground shape charge demonstrations",
+    "Gulf War 1991 tank battle (Abrams vs T-72)",
+    "Laser+oxygen lights-out cutting machine fire (Western Massachusetts)",
+    "Alcoa LNG sphere welding sunburn",
+    "Soviet Alpha-class submarine and titanium creep-fatigue cracking",
+    "Watertown Arsenal Ti-6Al-4V development",
+    "MIT-Soviet exchange visit to Paton Institute (with Szekely)"
+  ],
+  "key_figures": [
+    "1,000 W/cm² — flame heating limit (boundary layer)",
+    "2,000 W/cm² — jet burner / arc with no electrons",
+    "100,000 W/cm² — oxygen cutting (no boundary layer)",
+    "10,000–12,000 K — arc plasma temperature",
+    "10 V — total electron voltage drop (work function + anode + Thompson)",
+    "60% of arc heat reaches workpiece; 80% of that is electron flow",
+    "25 mV = 300 K thermal noise equivalent",
+    "15,000–20,000 PSI — max practical steam pressure",
+    "Tank lifetime ~2.5 min on battlefield (Suez 1972 reference)",
+    "ASME stress-relief threshold: 1.25–1.5 inch"
+  ]
+}

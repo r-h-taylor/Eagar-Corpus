@@ -1,0 +1,61 @@
+{
+  "video_id": "wpBHc0zsiNo",
+  "course": "Materials Selection and Economics",
+  "term": "Fall 2017",
+  "video_title": "2017 09 20",
+  "lecture_date": "2017-09-20",
+  "raw_transcript_sha256": "9a6694d37e273507de101cc03743b3bb4470b6acd0cd33f2ed7ccfedf8fa393a",
+  "raw_transcript_line_count": 1059,
+  "raw_transcript_word_count": 8514,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T04:51:02.081481+00:00",
+  "layer2_paragraph_count": 53,
+  "duration_covered_mmss_start": "00:00",
+  "duration_covered_mmss_end": "48:23",
+  "tom_spoken_slips_bracketed": [
+    {"paragraph": "p5", "raw": "Wittle", "corrected": "Whittle", "referent": "Frank Whittle, British jet engine inventor"},
+    {"paragraph": "p30", "raw": "E.A. Edison", "corrected": "T.A. Edison", "referent": "Thomas Alva Edison"},
+    {"paragraph": "p45", "raw": "Roosevelt", "corrected": "Rockefeller", "referent": "John D. Rockefeller, Standard Oil; Tom self-corrects shortly after"},
+    {"paragraph": "p50", "raw": "Lindy", "corrected": "Linde", "referent": "Linde process for air liquefaction"}
+  ],
+  "captioner_garbles_flagged_for_editor": [
+    {"paragraph": "p6", "raw": "Gotbutshank / God but shank", "context": "MIT faculty member who went to Pratt & Whitney in the 1960s to lead single-crystal turbine blade development", "candidates_speculative": ["Maurice Gell", "Bernard Kear"], "resolution": "unresolved; preserved in layer 2 with editor flag"}
+  ],
+  "topics": [
+    "fire sprinkler system pipe materials",
+    "gas turbine industry history and materials",
+    "thermal barrier coatings (zirconium oxide)",
+    "Air Force engine research committee anecdote",
+    "National Aerospace Plane risk-benefit",
+    "Maslow's hierarchy of needs",
+    "Edison concrete home patent",
+    "polyurethane insulation fires",
+    "Roman vs modern concrete durability",
+    "adobe construction",
+    "history of metals: copper, bronze, cast iron, wrought iron",
+    "Saugus Ironworks",
+    "Bessemer process and Andrew Carnegie",
+    "MIT Department of Metallurgy origin (1888)",
+    "integrated steel mills, Burns Harbor",
+    "Bethlehem Steel decline",
+    "open hearth vs basic oxygen furnace (BOF)",
+    "steel productivity revolution"
+  ],
+  "cases_mentioned": [
+    "fire sprinkler system plastic pipe cracking",
+    "gas turbine blade evolution (uncooled → DS → single crystal → TBC)",
+    "Air Force $300M/year engine research committee (~2005)",
+    "Mach 17 ordnance / Osama bin Laden anecdote",
+    "National Aerospace Plane (1980s)",
+    "Edison concrete home patent",
+    "polyurethane insulation exothermic fires",
+    "Roman concrete vs modern concrete",
+    "adobe (Mexico student project)",
+    "Saugus Ironworks",
+    "Bessemer converter and Andrew Carnegie",
+    "Burns Harbor integrated steel mill (Bethlehem Steel, 1964)",
+    "Bethlehem Steel bankruptcy / depreciated equipment fallacy",
+    "Linz BOF development (Austria, 1950s)"
+  ]
+}

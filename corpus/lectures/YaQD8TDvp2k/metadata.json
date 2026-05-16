@@ -1,0 +1,67 @@
+{
+  "video_id": "YaQD8TDvp2k",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [24/29]",
+  "lecture_number": 24,
+  "lecture_total": 29,
+  "raw_transcript_sha256": "f73286ba35c55bd5b7c1ea0d91473dbf0500e42250d68ca179ee41126dedf2db",
+  "raw_transcript_line_count": 844,
+  "raw_transcript_word_count": 6888,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T14:48:15.250790+00:00",
+  "layer2_paragraph_count": 30,
+  "layer2_timestamp_range": "00:04 to 37:13",
+  "primary_topics": [
+    "King Street Bridge failure recap",
+    "heat-treatable vs non-heat-treatable aluminum alloys",
+    "aluminum weld joint design",
+    "cement truck pressure vessel failure case",
+    "ASME code and National Board inspection",
+    "hydrogen porosity in aluminum welds",
+    "tree stand turnbuckle court case",
+    "crater cracks and welder technique",
+    "aluminum oxide skin"
+  ],
+  "cases_mentioned": [
+    {
+      "name": "King Street Bridge failure (Melbourne)",
+      "first_anchor": "p1",
+      "frame": "Doubler plate wrapped weld caused hydrogen crack on tension side; modern codes prohibit wrap-around welding."
+    },
+    {
+      "name": "Cement truck aluminum water tank explosion",
+      "first_anchor": "p9",
+      "frame": "Lawyer doing engineering decided ASME doubler plates unnecessary; 100,000 tanks built without reinforcement; one killed welder in Pennsylvania."
+    },
+    {
+      "name": "Connecticut cement truck steering failure",
+      "first_anchor": "p11",
+      "frame": "Muriatic acid leaked through seals corroded steering gears; truck driven off bridge."
+    },
+    {
+      "name": "Iowa hydro-test fatality (pre-Pennsylvania)",
+      "first_anchor": "p20",
+      "frame": "Brand-new aluminum tank blew during pressure testing, took worker's legs off; attorney dismissed as one-off."
+    },
+    {
+      "name": "Tree stand turnbuckle court case (White Plains NY)",
+      "first_anchor": "p26",
+      "frame": "Four pores on fracture surface used by opposing side as cause; Tom's ping-pong-balls-on-a-table analogy won the jury."
+    }
+  ],
+  "figures_referenced": [
+    "6% volume shrinkage of aluminum on solidification",
+    "30 ksi vs 50-70 ksi (non-heat-treatable vs heat-treatable aluminum)",
+    "Aluminum 5x cost of steel per equivalent volume",
+    "$2/lb (auto), $200/lb (aircraft), $20,000/lb (spacecraft)",
+    "40% porosity → 40% strength loss (linear in aluminum)",
+    "Aluminum melting 550-660 C vs hydrated oxide 1500-2000 C",
+    "55 psi air brake / garden hose pressure",
+    "5 psi safe test pressure for oil tanks",
+    "100,000 cement truck tanks built",
+    "ASTM x-ray code: $300 (15 years ago) → $2,000 (today)"
+  ]
+}

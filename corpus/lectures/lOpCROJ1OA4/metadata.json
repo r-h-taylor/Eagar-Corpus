@@ -1,0 +1,43 @@
+{
+  "video_id": "lOpCROJ1OA4",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2015",
+  "lecture_number": 15,
+  "lecture_total": 18,
+  "video_title": "3.371 Welding Metallurgy - Summer 2015 [15/18]",
+  "raw_transcript_sha256": "8fba864e8d4844ae08b45bcbdf8583c96e5adce5df444984ed4c22c86a965def",
+  "raw_transcript_line_count": 504,
+  "raw_transcript_word_count": 4080,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T16:29:31.724103+00:00",
+  "layer2_paragraph_count": 20,
+  "duration_approx_minutes": 28,
+  "primary_topics": [
+    "Alclad composite aluminum sheet",
+    "Hall-Héroult process and aluminum history",
+    "Aluminum alloy series designations (1xxx-8xxx)",
+    "Aluminum-lithium alloys",
+    "Precipitation hardening and temper designations (T6, T7, H tempers)",
+    "Stress corrosion cracking case study: America's Cup piston cylinder",
+    "Leak-before-break design analysis"
+  ],
+  "cases_mentioned": [
+    "Novelis Alclad sheet (Alcan/Pechiney merger)",
+    "Hall and Héroult independent invention (1888)",
+    "Washington Monument aluminum pyramid cap",
+    "French royal crown jewels aluminum dinnerware",
+    "Boeing 787 aluminum-lithium components",
+    "Space Shuttle main tank aluminum-lithium",
+    "Wright brothers engine precipitate study (Smithsonian)",
+    "Navtech America's Cup piston cylinder failure (7075-T6 stress corrosion)"
+  ],
+  "people_mentioned": [
+    "Charles Martin Hall",
+    "Paul Héroult",
+    "Jerry Milgram",
+    "Steve (Navtech engineer)"
+  ],
+  "needs_editorial_review": true,
+  "review_notes": "Heavy captioner garbling in fracture mechanics calculations (p14, p18-19). Multiple numeric values uncertain. Layer 3 will require careful reconstruction or flagging."
+}

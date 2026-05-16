@@ -1,0 +1,82 @@
+{
+  "video_id": "d9ZqDMG93LQ",
+  "course": "Materials Selection and Economics",
+  "term": "Fall 2017",
+  "session_date": "2017-09-18",
+  "video_title": "2017 09 18",
+  "raw_transcript_sha256": "3894f4d7ad5e9e091e09cdf46a19e525c590fa3e7843eaa7871e9cda97cb9cf8",
+  "raw_transcript_line_count": 1058,
+  "raw_transcript_word_count": 8429,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T04:44:30.194244+00:00",
+  "layer2_paragraph_count": 54,
+  "layer2_timespan": "00:00–46:51",
+  "duration_minutes_approx": 47,
+  "lecture_topics": [
+    "Ratio analysis diagrams (steel, aluminum, titanium)",
+    "Beryllium copper and spark-resistant tools",
+    "Ashby plots: strength vs. service temperature",
+    "Fracture energy in building codes (Northridge, Liberty ships)",
+    "Petroski, To Engineer Is Human",
+    "Material substitution: refrigerator interiors",
+    "Honda Civic corrosion failure and reputation recovery",
+    "Externalities of safety regulation (fire watch, copper pipe crimp fittings)",
+    "Massachusetts police/fire details and living wage",
+    "Beverage container materials competition (steel, aluminum, plastic, glass)",
+    "Pineapple juice composite can; calculus of variations",
+    "Plastic gas tanks (terne-coated steel → 7-layer composites; EPA permeability)",
+    "Beer purists and glass; co-located glass plants and breweries",
+    "Water and gas pipe history (clay, wood, cast iron, plastic, stainless)",
+    "Corrugated stainless steel tubing and lightning-strike fires"
+  ],
+  "named_persons": [
+    "George Irwin",
+    "A.A. Griffith",
+    "Hyman Rickover",
+    "Henry Petroski",
+    "Dr. Belmar (co-instructor)"
+  ],
+  "named_works": [
+    "To Engineer Is Human (Petroski)"
+  ],
+  "named_organizations": [
+    "U.S. Steel",
+    "Naval Research Laboratory",
+    "Duke University",
+    "National Academy of Engineering",
+    "KitchenAid",
+    "Honda",
+    "Toyota",
+    "Ford",
+    "General Motors",
+    "EPA",
+    "OSHA",
+    "Coors",
+    "Boston Gas",
+    "National Grid",
+    "Boston Fire Department",
+    "American Gas Association"
+  ],
+  "named_places": [
+    "Boston",
+    "Norwood, Massachusetts",
+    "New York City",
+    "Florida",
+    "South Dakota",
+    "Wyoming",
+    "Japan",
+    "China",
+    "Germany",
+    "San Francisco"
+  ],
+  "captioner_corrections_count": 23,
+  "spoken_slip_brackets_count": 0,
+  "stage_directions_inserted": 1,
+  "flags_for_editorial_register": [
+    "p4/p5: Tom dates Griffith's equation to 1925 in p4 and '1945' in p5; the canonical date is 1920/1921 (Phil. Trans. Roy. Soc., 'The phenomena of rupture and flow in solids'). Both dates preserved per convention §16; editor may wish to footnote in layer 3.",
+    "p27: 'the Steve— Japan' — verbal stumble; unclear whether Tom was about to say a name (Steve Jobs?) or just stumbled. Preserved as written.",
+    "p36: 'twenty-five years ago I had a student working at Ford' — places Tom's Ford-paint-line consulting circa 1992 if lecture is 2017. Verifiable against Tom's consulting record.",
+    "p54: Tom names co-instructor as 'Brian, or Simone, Dr. Belmar' — verify which colleague (likely a Dr. Belmar; first name uncertain from audio)."
+  ]
+}

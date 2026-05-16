@@ -1,0 +1,68 @@
+{
+  "video_id": "q9rwgUdOynw",
+  "course": "Corrosion",
+  "course_number": "3.371",
+  "term": "Summer 2016",
+  "video_title": "3.371 Corrosion - Summer 2016 [2/5]",
+  "lecture_position": "2 of 5",
+  "raw_transcript_sha256": "58eefb8bed6ea75388e7676681fb80ef56f96092874ba0c6b2d722ea4c0bca89",
+  "raw_transcript_line_count": 1027,
+  "raw_transcript_word_count": 8101,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-11T21:40:22.719475+00:00",
+  "layer2_paragraph_count": 60,
+  "duration_covered": "00:02 – 47:45",
+  "primary_topics": [
+    "proprietary aluminum alloys (Alcoa / Boeing / Airbus)",
+    "codes and standards (Aluminum Association, ASTM, FAA MIL-HDBK-5 / MMPDS)",
+    "Navy SUPSHIP / NAVSEA quality audit dynamics",
+    "shipbuilding precision tolerances",
+    "modular submarine construction (Quonset Point / Newport News)",
+    "cast iron graphitic corrosion (Hurricane Sandy)",
+    "fracture toughness of rubber and steel",
+    "heat-exchanger / condenser tube alloy selection",
+    "cupro-nickel 90/10 and 70/30, Monel, titanium piping",
+    "steel corrosion rate in water (4 mils/year rule)",
+    "Phoenix warehouse roof failure (20 mils/year case)",
+    "stainless steel grade designations (UNS, AISI, ISO)",
+    "Miami Art Museum case (410 → 316 → 2205 duplex)",
+    "stress corrosion cracking and chloride sensitivity",
+    "Uhlig oxygen-corrosion data",
+    "exfoliation corrosion (Al 7075)",
+    "corrosion fatigue wedge cracks"
+  ],
+  "cases_mentioned": [
+    "Alcoa / Boeing / Airbus 7150 aluminum wing spars dispute",
+    "Bath Iron Works Navy QA dynamics",
+    "Ingalls shipyard sun-deformation example",
+    "Baltimore Gas and Electric Admiralty brass under-deposit attack",
+    "New England Aquarium piping (Monel)",
+    "Mormon Temple Belmont heat exchanger (copper → 90/10 cupro-nickel)",
+    "Phoenix million-square-foot warehouse roof corrosion",
+    "Miami Art Museum hanging garden (martensitic 410 → austenitic 316 → duplex 2205)",
+    "Hyatt Regency walkway collapse (mentioned as cautionary reference)",
+    "Hurricane Sandy cast iron graphitic corrosion (student case, Brian)",
+    "Hot-dog-cooker stainless steel chloride failure"
+  ],
+  "people_referenced": [
+    "Herbert H. Uhlig (MIT corrosion pioneer)",
+    "Gordon E. Forward (not in this lecture)",
+    "Brian (student presenter, Hurricane Sandy case)",
+    "Spec Van Lambing (former student, mentioned)",
+    "Sandvik metallurgists (Sweden)"
+  ],
+  "physical_artifacts_referenced": [
+    "Tom's tough red rubber sheet (fracture toughness demo, missing today)",
+    "Nalco Guide to Cooling Water Failure Analysis (2nd edition, McGraw-Hill)",
+    "Nalco Guide to Boiler System Failure Analysis (McGraw-Hill)",
+    "Johnson & Johnson martensitic stainless surgical scissors with cobalt inserts and gold-plated handles",
+    "Sample finned copper heat-exchanger tube (hospital air-conditioning system)"
+  ],
+  "notes": [
+    "This is the second of five videos in the Summer 2016 Corrosion series. Lecture opens mid-discussion (Tom is finishing an answer about aluminum specs from the prior session or prior moment).",
+    "Lecture functions partly as a recitation — Tom brings in the new Nalco book and uses its figures to reinforce content from the previous day's lecture.",
+    "The surgical-scissors anecdote (p39) is a reuse of the same case Tom tells in lec11 §1 of the worked example (different course, different year). The price figures and details differ slightly — this is Tom's recurring teaching case on insurance overhead in medical products.",
+    "Sentence-level garbles in the student turns (p18 Brian, p41 catapult-psi student) are flagged for editorial register review at layer 3."
+  ]
+}

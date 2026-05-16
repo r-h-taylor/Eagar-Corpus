@@ -1,0 +1,59 @@
+{
+  "video_id": "d-QWemzw5KI",
+  "course": "Welding Quality",
+  "course_number": "3.371",
+  "course_title_on_record": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [29/35]",
+  "lecture_number_in_series": 29,
+  "total_lectures_in_series": 35,
+  "raw_transcript_sha256": "e42c2d241e609a56a17e5605834bb6878f838ec27d799e2486a208c59858854d",
+  "raw_transcript_line_count": 522,
+  "raw_transcript_word_count": 3359,
+  "layer2_paragraph_count": 26,
+  "layer2_timestamp_start": "00:15",
+  "layer2_timestamp_end": "18:00",
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T19:07:05.201317+00:00",
+  "primary_topics": [
+    "scandium in aluminum alloys (grain refinement)",
+    "baseball bat physics (impedance matching, coefficient of restitution)",
+    "magnesium welding and stress corrosion cracking",
+    "aluminum alloy classification (1xxx through 7xxx series)",
+    "liquation cracking and hot tearing in aluminum welds",
+    "joint efficiency in heat-treatable aluminum alloys",
+    "freezing range and crack susceptibility"
+  ],
+  "materials_discussed": [
+    "scandium (in aluminum)",
+    "titanium nitrides / borides (grain refiners)",
+    "beryllium",
+    "magnesium",
+    "zinc",
+    "aluminum 1100",
+    "aluminum 2024",
+    "aluminum 2219",
+    "aluminum 4043",
+    "aluminum 5083",
+    "aluminum 6061",
+    "aluminum 7xxx series"
+  ],
+  "cases_mentioned": [
+    "scandium baseball bat (Soviet origin, BPF rating)",
+    "Naval Surface Weapon Center / China Lake high-speed bat testing",
+    "NCAA bat performance regulations",
+    "NASCAR magnesium parts",
+    "magnesium 'mag wheels' on automobiles",
+    "magnesium in automobile dashboards (15-20 lb)",
+    "helicopter cast magnesium parts",
+    "aluminum sewage treatment plants",
+    "Space Shuttle external tank (2219 aluminum)",
+    "Sindo Kou welding metallurgy textbook (cracking examples)",
+    "undergraduate lab 2024 aluminum welding"
+  ],
+  "people_referenced": [
+    "Sindo Kou (textbook author)"
+  ],
+  "notes": "Lecture covers tail end of aluminum alloy welding metallurgy. Opens with extended digression on scandium baseball bats (Soviet alloy use, bat physics, impedance matching), then short complete unit on magnesium welding (why it's not done — stress corrosion cracking), then aluminum welding metallurgy proper (alloy series, liquation cracking, hot tearing, joint efficiency, freezing range vs. crack susceptibility). Ends with mid-lecture break ('go get breakfast'). Likely continues in lecture 30."
+}

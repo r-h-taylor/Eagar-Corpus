@@ -1,0 +1,41 @@
+{
+  "video_id": "QPArN_Q34s8",
+  "course": "Casting",
+  "term": "Summer 2011",
+  "video_title": "3.371 Materials Processing and Casting - Summer 2011 [5/7]",
+  "raw_transcript_sha256": "e0c2adb75dfc14f8ae1dcf5c55db7feeb4f7b9c4e41317b0c87b2e7997f2c9a7",
+  "raw_transcript_line_count": 1979,
+  "raw_transcript_word_count": 15711,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-14T07:03:24.718535+00:00",
+  "layer2_paragraph_count": 97,
+  "layer2_student_turns": 4,
+  "layer2_stage_directions": 8,
+  "lecture_duration_approx_minutes": 92,
+  "break_at": "45:27-49:50",
+  "primary_topics": [
+    "continuous casting limits and productivity",
+    "undercooling and the Stefan problem",
+    "semisolid processing (rheo/thixo) and MIT history",
+    "investment casting and single-crystal turbine blades",
+    "sand casting",
+    "Southwire and Hazelett continuous casting processes",
+    "macro vs micro segregation",
+    "strength-toughness-ductility and the Amtrak trolley wire case"
+  ],
+  "recurring_cases": [
+    "Flemings semisolid processing patent (MIT, 1970)",
+    "single-crystal turbine blade manufacture ($6,000 blade)",
+    "iridium-shelled plutonium thermoelectric generators (deep space)",
+    "Amtrak New Haven-Boston trolley wire / British supplier / Phelps Dodge",
+    "Vancouver World's Fair 36-inch gold coin",
+    "copper theft from MIT classroom (surveillance camera anecdote)",
+    "Liberty ship brittle fracture"
+  ],
+  "flags_for_editor": [
+    "p75: 'thicket' rendering for thixo-something cellular structure term — captioner garbling, corrected reading uncertain",
+    "p49: $8,000 vs $88,000 copper pipe theft — corrected to $8,000 on context grounds, verify",
+    "p33: rhenium vs iridium distinction maintained through captioner confusion"
+  ]
+}

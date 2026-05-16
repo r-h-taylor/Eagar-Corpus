@@ -1,0 +1,72 @@
+{
+  "video_id": "sSdJgzB3ioQ",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [18/29]",
+  "lecture_number": 18,
+  "lecture_total": 29,
+  "raw_transcript_sha256": "7eb3fef00b6f2f86e8976cd62eef6d1b8aec733463241dced2f04660852e386e",
+  "raw_transcript_line_count": 837,
+  "raw_transcript_word_count": 6859,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T14:23:02.694551+00:00",
+  "layer2_paragraph_count": 32,
+  "layer2_starting_timestamp": "00:14",
+  "layer2_ending_timestamp": "37:08",
+  "primary_topics": [
+    "student project topic selection",
+    "post-weld heat treatment and stress relief",
+    "on-site stress relieving",
+    "the Wyman Gordon 50,000-ton forging press and its fatigue crack repair",
+    "Krupp acquisition of Wyman Gordon and product liability",
+    "General Aviation Revitalization Act and aircraft crank shaft manufacturing",
+    "ASME Boiler and Pressure Vessel Code",
+    "North Andover hot isostatic press explosion (case study)",
+    "leak-before-break design philosophy",
+    "stress corrosion cracking conditions",
+    "fracture mechanics K1c equation"
+  ],
+  "recurring_cases_mentioned": [
+    "Wyman Gordon 50,000-ton forging press (West Grafton, MA)",
+    "Alcoa 50,000-ton forging press (Cleveland)",
+    "Battleship Iowa turret explosion (Puerto Rico)",
+    "North Andover hot isostatic press failure",
+    "Harley-Davidson aluminum cylinder HIP processing",
+    "Teledyne Continental crank shaft recall"
+  ],
+  "people_named": [
+    "Dr. Belmar (co-instructor)",
+    "Mike Boomforth [Bumforth?] (possibly guest lecturer on structural welding code)",
+    "Jonathan (student in class)",
+    "Ron (colleague, fact-witness context)"
+  ],
+  "companies_named": [
+    "On-Site Stress Relieving Services",
+    "Alcoa",
+    "Wyman Gordon",
+    "Krupp",
+    "Japan Steel Works",
+    "Textron Lycoming",
+    "Teledyne Continental",
+    "Piper",
+    "Beechcraft",
+    "Cessna",
+    "International Harvester",
+    "Harley-Davidson",
+    "Pratt & Whitney",
+    "General Electric",
+    "Rolls Royce",
+    "Travelers Insurance"
+  ],
+  "lecture_ends_midsentence": true,
+  "section_count_estimate": 5,
+  "estimated_section_breaks": [
+    "00:14 — student project topic selection and scheduling",
+    "05:35 — on-site stress relieving and the forging press fatigue crack",
+    "17:48 — Krupp/Wyman Gordon and crank shaft liability",
+    "22:33 — post-weld heat treatment: three reasons",
+    "26:01 — North Andover HIP explosion and fracture mechanics"
+  ]
+}

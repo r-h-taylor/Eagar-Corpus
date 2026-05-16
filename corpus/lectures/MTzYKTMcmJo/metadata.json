@@ -1,0 +1,28 @@
+{
+  "video_id": "MTzYKTMcmJo",
+  "course": "Fusion Welding",
+  "term": "Summer 2013",
+  "video_title": "The Story of Arc Welding",
+  "raw_transcript_sha256": "b5885f8114e110acc944f272767ce483f230dc388aa7b3d1fd705402ba5f4b8c",
+  "raw_transcript_line_count": 424,
+  "raw_transcript_word_count": 3129,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T12:36:47.079031+00:00",
+  "layer2_paragraph_count": 40,
+  "duration_covered_seconds": 1085,
+  "source_type": "archival_film",
+  "tom_voice_present": false,
+  "editorial_notes": "This recording is a 1940s-era industrial promotional film (likely Lincoln Electric or similar) shown in Tom Eagar's Summer 2013 Fusion Welding class. The transcript contains only the film soundtrack — narration and dramatized character dialogue — with no audio of Tom himself. Conventions designed for Tom's spontaneous speech do not apply. Speaker labels added for dramatized scenes. Captioner errors on welding terminology (arc/art, mold/mole, downhand) corrected silently. One garbled soldier line (p3) flagged with bracket. Recommend Richard reclassify in archive as 'screened material' rather than 'lecture' before layer 3 processing.",
+  "flags_for_editor": [
+    {
+      "paragraph": "p3",
+      "issue": "Captioner garble on dramatized soldier dialogue 'Wold beer insist'; intended scripted line cannot be confidently recovered.",
+      "marker": "Wold[er] beer insist"
+    },
+    {
+      "paragraph": "all",
+      "issue": "Source is not Tom's voice. Recommend reclassification of this video_id within the corpus before layer 3 sectioning is attempted."
+    }
+  ]
+}

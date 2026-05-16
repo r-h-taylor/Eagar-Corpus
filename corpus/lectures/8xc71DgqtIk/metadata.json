@@ -1,0 +1,46 @@
+{
+  "video_id": "8xc71DgqtIk",
+  "course": "Fusion Welding",
+  "course_number": "3.37",
+  "term": "Summer 2013",
+  "video_title": "Maglay Joining Process",
+  "raw_transcript_sha256": "e5b247e93236d3766734e10c09bb5e58490798b46afa778e9b4576179a7fc431",
+  "raw_transcript_line_count": 123,
+  "raw_transcript_word_count": 739,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T13:15:19.397991+00:00",
+  "source_type": "third_party_promotional_film",
+  "source_attribution": "Kawasaki Steel Corporation",
+  "instructor_voice_present": false,
+  "process_name_canonical": "MAGLAY",
+  "process_description": "Overlay welding process using wide strip electrode with electroslag heating and electromagnetic control of liquid slag and metal flow",
+  "duration_approx_minutes": 8,
+  "layer2_paragraph_count": 12,
+  "captioner_proper_noun_corrections": [
+    {"raw": "magl / magay / magl process", "corrected": "Maglay"},
+    {"raw": "WID strip electrode", "corrected": "wide strip electrode"},
+    {"raw": "sa / sa strip", "corrected": "SAW / SAW strip"},
+    {"raw": "epok making", "corrected": "epoch-making"},
+    {"raw": "epical", "corrected": "epochal"}
+  ],
+  "bracketed_clarifications": [
+    {"paragraph": "p3", "bracket": "SAW [submerged arc welding]"},
+    {"paragraph": "p5", "bracket": "natural [actual]"},
+    {"paragraph": "p12", "bracket": "[welding industry]"}
+  ],
+  "tom_slips_bracketed": [],
+  "editor_review_flags": [
+    "Source is a Kawasaki Steel promotional film, not Tom Eagar lecturing. Decide layer 3 disposition.",
+    "p5 'natural [actual]' — narration ambiguous, bracket flagged.",
+    "p12 closing line cut off in transcript; bracketed completion supplied."
+  ],
+  "applications_mentioned": [
+    "pressure vessels for nuclear power reactors",
+    "oil refining reaction towers",
+    "oil desulfurization towers",
+    "heat exchangers",
+    "nozzles and flanges",
+    "liners for water turbines"
+  ]
+}

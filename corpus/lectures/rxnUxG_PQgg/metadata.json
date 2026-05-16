@@ -1,0 +1,41 @@
+{
+  "video_id": "rxnUxG_PQgg",
+  "course": "Total Quality Improvement",
+  "term": "Spring 2018",
+  "video_title": "2018 02 06",
+  "session_type": "first-day introduction / course overview",
+  "lecturers_present": ["Tom Eagar", "Simone Belmar", "Steve Lyons"],
+  "raw_transcript_sha256": "6c7bbf99f051d40e1a07f1f2cde65f9be842a16d40b6b35f33f956e08fdad3c0",
+  "raw_transcript_line_count": 1135,
+  "raw_transcript_word_count": 9123,
+  "layer2_paragraph_count": 55,
+  "duration_covered_mmss": "00:02-51:26",
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-11T22:01:57.017955+00:00",
+  "captioner_corrections_silent": [
+    {"raw": "eager / ager / Eagers", "corrected": "Eagar", "type": "proper-noun-recurring"},
+    {"raw": "Polson", "corrected": "Paulson", "type": "proper-noun"},
+    {"raw": "Reagan / Reagan II / Vougeot knee", "corrected": "Ragone", "type": "proper-noun"},
+    {"raw": "Austin", "corrected": "Allston", "type": "place-name"},
+    {"raw": "Rensselaer Polytechnic Android", "corrected": "Rensselaer Polytechnic, in Troy", "type": "garbled-phrase"},
+    {"raw": "more plots", "corrected": "Moore plots", "type": "homophone"},
+    {"raw": "Ecole Polytechnique", "corrected": "École Polytechnique", "type": "accent-restoration"},
+    {"raw": "moral act", "corrected": "Morrill Act", "type": "proper-noun"},
+    {"raw": "pole-vault polls", "corrected": "pole-vault poles", "type": "homophone"},
+    {"raw": "Sarah bleah", "corrected": "down considerably", "type": "garbled-adverb", "flagged": true}
+  ],
+  "tom_slips_bracketed": [
+    {"spoken": "Hesus del Alamo", "correction": "Jesús del Álamo", "occurrences": 2, "context": "MIT EE faculty member; joke depends on anglicized reading"},
+    {"spoken": "eager-tot.mit.edu", "correction": "eagar-tqi.mit.edu", "occurrences": 1, "context": "course URL"}
+  ],
+  "flagged_for_editor": [
+    "p6 'Sarah bleah' → rendered 'down considerably'; alternative readings possible",
+    "p25 student 'it's BS' answer reconstructed from Tom's reply, not directly captured",
+    "p39 Tom's 'dead object' comment — meaning unclear",
+    "p44 'now you all got hard' — captioner unclear",
+    "p51/p54 'Rosetta' — possibly student-name address in room",
+    "p18, p23, p40 — student questions inaudible; reconstructed from Tom's reply"
+  ],
+  "notes": "First-day-of-term lecture. Format is course overview, not subject lecture; three lecturers introduce themselves (Eagar, Belmar, Lyons). Layer 3 sectioning will be unusual for this lecture — likely sections will follow the three lecturer-turns plus Tom's opening (administrative), Tom's Course-One/Harvard history digression, and Tom's closing Chuck-Vest anecdote. No technical materials-science cases in this session; the lecture is administrative + institutional history."
+}

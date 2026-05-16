@@ -1,0 +1,121 @@
+{
+  "lecture_id": "K4LxKVNarnM",
+  "course": "3.371 Deformation Processing",
+  "term": "Spring 2012",
+  "session": "6/12",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Where we are in the book; shear and redundant work",
+      "section_timestamp_start": "00:34",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:34", "01:33"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:33", "01:53"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:53", "02:54"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["02:54", "04:00"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["04:00", "05:45"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Buy-to-fly ratio and near net shape",
+      "section_timestamp_start": "05:45",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p6"], "timestamp_range": ["05:45", "06:24"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p7"], "timestamp_range": ["06:24", "08:08"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p8"], "timestamp_range": ["08:08", "08:57"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Closed die forging and forging laps",
+      "section_timestamp_start": "08:57",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p9"], "timestamp_range": ["08:57", "09:38"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p10"], "timestamp_range": ["09:38", "11:23"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p11"], "timestamp_range": ["11:23", "11:52"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p12"], "timestamp_range": ["11:52", "12:56"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p13"], "timestamp_range": ["12:56", "13:47"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p14"], "timestamp_range": ["13:47", "15:25"]},
+        {"l3_id": "§3.p7", "l2_ids": ["p15"], "timestamp_range": ["15:25", "17:09"]},
+        {"l3_id": "§3.p8", "l2_ids": ["p16"], "timestamp_range": ["17:09", "17:31"]},
+        {"l3_id": "§3.p9", "l2_ids": ["p17"], "timestamp_range": ["17:31", "19:07"]},
+        {"l3_id": "§3.p10", "l2_ids": ["p18"], "timestamp_range": ["19:07", "19:55"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Continuous casting and the LNG propeller shaft",
+      "section_timestamp_start": "19:55",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p19"], "timestamp_range": ["19:55", "21:03"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p20"], "timestamp_range": ["21:03", "21:30"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p20"], "timestamp_range": ["21:30", "22:54"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p21"], "timestamp_range": ["22:54", "23:38"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p22"], "timestamp_range": ["23:38", "24:14"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p23"], "timestamp_range": ["24:14", "25:32"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Rolling I-beams and the Bethlehem Steel story",
+      "section_timestamp_start": "25:32",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p24"], "timestamp_range": ["25:32", "26:45"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p25"], "timestamp_range": ["26:45", "27:40"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p26"], "timestamp_range": ["27:40", "28:38"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p27"], "timestamp_range": ["28:38", "29:24"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p28"], "timestamp_range": ["29:24", "30:47"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p29"], "timestamp_range": ["30:47", "30:52"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p29"], "timestamp_range": ["30:52", "31:10"]},
+        {"l3_id": "§5.p8", "l2_ids": ["p29"], "timestamp_range": ["31:10", "31:14"]},
+        {"l3_id": "§5.p9", "l2_ids": ["p29"], "timestamp_range": ["31:14", "31:18"]},
+        {"l3_id": "§5.p10", "l2_ids": ["p30"], "timestamp_range": ["31:18", "31:30"]},
+        {"l3_id": "§5.p11", "l2_ids": ["p30"], "timestamp_range": ["31:30", "31:35"]},
+        {"l3_id": "§5.p12", "l2_ids": ["p30"], "timestamp_range": ["31:35", "32:54"]},
+        {"l3_id": "§5.p13", "l2_ids": ["p31"], "timestamp_range": ["32:54", "33:05"]},
+        {"l3_id": "§5.p14", "l2_ids": ["p31"], "timestamp_range": ["33:05", "33:10"]},
+        {"l3_id": "§5.p15", "l2_ids": ["p31"], "timestamp_range": ["33:10", "33:47"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Attleboro gold tubing and die design",
+      "section_timestamp_start": "33:47",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p32"], "timestamp_range": ["33:47", "34:58"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p33"], "timestamp_range": ["34:58", "36:22"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p34"], "timestamp_range": ["36:22", "37:39"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Chaparral Steel and the mini mill revolution",
+      "section_timestamp_start": "37:39",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p35"], "timestamp_range": ["37:39", "38:53"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p36"], "timestamp_range": ["38:53", "39:54"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p37"], "timestamp_range": ["39:54", "40:38"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p38"], "timestamp_range": ["40:38", "42:11"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p39"], "timestamp_range": ["42:11", "43:16"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p40"], "timestamp_range": ["43:16", "44:06"]},
+        {"l3_id": "§7.p7", "l2_ids": ["p41"], "timestamp_range": ["44:06", "44:57"]},
+        {"l3_id": "§7.p8", "l2_ids": ["p42"], "timestamp_range": ["44:57", "46:15"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Homer Research, executive dining rooms, and management failure",
+      "section_timestamp_start": "46:15",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p43"], "timestamp_range": ["46:15", "47:32"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p44"], "timestamp_range": ["47:32", "48:39"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p45"], "timestamp_range": ["48:39", "49:22"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p46"], "timestamp_range": ["49:22", "50:30"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p47"], "timestamp_range": ["50:30", "51:24"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p48"], "timestamp_range": ["51:24", "52:44"]},
+        {"l3_id": "§8.p7", "l2_ids": ["p49"], "timestamp_range": ["52:44", "54:00"]}
+      ]
+    }
+  ]
+}

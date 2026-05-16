@@ -1,0 +1,78 @@
+{
+  "video_id": "TOum2TQZu_M",
+  "raw_transcript_sha256": "6a7bfd4aec123870b78074923986e1608719e04d93415c23725f314eab50df94",
+  "raw_transcript_word_count": 18840,
+  "raw_transcript_line_count": 2324,
+  "pipeline_version": "2.0-chunked",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-15T20:05:07.572051+00:00",
+  "chunked": true,
+  "n_chunks": 4,
+  "chunk_overlap_seconds": 30,
+  "chunks_summary": [
+    {
+      "chunk_id": 1,
+      "chunk_start_seconds": 4,
+      "chunk_end_seconds": 1477,
+      "section_count": 6,
+      "section_range_after_renumber": [
+        1,
+        6
+      ],
+      "raw_word_count": 4827
+    },
+    {
+      "chunk_id": 2,
+      "chunk_start_seconds": 1451,
+      "chunk_end_seconds": 2956,
+      "section_count": 8,
+      "section_range_after_renumber": [
+        7,
+        14
+      ],
+      "raw_word_count": 4814
+    },
+    {
+      "chunk_id": 3,
+      "chunk_start_seconds": 2928,
+      "chunk_end_seconds": 4436,
+      "section_count": 6,
+      "section_range_after_renumber": [
+        15,
+        20
+      ],
+      "raw_word_count": 4732
+    },
+    {
+      "chunk_id": 4,
+      "chunk_start_seconds": 4408,
+      "chunk_end_seconds": 5916,
+      "section_count": 9,
+      "section_range_after_renumber": [
+        21,
+        29
+      ],
+      "raw_word_count": 4761
+    }
+  ],
+  "layer2_paragraph_count": 96,
+  "cases_mentioned": [
+    "electric arc furnace water-leak explosion (six fatalities)",
+    "Edison NJ gas pipeline explosion",
+    "Kwajalein radar dome / MIT Lincoln Lab consulting job",
+    "Caltech metallic glass discovery (Duwez)",
+    "Bill Johnson bulk metallic glass golf clubs",
+    "Phelps Dodge trolley wire / Conform process / NH-Boston rail",
+    "Nuclear Metals Inc. (Concord MA) and depleted uranium",
+    "Phalanx CIWS depleted uranium rounds",
+    "Army Ground Combat Vehicle armor proposal"
+  ],
+  "flags_for_editor": [
+    {
+      "issue": "This lecture was processed via chunk-and-stitch due to length exceeding the pipeline's effective output ceiling. Section boundaries near chunk transitions and case-index frame text for cross-chunk cases require human editorial review and consolidation."
+    }
+  ],
+  "course": [],
+  "term": [],
+  "total_section_count": 29
+}

@@ -1,0 +1,105 @@
+{
+  "lecture_id": "G5THU-givDs",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Spring 2014",
+  "session": "26/29",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Aluminum aircraft crankcase repair industry",
+      "section_timestamp_start": "00:13",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:13", "01:04"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:04", "02:19"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["02:19", "03:47"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["03:47", "04:55"]},
+        {"l3_id": "§1.p5", "l2_ids": ["p5"], "timestamp_range": ["04:55", "05:30"]},
+        {"l3_id": "§1.p6", "l2_ids": ["p5"], "timestamp_range": ["05:30", "05:40"]},
+        {"l3_id": "§1.p7", "l2_ids": ["p5"], "timestamp_range": ["05:40", "06:09"]},
+        {"l3_id": "§1.p8", "l2_ids": ["p6"], "timestamp_range": ["06:09", "07:15"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Jet engine repair industry and counterfeit parts",
+      "section_timestamp_start": "07:15",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p7"], "timestamp_range": ["07:15", "08:10"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p7"], "timestamp_range": ["08:10", "08:35"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The 4043 filler metal problem",
+      "section_timestamp_start": "08:35",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p8"], "timestamp_range": ["08:35", "09:50"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p9"], "timestamp_range": ["09:50", "10:30"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p9", "p10"], "timestamp_range": ["10:30", "11:30"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p10"], "timestamp_range": ["11:30", "12:08"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p11"], "timestamp_range": ["12:08", "13:17"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p12"], "timestamp_range": ["13:17", "13:35"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Working through the specifications",
+      "section_timestamp_start": "13:17",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p12"], "timestamp_range": ["13:35", "14:21"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p13"], "timestamp_range": ["14:21", "15:40"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p14"], "timestamp_range": ["15:40", "16:36"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p15"], "timestamp_range": ["16:36", "17:37"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p16"], "timestamp_range": ["17:37", "18:20"]},
+        {"l3_id": "§4.p6", "l2_ids": ["p16"], "timestamp_range": ["18:20", "18:30"]},
+        {"l3_id": "§4.p7", "l2_ids": ["p16"], "timestamp_range": ["18:30", "19:00"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Choosing the filler metal: matching, over-matching, under-matching",
+      "section_timestamp_start": "19:00",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p17"], "timestamp_range": ["19:00", "19:55"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p18"], "timestamp_range": ["19:55", "20:48"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p19"], "timestamp_range": ["20:48", "21:39"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p20"], "timestamp_range": ["21:39", "22:42"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p21"], "timestamp_range": ["22:42", "22:55"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p22"], "timestamp_range": ["22:55", "24:16"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p23"], "timestamp_range": ["24:16", "25:33"]},
+        {"l3_id": "§5.p8", "l2_ids": ["p24"], "timestamp_range": ["25:33", "27:04"]},
+        {"l3_id": "§5.p9", "l2_ids": ["p25"], "timestamp_range": ["27:04", "27:27"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Johnson & Johnson anodized aluminum laser instruments",
+      "section_timestamp_start": "27:27",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p26"], "timestamp_range": ["27:27", "28:08"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p27"], "timestamp_range": ["28:08", "28:52"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p28"], "timestamp_range": ["28:52", "30:11"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p29"], "timestamp_range": ["30:11", "31:41"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p30"], "timestamp_range": ["31:41", "32:54"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "Patent indemnification and consulting liability",
+      "section_timestamp_start": "32:54",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p31"], "timestamp_range": ["32:54", "33:47"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p32"], "timestamp_range": ["33:47", "34:33"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p33"], "timestamp_range": ["34:33", "36:13"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Transition to titanium",
+      "section_timestamp_start": "36:13",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p34"], "timestamp_range": ["36:13", "37:30"]}
+      ]
+    }
+  ]
+}

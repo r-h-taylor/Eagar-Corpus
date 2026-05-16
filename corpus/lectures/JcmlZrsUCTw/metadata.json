@@ -1,0 +1,52 @@
+{
+  "video_id": "JcmlZrsUCTw",
+  "course": "Fusion Welding",
+  "course_number": "3.371",
+  "term": "Summer 2013",
+  "lecture_number_in_series": 6,
+  "lectures_in_series": 6,
+  "video_title": "3.371 Fusion Welding - Summer 2013 [6/6]",
+  "raw_transcript_sha256": "e26f801c339a3c07a4d79a8977c613e40d3292f156396c72c99227ef21c48387",
+  "raw_transcript_line_count": 1213,
+  "raw_transcript_word_count": 9569,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T13:02:04.205771+00:00",
+  "layer2_paragraph_count": 51,
+  "duration_covered_mmss": "00:04 to 52:11 (audio truncates mid-sentence)",
+  "primary_topics": [
+    "Electron Beam welding: magnetic field distortion",
+    "Lissajous patterns for raster heating",
+    "Seebeck effect in dissimilar-metal EB welding",
+    "Electron Beam vs. laser deposition / additive manufacturing precursors",
+    "Radiation shielding and activation limits in multi-MeV beams",
+    "Spare parts and long lead times for large castings (Navy ships)",
+    "Gaussian beam modes and diffraction spots in lasers",
+    "Fiber optics for laser delivery (Yoel Fink / OmniGuide reference)",
+    "Inclusion vaporization and weld metal refining (HY-80 case)",
+    "Heavy section EB welding: Japanese coal gasifier program",
+    "Limits of deep narrow welds: seam tracking, NDT, repair, end craters",
+    "Laser welding of aluminum: reflectivity, oscillating coupling, double-pane window frame case",
+    "Technology displacement (beverage containers, photographic film)",
+    "American business culture critique: Kodak, Bethlehem Steel, Japan, France"
+  ],
+  "cases_referenced": [
+    "EB welding cooling rate study (Tom's student, 10^6 °C/s)",
+    "Japanese coal gasification pressure vessels (heavy section EB)",
+    "Navy relativistic particle beam weapons program ($0.25B, pre-1992)",
+    "Nickel-manganese-aluminum bronze propeller buildup (EB deposition)",
+    "Pratt and Whitney laser turbine disc buildup (~1976-77, ONR contract)",
+    "Wyoming gas plant heat exchanger failure (70-week lead time)",
+    "Naval Research Lab 25 kW laser welding of HY-80 (~1983)",
+    "Mitsubishi Heavy Industries 2-inch stainless spherical vessels",
+    "Illinois aluminum double-pane window frame plant (10 lasers, 300M ft/yr, ~1980)",
+    "Kodak / Fujifilm / Japanese government plant approval",
+    "Bethlehem Steel 1975 new-hire training (depreciation anecdote)",
+    "George Eastman / Kodak Park / MIT 1917 financial rescue"
+  ],
+  "editorial_flags": [
+    "p1: '1,000 deep' weld depth unit ambiguous (microns most plausible) — bracketed [microns] for review",
+    "p18: 'Professor Yoel Fink [Joannopoulos? — see register]' — referent ambiguous between student and advisor; flagged for editor confirmation"
+  ],
+  "notes": "Final lecture of the Summer 2013 Fusion Welding series. Audio cuts off mid-sentence at ~52:11 as Tom calls a 5-minute break. The lecture follows Tom's standard pattern of finishing a technical comparison (EB vs laser, point 8 of a list) then drifting into broader industrial-history tirade (Japan, France, Kodak, Bethlehem Steel)."
+}

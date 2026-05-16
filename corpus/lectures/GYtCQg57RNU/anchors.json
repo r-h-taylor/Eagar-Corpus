@@ -1,0 +1,117 @@
+{
+  "lecture_id": "GYtCQg57RNU",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2015",
+  "session": "7/18",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Why so many steels?",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:02", "01:30"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["01:30", "03:00"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["03:00", "05:14"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["05:14", "06:38"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "Hardenability and the Jominy test",
+      "section_timestamp_start": "06:38",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p5"], "timestamp_range": ["06:38", "08:36"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p6"], "timestamp_range": ["08:36", "10:27"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p7"], "timestamp_range": ["10:27", "11:00"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p7"], "timestamp_range": ["11:00", "11:58"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p8"], "timestamp_range": ["11:58", "12:52"]},
+        {"l3_id": "§2.p6", "l2_ids": ["p9"], "timestamp_range": ["12:52", "13:53"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "The economics of alloy content",
+      "section_timestamp_start": "13:53",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p10"], "timestamp_range": ["13:53", "15:23"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p11"], "timestamp_range": ["15:23", "18:27"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p12"], "timestamp_range": ["18:27", "19:52"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Fabrication cost and the Nimitz weight problem",
+      "section_timestamp_start": "19:52",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p13"], "timestamp_range": ["19:52", "21:17"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p14"], "timestamp_range": ["21:17", "22:53"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p15"], "timestamp_range": ["22:53", "24:29"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p16"], "timestamp_range": ["24:29", "25:30"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Grain size, single crystals, and HSLA-65",
+      "section_timestamp_start": "25:30",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p17"], "timestamp_range": ["25:30", "27:24"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p18"], "timestamp_range": ["27:24", "27:50"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p18"], "timestamp_range": ["27:50", "30:27"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p19"], "timestamp_range": ["30:27", "32:23"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p20"], "timestamp_range": ["32:23", "33:00"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Stout and Doty and the welding procedure look-up",
+      "section_timestamp_start": "33:00",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p20"], "timestamp_range": ["33:00", "34:33"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p21"], "timestamp_range": ["34:33", "35:32"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p22"], "timestamp_range": ["35:32", "36:28"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p23"], "timestamp_range": ["36:28", "37:00"]},
+        {"l3_id": "§6.p5", "l2_ids": ["p23"], "timestamp_range": ["37:00", "38:55"]},
+        {"l3_id": "§6.p6", "l2_ids": ["p24"], "timestamp_range": ["38:55", "40:38"]},
+        {"l3_id": "§6.p7", "l2_ids": ["p25"], "timestamp_range": ["40:38", "42:01"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "The Seawolf and the high-side wire",
+      "section_timestamp_start": "42:01",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p26"], "timestamp_range": ["42:01", "43:51"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p27"], "timestamp_range": ["43:51", "45:21"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p28"], "timestamp_range": ["45:21", "46:34"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p29"], "timestamp_range": ["46:34", "48:30"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p30"], "timestamp_range": ["48:30", "50:38"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p31"], "timestamp_range": ["50:38", "51:30"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Fracture mechanics and what to tell the captains",
+      "section_timestamp_start": "51:30",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p32"], "timestamp_range": ["51:30", "52:57"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p33"], "timestamp_range": ["52:57", "54:00"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p33"], "timestamp_range": ["54:00", "54:55"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p34"], "timestamp_range": ["54:55", "56:00"]},
+        {"l3_id": "§8.p5", "l2_ids": ["p34"], "timestamp_range": ["56:00", "57:00"]},
+        {"l3_id": "§8.p6", "l2_ids": ["p35"], "timestamp_range": ["57:00", "57:09"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "Aloha Airlines and the fatigue-leader problem",
+      "section_timestamp_start": "57:09",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p35"], "timestamp_range": ["57:09", "58:42"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p36"], "timestamp_range": ["58:42", "60:09"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p37"], "timestamp_range": ["60:09", "61:58"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p38"], "timestamp_range": ["61:58", "63:46"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p39"], "timestamp_range": ["63:46", "65:00"]}
+      ]
+    }
+  ]
+}

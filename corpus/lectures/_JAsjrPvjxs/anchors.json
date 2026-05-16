@@ -1,0 +1,128 @@
+{
+  "lecture_id": "_JAsjrPvjxs",
+  "course": "3.371 Welding Metallurgy",
+  "term": "Summer 2015",
+  "session": "3/18",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "Why the Liberty ships failed",
+      "section_timestamp_start": "00:09",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:09", "00:45"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p1"], "timestamp_range": ["00:45", "00:58"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p1", "p2"], "timestamp_range": ["00:58", "01:53"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The invention of arc welding and stick electrodes",
+      "section_timestamp_start": "01:53",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p3"], "timestamp_range": ["01:53", "03:19"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p4"], "timestamp_range": ["03:19", "04:20"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p5"], "timestamp_range": ["04:20", "05:10"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p6"], "timestamp_range": ["05:10", "06:43"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "World War I, the Big Inch pipeline, and welded ships",
+      "section_timestamp_start": "06:43",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p7"], "timestamp_range": ["06:43", "07:55"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p8"], "timestamp_range": ["07:55", "08:56"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p9"], "timestamp_range": ["08:56", "09:52"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Slugging welds and a sailboat on Route 24",
+      "section_timestamp_start": "09:52",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p10"], "timestamp_range": ["09:52", "10:40"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p10"], "timestamp_range": ["10:40", "11:40"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Building submarine hulls: Quonset Point fit-up",
+      "section_timestamp_start": "11:40",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p11"], "timestamp_range": ["11:40", "13:34"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p12"], "timestamp_range": ["13:34", "15:30"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "Jacking pipes into alignment and Navy repair",
+      "section_timestamp_start": "15:30",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p13"], "timestamp_range": ["15:30", "17:09"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p14"], "timestamp_range": ["17:09", "18:09"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p15"], "timestamp_range": ["18:09", "19:41"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p16"], "timestamp_range": ["19:41", "20:23"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "The come-along, the safety chain, and Boeing's five-pound rule",
+      "section_timestamp_start": "20:23",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p17"], "timestamp_range": ["20:23", "21:11"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p18"], "timestamp_range": ["21:11", "21:50"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p19"], "timestamp_range": ["21:50", "23:08"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p20"], "timestamp_range": ["23:08", "24:12"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p21"], "timestamp_range": ["24:12", "25:30"]},
+        {"l3_id": "§7.p6", "l2_ids": ["p22"], "timestamp_range": ["25:30", "26:20"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "What is steel? The iron-carbon diagram and John Chipman",
+      "section_timestamp_start": "26:20",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p23"], "timestamp_range": ["26:20", "27:36"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p24"], "timestamp_range": ["27:36", "29:03"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p25"], "timestamp_range": ["29:03", "30:27"]}
+      ]
+    },
+    {
+      "section_id": "s9",
+      "section_title": "From Bessemer to basic open hearth",
+      "section_timestamp_start": "30:27",
+      "anchors": [
+        {"l3_id": "§9.p1", "l2_ids": ["p26"], "timestamp_range": ["30:27", "32:04"]},
+        {"l3_id": "§9.p2", "l2_ids": ["p27"], "timestamp_range": ["32:04", "33:11"]},
+        {"l3_id": "§9.p3", "l2_ids": ["p28"], "timestamp_range": ["33:11", "34:18"]},
+        {"l3_id": "§9.p4", "l2_ids": ["p29"], "timestamp_range": ["34:18", "35:09"]},
+        {"l3_id": "§9.p5", "l2_ids": ["p30"], "timestamp_range": ["35:09", "37:03"]}
+      ]
+    },
+    {
+      "section_id": "s10",
+      "section_title": "The basic oxygen furnace and AOD for stainless",
+      "section_timestamp_start": "37:03",
+      "anchors": [
+        {"l3_id": "§10.p1", "l2_ids": ["p31"], "timestamp_range": ["37:03", "39:02"]},
+        {"l3_id": "§10.p2", "l2_ids": ["p32"], "timestamp_range": ["39:02", "40:25"]},
+        {"l3_id": "§10.p3", "l2_ids": ["p33"], "timestamp_range": ["40:25", "41:37"]}
+      ]
+    },
+    {
+      "section_id": "s11",
+      "section_title": "The strength of steel and the hardening of iron",
+      "section_timestamp_start": "41:37",
+      "anchors": [
+        {"l3_id": "§11.p1", "l2_ids": ["p34"], "timestamp_range": ["41:37", "43:04"]},
+        {"l3_id": "§11.p2", "l2_ids": ["p35"], "timestamp_range": ["43:04", "44:26"]},
+        {"l3_id": "§11.p3", "l2_ids": ["p36"], "timestamp_range": ["44:26", "44:52"]},
+        {"l3_id": "§11.p4", "l2_ids": ["p37"], "timestamp_range": ["44:52", "45:38"]},
+        {"l3_id": "§11.p5", "l2_ids": ["p38"], "timestamp_range": ["45:38", "45:44"]},
+        {"l3_id": "§11.p6", "l2_ids": ["p39"], "timestamp_range": ["45:44", "46:00"]},
+        {"l3_id": "§11.p7", "l2_ids": ["p40"], "timestamp_range": ["46:00", "47:12"]},
+        {"l3_id": "§11.p8", "l2_ids": ["p41"], "timestamp_range": ["47:12", "48:30"]}
+      ]
+    }
+  ]
+}

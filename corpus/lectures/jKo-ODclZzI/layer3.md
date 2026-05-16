@@ -1,0 +1,34 @@
+# Lecture 13 — Welding Procedures, Steel Heat Treatment, and Martensite
+
+*3.371 Welding Metallurgy, Summer 2014, session 13 of 35.*
+*Source video: `jKo-ODclZzI`.*
+
+---
+
+## §1. Stout and Doty as the welding-procedure reference [00:01]
+
+`§1.p1` We'd lost the technology. We didn't have a welding procedure, and to develop another welding procedure and prove it out under today's more rigorous standards would have cost — you could have built another battleship. Actually you couldn't have, because you didn't have a welding procedure. But in any case, Stout and Doty has all this information. I'll show you later other information, but this is a nice little summary of the types of things we have to have in order to figure out how to weld things. So these guys would call me up and say, how do we weld this? I would go to Stout and Doty, spend fifteen minutes looking at it, write up a procedure for him, and charge him a half an hour or something like that, okay.
+
+## §2. The Jominy end-quench hardenability test [00:48]
+
+`§2.p1` There are lots of different heat treatments of steel. *[Tom retrieves a Jominy bar sample.]* Just to show you — when I showed you the end-quench hardenability test, this is the sample. It's called the Jominy bar. In the end-quench hardenability test you basically make a little bar and you drop it in a holder, which is why it's got a little flange on here, and you quench it with water — you spray it with water — and then you measure the hardness across this little flat that you've already machined on it. And that hardness, you plot up, and then you can generate these types of curves where you have different cooling and everything else, okay.
+
+`§2.p2` I mentioned to you that in my opinion we know more about steel than any other material. I was just reading one of my associate-professor-without-tenure colleagues in the MIT Spectrum, and he says we don't know much about steel. What planet did he come from, okay? This is one of the world's largest industries, and it's had thousands and thousands of researchers doing research on steel for a century, and we don't know much about it? Were they all stupid? Anyway, I tend to disagree with him.
+
+## §3. The taxonomy of steel heat treatments [02:02]
+
+`§3.p1` So, heat treatment of steel. This is the contents out of the ASM volume on heat treatment, okay. We have bulk heat treatment, we have surface hardening where we just heat treat the surface. Files are not heated all the way through — they harden the surface, because you want the core to be nice and ductile. If this whole thing was as brittle as that top surface, you could hit it with a hammer and it would shatter, go right in your eye, and you have a lawsuit, okay. In fact, people do that with hammers all the time — they put little shards of hammer in their eye. And it always goes to the eye for something, anyway.
+
+`§3.p2` But if you have a soft core and you heat the top surface — or you might start with a lower carbon in some cases and you diffuse carbon in from an atmosphere of carbon monoxide — you can get carburizing, and it's a type of surface hardening. You can just heat the surface very rapidly with lasers and electron beams and you have uniform composition all the way through. But you can carburize in charcoal or gas. You can nitride, and if you have some aluminum in there you'll get very hard aluminum nitrides. You can combine carburizing and nitriding. You can boride, which we don't use very often because it has other problems. And they go through heat-treating furnaces and so on, but there's all kinds of heat treatments that are done to steels.
+
+`§3.p3` And by the way, when they talk about heat treatment here, this is the appendix for the whole book. Heat treatment of steel goes on for 800 pages, and then they get to heat treatment of other non-ferrous alloys — aluminum, copper, and things like that. So this is sort of the 95% of all metal made is steel, right. It's not just me; there are other people who write handbooks, okay.
+
+## §4. Martensite as a diffusionless transformation [04:12]
+
+`§4.p1` Since we have a couple of minutes before I start a lot of things — this martensite transformation, this is the continuous cooling curve. This is in degrees centigrade. So that's 723 — I don't remember, it's twelve something, 1200, 1300. Anyway, if you don't want to get pearlite and bainite, you have to cool down, if it has no alloying element, within a second. The martensite is what we call a diffusionless phase transformation. You don't have to move atoms around — it actually is a shear of the crystal. It's called an athermal phase transformation. And so if you wanted to beat the martensite, you've got to cool down in something like 10 to the minus 7 seconds, which is basically the speed of sound in the crystal, okay.
+
+`§4.p2` That's why this is the only time I've ever seen someone — Charlie Brooks's book — where he actually put the nose of the martensite curve. Ordinarily they go down 10 to the minus 1 or 10 to the minus 2 seconds and they cut it off. He actually went down to 10 to the minus 8. And there is a scientific reason — it has to do with the martensitic transformation being what we call a displacement transformation. You ever heard about shape memory alloys, these nickel-titanium alloys, where you can make a wire out of it, straighten out the wire, and if you've heat treated it properly and you heat it up a little bit, you can spell out your name? The wire has a memory. Well, dennis [dentists] now use this for braces, okay. It's a martensitic transformation in a non-ferrous alloy. So there are some uses for martensite in a number of areas, other than worrying about messing up the weldability of steels.
+
+## §5. Break before hydrogen [06:08]
+
+`§5.p1` I was going to start hydrogen, but I don't know that I want to start hydrogen in eight minutes. So why don't we go ahead and take our break till 8:30, and then we'll do our presentations. You guys are going to use a computer, right? Okay.

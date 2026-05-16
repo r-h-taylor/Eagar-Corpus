@@ -1,0 +1,105 @@
+{
+  "lecture_id": "YDg-vgIdgGs",
+  "course": "3.371 Codes and Standards",
+  "term": "Fall 2012",
+  "session": "1/14",
+  "sections": [
+    {
+      "section_id": "s1",
+      "section_title": "CSST and the lightning problem",
+      "section_timestamp_start": "00:02",
+      "anchors": [
+        {"l3_id": "§1.p1", "l2_ids": ["p1"], "timestamp_range": ["00:02", "00:48"]},
+        {"l3_id": "§1.p2", "l2_ids": ["p2"], "timestamp_range": ["00:48", "01:49"]},
+        {"l3_id": "§1.p3", "l2_ids": ["p3"], "timestamp_range": ["01:49", "02:22"]},
+        {"l3_id": "§1.p4", "l2_ids": ["p4"], "timestamp_range": ["02:22", "03:03"]}
+      ]
+    },
+    {
+      "section_id": "s2",
+      "section_title": "The course project and what codes contain",
+      "section_timestamp_start": "03:03",
+      "anchors": [
+        {"l3_id": "§2.p1", "l2_ids": ["p5"], "timestamp_range": ["03:03", "03:47"]},
+        {"l3_id": "§2.p2", "l2_ids": ["p6"], "timestamp_range": ["03:47", "04:29"]},
+        {"l3_id": "§2.p3", "l2_ids": ["p7"], "timestamp_range": ["04:29", "05:32"]},
+        {"l3_id": "§2.p4", "l2_ids": ["p8"], "timestamp_range": ["05:32", "06:48"]},
+        {"l3_id": "§2.p5", "l2_ids": ["p9"], "timestamp_range": ["06:48", "07:31"]}
+      ]
+    },
+    {
+      "section_id": "s3",
+      "section_title": "Course logistics, grading, and exams",
+      "section_timestamp_start": "07:31",
+      "anchors": [
+        {"l3_id": "§3.p1", "l2_ids": ["p10"], "timestamp_range": ["07:31", "07:35"]},
+        {"l3_id": "§3.p2", "l2_ids": ["p10"], "timestamp_range": ["07:35", "08:04"]},
+        {"l3_id": "§3.p3", "l2_ids": ["p11"], "timestamp_range": ["08:04", "09:09"]},
+        {"l3_id": "§3.p4", "l2_ids": ["p12"], "timestamp_range": ["09:09", "09:55"]},
+        {"l3_id": "§3.p5", "l2_ids": ["p13"], "timestamp_range": ["09:55", "11:15"]},
+        {"l3_id": "§3.p6", "l2_ids": ["p14"], "timestamp_range": ["11:15", "12:01"]}
+      ]
+    },
+    {
+      "section_id": "s4",
+      "section_title": "Manufacturing science and the structure of this third of the course",
+      "section_timestamp_start": "12:01",
+      "anchors": [
+        {"l3_id": "§4.p1", "l2_ids": ["p15"], "timestamp_range": ["12:01", "12:37"]},
+        {"l3_id": "§4.p2", "l2_ids": ["p16"], "timestamp_range": ["12:37", "13:34"]},
+        {"l3_id": "§4.p3", "l2_ids": ["p17"], "timestamp_range": ["13:34", "15:02"]},
+        {"l3_id": "§4.p4", "l2_ids": ["p18"], "timestamp_range": ["15:02", "15:57"]},
+        {"l3_id": "§4.p5", "l2_ids": ["p19"], "timestamp_range": ["15:57", "17:06"]}
+      ]
+    },
+    {
+      "section_id": "s5",
+      "section_title": "Lord Kelvin, observation, and the uncertainty principle",
+      "section_timestamp_start": "17:06",
+      "anchors": [
+        {"l3_id": "§5.p1", "l2_ids": ["p20"], "timestamp_range": ["17:06", "18:00"]},
+        {"l3_id": "§5.p2", "l2_ids": ["p21"], "timestamp_range": ["18:00", "18:45"]},
+        {"l3_id": "§5.p3", "l2_ids": ["p21"], "timestamp_range": ["18:45", "18:50"]},
+        {"l3_id": "§5.p4", "l2_ids": ["p21"], "timestamp_range": ["18:50", "19:32"]},
+        {"l3_id": "§5.p5", "l2_ids": ["p22"], "timestamp_range": ["19:32", "19:40"]},
+        {"l3_id": "§5.p6", "l2_ids": ["p22"], "timestamp_range": ["19:40", "19:50"]},
+        {"l3_id": "§5.p7", "l2_ids": ["p22"], "timestamp_range": ["19:50", "20:24"]},
+        {"l3_id": "§5.p8", "l2_ids": ["p24"], "timestamp_range": ["20:46", "21:43"]}
+      ]
+    },
+    {
+      "section_id": "s6",
+      "section_title": "The standard kilogram and the seven fundamental quantities",
+      "section_timestamp_start": "21:43",
+      "anchors": [
+        {"l3_id": "§6.p1", "l2_ids": ["p25"], "timestamp_range": ["21:43", "23:13"]},
+        {"l3_id": "§6.p2", "l2_ids": ["p26"], "timestamp_range": ["23:13", "24:03"]},
+        {"l3_id": "§6.p3", "l2_ids": ["p27"], "timestamp_range": ["24:03", "25:00"]},
+        {"l3_id": "§6.p4", "l2_ids": ["p28"], "timestamp_range": ["25:00", "26:05"]}
+      ]
+    },
+    {
+      "section_id": "s7",
+      "section_title": "NIST F1, GPS, and the atomic clock you can buy",
+      "section_timestamp_start": "26:05",
+      "anchors": [
+        {"l3_id": "§7.p1", "l2_ids": ["p29"], "timestamp_range": ["26:05", "27:13"]},
+        {"l3_id": "§7.p2", "l2_ids": ["p30"], "timestamp_range": ["27:13", "28:37"]},
+        {"l3_id": "§7.p3", "l2_ids": ["p31"], "timestamp_range": ["28:37", "29:31"]},
+        {"l3_id": "§7.p4", "l2_ids": ["p32"], "timestamp_range": ["29:31", "30:58"]},
+        {"l3_id": "§7.p5", "l2_ids": ["p33"], "timestamp_range": ["30:58", "32:04"]}
+      ]
+    },
+    {
+      "section_id": "s8",
+      "section_title": "Temperature standards and the Vienna mean ocean water",
+      "section_timestamp_start": "32:04",
+      "anchors": [
+        {"l3_id": "§8.p1", "l2_ids": ["p34"], "timestamp_range": ["32:04", "33:29"]},
+        {"l3_id": "§8.p2", "l2_ids": ["p35"], "timestamp_range": ["33:29", "34:32"]},
+        {"l3_id": "§8.p3", "l2_ids": ["p36"], "timestamp_range": ["34:32", "35:57"]},
+        {"l3_id": "§8.p4", "l2_ids": ["p37"], "timestamp_range": ["35:57", "36:20"]}
+      ]
+    }
+  ]
+}

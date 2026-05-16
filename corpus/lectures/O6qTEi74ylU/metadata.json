@@ -1,0 +1,45 @@
+{
+  "video_id": "O6qTEi74ylU",
+  "course": "Welding Metallurgy",
+  "course_number": "3.371",
+  "term": "Spring 2014",
+  "video_title": "3.371 Welding Metallurgy - Spring 2014 [11/29]",
+  "lecture_index": 11,
+  "lecture_total": 29,
+  "raw_transcript_sha256": "d83b4e3fa59c4e69c2f27bbf489464acde83df975172e410d532578ff30f2fb3",
+  "raw_transcript_line_count": 370,
+  "raw_transcript_word_count": 2142,
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T13:56:11.633934+00:00",
+  "speaker": "guest lecturer (not Tom Eagar); identity TBD",
+  "speaker_confidence": "high — closing remarks and an aside to a colleague indicate visitor status",
+  "duration_covered_seconds": 948,
+  "duration_covered_mmss": "15:48",
+  "layer2_paragraph_count": 23,
+  "topic_summary": "Heat-affected zone liquation cracking and strain-age cracking in nickel-based superalloys; mechanisms (segregation and constitutional liquation), prevention strategies (grain size control, low impurities, restraint reduction, buttering), and strain-age cracking in precipitation-strengthened alloys with alloy 718 as the resistant case.",
+  "primary_alloys_discussed": [
+    "nickel-based superalloys (general)",
+    "gamma prime strengthened alloys",
+    "gamma double prime strengthened alloys",
+    "alloy 718"
+  ],
+  "key_concepts": [
+    "grain boundary liquation",
+    "segregation mechanism",
+    "constitutional liquation",
+    "partially melted zone (PMZ)",
+    "strain-age cracking",
+    "gamma prime / gamma double prime precipitation",
+    "post-weld heat treatment",
+    "precipitation curve nose / TTT-style curves",
+    "sensitization (by contrast)",
+    "stringer bead technique"
+  ],
+  "editorial_flags": [
+    "guest lecturer identity unknown",
+    "p9 'likelihood [liquid]' bracketed correction not fully unambiguous",
+    "p14 'sin—' mid-word break editorially glossed; review whether to keep gloss",
+    "p16 student/Tom attribution ambiguous"
+  ]
+}

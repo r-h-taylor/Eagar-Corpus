@@ -1,0 +1,43 @@
+{
+  "video_id": "tx9-q4S6dWA",
+  "course": "Corrosion Cracking and More",
+  "course_number": "3.371",
+  "course_title_full": "Welding Metallurgy",
+  "term": "Summer 2014",
+  "video_title": "3.371 Welding Metallurgy - Summer 2014 [8/35]",
+  "lecture_number_in_series": 8,
+  "series_total": 35,
+  "raw_transcript_sha256": "a644488538e9f352fd384a5e88f70c029316ecafd690ecbd106b8bd288e86a86",
+  "raw_transcript_line_count": 18,
+  "raw_transcript_word_count": 120,
+  "layer2_paragraph_count": 2,
+  "layer2_section_count": null,
+  "duration_seconds_approx": 43,
+  "fragment_type": "closing_fragment",
+  "opens_mid_sentence": true,
+  "closes_mid_sentence": true,
+  "primary_topics": [
+    "copper-nickel alloys",
+    "Monel",
+    "seawater corrosion",
+    "naval piping"
+  ],
+  "cases_referenced": [
+    "nuclear submarine seawater piping (Monel)",
+    "aircraft carrier nuclear piping"
+  ],
+  "tom_slips_corrected": [],
+  "captioner_errors_corrected": [
+    {"raw": "Nickel", "fix": "nickel", "rule": "element_name_lowercase"},
+    {"raw": "monel", "fix": "Monel", "rule": "trade_name_capitalize"},
+    {"raw": "sea water", "fix": "seawater", "rule": "standard_compound"}
+  ],
+  "editorial_flags": [
+    "Recording opens mid-sentence (prior alloy-composition discussion lost).",
+    "Recording closes mid-sentence ('I'm told to...').",
+    "Section is too short for meaningful §N subdivision; treat as single section at layer 3."
+  ],
+  "pipeline_version": "2.0",
+  "model": "claude-opus-4-7",
+  "generated_at": "2026-05-13T17:27:30.536843+00:00"
+}
