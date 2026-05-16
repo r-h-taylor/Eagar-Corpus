@@ -6,7 +6,7 @@ Engineering, 1976–2022).
 
 **Version:** 1.0.0
 **Released:** 2026-05-16
-**Zenodo DOI:** *(to be minted on first release)*
+**Zenodo DOI:** [10.5281/zenodo.20226049](https://doi.org/10.5281/zenodo.20226049)
 **License:** code under MIT (see [LICENSE](LICENSE)); corpus data under
 CC-BY-4.0 (see [LICENSE-DATA](LICENSE-DATA))
 
@@ -81,7 +81,7 @@ For the corpus as a whole:
 
 > Taylor, R. H. (2026). *The Eagar Corpus: a three-layer archive of
 > the recorded teaching of Thomas W. Eagar (MIT, 2011–2022),*
-> version 1.0.0. Zenodo. *(DOI to be assigned)*
+> version 1.0.0. Zenodo. [10.5281/zenodo.20226049](https://doi.org/10.5281/zenodo.20226049).
 
 For a specific passage, cite the canonical lecture record and
 paragraph anchor:

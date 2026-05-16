@@ -4,7 +4,7 @@
 
 > Taylor, R. H. (2026). *The Eagar Corpus: a three-layer archive of
 > the recorded teaching of Thomas W. Eagar (MIT, 2011–2022),* version
-> 1.0.0. Zenodo. *(DOI to be assigned on first release)*
+> 1.0.0. Zenodo. [10.5281/zenodo.20226049](https://doi.org/10.5281/zenodo.20226049).
 
 ## Citing a specific lecture
 
