@@ -39,15 +39,15 @@
   "recurring_figures": [
     "1990 steel productivity: one person-hour per ton (integrated); 0.8 person-hours per ton (Chaparral)",
     "scrap steel: ~$100/ton; cast iron from blast furnace: $180/ton",
-    "integrated steel mill capital cost: $20 billion; mini mill: 20× less",
+    "integrated steel mill capital cost: $20 billion; mini mill: 20\u00d7 less",
     "$30/ton Japanese shipping cost across Pacific (Chaparral's labor-cost benchmark)",
     "$100,000 sales/employee rule of thumb; Chaparral: $450,000",
-    "Boeing door estimation: 750 doors / 250 employees → $50,000/door (1990s); ~$100,000/door today",
+    "Boeing door estimation: 750 doors / 250 employees \u2192 $50,000/door (1990s); ~$100,000/door today",
     "75% energy savings from inline reheating + net-shape casting at Chaparral",
-    "28 rolling-mill passes → 11 passes",
+    "28 rolling-mill passes \u2192 11 passes",
     "36 ksi vs 50 ksi structural steel; Chaparral produced one product meeting both specs",
-    "reinforced concrete: 4.2 billion tons/year; concrete tensile ~3,000 psi vs steel 30,000–60,000 psi",
-    "Willow Glass: 100–200 microns thick (4 or 8 thousandths of an inch)",
+    "reinforced concrete: 4.2 billion tons/year; concrete tensile ~3,000 psi vs steel 30,000\u201360,000 psi",
+    "Willow Glass: 100\u2013200 microns thick (4 or 8 thousandths of an inch)",
     "glass strength: 14,000 psi initial, dropping to ~1,000 psi over a month due to moisture attack"
   ],
   "notable_anecdotes": [
@@ -73,5 +73,6 @@
       "first_occurrence_paragraph": "p15",
       "context": "Bethlehem Steel looper program; the forge shop where new engineers worked with hot slag"
     }
-  ]
+  ],
+  "course_canonical": "Materials Selection"
 }

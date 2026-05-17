@@ -59,9 +59,10 @@
     "General Aviation Revitalization Act (GARA) 1992"
   ],
   "reviewer_flags": [
-    "p10: '204 foot inch pounds' vs '204 inch pounds' — captioner inserted 'foot' on first occurrence; reviewer to verify audio.",
-    "p27: 'Don't get done this is not so bad' — captioner garbling, exact reading uncertain.",
+    "p10: '204 foot inch pounds' vs '204 inch pounds' \u2014 captioner inserted 'foot' on first occurrence; reviewer to verify audio.",
+    "p27: 'Don't get done this is not so bad' \u2014 captioner garbling, exact reading uncertain.",
     "p21: Student question inaudible in raw transcript; attribution and content inferred from Tom's response.",
     "Lycoming bracketing: treated as captioner error but bracketed for transparency given recurrence. Reviewer to confirm preferred convention."
-  ]
+  ],
+  "course_canonical": "Welding Metallurgy"
 }

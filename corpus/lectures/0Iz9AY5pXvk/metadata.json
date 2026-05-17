@@ -22,8 +22,15 @@
     {
       "name": "Davenport Works hot-strip mill plate-flatness problem",
       "type": "thesis-driven industrial consulting case",
-      "people": ["Julie (thesis student)", "Owen Richmond (Alcoa Research)"],
-      "institutions": ["US Steel Davenport Works", "Alcoa Research", "National Research Council"],
+      "people": [
+        "Julie (thesis student)",
+        "Owen Richmond (Alcoa Research)"
+      ],
+      "institutions": [
+        "US Steel Davenport Works",
+        "Alcoa Research",
+        "National Research Council"
+      ],
       "topical_reference": "Romney $10,000 bet (2011)",
       "moral": "American industry does not act on diagnosed solutions even when payback is one day"
     }
@@ -32,12 +39,12 @@
     {
       "location": "p4",
       "raw_line": 91,
-      "issue": "'i'm ceo' — captioner artifact, reading not unambiguous, preserved with [sic]"
+      "issue": "'i'm ceo' \u2014 captioner artifact, reading not unambiguous, preserved with [sic]"
     },
     {
       "location": "p5",
       "raw_line": 107,
-      "issue": "trailing closing 'stories the last stories' — Tom's actual phrasing unclear"
+      "issue": "trailing closing 'stories the last stories' \u2014 Tom's actual phrasing unclear"
     },
     {
       "location": "overall",
@@ -45,5 +52,6 @@
     }
   ],
   "section_count_estimate_for_layer3": 1,
-  "notes": "Short closing fragment of the final lecture. Tom finishes the Davenport Works / Julie / Owen Richmond story and signs off the course. No structural teaching content; pure closing anecdote plus farewell."
+  "notes": "Short closing fragment of the final lecture. Tom finishes the Davenport Works / Julie / Owen Richmond story and signs off the course. No structural teaching content; pure closing anecdote plus farewell.",
+  "course_canonical": "Welding Quality"
 }

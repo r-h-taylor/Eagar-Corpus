@@ -18,7 +18,7 @@
     "start": "00:01",
     "end": "06:21"
   },
-  "lecture_character": "partial / fragment — appears to be the closing minutes of a class session before a break, covering Stout and Doty reference, Jominy hardenability test, heat treatments of steel (surface hardening, carburizing, nitriding, boriding), martensite transformation, shape memory alloys, ending with break announcement before presentations",
+  "lecture_character": "partial / fragment \u2014 appears to be the closing minutes of a class session before a break, covering Stout and Doty reference, Jominy hardenability test, heat treatments of steel (surface hardening, carburizing, nitriding, boriding), martensite transformation, shape memory alloys, ending with break announcement before presentations",
   "key_references_mentioned": [
     "Stout and Doty, Weldability of Steels",
     "ASM Handbook (heat treatment volume)",
@@ -35,12 +35,25 @@
   ],
   "captioner_corrections_silent_count": 11,
   "section_boundaries_proposed_for_layer3": [
-    {"s1": "Stout and Doty as welding procedure reference (p1)"},
-    {"s2": "Jominy hardenability test (p2)"},
-    {"s3": "Aside on the colleague who said we don't know much about steel (p3)"},
-    {"s4": "Surface hardening and heat treatments of steel (p4-p6)"},
-    {"s5": "Martensite transformation and shape memory alloys (p7-p8)"},
-    {"s6": "Break announcement (p9)"}
+    {
+      "s1": "Stout and Doty as welding procedure reference (p1)"
+    },
+    {
+      "s2": "Jominy hardenability test (p2)"
+    },
+    {
+      "s3": "Aside on the colleague who said we don't know much about steel (p3)"
+    },
+    {
+      "s4": "Surface hardening and heat treatments of steel (p4-p6)"
+    },
+    {
+      "s5": "Martensite transformation and shape memory alloys (p7-p8)"
+    },
+    {
+      "s6": "Break announcement (p9)"
+    }
   ],
-  "notes": "Short fragment (~6 minutes). Tom is finishing a teaching unit and signaling a transition to student presentations after a break. Hydrogen embrittlement, signaled at end, is deferred to next session."
+  "notes": "Short fragment (~6 minutes). Tom is finishing a teaching unit and signaling a transition to student presentations after a break. Hydrogen embrittlement, signaled at end, is deferred to next session.",
+  "course_canonical": "Corrosion Cracking and More"
 }

@@ -27,14 +27,14 @@
     "particle beam weapons and hose instability (DARPA story)"
   ],
   "cases_mentioned": [
-    "Japanese-bound ship plate with delayed cracking (Brooklyn → Japan)",
+    "Japanese-bound ship plate with delayed cracking (Brooklyn \u2192 Japan)",
     "5083 aluminum electron beam weld distortion samples",
     "General Electric BWR safe end stress corrosion cracking",
     "Idaho National Engineering Lab preheat-on-Friday story",
-    "Nickel turbine blade electron beam weld repair (induction-heated to 1000°C)",
+    "Nickel turbine blade electron beam weld repair (induction-heated to 1000\u00b0C)",
     "USS Sea Wolf weld cracking and the blue jelly suit response",
     "Navy/DARPA high-energy electron beam particle weapon (White Oak workshop)",
-    "Japanese HSLA shipbuilding steels (no-preheat) — Tom's mid-80s Japan visit",
+    "Japanese HSLA shipbuilding steels (no-preheat) \u2014 Tom's mid-80s Japan visit",
     "Electric Boat HY80 weld coupon (held up in class)"
   ],
   "people_named": [
@@ -47,10 +47,23 @@
     "Tom (referenced in third person re: rudder-stool welding)"
   ],
   "tom_slips_bracketed": [
-    {"location": "p6", "spoken": "Cinder Co's", "corrected": "Kou's"},
-    {"location": "p22", "spoken": "Alexandra Volter", "corrected": "Alessandro Volta"},
-    {"location": "p24", "spoken": "darfur", "corrected": "DARPA"}
+    {
+      "location": "p6",
+      "spoken": "Cinder Co's",
+      "corrected": "Kou's"
+    },
+    {
+      "location": "p22",
+      "spoken": "Alexandra Volter",
+      "corrected": "Alessandro Volta"
+    },
+    {
+      "location": "p24",
+      "spoken": "darfur",
+      "corrected": "DARPA"
+    }
   ],
   "stage_directions_count": 1,
-  "notes": "Lecture mid-series; presupposes prior introduction of Venn diagram (material/stress/environment) for stress corrosion cracking, prior discussion of HY80/HY100, prior 'Sprite goes flat' analogy for hydrogen diffusion. Lecture ends mid-sentence at the raw transcript boundary; continues into lecture 19."
+  "notes": "Lecture mid-series; presupposes prior introduction of Venn diagram (material/stress/environment) for stress corrosion cracking, prior discussion of HY80/HY100, prior 'Sprite goes flat' analogy for hydrogen diffusion. Lecture ends mid-sentence at the raw transcript boundary; continues into lecture 19.",
+  "course_canonical": "Corrosion Cracking and More"
 }

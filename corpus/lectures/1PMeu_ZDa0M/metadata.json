@@ -58,7 +58,7 @@
     "Sugar Hollow Glass"
   ],
   "framing_statistics": [
-    "1530-1690 England population doubled 3M → 6M",
+    "1530-1690 England population doubled 3M \u2192 6M",
     "1463 first water-powered blast furnace, Italy",
     "2100 tons wood per HMS Victory",
     "1558 anti-felling law; 1581 expanded; 1615 royal proclamation",
@@ -67,16 +67,17 @@
     "1980: 6 hours per ton",
     "2013: ~20 minutes per ton",
     "1980 ingot mold yield: 67%; continuous caster yield: 95%",
-    "US steel employment 1970s-80s: 500,000 → 250,000",
+    "US steel employment 1970s-80s: 500,000 \u2192 250,000",
     "1980s US manufacturing 4% annual productivity gain; mining 6%",
     "98% of world steel today continuously cast",
     "Integrated steel plant cost: $15-20B; produces ~10M tons/yr"
   ],
   "flags_for_editorial_register": [
-    "p51: 'Okay queen there's no risk' — likely captioner garbling, preserved verbatim",
-    "p58: Gordon Ford→Forward bracketed; but Tom pairs the name with Nucor, when Forward was Chaparral. Possible conflation with Ken Iverson (Nucor).",
-    "p60: 'Colonel Park' for POSCO founder — Park Tae-joon was a retired Army general; rank possibly misstated.",
-    "p40: 'Trayma Train' — captioner faithfully captured Tom's reading of a misprinted sign; preserved.",
+    "p51: 'Okay queen there's no risk' \u2014 likely captioner garbling, preserved verbatim",
+    "p58: Gordon Ford\u2192Forward bracketed; but Tom pairs the name with Nucor, when Forward was Chaparral. Possible conflation with Ken Iverson (Nucor).",
+    "p60: 'Colonel Park' for POSCO founder \u2014 Park Tae-joon was a retired Army general; rank possibly misstated.",
+    "p40: 'Trayma Train' \u2014 captioner faithfully captured Tom's reading of a misprinted sign; preserved.",
     "Multiple student turns inferred from Tom's responses; no student audio captured by captioner."
-  ]
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

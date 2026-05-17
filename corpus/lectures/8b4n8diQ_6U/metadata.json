@@ -22,7 +22,7 @@
     "Lord Kelvin on measurement",
     "Precision vs accuracy",
     "Seven SI base quantities and their reference standards",
-    "Cesium atomic clock; meter defined via speed of light; kilogram artifact in Sèvres",
+    "Cesium atomic clock; meter defined via speed of light; kilogram artifact in S\u00e8vres",
     "LIGO interferometer as most precise measurement",
     "Triple point of water as temperature standard",
     "Spheres exercise: identifying materials by color, density, hardness, magnetism",
@@ -43,5 +43,6 @@
   ],
   "stage_business_count": 6,
   "spoken_slips_flagged": 3,
-  "captioner_errors_corrected": 18
+  "captioner_errors_corrected": 18,
+  "course_canonical": "Codes and Standards"
 }

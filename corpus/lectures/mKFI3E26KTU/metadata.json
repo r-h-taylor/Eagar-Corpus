@@ -25,7 +25,7 @@
     "Chinese rare earth industry",
     "magnesium production",
     "Pidgeon process (silicothermic reduction)",
-    "Hall-Héroult cell",
+    "Hall-H\u00e9roult cell",
     "molten salt electrolysis",
     "solid oxide membrane (SOM) process",
     "zirconia tubes",
@@ -42,7 +42,7 @@
     "Toru Okabe",
     "Deng Xiaoping",
     "Charles Hall",
-    "Paul Héroult",
+    "Paul H\u00e9roult",
     "L.M. Pidgeon",
     "Thomas W. Eagar"
   ],
@@ -61,12 +61,21 @@
     "Corvette (GM)"
   ],
   "guest_lecture": true,
-  "tom_speech_fraction_approx": 0.10,
+  "tom_speech_fraction_approx": 0.1,
   "qa_present": true,
-  "qa_paragraphs": ["p40", "p41", "p42", "p43", "p44", "p45", "p46"],
+  "qa_paragraphs": [
+    "p40",
+    "p41",
+    "p42",
+    "p43",
+    "p44",
+    "p45",
+    "p46"
+  ],
   "items_for_editor_review": [
-    "Dr. Belmar (p6) — could not verify spelling of the upcoming guest lecturer's name",
-    "p3 'Who, Day, was your thesis advisor?' — 'Day' may be Tom's mishearing or captioner garbling of a name; left as-is",
-    "p34 'Live used to be called Metal Oxygen Separation Technologies' — 'Live' is unclear captioner artifact; likely placeholder for the company's prior name being announced"
-  ]
+    "Dr. Belmar (p6) \u2014 could not verify spelling of the upcoming guest lecturer's name",
+    "p3 'Who, Day, was your thesis advisor?' \u2014 'Day' may be Tom's mishearing or captioner garbling of a name; left as-is",
+    "p34 'Live used to be called Metal Oxygen Separation Technologies' \u2014 'Live' is unclear captioner artifact; likely placeholder for the company's prior name being announced"
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

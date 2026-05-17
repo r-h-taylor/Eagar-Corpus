@@ -59,20 +59,38 @@
     "Arthur D. Little"
   ],
   "flagged_for_editor_review": [
-    "Simone Belmar — spelling uncertain",
-    "Eagar Spring 2016 — likely slip for Spring 2015",
-    "p46 'are healthy' — possible captioner error for 'helpful'",
-    "p53 Gettysburg Address garbling — not reconstructed",
-    "p4 'Toby's stories' — partial recovery of student evaluation phrase",
-    "p1 'ten years over the peers' — idiom recovery uncertain"
+    "Simone Belmar \u2014 spelling uncertain",
+    "Eagar Spring 2016 \u2014 likely slip for Spring 2015",
+    "p46 'are healthy' \u2014 possible captioner error for 'helpful'",
+    "p53 Gettysburg Address garbling \u2014 not reconstructed",
+    "p4 'Toby's stories' \u2014 partial recovery of student evaluation phrase",
+    "p1 'ten years over the peers' \u2014 idiom recovery uncertain"
   ],
   "tom_slips_bracketed": [
-    {"paragraph": "p44", "raw": "Spring 2016", "corrected": "Spring 2015", "type": "memory slip"}
+    {
+      "paragraph": "p44",
+      "raw": "Spring 2016",
+      "corrected": "Spring 2015",
+      "type": "memory slip"
+    }
   ],
   "captioner_corrections_silent": [
-    "Chris Schuh", "Vera Kistiakowsky", "Arthur Amos Noyes", "Arthur D. Little",
-    "Millikan", "mens et manus", "Throop", "Fick's law", "Fourier's first law",
-    "Inconel", "BMW i3", "Stellar", "Costco", "eagar.mit.edu",
-    "percent restorations", "Henry Bessemer"
-  ]
+    "Chris Schuh",
+    "Vera Kistiakowsky",
+    "Arthur Amos Noyes",
+    "Arthur D. Little",
+    "Millikan",
+    "mens et manus",
+    "Throop",
+    "Fick's law",
+    "Fourier's first law",
+    "Inconel",
+    "BMW i3",
+    "Stellar",
+    "Costco",
+    "eagar.mit.edu",
+    "percent restorations",
+    "Henry Bessemer"
+  ],
+  "course_canonical": "Additive Manufacturing"
 }

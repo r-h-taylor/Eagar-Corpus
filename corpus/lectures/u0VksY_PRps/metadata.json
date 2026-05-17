@@ -58,5 +58,6 @@
     "p32: 'that's a number from Professor Eagar, I think it is material selection module'",
     "p55: 'Professor Eagar, I know last class, mentioned about service history'"
   ],
-  "constitutional_note": "This lecture is part of the Eagar corpus by virtue of being delivered in Eagar's course during Eagar's absence. Editorial treatment matches the Eagar pipeline conventions. Cases introduced here are Belmar's professional cases, not Eagar's teaching cases, and should be tagged accordingly in the aggregate case index."
+  "constitutional_note": "This lecture is part of the Eagar corpus by virtue of being delivered in Eagar's course during Eagar's absence. Editorial treatment matches the Eagar pipeline conventions. Cases introduced here are Belmar's professional cases, not Eagar's teaching cases, and should be tagged accordingly in the aggregate case index.",
+  "course_canonical": "Codes and Standards"
 }

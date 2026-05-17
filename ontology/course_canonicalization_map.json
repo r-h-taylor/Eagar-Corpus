@@ -1,0 +1,2108 @@
+{
+  "rules_used": [
+    {
+      "raw_pattern": "Codes and Standards Definitions and History",
+      "raw_term": "Fall 2012",
+      "canonical": "Codes and Standards"
+    },
+    {
+      "raw_pattern": "Codes and Standards for Safety",
+      "raw_term": "Fall 2012",
+      "canonical": "Codes and Standards"
+    },
+    {
+      "raw_pattern": "Codes and Standards",
+      "raw_term": "Fall 2012",
+      "canonical": "Codes and Standards"
+    },
+    {
+      "raw_pattern": "Codes and Standards",
+      "raw_term": "Summer 2012",
+      "canonical": "Codes and Standards"
+    },
+    {
+      "raw_pattern": "Materials Selection \u2014 Properties, Costs, Externalities",
+      "raw_term": "Fall 2016",
+      "canonical": "Materials Selection"
+    },
+    {
+      "raw_pattern": "Materials Selection - Properties Costs Externalities",
+      "raw_term": "Fall 2016",
+      "canonical": "Materials Selection"
+    },
+    {
+      "raw_pattern": "Materials Selection - Weighing Trade-Offs",
+      "raw_term": "Fall 2016",
+      "canonical": "Materials Selection"
+    },
+    {
+      "raw_pattern": "Materials Selection and Economics",
+      "raw_term": "Fall 2017",
+      "canonical": "Materials Selection and Economics"
+    },
+    {
+      "raw_pattern": "Structural Materials Selection Examples",
+      "raw_term": "Spring 2016",
+      "canonical": "Structural Materials Selection"
+    },
+    {
+      "raw_pattern": "Structural Materials Selection Principles",
+      "raw_term": "Spring 2016",
+      "canonical": "Structural Materials Selection"
+    },
+    {
+      "raw_pattern": "Structural Materials Selection",
+      "raw_term": "Spring 2016",
+      "canonical": "Structural Materials Selection"
+    },
+    {
+      "raw_pattern": "Structural Materials Selection",
+      "raw_term": "Fall 2013",
+      "canonical": "Structural Materials Selection"
+    },
+    {
+      "raw_pattern": "Structural Materials Selection",
+      "raw_term": "Fall 2014",
+      "canonical": "Structural Materials Selection"
+    },
+    {
+      "raw_pattern": "Structural Materials",
+      "raw_term": "Fall 2017",
+      "canonical": "Materials Selection and Economics"
+    },
+    {
+      "raw_pattern": "Corrosion Cracking and More",
+      "raw_term": "Summer 2014",
+      "canonical": "Corrosion Cracking and More"
+    },
+    {
+      "raw_pattern": "Corrosion",
+      "raw_term": "Summer 2016",
+      "canonical": "Corrosion"
+    },
+    {
+      "raw_pattern": "Welding Metallurgy",
+      "raw_term": null,
+      "canonical": "Welding Metallurgy"
+    },
+    {
+      "raw_pattern": "Additive Manufacturing",
+      "raw_term": null,
+      "canonical": "Additive Manufacturing"
+    },
+    {
+      "raw_pattern": "Casting",
+      "raw_term": null,
+      "canonical": "Casting"
+    },
+    {
+      "raw_pattern": "Deformation Processing",
+      "raw_term": null,
+      "canonical": "Deformation Processing"
+    },
+    {
+      "raw_pattern": "Fusion Welding",
+      "raw_term": null,
+      "canonical": "Fusion Welding"
+    },
+    {
+      "raw_pattern": "How to be a Successful Engineer",
+      "raw_term": null,
+      "canonical": "How to be a Successful Engineer"
+    },
+    {
+      "raw_pattern": "Recitations",
+      "raw_term": null,
+      "canonical": "Recitations"
+    },
+    {
+      "raw_pattern": "Solid State Welding",
+      "raw_term": null,
+      "canonical": "Solid State Welding"
+    },
+    {
+      "raw_pattern": "Total Quality Improvement",
+      "raw_term": null,
+      "canonical": "Total Quality Improvement"
+    },
+    {
+      "raw_pattern": "Welding Quality",
+      "raw_term": null,
+      "canonical": "Welding Quality"
+    },
+    {
+      "raw_pattern": "What is Engineering",
+      "raw_term": null,
+      "canonical": "What is Engineering"
+    }
+  ],
+  "canonical_modules": [
+    {
+      "course_canonical": "Codes and Standards",
+      "term": "Fall 2012",
+      "n_lectures": 14
+    },
+    {
+      "course_canonical": "Structural Materials Selection",
+      "term": "Fall 2013",
+      "n_lectures": 14
+    },
+    {
+      "course_canonical": "Structural Materials Selection",
+      "term": "Fall 2014",
+      "n_lectures": 12
+    },
+    {
+      "course_canonical": "How to be a Successful Engineer",
+      "term": "Fall 2015",
+      "n_lectures": 6
+    },
+    {
+      "course_canonical": "What is Engineering",
+      "term": "Fall 2015",
+      "n_lectures": 6
+    },
+    {
+      "course_canonical": "Materials Selection",
+      "term": "Fall 2016",
+      "n_lectures": 11
+    },
+    {
+      "course_canonical": "Materials Selection and Economics",
+      "term": "Fall 2017",
+      "n_lectures": 7
+    },
+    {
+      "course_canonical": "Recitations",
+      "term": "Fall 2018",
+      "n_lectures": 2
+    },
+    {
+      "course_canonical": "Additive Manufacturing",
+      "term": "Fall 2019",
+      "n_lectures": 7
+    },
+    {
+      "course_canonical": "Deformation Processing",
+      "term": "Spring 2012",
+      "n_lectures": 12
+    },
+    {
+      "course_canonical": "Solid State Welding",
+      "term": "Spring 2013",
+      "n_lectures": 13
+    },
+    {
+      "course_canonical": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "n_lectures": 29
+    },
+    {
+      "course_canonical": "Structural Materials Selection",
+      "term": "Spring 2016",
+      "n_lectures": 12
+    },
+    {
+      "course_canonical": "Total Quality Improvement",
+      "term": "Spring 2018",
+      "n_lectures": 7
+    },
+    {
+      "course_canonical": "Recitations",
+      "term": "Spring 2020",
+      "n_lectures": 3
+    },
+    {
+      "course_canonical": "Recitations",
+      "term": "Spring 2021",
+      "n_lectures": 1
+    },
+    {
+      "course_canonical": "Casting",
+      "term": "Summer 2011",
+      "n_lectures": 5
+    },
+    {
+      "course_canonical": "Codes and Standards",
+      "term": "Summer 2012",
+      "n_lectures": 7
+    },
+    {
+      "course_canonical": "Fusion Welding",
+      "term": "Summer 2013",
+      "n_lectures": 9
+    },
+    {
+      "course_canonical": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "n_lectures": 16
+    },
+    {
+      "course_canonical": "Welding Metallurgy",
+      "term": "Summer 2014",
+      "n_lectures": 3
+    },
+    {
+      "course_canonical": "Welding Quality",
+      "term": "Summer 2014",
+      "n_lectures": 15
+    },
+    {
+      "course_canonical": "Welding Metallurgy",
+      "term": "Summer 2015",
+      "n_lectures": 16
+    },
+    {
+      "course_canonical": "Corrosion",
+      "term": "Summer 2016",
+      "n_lectures": 2
+    }
+  ],
+  "audit": [
+    {
+      "video_id": "-6n9y2szRqo",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2014",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 12,
+      "status": "mapped"
+    },
+    {
+      "video_id": "-ik0iQKJHV4",
+      "course_raw": "Casting",
+      "term": "Summer 2011",
+      "course_canonical": "Casting",
+      "rule_index": 18,
+      "status": "mapped"
+    },
+    {
+      "video_id": "01D4_i5L5gk",
+      "course_raw": "Additive Manufacturing",
+      "term": "Fall 2019",
+      "course_canonical": "Additive Manufacturing",
+      "rule_index": 17,
+      "status": "mapped"
+    },
+    {
+      "video_id": "0II4lgNStTY",
+      "course_raw": "Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "0Iz9AY5pXvk",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "0wUIpk_5BRY",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "1DLSqyBNDwA",
+      "course_raw": "What is Engineering",
+      "term": "Fall 2015",
+      "course_canonical": "What is Engineering",
+      "rule_index": 26,
+      "status": "mapped"
+    },
+    {
+      "video_id": "1PMeu_ZDa0M",
+      "course_raw": "Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "1lzA2zvky9E",
+      "course_raw": "Materials Selection and Economics",
+      "term": "Fall 2017",
+      "course_canonical": "Materials Selection and Economics",
+      "rule_index": 7,
+      "status": "mapped"
+    },
+    {
+      "video_id": "1s_KEnbkpmQ",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "2-PLy8soKXo",
+      "course_raw": "Codes and Standards Definitions and History",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 0,
+      "status": "mapped"
+    },
+    {
+      "video_id": "2-eiyScKx6A",
+      "course_raw": "Deformation Processing",
+      "term": "Spring 2012",
+      "course_canonical": "Deformation Processing",
+      "rule_index": 19,
+      "status": "mapped"
+    },
+    {
+      "video_id": "2SD5PP34M88",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "2bPgU1dNqBg",
+      "course_raw": "Structural Materials Selection Principles",
+      "term": "Spring 2016",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 9,
+      "status": "mapped"
+    },
+    {
+      "video_id": "2mxFuYzDDtU",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "34yHQb_oLxk",
+      "course_raw": "Additive Manufacturing",
+      "term": "Fall 2019",
+      "course_canonical": "Additive Manufacturing",
+      "rule_index": 17,
+      "status": "mapped"
+    },
+    {
+      "video_id": "3MdL3fmW5NQ",
+      "course_raw": "Additive Manufacturing",
+      "term": "Fall 2019",
+      "course_canonical": "Additive Manufacturing",
+      "rule_index": 17,
+      "status": "mapped"
+    },
+    {
+      "video_id": "3OKF32hmiMs",
+      "course_raw": "Additive Manufacturing",
+      "term": "Fall 2019",
+      "course_canonical": "Additive Manufacturing",
+      "rule_index": 17,
+      "status": "mapped"
+    },
+    {
+      "video_id": "3aJEQaYKG3w",
+      "course_raw": "Total Quality Improvement",
+      "term": "Spring 2018",
+      "course_canonical": "Total Quality Improvement",
+      "rule_index": 24,
+      "status": "mapped"
+    },
+    {
+      "video_id": "3mWtnvIX_gY",
+      "course_raw": "How to be a Successful Engineer",
+      "term": "Fall 2015",
+      "course_canonical": "How to be a Successful Engineer",
+      "rule_index": 21,
+      "status": "mapped"
+    },
+    {
+      "video_id": "40vhfL7j7yc",
+      "course_raw": "Solid State Welding",
+      "term": "Spring 2013",
+      "course_canonical": "Solid State Welding",
+      "rule_index": 23,
+      "status": "mapped"
+    },
+    {
+      "video_id": "42alE7nc_-Y",
+      "course_raw": "What is Engineering",
+      "term": "Fall 2015",
+      "course_canonical": "What is Engineering",
+      "rule_index": 26,
+      "status": "mapped"
+    },
+    {
+      "video_id": "4yImu8D5fOs",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "5-Tvwlhq8UI",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2014",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 12,
+      "status": "mapped"
+    },
+    {
+      "video_id": "5N9jIr7LWPc",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "5apdp6tM_vg",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "65LCaH3Sgdw",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Spring 2016",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 10,
+      "status": "mapped"
+    },
+    {
+      "video_id": "6B297feoqAw",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "6TFtOotD1Dk",
+      "course_raw": "3.371 Deformation Processing",
+      "term": "Spring 2012",
+      "course_canonical": "Deformation Processing",
+      "rule_index": 19,
+      "status": "mapped"
+    },
+    {
+      "video_id": "6UN5XMqMitk",
+      "course_raw": "Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "6fpf4j6EQD8",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "6pZ6eQ9AqJs",
+      "course_raw": "3.371 Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "7-ceZkCjx5w",
+      "course_raw": "Codes and Standards for Safety",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 1,
+      "status": "mapped"
+    },
+    {
+      "video_id": "7D_eu9LVGqo",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Spring 2016",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 10,
+      "status": "mapped"
+    },
+    {
+      "video_id": "7KFTHxDcJwY",
+      "course_raw": "Codes and Standards",
+      "term": "Summer 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 3,
+      "status": "mapped"
+    },
+    {
+      "video_id": "7ghihjZEZvk",
+      "course_raw": "3.371 Deformation Processing",
+      "term": "Spring 2012",
+      "course_canonical": "Deformation Processing",
+      "rule_index": 19,
+      "status": "mapped"
+    },
+    {
+      "video_id": "80LMn6GeJDM",
+      "course_raw": "Additive Manufacturing",
+      "term": "Fall 2019",
+      "course_canonical": "Additive Manufacturing",
+      "rule_index": 17,
+      "status": "mapped"
+    },
+    {
+      "video_id": "8Cn4CDzXKdU",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "8b4n8diQ_6U",
+      "course_raw": "Codes and Standards",
+      "term": "Summer 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 3,
+      "status": "mapped"
+    },
+    {
+      "video_id": "8oyoyjuDaaA",
+      "course_raw": "Structural Materials Selection",
+      "term": "Fall 2014",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 12,
+      "status": "mapped"
+    },
+    {
+      "video_id": "8xc71DgqtIk",
+      "course_raw": "Fusion Welding",
+      "term": "Summer 2013",
+      "course_canonical": "Fusion Welding",
+      "rule_index": 20,
+      "status": "mapped"
+    },
+    {
+      "video_id": "97xAeQRs69g",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "9_aVMP1AtS4",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2014",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 12,
+      "status": "mapped"
+    },
+    {
+      "video_id": "9gA5RNdtLDo",
+      "course_raw": "Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "9jCXHL9awLk",
+      "course_raw": "Codes and Standards",
+      "term": "Summer 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 3,
+      "status": "mapped"
+    },
+    {
+      "video_id": "9yU362dFVWM",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Spring 2016",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 10,
+      "status": "mapped"
+    },
+    {
+      "video_id": "AD8vT3yI7Co",
+      "course_raw": "Solid State Welding",
+      "term": "Spring 2013",
+      "course_canonical": "Solid State Welding",
+      "rule_index": 23,
+      "status": "mapped"
+    },
+    {
+      "video_id": "AM4c4Vlaxfc",
+      "course_raw": "Codes and Standards Definitions and History",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 0,
+      "status": "mapped"
+    },
+    {
+      "video_id": "ATL9_5gvx0k",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2014",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 12,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Aq3Q1CyX8uU",
+      "course_raw": "Fusion Welding",
+      "term": "Summer 2013",
+      "course_canonical": "Fusion Welding",
+      "rule_index": 20,
+      "status": "mapped"
+    },
+    {
+      "video_id": "B9-65mAeOEE",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2014",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 12,
+      "status": "mapped"
+    },
+    {
+      "video_id": "BVe8AzvbfyA",
+      "course_raw": "Solid State Welding",
+      "term": "Spring 2013",
+      "course_canonical": "Solid State Welding",
+      "rule_index": 23,
+      "status": "mapped"
+    },
+    {
+      "video_id": "BvoRq2U4FWg",
+      "course_raw": "Structural Materials Selection Examples",
+      "term": "Spring 2016",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 8,
+      "status": "mapped"
+    },
+    {
+      "video_id": "CBIhjPF7XGc",
+      "course_raw": "3.371 Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "CBSri-H9tUE",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "CDneFQexLsc",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2014",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 12,
+      "status": "mapped"
+    },
+    {
+      "video_id": "CjX9EIFHGa0",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "CltnNfkDpWQ",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Cz5zDd1Xwpw",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "DTpmcRZY-gs",
+      "course_raw": "3.371 Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Dl9HqoG6vYk",
+      "course_raw": "How to be a Successful Engineer",
+      "term": "Fall 2015",
+      "course_canonical": "How to be a Successful Engineer",
+      "rule_index": 21,
+      "status": "mapped"
+    },
+    {
+      "video_id": "DokriGA10Oo",
+      "course_raw": "3.371 Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "EMfCc1mG6M4",
+      "course_raw": "Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "ESLkKhUE7jA",
+      "course_raw": "3.371 Deformation Processing",
+      "term": "Spring 2012",
+      "course_canonical": "Deformation Processing",
+      "rule_index": 19,
+      "status": "mapped"
+    },
+    {
+      "video_id": "EvpwSXoRHZk",
+      "course_raw": "3.371 Fusion Welding",
+      "term": "Summer 2013",
+      "course_canonical": "Fusion Welding",
+      "rule_index": 20,
+      "status": "mapped"
+    },
+    {
+      "video_id": "F9-LE_nM5aQ",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "FbVfohm67zw",
+      "course_raw": "How to be a Successful Engineer",
+      "term": "Fall 2015",
+      "course_canonical": "How to be a Successful Engineer",
+      "rule_index": 21,
+      "status": "mapped"
+    },
+    {
+      "video_id": "FodIYWgUez8",
+      "course_raw": "How to be a Successful Engineer",
+      "term": "Fall 2015",
+      "course_canonical": "How to be a Successful Engineer",
+      "rule_index": 21,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Fx3xPdMmlac",
+      "course_raw": "3.371 Fusion Welding",
+      "term": "Summer 2013",
+      "course_canonical": "Fusion Welding",
+      "rule_index": 20,
+      "status": "mapped"
+    },
+    {
+      "video_id": "G5THU-givDs",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "GTYVZje3nmY",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "GYtCQg57RNU",
+      "course_raw": "3.371 Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Ga5UGrLc7H4",
+      "course_raw": "Structural Materials Selection Principles",
+      "term": "Spring 2016",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 9,
+      "status": "mapped"
+    },
+    {
+      "video_id": "GfNlt6mnU7E",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "HbMbUcuroDY",
+      "course_raw": "Materials Selection - Properties Costs Externalities",
+      "term": "Fall 2016",
+      "course_canonical": "Materials Selection",
+      "rule_index": 5,
+      "status": "mapped"
+    },
+    {
+      "video_id": "HgVznvD95QM",
+      "course_raw": "Recitations",
+      "term": "Spring 2020",
+      "course_canonical": "Recitations",
+      "rule_index": 22,
+      "status": "mapped"
+    },
+    {
+      "video_id": "HoUo7Qj4LHg",
+      "course_raw": "Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "HuLV8P6ouwA",
+      "course_raw": "Materials Selection and Economics",
+      "term": "Fall 2017",
+      "course_canonical": "Materials Selection and Economics",
+      "rule_index": 7,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Hwwodo_KbtM",
+      "course_raw": "Materials Selection and Economics",
+      "term": "Fall 2017",
+      "course_canonical": "Materials Selection and Economics",
+      "rule_index": 7,
+      "status": "mapped"
+    },
+    {
+      "video_id": "I9uRs8XywRk",
+      "course_raw": "Codes and Standards for Safety",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 1,
+      "status": "mapped"
+    },
+    {
+      "video_id": "IUNJxDpWC7M",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Ie6u7DMawBo",
+      "course_raw": "Casting",
+      "term": "Summer 2011",
+      "course_canonical": "Casting",
+      "rule_index": 18,
+      "status": "mapped"
+    },
+    {
+      "video_id": "JIAYtxFVZ3Y",
+      "course_raw": "3.371 Solid State Welding",
+      "term": "Spring 2013",
+      "course_canonical": "Solid State Welding",
+      "rule_index": 23,
+      "status": "mapped"
+    },
+    {
+      "video_id": "JU7wcLlx-0E",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "JcmlZrsUCTw",
+      "course_raw": "Fusion Welding",
+      "term": "Summer 2013",
+      "course_canonical": "Fusion Welding",
+      "rule_index": 20,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Jh5DokU5lSU",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "JkjNi8bmw70",
+      "course_raw": "What is Engineering",
+      "term": "Fall 2015",
+      "course_canonical": "What is Engineering",
+      "rule_index": 26,
+      "status": "mapped"
+    },
+    {
+      "video_id": "JqHyPQAPsao",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "K4LxKVNarnM",
+      "course_raw": "3.371 Deformation Processing",
+      "term": "Spring 2012",
+      "course_canonical": "Deformation Processing",
+      "rule_index": 19,
+      "status": "mapped"
+    },
+    {
+      "video_id": "KfZ44zfZh6I",
+      "course_raw": "Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "KynrfNqtHaU",
+      "course_raw": "3.371 Codes and Standards",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 2,
+      "status": "mapped"
+    },
+    {
+      "video_id": "L2wdWmrfY4o",
+      "course_raw": "What is Engineering",
+      "term": "Fall 2015",
+      "course_canonical": "What is Engineering",
+      "rule_index": 26,
+      "status": "mapped"
+    },
+    {
+      "video_id": "LLiigEgH8Eo",
+      "course_raw": "Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Lfnk639q2PI",
+      "course_raw": "Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "LvhfmNDBCH8",
+      "course_raw": "Deformation Processing",
+      "term": "Spring 2012",
+      "course_canonical": "Deformation Processing",
+      "rule_index": 19,
+      "status": "mapped"
+    },
+    {
+      "video_id": "M7jStS1Pxss",
+      "course_raw": "Codes and Standards",
+      "term": "Summer 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 3,
+      "status": "mapped"
+    },
+    {
+      "video_id": "MJs0XxC5_6Q",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "MTzYKTMcmJo",
+      "course_raw": "Fusion Welding",
+      "term": "Summer 2013",
+      "course_canonical": "Fusion Welding",
+      "rule_index": 20,
+      "status": "mapped"
+    },
+    {
+      "video_id": "MVljACLzPIk",
+      "course_raw": "Solid State Welding",
+      "term": "Spring 2013",
+      "course_canonical": "Solid State Welding",
+      "rule_index": 23,
+      "status": "mapped"
+    },
+    {
+      "video_id": "MXXmgVe2ryw",
+      "course_raw": "3.371 Deformation Processing",
+      "term": "Spring 2012",
+      "course_canonical": "Deformation Processing",
+      "rule_index": 19,
+      "status": "mapped"
+    },
+    {
+      "video_id": "MrHfe8l0600",
+      "course_raw": "3.371 Structural Materials",
+      "term": "Fall 2017",
+      "course_canonical": "Materials Selection and Economics",
+      "rule_index": 13,
+      "status": "mapped"
+    },
+    {
+      "video_id": "NBKezMyc29c",
+      "course_raw": "3.371 Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "NLgwLkKhVoU",
+      "course_raw": "Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "NthuyNkWUII",
+      "course_raw": "Additive Manufacturing",
+      "term": "Fall 2019",
+      "course_canonical": "Additive Manufacturing",
+      "rule_index": 17,
+      "status": "mapped"
+    },
+    {
+      "video_id": "O-XaPwdx3Pw",
+      "course_raw": "Recitations",
+      "term": "Spring 2020",
+      "course_canonical": "Recitations",
+      "rule_index": 22,
+      "status": "mapped"
+    },
+    {
+      "video_id": "O6qTEi74ylU",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "OFA4nk7yyVI",
+      "course_raw": "Recitations",
+      "term": "Spring 2021",
+      "course_canonical": "Recitations",
+      "rule_index": 22,
+      "status": "mapped"
+    },
+    {
+      "video_id": "OszzaQpMV50",
+      "course_raw": "Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "P5IUV3hGBxQ",
+      "course_raw": "Total Quality Improvement",
+      "term": "Spring 2018",
+      "course_canonical": "Total Quality Improvement",
+      "rule_index": 24,
+      "status": "mapped"
+    },
+    {
+      "video_id": "PLoJwbIouJc",
+      "course_raw": "3.371 Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "PM6Qc720MgA",
+      "course_raw": "3.371 Codes and Standards for Safety",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 1,
+      "status": "mapped"
+    },
+    {
+      "video_id": "PQ0eDwKV51k",
+      "course_raw": "Materials Selection - Weighing Trade-Offs",
+      "term": "Fall 2016",
+      "course_canonical": "Materials Selection",
+      "rule_index": 6,
+      "status": "mapped"
+    },
+    {
+      "video_id": "PbP0bcxaq9c",
+      "course_raw": "3.371 Welding Metallurgy",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "PlfoYBkSh_M",
+      "course_raw": "Fusion Welding",
+      "term": "Summer 2013",
+      "course_canonical": "Fusion Welding",
+      "rule_index": 20,
+      "status": "mapped"
+    },
+    {
+      "video_id": "QFpqOBjwo34",
+      "course_raw": "Total Quality Improvement",
+      "term": "Spring 2018",
+      "course_canonical": "Total Quality Improvement",
+      "rule_index": 24,
+      "status": "mapped"
+    },
+    {
+      "video_id": "QPArN_Q34s8",
+      "course_raw": "Casting",
+      "term": "Summer 2011",
+      "course_canonical": "Casting",
+      "rule_index": 18,
+      "status": "mapped"
+    },
+    {
+      "video_id": "R6eVDrxe19E",
+      "course_raw": "Welding Metallurgy",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "RKsOktnW64A",
+      "course_raw": "Total Quality Improvement",
+      "term": "Spring 2018",
+      "course_canonical": "Total Quality Improvement",
+      "rule_index": 24,
+      "status": "mapped"
+    },
+    {
+      "video_id": "RU6_LtJn3rY",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "RZYwHNnIbzg",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Rn3Lc-rXdOc",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "S4pgiEDtq_o",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2014",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 12,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Sk-yqbN81qY",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "SsJ-6a4VHh4",
+      "course_raw": "Materials Selection - Weighing Trade-Offs",
+      "term": "Fall 2016",
+      "course_canonical": "Materials Selection",
+      "rule_index": 6,
+      "status": "mapped"
+    },
+    {
+      "video_id": "TCmd_zoXkK8",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "TDSpnEuACMw",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "TOum2TQZu_M",
+      "course_raw": [],
+      "term": [],
+      "status": "missing_field"
+    },
+    {
+      "video_id": "TRSZrx4_vPQ",
+      "course_raw": "Casting",
+      "term": "Summer 2011",
+      "course_canonical": "Casting",
+      "rule_index": 18,
+      "status": "mapped"
+    },
+    {
+      "video_id": "TlQXnQUYwlk",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "U8oDDDozYqs",
+      "course_raw": "3.371 Codes and Standards",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 2,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Uwaz8-_9GOE",
+      "course_raw": "Structural Materials Selection Principles",
+      "term": "Spring 2016",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 9,
+      "status": "mapped"
+    },
+    {
+      "video_id": "W6odPf1FnBs",
+      "course_raw": "Solid State Welding",
+      "term": "Spring 2013",
+      "course_canonical": "Solid State Welding",
+      "rule_index": 23,
+      "status": "mapped"
+    },
+    {
+      "video_id": "W7Ak5m9UX3c",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "WH-SIgf7Yfo",
+      "course_raw": "Codes and Standards Definitions and History",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 0,
+      "status": "mapped"
+    },
+    {
+      "video_id": "WV6COuYpZuk",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "WdHzBSOyinU",
+      "course_raw": "3.371 Deformation Processing",
+      "term": "Spring 2012",
+      "course_canonical": "Deformation Processing",
+      "rule_index": 19,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Wg6ZWqT_Q9M",
+      "course_raw": "Structural Materials Selection Examples",
+      "term": "Spring 2016",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 8,
+      "status": "mapped"
+    },
+    {
+      "video_id": "WhWf_cgsv0I",
+      "course_raw": [],
+      "term": [],
+      "status": "missing_field"
+    },
+    {
+      "video_id": "X3MCQ1yWVrM",
+      "course_raw": "Total Quality Improvement",
+      "term": "Spring 2018",
+      "course_canonical": "Total Quality Improvement",
+      "rule_index": 24,
+      "status": "mapped"
+    },
+    {
+      "video_id": "XI3NzU5YHIQ",
+      "course_raw": "3.371 Welding Metallurgy",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "XPwFzrNlgls",
+      "course_raw": "Materials Selection - Weighing Trade-Offs",
+      "term": "Fall 2016",
+      "course_canonical": "Materials Selection",
+      "rule_index": 6,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Xp4riNsidS8",
+      "course_raw": "3.371 Deformation Processing",
+      "term": "Spring 2012",
+      "course_canonical": "Deformation Processing",
+      "rule_index": 19,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Y1trpj5Qki8",
+      "course_raw": "Structural Materials Selection",
+      "term": "Fall 2014",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 12,
+      "status": "mapped"
+    },
+    {
+      "video_id": "Y7Uvlrhy9Nc",
+      "course_raw": "Materials Selection - Weighing Trade-Offs",
+      "term": "Fall 2016",
+      "course_canonical": "Materials Selection",
+      "rule_index": 6,
+      "status": "mapped"
+    },
+    {
+      "video_id": "YDg-vgIdgGs",
+      "course_raw": "Codes and Standards Definitions and History",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 0,
+      "status": "mapped"
+    },
+    {
+      "video_id": "YErlfj2xGQo",
+      "course_raw": "3.371 Deformation Processing",
+      "term": "Spring 2012",
+      "course_canonical": "Deformation Processing",
+      "rule_index": 19,
+      "status": "mapped"
+    },
+    {
+      "video_id": "YOAZ7_gEltc",
+      "course_raw": "Solid State Welding",
+      "term": "Spring 2013",
+      "course_canonical": "Solid State Welding",
+      "rule_index": 23,
+      "status": "mapped"
+    },
+    {
+      "video_id": "YaQD8TDvp2k",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "ZWgkUrtyK-4",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "ZqjHbnqjOQY",
+      "course_raw": "Corrosion",
+      "term": "Summer 2016",
+      "course_canonical": "Corrosion",
+      "rule_index": 15,
+      "status": "mapped"
+    },
+    {
+      "video_id": "ZroX3BiYm64",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "_JAsjrPvjxs",
+      "course_raw": "Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "_wa1ULmBMhY",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "aLn70m1IMnc",
+      "course_raw": "Recitations",
+      "term": "Fall 2018",
+      "course_canonical": "Recitations",
+      "rule_index": 22,
+      "status": "mapped"
+    },
+    {
+      "video_id": "c62G8QyDL3o",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "cD2dBCxt1Sw",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "cQyB28XAsDA",
+      "course_raw": "Solid State Welding",
+      "term": "Spring 2013",
+      "course_canonical": "Solid State Welding",
+      "rule_index": 23,
+      "status": "mapped"
+    },
+    {
+      "video_id": "cjom37YsqTM",
+      "course_raw": "Deformation Processing",
+      "term": "Spring 2012",
+      "course_canonical": "Deformation Processing",
+      "rule_index": 19,
+      "status": "mapped"
+    },
+    {
+      "video_id": "cys2q7xFrbQ",
+      "course_raw": "3.371 Codes and Standards",
+      "term": "Summer 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 3,
+      "status": "mapped"
+    },
+    {
+      "video_id": "d-QWemzw5KI",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "d9ZqDMG93LQ",
+      "course_raw": "Materials Selection and Economics",
+      "term": "Fall 2017",
+      "course_canonical": "Materials Selection and Economics",
+      "rule_index": 7,
+      "status": "mapped"
+    },
+    {
+      "video_id": "dFgUWebqYvI",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "dZ8VibRxb0Y",
+      "course_raw": "Recitations",
+      "term": "Spring 2020",
+      "course_canonical": "Recitations",
+      "rule_index": 22,
+      "status": "mapped"
+    },
+    {
+      "video_id": "dkmbe7ZGvUw",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "dy4fI6J1gFo",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "e5EulnwJsHA",
+      "course_raw": "Total Quality Improvement",
+      "term": "Spring 2018",
+      "course_canonical": "Total Quality Improvement",
+      "rule_index": 24,
+      "status": "mapped"
+    },
+    {
+      "video_id": "e6E3olVXKQM",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "ezlblvG-CmI",
+      "course_raw": "Solid State Welding",
+      "term": "Spring 2013",
+      "course_canonical": "Solid State Welding",
+      "rule_index": 23,
+      "status": "mapped"
+    },
+    {
+      "video_id": "fcDV3MMlcAE",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "fje2ixY8cT0",
+      "course_raw": "Materials Selection - Properties Costs Externalities",
+      "term": "Fall 2016",
+      "course_canonical": "Materials Selection",
+      "rule_index": 5,
+      "status": "mapped"
+    },
+    {
+      "video_id": "g-JCSA7FEaU",
+      "course_raw": "What is Engineering",
+      "term": "Fall 2015",
+      "course_canonical": "What is Engineering",
+      "rule_index": 26,
+      "status": "mapped"
+    },
+    {
+      "video_id": "g7tCGetxxRQ",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "gI6EncbzMYI",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "gQmNBzQ1La4",
+      "course_raw": "Materials Selection and Economics",
+      "term": "Fall 2017",
+      "course_canonical": "Materials Selection and Economics",
+      "rule_index": 7,
+      "status": "mapped"
+    },
+    {
+      "video_id": "gVNm5XKccBw",
+      "course_raw": "3.371 Structural Materials Selection Principles",
+      "term": "Spring 2016",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 9,
+      "status": "mapped"
+    },
+    {
+      "video_id": "gVeVr4WnhTE",
+      "course_raw": "3.371 Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "htX4D4DYtxQ",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "iRC51hrIYdQ",
+      "course_raw": "Materials Selection - Properties Costs Externalities",
+      "term": "Fall 2016",
+      "course_canonical": "Materials Selection",
+      "rule_index": 5,
+      "status": "mapped"
+    },
+    {
+      "video_id": "j-h09h0ZbwI",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "jKo-ODclZzI",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "j_SJgDOZazw",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "j_nGedqJbWA",
+      "course_raw": "What is Engineering",
+      "term": "Fall 2015",
+      "course_canonical": "What is Engineering",
+      "rule_index": 26,
+      "status": "mapped"
+    },
+    {
+      "video_id": "jkM0ewcY5SY",
+      "course_raw": "Materials Selection - Weighing Trade-Offs",
+      "term": "Fall 2016",
+      "course_canonical": "Materials Selection",
+      "rule_index": 6,
+      "status": "mapped"
+    },
+    {
+      "video_id": "k1wVwANPdgQ",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "kEqabZ7bO0Y",
+      "course_raw": "Codes and Standards for Safety",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 1,
+      "status": "mapped"
+    },
+    {
+      "video_id": "kF4wXqPHw-o",
+      "course_raw": "Codes and Standards for Safety",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 1,
+      "status": "mapped"
+    },
+    {
+      "video_id": "kaKkRC6Yu_c",
+      "course_raw": "Materials Selection - Weighing Trade-Offs",
+      "term": "Fall 2016",
+      "course_canonical": "Materials Selection",
+      "rule_index": 6,
+      "status": "mapped"
+    },
+    {
+      "video_id": "kwG1vlILhH0",
+      "course_raw": "How to be a Successful Engineer",
+      "term": "Fall 2015",
+      "course_canonical": "How to be a Successful Engineer",
+      "rule_index": 21,
+      "status": "mapped"
+    },
+    {
+      "video_id": "lN_vONFKMzM",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Spring 2016",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 10,
+      "status": "mapped"
+    },
+    {
+      "video_id": "lOpCROJ1OA4",
+      "course_raw": "3.371 Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "lWfHtQqXYJk",
+      "course_raw": "3.371 Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "lq2o9aQyxMo",
+      "course_raw": "Solid State Welding",
+      "term": "Spring 2013",
+      "course_canonical": "Solid State Welding",
+      "rule_index": 23,
+      "status": "mapped"
+    },
+    {
+      "video_id": "mHFW4IX-TCs",
+      "course_raw": "How to be a Successful Engineer",
+      "term": "Fall 2015",
+      "course_canonical": "How to be a Successful Engineer",
+      "rule_index": 21,
+      "status": "mapped"
+    },
+    {
+      "video_id": "mKFI3E26KTU",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "mW4QLNrtMho",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "nLWgIwqPozE",
+      "course_raw": "Codes and Standards",
+      "term": "Summer 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 3,
+      "status": "mapped"
+    },
+    {
+      "video_id": "njIMQR4hBOU",
+      "course_raw": "3.371 Materials Selection \u2014 Properties, Costs, Externalities",
+      "term": "Fall 2016",
+      "course_canonical": "Materials Selection",
+      "rule_index": 4,
+      "status": "mapped"
+    },
+    {
+      "video_id": "nldzJUEAYsc",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "o0dXxWXRxvY",
+      "course_raw": "Structural Materials Selection",
+      "term": "Fall 2014",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 12,
+      "status": "mapped"
+    },
+    {
+      "video_id": "o2XfliUT_jA",
+      "course_raw": "Codes and Standards",
+      "term": "Summer 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 3,
+      "status": "mapped"
+    },
+    {
+      "video_id": "oB6qD_T8FZ8",
+      "course_raw": "Structural Materials Selection Principles",
+      "term": "Spring 2016",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 9,
+      "status": "mapped"
+    },
+    {
+      "video_id": "oLNdcU9DXsY",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2014",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 12,
+      "status": "mapped"
+    },
+    {
+      "video_id": "pOOhkXvQG4U",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "pq7RLDw6ijk",
+      "course_raw": "Casting",
+      "term": "Summer 2011",
+      "course_canonical": "Casting",
+      "rule_index": 18,
+      "status": "mapped"
+    },
+    {
+      "video_id": "q4aHXOwAP0Y",
+      "course_raw": "Structural Materials Selection Principles",
+      "term": "Spring 2016",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 9,
+      "status": "mapped"
+    },
+    {
+      "video_id": "q9rwgUdOynw",
+      "course_raw": "Corrosion",
+      "term": "Summer 2016",
+      "course_canonical": "Corrosion",
+      "rule_index": 15,
+      "status": "mapped"
+    },
+    {
+      "video_id": "qBeTbWLRrVo",
+      "course_raw": "Welding Quality",
+      "term": "Summer 2014",
+      "course_canonical": "Welding Quality",
+      "rule_index": 25,
+      "status": "mapped"
+    },
+    {
+      "video_id": "qxu-UXRIfhU",
+      "course_raw": "Solid State Welding",
+      "term": "Spring 2013",
+      "course_canonical": "Solid State Welding",
+      "rule_index": 23,
+      "status": "mapped"
+    },
+    {
+      "video_id": "r2aziVnVdaQ",
+      "course_raw": "Codes and Standards for Safety",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 1,
+      "status": "mapped"
+    },
+    {
+      "video_id": "r3NzM4MlAl8",
+      "course_raw": "Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "rF3eZtxWR4I",
+      "course_raw": "Solid State Welding",
+      "term": "Spring 2013",
+      "course_canonical": "Solid State Welding",
+      "rule_index": 23,
+      "status": "mapped"
+    },
+    {
+      "video_id": "rsSzSB0Kkwg",
+      "course_raw": "Materials Selection - Properties Costs Externalities",
+      "term": "Fall 2016",
+      "course_canonical": "Materials Selection",
+      "rule_index": 5,
+      "status": "mapped"
+    },
+    {
+      "video_id": "rxnUxG_PQgg",
+      "course_raw": "Total Quality Improvement",
+      "term": "Spring 2018",
+      "course_canonical": "Total Quality Improvement",
+      "rule_index": 24,
+      "status": "mapped"
+    },
+    {
+      "video_id": "sSdJgzB3ioQ",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "tx9-q4S6dWA",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "u0VksY_PRps",
+      "course_raw": "Codes and Standards for Safety",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 1,
+      "status": "mapped"
+    },
+    {
+      "video_id": "unG_GsTROaU",
+      "course_raw": "Solid State Welding",
+      "term": "Spring 2013",
+      "course_canonical": "Solid State Welding",
+      "rule_index": 23,
+      "status": "mapped"
+    },
+    {
+      "video_id": "v-PMrqbjY1A",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2013",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 11,
+      "status": "mapped"
+    },
+    {
+      "video_id": "v7P1NjmHnYQ",
+      "course_raw": "Fusion Welding",
+      "term": "Summer 2013",
+      "course_canonical": "Fusion Welding",
+      "rule_index": 20,
+      "status": "mapped"
+    },
+    {
+      "video_id": "w1moz79p9kQ",
+      "course_raw": "3.371 Welding Metallurgy",
+      "term": "Summer 2015",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "w73CBqdeCEc",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "wpBHc0zsiNo",
+      "course_raw": "Materials Selection and Economics",
+      "term": "Fall 2017",
+      "course_canonical": "Materials Selection and Economics",
+      "rule_index": 7,
+      "status": "mapped"
+    },
+    {
+      "video_id": "wwQawDUosU0",
+      "course_raw": "3.371 Structural Materials Selection",
+      "term": "Fall 2014",
+      "course_canonical": "Structural Materials Selection",
+      "rule_index": 12,
+      "status": "mapped"
+    },
+    {
+      "video_id": "xODVo-2X-yQ",
+      "course_raw": "3.371 Deformation Processing",
+      "term": "Spring 2012",
+      "course_canonical": "Deformation Processing",
+      "rule_index": 19,
+      "status": "mapped"
+    },
+    {
+      "video_id": "xkHiipw7N9Y",
+      "course_raw": "Recitations",
+      "term": "Fall 2018",
+      "course_canonical": "Recitations",
+      "rule_index": 22,
+      "status": "mapped"
+    },
+    {
+      "video_id": "xlmhd4jh3kg",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "xuSw3flQyMg",
+      "course_raw": "Codes and Standards for Safety",
+      "term": "Fall 2012",
+      "course_canonical": "Codes and Standards",
+      "rule_index": 1,
+      "status": "mapped"
+    },
+    {
+      "video_id": "xutMakERdxY",
+      "course_raw": "Corrosion Cracking and More",
+      "term": "Summer 2014",
+      "course_canonical": "Corrosion Cracking and More",
+      "rule_index": 14,
+      "status": "mapped"
+    },
+    {
+      "video_id": "yeLP2yXF358",
+      "course_raw": "Welding Metallurgy",
+      "term": "Spring 2014",
+      "course_canonical": "Welding Metallurgy",
+      "rule_index": 16,
+      "status": "mapped"
+    },
+    {
+      "video_id": "zKu_AK_57lM",
+      "course_raw": "Fusion Welding",
+      "term": "Summer 2013",
+      "course_canonical": "Fusion Welding",
+      "rule_index": 20,
+      "status": "mapped"
+    },
+    {
+      "video_id": "zoBMgVdELNc",
+      "course_raw": "Additive Manufacturing",
+      "term": "Fall 2019",
+      "course_canonical": "Additive Manufacturing",
+      "rule_index": 17,
+      "status": "mapped"
+    }
+  ],
+  "unmatched": []
+}

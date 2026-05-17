@@ -13,11 +13,11 @@
   "generated_at": "2026-05-13T09:26:37.951995+00:00",
   "layer2": {
     "paragraph_count": 43,
-    "duration_covered_mmss": "00:03–48:13",
+    "duration_covered_mmss": "00:03\u201348:13",
     "front_matter_present": true
   },
   "topics": [
-    "MIT/Harvard merger history (1914–1917)",
+    "MIT/Harvard merger history (1914\u20131917)",
     "George Eastman donation",
     "project assignment guidance: touchscreen displays, indium tin oxide",
     "blacksmith forming vs. isothermal forming",
@@ -33,7 +33,7 @@
     "n value (work hardening exponent)",
     "m value (strain-rate sensitivity)",
     "Newtonian flow in glass / optical fiber drawing",
-    "super plasticity threshold (m ≈ 0.3)",
+    "super plasticity threshold (m \u2248 0.3)",
     "plane strain condition",
     "Hooke's law in multiaxial form",
     "anisotropy in sheet metal",
@@ -66,8 +66,22 @@
     "Jeremy (TA, inferred)"
   ],
   "tom_slips_bracketed": [
-    {"paragraph": "p4", "spoken": "1990s", "corrected": "1900s"},
-    {"paragraph": "p4", "spoken": "(omitted ordinal)", "corrected": "first"},
-    {"paragraph": "p40", "spoken": "BCC", "corrected": "HCP", "context": "zinc, magnesium, titanium crystal structure"}
-  ]
+    {
+      "paragraph": "p4",
+      "spoken": "1990s",
+      "corrected": "1900s"
+    },
+    {
+      "paragraph": "p4",
+      "spoken": "(omitted ordinal)",
+      "corrected": "first"
+    },
+    {
+      "paragraph": "p40",
+      "spoken": "BCC",
+      "corrected": "HCP",
+      "context": "zinc, magnesium, titanium crystal structure"
+    }
+  ],
+  "course_canonical": "Deformation Processing"
 }

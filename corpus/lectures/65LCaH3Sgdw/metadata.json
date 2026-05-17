@@ -26,7 +26,7 @@
     "Liberty ships / USS Schenectady / USS Esso Manhattan",
     "Egyptian obelisks (Wendell Wilkening doctoral thesis)",
     "ethanol centrifuge brittle fracture (China, France)",
-    "Navtec / America's Cup hydraulic cylinder (7075-T6 → T73)",
+    "Navtec / America's Cup hydraulic cylinder (7075-T6 \u2192 T73)",
     "aluminum baseball bats",
     "ceramics fever of the 1980s",
     "Kinik diamond pad conditioners",
@@ -53,5 +53,6 @@
     "Arnold Schwarzenegger"
   ],
   "captioner_corrections_count": 17,
-  "spoken_slips_bracketed_count": 2
+  "spoken_slips_bracketed_count": 2,
+  "course_canonical": "Structural Materials Selection"
 }

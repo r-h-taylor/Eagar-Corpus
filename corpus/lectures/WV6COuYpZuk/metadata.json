@@ -35,6 +35,7 @@
   "raw_transcript_line_count": 766,
   "raw_transcript_word_count": 5706,
   "layer2_paragraph_count": 66,
-  "layer2_time_span": "[00:07] – [37:12]",
-  "notes": "Guest lecture by Mike Balfour. Tom Eagar audibly interjects briefly (inaudible on auto-captions) during the welding symbols discussion around 28:00–29:00. The captioner produces unusually heavy duplicate-line artifacts in this transcript; many cleanup decisions were duplicate-line removal rather than substantive editorial choices. Several technical proper-noun captioner errors (porosity→paracity, fillet→Philip, E7018→e718, flux-cored→flux cord) corrected silently. One probable factual slip by Mike (D1.3 as aluminum code; canonically D1.2) preserved per convention §16 and flagged for the editorial register."
+  "layer2_time_span": "[00:07] \u2013 [37:12]",
+  "notes": "Guest lecture by Mike Balfour. Tom Eagar audibly interjects briefly (inaudible on auto-captions) during the welding symbols discussion around 28:00\u201329:00. The captioner produces unusually heavy duplicate-line artifacts in this transcript; many cleanup decisions were duplicate-line removal rather than substantive editorial choices. Several technical proper-noun captioner errors (porosity\u2192paracity, fillet\u2192Philip, E7018\u2192e718, flux-cored\u2192flux cord) corrected silently. One probable factual slip by Mike (D1.3 as aluminum code; canonically D1.2) preserved per convention \u00a716 and flagged for the editorial register.",
+  "course_canonical": "Welding Metallurgy"
 }

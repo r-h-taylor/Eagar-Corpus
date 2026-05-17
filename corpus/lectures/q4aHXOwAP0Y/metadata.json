@@ -60,7 +60,7 @@
     "Jack Westbrook (1962 materials plot)",
     "Lee Iacocca",
     "Donald Sadoway (MIT colleague)",
-    "Frank Whittle (as 'Whipple' — slip)",
+    "Frank Whittle (as 'Whipple' \u2014 slip)",
     "Bob Sprague (GE Aircraft Engines)",
     "Jim Williams",
     "Clayton Christensen (Harvard Business School)",
@@ -73,7 +73,8 @@
     "Display of beverage/food container array (steel can, composite chip can, aluminum can, plastic bottle, glass jar, ceramic mug, wooden/styrofoam/paper cups)",
     "Hunt for Technology Review article"
   ],
-  "captioner_garble_severity": "moderate-to-high — multiple proper nouns (beryllium, blisk, Whittle, Udimet, Pechiney, Novelis, Metglas) systematically misrecognized; corrected silently",
+  "captioner_garble_severity": "moderate-to-high \u2014 multiple proper nouns (beryllium, blisk, Whittle, Udimet, Pechiney, Novelis, Metglas) systematically misrecognized; corrected silently",
   "tom_slips_count": 2,
-  "editor_review_flags": 4
+  "editor_review_flags": 4,
+  "course_canonical": "Structural Materials Selection"
 }

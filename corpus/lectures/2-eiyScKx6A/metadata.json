@@ -17,7 +17,11 @@
     "start_timestamp": "00:40",
     "end_timestamp": "52:10",
     "duration_minutes_approx": 52,
-    "speakers": ["Tom Eagar", "Student (unnamed, multiple)", "Anthony (named by Tom)"],
+    "speakers": [
+      "Tom Eagar",
+      "Student (unnamed, multiple)",
+      "Anthony (named by Tom)"
+    ],
     "co_instructor_referenced": "Dr. Mares (provisional; named by Tom variously as 'Dr. Mar' and 'Dr. Belmar')"
   },
   "primary_topics": [
@@ -44,7 +48,7 @@
   "named_persons_referenced": [
     "Isambard Kingdom Brunel (corrected from Tom's 'Kingdom Brunell')",
     "Walter Backofen (MIT, textbook reference)",
-    "Régis Pelloux (MIT, fatigue/fracture)",
+    "R\u00e9gis Pelloux (MIT, fatigue/fracture)",
     "Dr. Mares (co-instructor, provisional name)",
     "Carl (student who corrected Tom on Brunel)",
     "Anthony (student named in p15)"
@@ -55,5 +59,6 @@
     "Krupp Steel (acquired Wyman-Gordon)",
     "Phelps Dodge (Conform process trolley wire)",
     "Acheson Industries (forging lubricants, provisional)"
-  ]
+  ],
+  "course_canonical": "Deformation Processing"
 }

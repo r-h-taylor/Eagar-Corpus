@@ -26,14 +26,14 @@
     "magnesium corrosion as Achilles heel",
     "aluminum corrosion resistance and alloy chemistry",
     "Aloha Airlines Flight 243 corrosion fatigue",
-    "electrochemical limits — voltage and bond energies",
+    "electrochemical limits \u2014 voltage and bond energies",
     "lead, terne plate, galvanized steel, copper for water/roofing",
     "PEX tubing electron-beam cross-linking",
     "UV light and primary bond energies",
     "pedagogy aside: master lecturers vs faculty pride"
   ],
   "cases_referenced": [
-    "Aloha Airlines Flight 243 (1988) — corrosion fatigue keel beam",
+    "Aloha Airlines Flight 243 (1988) \u2014 corrosion fatigue keel beam",
     "Alcoa antitrust case 1911 / Mellon Pierce-Arrow",
     "Alcoa-Dow Chemical cartel post-WWII (George Kenney thesis under Joel Clark, ~1976)",
     "Maquiladora steel water tank fabrication, Juarez",
@@ -46,5 +46,6 @@
     "Don Sadoway / Ambri liquid metal battery company",
     "Magnesium hot water tank anodes (<7 ppm Ni spec)"
   ],
-  "guest_lecturer_announcement": "Dr. Bellmore (Belmar?) to lecture Tuesday and Thursday following; Eagar returns Monday."
+  "guest_lecturer_announcement": "Dr. Bellmore (Belmar?) to lecture Tuesday and Thursday following; Eagar returns Monday.",
+  "course_canonical": "Structural Materials Selection"
 }

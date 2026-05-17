@@ -7,29 +7,32 @@
   "lecture_number_in_series": 9,
   "lecture_total_in_series": 14,
   "primary_speaker": "Dr. Delmar (guest lecturer; identification inferred from internal reference at p57)",
-  "secondary_speakers": ["Thomas W. Eagar (interjections at p22–p23, p56–p58)"],
+  "secondary_speakers": [
+    "Thomas W. Eagar (interjections at p22\u2013p23, p56\u2013p58)"
+  ],
   "topic_summary": "Safety factor in design when no governing code exists. Guest lecturer Dr. Delmar presents two case studies from his own engineering practice: (1) a homemade utility trailer he designed and built, with attention to placing welds in compression rather than tension to manage uncertainty in weld quality at points of highest tensile stress; (2) an ATV/quad front suspension with control arms, illustrating how worst-case load analysis, field testing with force transducers, and service history together let manufacturers reduce safety factors toward unity. Closes with a digression on a nuclear facility where a contractor drilled unauthorized holes in seismic-designed structural members, and the non-obvious remedy (do NOT plug-weld; add a stiffener away from the strain zone). Tom Eagar interjects to anchor the discussion in the structural welding code (50% of yield for members, 30% for welds; 1.67 safety factor for buildings, 2.0 for bridges) and closes with a Florida tree-stand fatality caused by weld placement.",
   "key_cases": [
-    "Delmar's homemade utility trailer (8'×4', single axle, 1000 lb/wheel)",
+    "Delmar's homemade utility trailer (8'\u00d74', single axle, 1000 lb/wheel)",
     "Storage-garage car elevator failed when loaded eccentrically by a forklift",
     "ATV/quad front suspension control arm design",
     "Nuclear facility seismic-frame members drilled for electrical conduit (post-hoc remediation)",
-    "Florida tree-stand failure (Tom's anecdote — weld in tension killed a user)"
+    "Florida tree-stand failure (Tom's anecdote \u2014 weld in tension killed a user)"
   ],
   "key_figures_referenced": [
     "Structural welding code: design allowable stress = 50% of minimum yield for members, 30% for welds",
     "Safety factor 1.67 for buildings, 2.0 for bridges",
     "S-N curve for steel: ~50% of yield gives infinite life",
-    "25 lb/ft² wind pressure assumption at 65 mph",
-    "Friction factor 0.6–0.7 for rubber on road"
+    "25 lb/ft\u00b2 wind pressure assumption at 65 mph",
+    "Friction factor 0.6\u20130.7 for rubber on road"
   ],
   "raw_transcript_sha256": "1327674a1ce579064d3e21d61c781e4f893adc3faf997de98bc6ce9ebdc07701",
   "raw_transcript_line_count": 1386,
   "raw_transcript_word_count": 8683,
   "layer2_paragraph_count": 58,
-  "layer2_duration_covered_mmss": "00:02–54:00 (approx; lecture appears cut off mid-sentence)",
+  "layer2_duration_covered_mmss": "00:02\u201354:00 (approx; lecture appears cut off mid-sentence)",
   "pipeline_version": "2.0",
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-14T01:20:20.621520+00:00",
-  "notes": "Anomalous lecture in the Eagar corpus: Tom is largely silent and a guest lectures. Speaker attribution 'Dr. Delmar' inferred from Tom's reference at p57. Several captioner garbles flagged for editorial review (see transformation_log.md). Lecture recording appears truncated mid-sentence at the end."
+  "notes": "Anomalous lecture in the Eagar corpus: Tom is largely silent and a guest lectures. Speaker attribution 'Dr. Delmar' inferred from Tom's reference at p57. Several captioner garbles flagged for editorial review (see transformation_log.md). Lecture recording appears truncated mid-sentence at the end.",
+  "course_canonical": "Codes and Standards"
 }

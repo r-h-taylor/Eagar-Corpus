@@ -14,13 +14,42 @@
   "duration_covered_mmss_start": "00:00",
   "duration_covered_mmss_end": "48:23",
   "tom_spoken_slips_bracketed": [
-    {"paragraph": "p5", "raw": "Wittle", "corrected": "Whittle", "referent": "Frank Whittle, British jet engine inventor"},
-    {"paragraph": "p30", "raw": "E.A. Edison", "corrected": "T.A. Edison", "referent": "Thomas Alva Edison"},
-    {"paragraph": "p45", "raw": "Roosevelt", "corrected": "Rockefeller", "referent": "John D. Rockefeller, Standard Oil; Tom self-corrects shortly after"},
-    {"paragraph": "p50", "raw": "Lindy", "corrected": "Linde", "referent": "Linde process for air liquefaction"}
+    {
+      "paragraph": "p5",
+      "raw": "Wittle",
+      "corrected": "Whittle",
+      "referent": "Frank Whittle, British jet engine inventor"
+    },
+    {
+      "paragraph": "p30",
+      "raw": "E.A. Edison",
+      "corrected": "T.A. Edison",
+      "referent": "Thomas Alva Edison"
+    },
+    {
+      "paragraph": "p45",
+      "raw": "Roosevelt",
+      "corrected": "Rockefeller",
+      "referent": "John D. Rockefeller, Standard Oil; Tom self-corrects shortly after"
+    },
+    {
+      "paragraph": "p50",
+      "raw": "Lindy",
+      "corrected": "Linde",
+      "referent": "Linde process for air liquefaction"
+    }
   ],
   "captioner_garbles_flagged_for_editor": [
-    {"paragraph": "p6", "raw": "Gotbutshank / God but shank", "context": "MIT faculty member who went to Pratt & Whitney in the 1960s to lead single-crystal turbine blade development", "candidates_speculative": ["Maurice Gell", "Bernard Kear"], "resolution": "unresolved; preserved in layer 2 with editor flag"}
+    {
+      "paragraph": "p6",
+      "raw": "Gotbutshank / God but shank",
+      "context": "MIT faculty member who went to Pratt & Whitney in the 1960s to lead single-crystal turbine blade development",
+      "candidates_speculative": [
+        "Maurice Gell",
+        "Bernard Kear"
+      ],
+      "resolution": "unresolved; preserved in layer 2 with editor flag"
+    }
   ],
   "topics": [
     "fire sprinkler system pipe materials",
@@ -44,7 +73,7 @@
   ],
   "cases_mentioned": [
     "fire sprinkler system plastic pipe cracking",
-    "gas turbine blade evolution (uncooled → DS → single crystal → TBC)",
+    "gas turbine blade evolution (uncooled \u2192 DS \u2192 single crystal \u2192 TBC)",
     "Air Force $300M/year engine research committee (~2005)",
     "Mach 17 ordnance / Osama bin Laden anecdote",
     "National Aerospace Plane (1980s)",
@@ -57,5 +86,6 @@
     "Burns Harbor integrated steel mill (Bethlehem Steel, 1964)",
     "Bethlehem Steel bankruptcy / depreciated equipment fallacy",
     "Linz BOF development (Austria, 1950s)"
-  ]
+  ],
+  "course_canonical": "Materials Selection and Economics"
 }

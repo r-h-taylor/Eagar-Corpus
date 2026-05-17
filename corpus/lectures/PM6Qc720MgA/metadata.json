@@ -41,14 +41,15 @@
     "Casting factor of safety ~1.25 (Boeing practice)",
     "Pressure vessel safety factor of 4 (ASME)",
     "Three and a half inch titanium plate machined to 1/8 inch rib web",
-    "200°C aluminum softening threshold",
-    "Wing bending test: ±3 ft displacement",
+    "200\u00b0C aluminum softening threshold",
+    "Wing bending test: \u00b13 ft displacement",
     "400-hour design life for propeller shaft example"
   ],
   "editorial_flags": [
-    "Lecture delivered by guest, not Eagar — pipeline conventions applied but speaker voice differs",
+    "Lecture delivered by guest, not Eagar \u2014 pipeline conventions applied but speaker voice differs",
     "Non-native English speaker; some 'slips' may be vocabulary substitutions rather than memory slips",
     "p20 'foreign assembly' vs 'full assembly' ambiguity preserved",
     "Speaker email 'belmar@materials' suggests identity recoverable from MIT directory circa 2012"
-  ]
+  ],
+  "course_canonical": "Codes and Standards"
 }

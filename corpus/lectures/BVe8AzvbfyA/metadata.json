@@ -24,7 +24,7 @@
     "Chip-to-substrate bonding size limits (~1 cm)",
     "Activated diffusion bonding (silver interlayer, O'Brien/Rice/Olson)",
     "Contact strengthening in thin braze joints (triaxial stress state)",
-    "Soldering vs. brazing: AWS definition (450° C boundary)",
+    "Soldering vs. brazing: AWS definition (450\u00b0 C boundary)",
     "Young's equation and its limitations (non-equilibrium, surface contamination)",
     "Wetting time and cleanliness in soldering",
     "Wave soldering of circuit boards",
@@ -67,11 +67,24 @@
     "Department of Defense"
   ],
   "tom_slips_bracketed": [
-    {"paragraph": "p16", "spoken": "Status Center", "intended": "Stata Center"},
-    {"paragraph": "p25", "spoken": "H. Campbell (per captioner)", "intended": "H. Cary"},
-    {"paragraph": "p49", "spoken": "Intel", "intended": "Digital Equipment"}
+    {
+      "paragraph": "p16",
+      "spoken": "Status Center",
+      "intended": "Stata Center"
+    },
+    {
+      "paragraph": "p25",
+      "spoken": "H. Campbell (per captioner)",
+      "intended": "H. Cary"
+    },
+    {
+      "paragraph": "p49",
+      "spoken": "Intel",
+      "intended": "Digital Equipment"
+    }
   ],
   "captioner_corrections_silent_count": 18,
   "stage_directions_count": 0,
-  "student_turns_count": 2
+  "student_turns_count": 2,
+  "course_canonical": "Solid State Welding"
 }

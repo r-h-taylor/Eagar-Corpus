@@ -31,8 +31,8 @@
     "Blackhawk helicopter washer failure case"
   ],
   "recurring_referents": {
-    "Backofen": "Walter A. Backofen, MIT — textbook author, source of figures",
-    "Hosford": "William F. Hosford — assigned textbook",
+    "Backofen": "Walter A. Backofen, MIT \u2014 textbook author, source of figures",
+    "Hosford": "William F. Hosford \u2014 assigned textbook",
     "Making, Shaping and Treating of Steel": "US Steel / AISI publication, 11th edition",
     "Joel Clark": "MIT materials economics professor",
     "Ferro Catrakis": "Joel Clark's first PhD student, ~1976-77, Charles River Associates",
@@ -41,14 +41,38 @@
   },
   "stage_directions_count": 5,
   "tom_spoken_slips_bracketed": [
-    {"paragraph": "p21", "slip": "frictional", "correction": "frictionless"},
-    {"paragraph": "p35", "slip": "aluminum trioxide", "correction": "molybdenum trioxide"}
+    {
+      "paragraph": "p21",
+      "slip": "frictional",
+      "correction": "frictionless"
+    },
+    {
+      "paragraph": "p35",
+      "slip": "aluminum trioxide",
+      "correction": "molybdenum trioxide"
+    }
   ],
   "items_flagged_for_editor": [
-    {"paragraph": "p1", "issue": "forest material likely porous material"},
-    {"paragraph": "p8", "issue": "Ferro Catrakis name spelling uncertain"},
-    {"paragraph": "p11", "issue": "Beeran referent unclear"},
-    {"paragraph": "p37", "issue": "Don Bliclet likely Don Blickwede"},
-    {"paragraph": "p33", "issue": "applause sound cause unclear"}
-  ]
+    {
+      "paragraph": "p1",
+      "issue": "forest material likely porous material"
+    },
+    {
+      "paragraph": "p8",
+      "issue": "Ferro Catrakis name spelling uncertain"
+    },
+    {
+      "paragraph": "p11",
+      "issue": "Beeran referent unclear"
+    },
+    {
+      "paragraph": "p37",
+      "issue": "Don Bliclet likely Don Blickwede"
+    },
+    {
+      "paragraph": "p33",
+      "issue": "applause sound cause unclear"
+    }
+  ],
+  "course_canonical": "Deformation Processing"
 }

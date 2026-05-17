@@ -45,26 +45,51 @@
   "key_figures_cited": [
     "steel = 95% of all metal produced",
     "iron is 4th/5th/6th most abundant element in Earth's crust",
-    "adiabatic flame temperature in air ~1000°C",
-    "copper melts 1083°C, cast iron 1150°C",
-    "Bessemer melts steel at 1500°C (1856)",
+    "adiabatic flame temperature in air ~1000\u00b0C",
+    "copper melts 1083\u00b0C, cast iron 1150\u00b0C",
+    "Bessemer melts steel at 1500\u00b0C (1856)",
     "Burns Harbor cost ~$5B; blast furnace produces ~10,000 tons/day = ~5M tons/year",
     "cast iron cost ~$180/ton hot metal in mid-70s",
     "BOF: 300 tons in 20 minutes vs open hearth 450 tons in 24 hours",
     "ingot casting yield ~65%; continuous casting yield ~97%",
     "Saugus era productivity ~3000 person-hours/ton",
     "1975 Bethlehem ~6-10 person-hours/ton; today ~0.6",
-    "US steel industry employment: 500,000 (1980) → 250,000 (1990), same 100M ton output",
-    "world steel ~1.6 billion tons/year × $400/ton = ~$6T industry",
+    "US steel industry employment: 500,000 (1980) \u2192 250,000 (1990), same 100M ton output",
+    "world steel ~1.6 billion tons/year \u00d7 $400/ton = ~$6T industry",
     "world GDP ~$50T at time of lecture",
     "scrap steel ~$100/ton; cast iron ~$180/ton"
   ],
   "tom_slips_bracketed": [
-    {"paragraph": "p16", "slip": "five hundred million dollars", "correction": "billion"},
-    {"paragraph": "p36", "slip": "one basic oxygen at a billion dollars", "correction": "open hearth"},
-    {"paragraph": "p39", "slip": "20 to 50 tons at a time", "correction": "200 to 300"},
-    {"paragraph": "p45", "slip": "1.6 trillion tons", "correction": "billion"},
-    {"paragraph": "p46", "captioner_error": "John Chapman", "actual_name": "John Chipman"},
-    {"paragraph": "p46", "captioner_error": "William kreski", "actual_name": "William Krivsky"}
-  ]
+    {
+      "paragraph": "p16",
+      "slip": "five hundred million dollars",
+      "correction": "billion"
+    },
+    {
+      "paragraph": "p36",
+      "slip": "one basic oxygen at a billion dollars",
+      "correction": "open hearth"
+    },
+    {
+      "paragraph": "p39",
+      "slip": "20 to 50 tons at a time",
+      "correction": "200 to 300"
+    },
+    {
+      "paragraph": "p45",
+      "slip": "1.6 trillion tons",
+      "correction": "billion"
+    },
+    {
+      "paragraph": "p46",
+      "captioner_error": "John Chapman",
+      "actual_name": "John Chipman"
+    },
+    {
+      "paragraph": "p46",
+      "captioner_error": "William kreski",
+      "actual_name": "William Krivsky"
+    }
+  ],
+  "course_canonical": "Materials Selection"
 }

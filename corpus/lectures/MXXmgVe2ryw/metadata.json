@@ -16,12 +16,12 @@
   "primary_topics": [
     "deep drawing of sheet metal",
     "Coca-Cola can manufacture (drawing + ironing)",
-    "necking criteria (Considère construction)",
-    "Lüders strains / stretcher strains in mild steel",
+    "necking criteria (Consid\u00e8re construction)",
+    "L\u00fcders strains / stretcher strains in mild steel",
     "TRIP steels and martensitic transformation plasticity",
     "triaxial stress and notched vs. smooth tensile bars",
-    "fracture mode transition (ductile dimples → cleavage) under triaxiality",
-    "Mohr's circle analysis of localized necking angle (55°)",
+    "fracture mode transition (ductile dimples \u2192 cleavage) under triaxiality",
+    "Mohr's circle analysis of localized necking angle (55\u00b0)",
     "dieless drawing of optical fiber (Corning, glass as Newtonian fluid)",
     "residual stresses in glass and the black-light shatter case",
     "Bob Rose / Sylvania / freshly-made light bulb demonstration"
@@ -30,10 +30,10 @@
     "Walter A. Backofen",
     "William F. Hosford",
     "Richard W. Hertzberg",
-    "Armand Considère",
-    "Dr. Bellemare (course co-lecturer, identity uncertain — see editorial register)",
+    "Armand Consid\u00e8re",
+    "Dr. Bellemare (course co-lecturer, identity uncertain \u2014 see editorial register)",
     "Bob Rose (Tom's PhD thesis adviser)",
-    "Professor Owen (uncertain — see editorial register)",
+    "Professor Owen (uncertain \u2014 see editorial register)",
     "John Walker (Walker spy case, mid-1980s)"
   ],
   "named_organizations": [
@@ -51,10 +51,14 @@
     "Bob Rose's 3.091 freshly-made light bulb classroom demo"
   ],
   "scheduling_content_present": true,
-  "scheduling_paragraphs": ["p46", "p47"],
+  "scheduling_paragraphs": [
+    "p46",
+    "p47"
+  ],
   "editorial_flags": [
-    "Dr. Belmar [Bellemare] — identity of course co-lecturer needs human confirmation",
-    "Professor Owen [?] at p51 — captioner garbling of name; needs human identification",
-    "'longest links' at p35 — possible misspeak for 'lengths'; preserved per convention"
-  ]
+    "Dr. Belmar [Bellemare] \u2014 identity of course co-lecturer needs human confirmation",
+    "Professor Owen [?] at p51 \u2014 captioner garbling of name; needs human identification",
+    "'longest links' at p35 \u2014 possible misspeak for 'lengths'; preserved per convention"
+  ],
+  "course_canonical": "Deformation Processing"
 }

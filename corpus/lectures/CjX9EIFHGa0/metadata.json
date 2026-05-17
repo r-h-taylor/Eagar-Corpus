@@ -26,8 +26,15 @@
     "high-preheat welding working conditions"
   ],
   "people_mentioned": [
-    {"name": "John Wulff", "context": "MIT metallurgy professor, oxidation/corrosion research, consulting on Venezuelan oil boiler failure"},
-    {"name": "Jerry Milgram", "context": "MIT professor of ocean engineering (Course 2), America's Cup keel consulting call", "tom_said": "Jerry Milburn"}
+    {
+      "name": "John Wulff",
+      "context": "MIT metallurgy professor, oxidation/corrosion research, consulting on Venezuelan oil boiler failure"
+    },
+    {
+      "name": "Jerry Milgram",
+      "context": "MIT professor of ocean engineering (Course 2), America's Cup keel consulting call",
+      "tom_said": "Jerry Milburn"
+    }
   ],
   "places_mentioned": [
     "Venezuela",
@@ -48,12 +55,21 @@
     "Stout and Doty, Weldability of Steels"
   ],
   "tom_slips_bracketed": [
-    {"raw": "vanadium ethoxide", "correction": "vanadium pentoxide", "paragraph": "p1"},
-    {"raw": "Jerry Milburn", "correction": "Jerry Milgram", "paragraph": "p11"}
+    {
+      "raw": "vanadium ethoxide",
+      "correction": "vanadium pentoxide",
+      "paragraph": "p1"
+    },
+    {
+      "raw": "Jerry Milburn",
+      "correction": "Jerry Milgram",
+      "paragraph": "p11"
+    }
   ],
   "captioner_errors_corrected": 10,
   "stage_directions_layer2": 0,
   "student_turns": 1,
   "section_opens_mid_narrative": true,
-  "notes": "Lecture opens mid-story (vanadium/Venezuela anecdote continuing from prior session) and closes cleanly. Two named figures: John Wulff (MIT, deceased; story is retrospective) and Jerry Milgram (MIT ocean engineering, America's Cup consulting). The HY80/HY130 passage at p11 contains an unresolved syntactic fragment ('HY80 exits, HY130') that is preserved verbatim because the captioner garbling is not unambiguously resolvable."
+  "notes": "Lecture opens mid-story (vanadium/Venezuela anecdote continuing from prior session) and closes cleanly. Two named figures: John Wulff (MIT, deceased; story is retrospective) and Jerry Milgram (MIT ocean engineering, America's Cup consulting). The HY80/HY130 passage at p11 contains an unresolved syntactic fragment ('HY80 exits, HY130') that is preserved verbatim because the captioner garbling is not unambiguously resolvable.",
+  "course_canonical": "Welding Metallurgy"
 }

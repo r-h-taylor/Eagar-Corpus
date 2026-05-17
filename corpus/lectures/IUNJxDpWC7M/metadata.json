@@ -29,18 +29,41 @@
     "Chloride-oxygen synergy in stainless steel pitting"
   ],
   "tom_slips_flagged": [
-    {"location": "p7", "raw_line": 209, "slip": "boiling water killer system", "correction": "Boiler System"},
-    {"location": "p13", "raw_line": 411, "slip": "H2N2", "correction": "N2H4 (hydrazine)"}
+    {
+      "location": "p7",
+      "raw_line": 209,
+      "slip": "boiling water killer system",
+      "correction": "Boiler System"
+    },
+    {
+      "location": "p13",
+      "raw_line": 411,
+      "slip": "H2N2",
+      "correction": "N2H4 (hydrazine)"
+    }
   ],
   "captioner_corrections": [
-    {"raw": "war-rated/pour rated water", "corrected": "borated water"},
-    {"raw": "5 mega and water", "corrected": "5 megohm water"},
-    {"raw": "10 tail 1010", "corrected": "AISI 1010 (restart)"},
-    {"raw": "salt treaty", "corrected": "SALT treaty"}
+    {
+      "raw": "war-rated/pour rated water",
+      "corrected": "borated water"
+    },
+    {
+      "raw": "5 mega and water",
+      "corrected": "5 megohm water"
+    },
+    {
+      "raw": "10 tail 1010",
+      "corrected": "AISI 1010 (restart)"
+    },
+    {
+      "raw": "salt treaty",
+      "corrected": "SALT treaty"
+    }
   ],
   "editor_flags": [
-    "L11 'except NFC' — unclear aside, preserved verbatim",
-    "L259 '2 24 or 36 inch' — captioner garbling of pipe diameter range, preserved as ambiguous",
-    "L750 '40,000 or even 80,000' — unit dropped by captioner, bracketed clarification added"
-  ]
+    "L11 'except NFC' \u2014 unclear aside, preserved verbatim",
+    "L259 '2 24 or 36 inch' \u2014 captioner garbling of pipe diameter range, preserved as ambiguous",
+    "L750 '40,000 or even 80,000' \u2014 unit dropped by captioner, bracketed clarification added"
+  ],
+  "course_canonical": "Corrosion Cracking and More"
 }

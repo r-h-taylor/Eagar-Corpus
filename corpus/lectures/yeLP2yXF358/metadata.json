@@ -27,7 +27,7 @@
     {
       "name": "Helms Pumped Storage Project penstock failure",
       "location": "Sierra Nevada, California",
-      "era": "late 1980s — early 1990s",
+      "era": "late 1980s \u2014 early 1990s",
       "frame": "Penstock failure: American Bridge welded inch-and-quarter fillet weld with snow on the metal, no preheat, no post weld heat treatment; delayed hydrogen cracking after winter freeze; failure during first pressurization at 188 psi.",
       "litigation": "Fresno trial early 1990s; PG&E lost vs. American Bridge; American Bridge awarded $17M punitive damages for slander by a PG&E-hired metallurgist who pre-announced fault in the press."
     },
@@ -47,7 +47,7 @@
     {
       "name": "John Wulff / Boston Edison consulting fee (incomplete)",
       "frame": "Wulff demands $5,000 fee before diagnosing corrosion of stainless steel in Boston Edison generating plant; cause traced to first Venezuelan oil shipment. Story cuts off mid-telling.",
-      "era": "late 1940s — early 1950s"
+      "era": "late 1940s \u2014 early 1950s"
     }
   ],
   "people_named": [
@@ -67,5 +67,6 @@
     "ASME (boiler pressure vessel code)"
   ],
   "recording_ends_mid_anecdote": true,
-  "notes": "Recording terminates at ~37:40 mid-John-Wulff anecdote. The Helms project anecdote is the centerpiece teaching case; it links the three Venn-diagram circles (residual stress, hardness, hydrogen) by demonstrating a real-world failure that violated all three preventive measures simultaneously. Captioner quality is notably poor on this transcript — recurring garbles of 'post weld heat treatment,' 'fillet weld,' 'Steinmetz,' and 'Wulff.'"
+  "notes": "Recording terminates at ~37:40 mid-John-Wulff anecdote. The Helms project anecdote is the centerpiece teaching case; it links the three Venn-diagram circles (residual stress, hardness, hydrogen) by demonstrating a real-world failure that violated all three preventive measures simultaneously. Captioner quality is notably poor on this transcript \u2014 recurring garbles of 'post weld heat treatment,' 'fillet weld,' 'Steinmetz,' and 'Wulff.'",
+  "course_canonical": "Welding Metallurgy"
 }

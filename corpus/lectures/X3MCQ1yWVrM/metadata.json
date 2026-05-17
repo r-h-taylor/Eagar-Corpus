@@ -22,7 +22,7 @@
     "Clayton Christensen / Innovator's Dilemma referencing Eagar's steel mill cost figure",
     "Eagar's welder population estimate cited by Bureau of Labor Statistics",
     "MIT Made in America commission",
-    "Japan post-WWII industrial trajectory (steel → ships → autos)",
+    "Japan post-WWII industrial trajectory (steel \u2192 ships \u2192 autos)",
     "Star Wars / Japanese trade-financed defense buildup",
     "USS Thresher disaster (1963) and SUBSAFE program",
     "W. Edwards Deming and Japanese statistical quality",
@@ -68,8 +68,9 @@
   "notes_for_layer3": [
     "Section breaks suggested at: course logistics (p1-p4), TQM definitions and origins (p5-p7), fitness-for-latent-requirements / Walkman (p8-p9), Tom Lee anecdote (p10-p11), IBM customer-driven quality (p12-p14), Shewhart and history (p15-p16), Clayton Christensen and the steel mill cost story (p17-p26), Japanese industrial rise and trade economics (p27-p35), USS Thresher and SUBSAFE (p36-p38), Lean manufacturing and MIT manufacturing politics (p39-p44).",
     "Backward-references to 'yesterday' (p1, p2, p4) refer to the prior class meeting; preserve in layer 2, cut from layer 3 per convention 5.",
-    "The lengthy MIT-politics narrative (p40-p44) is explicitly marked by Tom as 'to be continued next time' and may warrant a §note that it resumes in the next lecture.",
+    "The lengthy MIT-politics narrative (p40-p44) is explicitly marked by Tom as 'to be continued next time' and may warrant a \u00a7note that it resumes in the next lecture.",
     "Tom's slip on Bethlehem Steel sales ('50 million [billion]') is a clear numerical slip; flagged.",
     "The 'tragedy of the commons' attribution to a 'right-wing guy at Stanford or Berkeley' is Tom's hedge on Garrett Hardin (UC Santa Barbara). Preserve the hedge in layer 2; footnote in layer 3 if needed."
-  ]
+  ],
+  "course_canonical": "Total Quality Improvement"
 }

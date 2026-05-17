@@ -27,7 +27,7 @@
     "Sub-Zero refrigerator hinge failure case",
     "duplex stainless centrifuge case",
     "Hadfield's manganese steel",
-    "316 vs 304 — Fenway Frank hot dog cooker case",
+    "316 vs 304 \u2014 Fenway Frank hot dog cooker case",
     "galvanic series and passive vs active stainless",
     "chrome oxide passivation; chloride vs fluoride attack",
     "New England Aquarium fish-scale facade case",
@@ -52,14 +52,24 @@
     "Robert Hadfield (Hadfield's manganese steel)"
   ],
   "tom_slips_bracketed": [
-    {"paragraph": "p23", "spoken": "Sedrik", "correct": "Sedriks"},
-    {"paragraph": "p45", "spoken": "hydrochloric acid", "correct": "hydrofluoric acid", "note": "Tom says hydrochloric twice; context demands hydrofluoric"}
+    {
+      "paragraph": "p23",
+      "spoken": "Sedrik",
+      "correct": "Sedriks"
+    },
+    {
+      "paragraph": "p45",
+      "spoken": "hydrochloric acid",
+      "correct": "hydrofluoric acid",
+      "note": "Tom says hydrochloric twice; context demands hydrofluoric"
+    }
   ],
   "captioner_proper_noun_fixes": [
-    "betham → Bethlehem",
-    "Cedric → Sedriks",
-    "had Fields → Hadfield's",
-    "kky / crafy → Krivsky"
+    "betham \u2192 Bethlehem",
+    "Cedric \u2192 Sedriks",
+    "had Fields \u2192 Hadfield's",
+    "kky / crafy \u2192 Krivsky"
   ],
-  "notes_for_layer3": "Lecture has natural sections: (1) presentation logistics + beverage containers + European cars [00:02–06:27]; (2) recap of steels and hardness trio [06:27–11:40]; (3) HY-130 / 4340 America's Cup case [11:40–13:06]; (4) Tom's welding biography and reaction-time digression [13:06–17:44]; (5) why many steels exist and the manganese/sulfur story [17:44–27:20]; (6) stainless steel genealogy: austenitic, sulfurized (303), duplex, precipitation-hardening, Mn-substituted, Hadfield's, martensitic, FCC/BCC/BCT taxonomy [27:20–37:21]; (7) hydrogen embrittlement and Mo for chloride resistance: Fenway Frank case [37:21–42:05]; (8) galvanic series, active vs passive, Aquarium case, GW Bridge anecdote [42:05–51:15]; (9) L-grades and AOD steelmaking [51:15–end]. Recommend 8–9 sections."
+  "notes_for_layer3": "Lecture has natural sections: (1) presentation logistics + beverage containers + European cars [00:02\u201306:27]; (2) recap of steels and hardness trio [06:27\u201311:40]; (3) HY-130 / 4340 America's Cup case [11:40\u201313:06]; (4) Tom's welding biography and reaction-time digression [13:06\u201317:44]; (5) why many steels exist and the manganese/sulfur story [17:44\u201327:20]; (6) stainless steel genealogy: austenitic, sulfurized (303), duplex, precipitation-hardening, Mn-substituted, Hadfield's, martensitic, FCC/BCC/BCT taxonomy [27:20\u201337:21]; (7) hydrogen embrittlement and Mo for chloride resistance: Fenway Frank case [37:21\u201342:05]; (8) galvanic series, active vs passive, Aquarium case, GW Bridge anecdote [42:05\u201351:15]; (9) L-grades and AOD steelmaking [51:15\u2013end]. Recommend 8\u20139 sections.",
+  "course_canonical": "Structural Materials Selection"
 }

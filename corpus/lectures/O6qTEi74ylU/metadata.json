@@ -13,7 +13,7 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T13:56:11.633934+00:00",
   "speaker": "guest lecturer (not Tom Eagar); identity TBD",
-  "speaker_confidence": "high — closing remarks and an aside to a colleague indicate visitor status",
+  "speaker_confidence": "high \u2014 closing remarks and an aside to a colleague indicate visitor status",
   "duration_covered_seconds": 948,
   "duration_covered_mmss": "15:48",
   "layer2_paragraph_count": 23,
@@ -39,7 +39,8 @@
   "editorial_flags": [
     "guest lecturer identity unknown",
     "p9 'likelihood [liquid]' bracketed correction not fully unambiguous",
-    "p14 'sin—' mid-word break editorially glossed; review whether to keep gloss",
+    "p14 'sin\u2014' mid-word break editorially glossed; review whether to keep gloss",
     "p16 student/Tom attribution ambiguous"
-  ]
+  ],
+  "course_canonical": "Welding Metallurgy"
 }

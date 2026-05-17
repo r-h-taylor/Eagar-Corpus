@@ -57,7 +57,8 @@
   "biographical_asides_present": true,
   "editorial_flags": [
     "p32: student attribution inferred",
-    "p62: 'Bliquhouse' spelling unverified — could be Bleekrode or similar",
+    "p62: 'Bliquhouse' spelling unverified \u2014 could be Bleekrode or similar",
     "p68: student question content inferred from Tom's response"
-  ]
+  ],
+  "course_canonical": "Casting"
 }

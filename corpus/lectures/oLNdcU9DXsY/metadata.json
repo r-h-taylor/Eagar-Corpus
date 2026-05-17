@@ -15,23 +15,72 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T02:25:50.967371+00:00",
   "toms_slips_bracketed": [
-    {"paragraph": "p3", "raw": "Bob Lodes", "corrected": "Laudise", "note": "R.A. Laudise, Bell Labs hydrothermal quartz growth"},
-    {"paragraph": "p14", "raw": "Margaret McVicker", "corrected": "MacVicar", "note": "Margaret L.A. MacVicar, MIT; Tom self-corrects mid-sentence"},
-    {"paragraph": "p19", "raw": "Nogales New Mexico", "corrected": "Arizona", "note": "geographic slip; Nogales is in Arizona"}
+    {
+      "paragraph": "p3",
+      "raw": "Bob Lodes",
+      "corrected": "Laudise",
+      "note": "R.A. Laudise, Bell Labs hydrothermal quartz growth"
+    },
+    {
+      "paragraph": "p14",
+      "raw": "Margaret McVicker",
+      "corrected": "MacVicar",
+      "note": "Margaret L.A. MacVicar, MIT; Tom self-corrects mid-sentence"
+    },
+    {
+      "paragraph": "p19",
+      "raw": "Nogales New Mexico",
+      "corrected": "Arizona",
+      "note": "geographic slip; Nogales is in Arizona"
+    }
   ],
   "captioner_errors_corrected": [
-    {"raw": "cold work plus stage", "corrected": "cold work plus age"},
-    {"raw": "professor plu", "corrected": "Professor Pelloux"},
-    {"raw": "professor shu", "corrected": "Professor Schuh"},
-    {"raw": "fobber ware", "corrected": "Faberware"},
-    {"raw": "rocker propelled grenade", "corrected": "rocket propelled grenade"},
-    {"raw": "tessa hadlock", "corrected": "Tessa Hadlock"}
+    {
+      "raw": "cold work plus stage",
+      "corrected": "cold work plus age"
+    },
+    {
+      "raw": "professor plu",
+      "corrected": "Professor Pelloux"
+    },
+    {
+      "raw": "professor shu",
+      "corrected": "Professor Schuh"
+    },
+    {
+      "raw": "fobber ware",
+      "corrected": "Faberware"
+    },
+    {
+      "raw": "rocker propelled grenade",
+      "corrected": "rocket propelled grenade"
+    },
+    {
+      "raw": "tessa hadlock",
+      "corrected": "Tessa Hadlock"
+    }
   ],
   "student_turns": [
-    {"paragraph": "p21", "timestamp": "14:35", "topic": "Tesla water"},
-    {"paragraph": "p53", "timestamp": "45:13", "topic": "MP35N weldability"},
-    {"paragraph": "p55", "timestamp": "45:28", "topic": "MP35N temperature applications"},
-    {"paragraph": "p63", "timestamp": "51:06", "topic": "copper alloys toughness"}
+    {
+      "paragraph": "p21",
+      "timestamp": "14:35",
+      "topic": "Tesla water"
+    },
+    {
+      "paragraph": "p53",
+      "timestamp": "45:13",
+      "topic": "MP35N weldability"
+    },
+    {
+      "paragraph": "p55",
+      "timestamp": "45:28",
+      "topic": "MP35N temperature applications"
+    },
+    {
+      "paragraph": "p63",
+      "timestamp": "51:06",
+      "topic": "copper alloys toughness"
+    }
   ],
   "major_topics": [
     "Swiss watch industry and quartz / hydrothermal growth",
@@ -45,5 +94,6 @@
     "Curie temperature and MRI-compatible surgical clips",
     "High-density materials: depleted uranium, platinum (eyelid weights)",
     "Copper alloys and silver wiring at Oak Ridge"
-  ]
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

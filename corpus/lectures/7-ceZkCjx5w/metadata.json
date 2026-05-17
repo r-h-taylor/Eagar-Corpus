@@ -45,7 +45,8 @@
   "captioner_error_corrections": 22,
   "tom_spoken_slips_bracketed": 2,
   "items_flagged_for_editor": [
-    "p8: 'Don[?]' — unclear referent",
-    "p5: 'Esso' ship name — verify against 1946 Navy report ship list"
-  ]
+    "p8: 'Don[?]' \u2014 unclear referent",
+    "p5: 'Esso' ship name \u2014 verify against 1946 Navy report ship list"
+  ],
+  "course_canonical": "Codes and Standards"
 }

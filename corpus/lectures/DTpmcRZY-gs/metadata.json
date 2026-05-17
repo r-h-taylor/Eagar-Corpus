@@ -12,7 +12,10 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T13:34:32.161105+00:00",
   "layer2_paragraph_count": 49,
-  "layer2_timestamp_range": ["00:03", "36:28"],
+  "layer2_timestamp_range": [
+    "00:03",
+    "36:28"
+  ],
   "topics": [
     "steel terminology",
     "Bessemer process",
@@ -48,5 +51,6 @@
   "tom_slips_bracketed": 0,
   "captioner_corrections_logged": 23,
   "ends_mid_section": true,
-  "notes": "Lecture cuts off at 36:28 mid-paragraph as Tom transitions to manganese phase diagram. Material continues in lecture 7/29."
+  "notes": "Lecture cuts off at 36:28 mid-paragraph as Tom transitions to manganese phase diagram. Material continues in lecture 7/29.",
+  "course_canonical": "Welding Metallurgy"
 }

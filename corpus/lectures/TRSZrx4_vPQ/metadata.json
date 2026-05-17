@@ -55,5 +55,6 @@
   ],
   "stage_business_count": 6,
   "student_turns_count": 19,
-  "notes": "Lecture covers heterogeneous material spanning fastener tradeoffs (continuation from prior lecture), structural materials economics, history of MIT engineering education, and a detailed thermodynamic argument for why vapor deposition is uneconomical for structural materials. The X-33 carbon composite tank failure story (p37-p44) and the dollars-per-mole comparison (p70-p72) are the most quotable extended teaching units."
+  "notes": "Lecture covers heterogeneous material spanning fastener tradeoffs (continuation from prior lecture), structural materials economics, history of MIT engineering education, and a detailed thermodynamic argument for why vapor deposition is uneconomical for structural materials. The X-33 carbon composite tank failure story (p37-p44) and the dollars-per-mole comparison (p70-p72) are the most quotable extended teaching units.",
+  "course_canonical": "Casting"
 }

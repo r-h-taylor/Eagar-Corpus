@@ -36,13 +36,22 @@
     "Kodak film/digital decline parallel"
   ],
   "tom_slips_bracketed": [
-    {"location": "p43", "said": "Gordon Ford", "correction": "Gordon Forward"},
-    {"location": "p45", "said": "Gordon forward (lowercase, mid-sentence)", "correction": "Gordon [Forward]"}
+    {
+      "location": "p43",
+      "said": "Gordon Ford",
+      "correction": "Gordon Forward"
+    },
+    {
+      "location": "p45",
+      "said": "Gordon forward (lowercase, mid-sentence)",
+      "correction": "Gordon [Forward]"
+    }
   ],
   "editor_flags": [
     "p44: 'Don beds' tentatively corrected to 'Don Trauttleins' (Donald Trautlein, Bethlehem Steel CEO 1980-86). Verify or restore [?] marker.",
     "p48: 'Kim' (HBS Dean friend) tentatively identified as Kim B. Clark. Verify.",
-    "Student attributions in p29-p31 are unattributed — single student or multiple?",
+    "Student attributions in p29-p31 are unattributed \u2014 single student or multiple?",
     "p17 extrusion demonstration: captioner garbled physical-business speech; rendering preserves the garble. Consider stage direction in layer 3."
-  ]
+  ],
+  "course_canonical": "Deformation Processing"
 }

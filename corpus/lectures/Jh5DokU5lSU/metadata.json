@@ -37,14 +37,35 @@
     "Small (student)"
   ],
   "toms_slips_bracketed": [
-    {"paragraph": "p21", "said": "LMRD", "intended": "LRFD"}
+    {
+      "paragraph": "p21",
+      "said": "LMRD",
+      "intended": "LRFD"
+    }
   ],
   "captioner_corrections_silent": [
-    {"raw": "santana", "corrected": "Santayana"},
-    {"raw": "big not", "corrected": "big knot"},
-    {"raw": "feed fatigue curve", "corrected": "fatigue curve"},
-    {"raw": "i don't think you got killed", "corrected": "I don't think anybody got killed"}
+    {
+      "raw": "santana",
+      "corrected": "Santayana"
+    },
+    {
+      "raw": "big not",
+      "corrected": "big knot"
+    },
+    {
+      "raw": "feed fatigue curve",
+      "corrected": "fatigue curve"
+    },
+    {
+      "raw": "i don't think you got killed",
+      "corrected": "I don't think anybody got killed"
+    }
   ],
-  "student_turns_inferred": ["p11", "p19", "p25"],
-  "notes": "Short class session (~14 min). Two teaching units: (1) closing remarks on welding ultra-high-strength steels, (2) introduction to fatigue design of weldments with AISC categories. Tom himself flags uncertainty on LRFD acronym; student supplies correction in dialogue. Lecture ends with 'see you tomorrow' suggesting this is one of a sequence."
+  "student_turns_inferred": [
+    "p11",
+    "p19",
+    "p25"
+  ],
+  "notes": "Short class session (~14 min). Two teaching units: (1) closing remarks on welding ultra-high-strength steels, (2) introduction to fatigue design of weldments with AISC categories. Tom himself flags uncertainty on LRFD acronym; student supplies correction in dialogue. Lecture ends with 'see you tomorrow' suggesting this is one of a sequence.",
+  "course_canonical": "Welding Metallurgy"
 }

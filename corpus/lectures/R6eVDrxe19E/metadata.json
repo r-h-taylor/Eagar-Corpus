@@ -52,7 +52,7 @@
     "Tom's hot dog cooker (304 used where 316 specified)",
     "Westinghouse pressurized water reactor (Inconel construction)",
     "GE nuclear reactor stainless cracking (sulfur, 1970s)",
-    "Miami Art Museum (Boston contractor, opened December 2013) — story begins, transcript cuts off"
+    "Miami Art Museum (Boston contractor, opened December 2013) \u2014 story begins, transcript cuts off"
   ],
   "people_mentioned": [
     "Guthrie (British Welding Institute, fatigue work)",
@@ -60,8 +60,9 @@
     "John A. Sedriks (ONR, author Corrosion of Stainless Steels)",
     "Anton L. Schaeffler (Schaeffler diagram, 1949)",
     "Bill DeLong (DeLong diagram, 1973)",
-    "W. F. Savage (RPI, Varestraint test — implied, not named)"
+    "W. F. Savage (RPI, Varestraint test \u2014 implied, not named)"
   ],
   "transcript_terminates_mid_story": true,
-  "termination_note": "Lecture cuts off at 37:10 mid-narrative about a Miami Art Museum welding problem. The story is set up but not delivered — likely continues in lecture 24 or was abridged in the recording."
+  "termination_note": "Lecture cuts off at 37:10 mid-narrative about a Miami Art Museum welding problem. The story is set up but not delivered \u2014 likely continues in lecture 24 or was abridged in the recording.",
+  "course_canonical": "Welding Metallurgy"
 }

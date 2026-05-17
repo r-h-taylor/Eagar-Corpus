@@ -48,11 +48,12 @@
     "Nun-Sen Tsai (Tom's student, TSMC)"
   ],
   "tom_misstatements_flagged": [
-    "p24: arithmetic 'nickel × 3,000 = $600' should be $150 — bracketed",
-    "p10: '1988' Nobel for high-Tc superconductivity was actually 1987 (Bednorz & Müller) — preserved per constitutional constraint",
-    "p25: '$115,000 all-aluminum Taurus' captioner error for '$15,000 [steel] Taurus' — bracketed"
+    "p24: arithmetic 'nickel \u00d7 3,000 = $600' should be $150 \u2014 bracketed",
+    "p10: '1988' Nobel for high-Tc superconductivity was actually 1987 (Bednorz & M\u00fcller) \u2014 preserved per constitutional constraint",
+    "p25: '$115,000 all-aluminum Taurus' captioner error for '$15,000 [steel] Taurus' \u2014 bracketed"
   ],
   "captioner_proper_noun_corrections_count": 28,
   "tom_bracketed_slips_count": 4,
-  "notes_for_editor": "This lecture is largely off-topic from deformation processing — Tom acknowledges this explicitly in the closing (p37). The dislocations historical material in p1-p6 is the most on-topic content. The body-in-white aluminum cost analysis (p23-p25) is the deformation-processing-adjacent case. The Kim Clark / HBS / Armco material (p28-p32) and the TSMC/Nun-Sen material (p33-p35) are pure career-philosophy material. Recommend dividing layer 3 into clear sections: (s1) Hertzberg/Backofen/dislocation history, (s2) The superconductor bandwagon and Tom's contrarian stance, (s3) The American Superconductor spin-off and the Cima/Brown episode, (s4) The all-aluminum automobile prediction and body-in-white economics, (s5) Kim Clark, Armco, and the HBS critique, (s6) TSMC and the technicians-vs-leaders closing."
+  "notes_for_editor": "This lecture is largely off-topic from deformation processing \u2014 Tom acknowledges this explicitly in the closing (p37). The dislocations historical material in p1-p6 is the most on-topic content. The body-in-white aluminum cost analysis (p23-p25) is the deformation-processing-adjacent case. The Kim Clark / HBS / Armco material (p28-p32) and the TSMC/Nun-Sen material (p33-p35) are pure career-philosophy material. Recommend dividing layer 3 into clear sections: (s1) Hertzberg/Backofen/dislocation history, (s2) The superconductor bandwagon and Tom's contrarian stance, (s3) The American Superconductor spin-off and the Cima/Brown episode, (s4) The all-aluminum automobile prediction and body-in-white economics, (s5) Kim Clark, Armco, and the HBS critique, (s6) TSMC and the technicians-vs-leaders closing.",
+  "course_canonical": "Deformation Processing"
 }

@@ -18,7 +18,7 @@
     "tributyl tin and Navy environmental history",
     "jet burners for rock drilling",
     "solid rocket propellant chemistry",
-    "acetylene history (Davy 1836, Wöhler 1862, Wilson)",
+    "acetylene history (Davy 1836, W\u00f6hler 1862, Wilson)",
     "acetylene cylinder storage (Prest-O-Lite, calcium silicate binder)",
     "electric arc as electrically augmented flame",
     "cathode/anode fall voltages, plasma column",
@@ -26,8 +26,8 @@
     "MAP gas vs acetylene for welding and soldering",
     "MAP cylinder failures and litigation",
     "oxyacetylene flame cutting (iron oxide melting point)",
-    "flame cutting of titanium (oxide dissolution at 900°C)",
-    "Von Kármán quote: scientist explains / engineer creates",
+    "flame cutting of titanium (oxide dissolution at 900\u00b0C)",
+    "Von K\u00e1rm\u00e1n quote: scientist explains / engineer creates",
     "Media Lab and Negroponte",
     "plasma cutting (corners, panel lines, water bath)",
     "Simmons Hall dedication (plasma cutting demo)",
@@ -58,10 +58,11 @@
     "Red Adair / Gulf War oil well firefighting"
   ],
   "recurring_eagar_patterns": [
-    "engineer-vs-scientist framing (Von Kármán quote)",
+    "engineer-vs-scientist framing (Von K\u00e1rm\u00e1n quote)",
     "litigation/forensic anecdotes as teaching device",
     "environmental regulation history as engineering context",
     "story-as-closing-pattern (Red Adair vignette ends lecture)",
     "MIT institutional history (Simmons Hall, Media Lab, Joel Moses, Negroponte)"
-  ]
+  ],
+  "course_canonical": "Fusion Welding"
 }

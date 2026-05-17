@@ -31,7 +31,7 @@
     "Navy research funding categories (6-1 / 6-2 / 6-3)",
     "Bessemer process and steel history",
     "Saugus Ironworks and colonial iron",
-    "Ashby plot — toughness vs strength",
+    "Ashby plot \u2014 toughness vs strength",
     "world steel and aluminum production figures"
   ],
   "cases_mentioned": [
@@ -63,5 +63,6 @@
   "stage_directions_count": 7,
   "self_corrections_preserved": 9,
   "tom_slips_bracketed": 1,
-  "editorial_register_flags": 3
+  "editorial_register_flags": 3,
+  "course_canonical": "Corrosion Cracking and More"
 }

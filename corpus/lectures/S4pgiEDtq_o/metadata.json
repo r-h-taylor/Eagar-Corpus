@@ -14,13 +14,16 @@
   "layer2_paragraph_count": 56,
   "layer2_start_timestamp": "00:07",
   "layer2_end_timestamp": "56:50",
-  "speakers": ["Tom Eagar", "Student (uncredited)"],
+  "speakers": [
+    "Tom Eagar",
+    "Student (uncredited)"
+  ],
   "named_entities_corrected": [
     "Rensselaer Polytechnic",
     "Lester Thurow",
     "samarium cobalt",
     "Alnico",
-    "Péchiney",
+    "P\u00e9chiney",
     "Mittal",
     "H.M.S. Victory",
     "Weald of Kent and Sussex",
@@ -30,9 +33,24 @@
     "Sub-Zero"
   ],
   "spoken_slips_bracketed": [
-    {"paragraph": "p35", "spoken": "Chris Hugh", "intended": "Chris Schuh", "type": "name_uncertain"},
-    {"paragraph": "p39", "spoken": "Napoleon's flagship", "intended": "Nelson's flagship", "type": "factual_slip"},
-    {"paragraph": "p26", "spoken": "John Doyce", "intended": "John Deutch", "type": "name_uncertain"}
+    {
+      "paragraph": "p35",
+      "spoken": "Chris Hugh",
+      "intended": "Chris Schuh",
+      "type": "name_uncertain"
+    },
+    {
+      "paragraph": "p39",
+      "spoken": "Napoleon's flagship",
+      "intended": "Nelson's flagship",
+      "type": "factual_slip"
+    },
+    {
+      "paragraph": "p26",
+      "spoken": "John Doyce",
+      "intended": "John Deutch",
+      "type": "name_uncertain"
+    }
   ],
   "physical_artifacts_shown": [
     "X-33 space plane liquid hydrogen tank fragment",
@@ -70,5 +88,6 @@
     "Nick Grant (MIT)",
     "Merton Flemings (MIT)",
     "Antoni van Leeuwenhoek"
-  ]
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

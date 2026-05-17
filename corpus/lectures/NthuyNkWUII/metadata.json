@@ -49,7 +49,7 @@
     "Mike Cima",
     "Robert Coble (Bob Coble)",
     "Alva Kaufman",
-    "Antoine de Saint-Exupéry",
+    "Antoine de Saint-Exup\u00e9ry",
     "Thomas Edison",
     "Giancarlo (student)",
     "Joe Clark",
@@ -77,9 +77,10 @@
     "Fastenal headquartered in Rockford, Illinois (actually Winona, Minnesota). Preserved per convention 16."
   ],
   "tom_memory_slips_bracketed": [
-    "Saint-Exupéry name retrieval (p41)",
+    "Saint-Exup\u00e9ry name retrieval (p41)",
     "Le Petit Prince French (p41)"
   ],
   "stage_directions_inserted": 1,
-  "student_turns": 6
+  "student_turns": 6,
+  "course_canonical": "Additive Manufacturing"
 }

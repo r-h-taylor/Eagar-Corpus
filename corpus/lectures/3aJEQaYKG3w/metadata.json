@@ -19,7 +19,7 @@
     "airplane engine architecture (two-spool)",
     "turbine and compressor section materials (Ni-base superalloys, Ti-6Al-4V)",
     "engine life-limited parts (LLPs) and FAA safe-life methodology",
-    "titanium alloy metallurgy (alpha/beta phases, Widmanstätten structure)",
+    "titanium alloy metallurgy (alpha/beta phases, Widmanst\u00e4tten structure)",
     "manufacturing defects (hard alpha inclusions, segregation, white spots, freckles)",
     "non-destructive evaluation (visual, fluorescent/liquid penetrant, ultrasonic)",
     "failure analysis (ratchet marks, beach marks, fractography)",
@@ -30,7 +30,8 @@
   "flagged_for_editorial_review": [
     "Speaker identity: guest lecture, not Eagar",
     "Five inaudible student questions",
-    "Numerical correction 22,000°F → 2,200°F at [24:44]",
-    "Captioner error sulfonation → sulfidation at [29:24]"
-  ]
+    "Numerical correction 22,000\u00b0F \u2192 2,200\u00b0F at [24:44]",
+    "Captioner error sulfonation \u2192 sulfidation at [29:24]"
+  ],
+  "course_canonical": "Total Quality Improvement"
 }

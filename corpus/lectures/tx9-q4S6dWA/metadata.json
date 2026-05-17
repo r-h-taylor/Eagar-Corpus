@@ -28,16 +28,29 @@
   ],
   "tom_slips_corrected": [],
   "captioner_errors_corrected": [
-    {"raw": "Nickel", "fix": "nickel", "rule": "element_name_lowercase"},
-    {"raw": "monel", "fix": "Monel", "rule": "trade_name_capitalize"},
-    {"raw": "sea water", "fix": "seawater", "rule": "standard_compound"}
+    {
+      "raw": "Nickel",
+      "fix": "nickel",
+      "rule": "element_name_lowercase"
+    },
+    {
+      "raw": "monel",
+      "fix": "Monel",
+      "rule": "trade_name_capitalize"
+    },
+    {
+      "raw": "sea water",
+      "fix": "seawater",
+      "rule": "standard_compound"
+    }
   ],
   "editorial_flags": [
     "Recording opens mid-sentence (prior alloy-composition discussion lost).",
     "Recording closes mid-sentence ('I'm told to...').",
-    "Section is too short for meaningful §N subdivision; treat as single section at layer 3."
+    "Section is too short for meaningful \u00a7N subdivision; treat as single section at layer 3."
   ],
   "pipeline_version": "2.0",
   "model": "claude-opus-4-7",
-  "generated_at": "2026-05-13T17:27:30.536843+00:00"
+  "generated_at": "2026-05-13T17:27:30.536843+00:00",
+  "course_canonical": "Corrosion Cracking and More"
 }

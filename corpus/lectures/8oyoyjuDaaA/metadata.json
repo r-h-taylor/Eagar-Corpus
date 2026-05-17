@@ -24,7 +24,7 @@
     "medical implant material constraints (FDA grandfathering)"
   ],
   "cases_mentioned": [
-    "Hall-Héroult aluminum process and patent priority",
+    "Hall-H\u00e9roult aluminum process and patent priority",
     "Boston cast iron water mains (concrete relining)",
     "copper-plated stainless steel pipe failure in Florida high-rise",
     "Delrin (polyformaldehyde) plumbing failure and exploding toilets",
@@ -44,8 +44,9 @@
   "stage_directions_count": 5,
   "bracketed_slips_count": 13,
   "editorial_register_flags": [
-    "Thurler/Thurdler name at p62 (Tufts silk researcher) — likely David Kaplan, verify",
-    "Allegheny Eleven/Ludlum at p21 — verify intended company name",
-    "900 million/billion at p28 (Hoechst Celanese class action) — verify amount"
-  ]
+    "Thurler/Thurdler name at p62 (Tufts silk researcher) \u2014 likely David Kaplan, verify",
+    "Allegheny Eleven/Ludlum at p21 \u2014 verify intended company name",
+    "900 million/billion at p28 (Hoechst Celanese class action) \u2014 verify amount"
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

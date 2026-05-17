@@ -62,9 +62,20 @@
     "high strength low alloy (HSLA) steel"
   ],
   "captioner_garblings_flagged": [
-    {"para": "p26", "raw": "herburger places", "rendered": "Hertzberg [?]", "note": "ambiguous antecedent"},
-    {"para": "p27", "raw": "aluminum copper tic Alloys", "rendered": "aluminum copper [?] alloys", "note": "tic unresolved"}
+    {
+      "para": "p26",
+      "raw": "herburger places",
+      "rendered": "Hertzberg [?]",
+      "note": "ambiguous antecedent"
+    },
+    {
+      "para": "p27",
+      "raw": "aluminum copper tic Alloys",
+      "rendered": "aluminum copper [?] alloys",
+      "note": "tic unresolved"
+    }
   ],
   "student_questions": 2,
-  "stage_directions_inserted": 3
+  "stage_directions_inserted": 3,
+  "course_canonical": "Deformation Processing"
 }

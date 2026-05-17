@@ -37,7 +37,7 @@
     "Alex Slocum (speaker)",
     "Thomas Eagar (course instructor, referenced p57)",
     "Alex d'Arbeloff (Teradyne founder, chair endower)",
-    "James Clerk Maxwell (referenced as 'Jamie Clerk' — speaker slip)",
+    "James Clerk Maxwell (referenced as 'Jamie Clerk' \u2014 speaker slip)",
     "Heinrich Hertz",
     "Mark Graham (former Slocum student, APHRO rap collaborator)",
     "Steven Chu (Secretary of Energy, Deepwater Horizon team)",
@@ -46,10 +46,11 @@
     "Stalin (in family-history aside)"
   ],
   "editor_flags": [
-    "Speaker is Slocum, not Eagar — conventions may need adjustment for Layer 3.",
+    "Speaker is Slocum, not Eagar \u2014 conventions may need adjustment for Layer 3.",
     "'Limit Ling' at p43 unresolved garble.",
     "'one and NSU' at p20 unresolved garble (restaurant name?).",
     "'real right fruit' at p46 likely 'real ripe fruit'.",
     "Tail fragment at p51 marked [?]."
-  ]
+  ],
+  "course_canonical": "How to be a Successful Engineer"
 }

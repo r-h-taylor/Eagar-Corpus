@@ -35,7 +35,7 @@
     "Daniel Kahneman",
     "Robert Sprague",
     "Jim Williams",
-    "Theodore von Kármán",
+    "Theodore von K\u00e1rm\u00e1n",
     "Joel Moses",
     "Thomas Edison",
     "Brian Josephson",
@@ -80,7 +80,7 @@
   "works_cited": [
     "Thinking Fast and Slow (Kahneman)",
     "The Builders: Marvels of Engineering (National Geographic Society)",
-    "Methods of Theoretical Physics (Morse & Feshbach) — referenced approximately as 'Theoretical Modern Physics'"
+    "Methods of Theoretical Physics (Morse & Feshbach) \u2014 referenced approximately as 'Theoretical Modern Physics'"
   ],
   "editorial_flags": [
     "Pfeffer/puffer: technician name tentative",
@@ -89,5 +89,6 @@
     "Rickover: bracketed [Admiral] inserted for reader clarity",
     "Morrison Fishbach: possibly captioner garble for 'Morse and Fishbach'",
     "p20 'second liquid helium': likely 'submerge in liquid helium' but ambiguous; preserved"
-  ]
+  ],
+  "course_canonical": "What is Engineering"
 }

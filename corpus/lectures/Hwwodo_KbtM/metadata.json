@@ -57,12 +57,13 @@
     "tearing paper to demonstrate notch sensitivity"
   ],
   "tom_slips_bracketed": [
-    "p37: aluminum [steel] — Tom says aluminum twice when he means steel in the second instance"
+    "p37: aluminum [steel] \u2014 Tom says aluminum twice when he means steel in the second instance"
   ],
   "tom_self_corrections_preserved": [
     "p13: Obama / Osama self-correction with joke",
-    "p23: cube formula order self-correction (\"the cube — I'm sorry, the cube of the height\")"
+    "p23: cube formula order self-correction (\"the cube \u2014 I'm sorry, the cube of the height\")"
   ],
   "captioner_corrections_summary_count": 17,
-  "flagged_for_editor_count": 4
+  "flagged_for_editor_count": 4,
+  "course_canonical": "Materials Selection and Economics"
 }

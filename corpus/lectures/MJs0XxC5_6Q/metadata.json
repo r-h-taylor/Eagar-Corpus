@@ -19,9 +19,9 @@
   "section_title": "The cookware hydrogen-cracking case",
   "cases_mentioned": [
     {
-      "name": "Cookware plasma-spray hydrogen cracking (Brooklyn → Japan)",
-      "diagnosis": "delayed hydrogen cracking in martensitic stainless cookware; H₂ source traced to 95Ar/5H₂ plasma spray gas mixture used to deposit porous stainless layer for non-stick impregnation",
-      "anchor": "p1–p4"
+      "name": "Cookware plasma-spray hydrogen cracking (Brooklyn \u2192 Japan)",
+      "diagnosis": "delayed hydrogen cracking in martensitic stainless cookware; H\u2082 source traced to 95Ar/5H\u2082 plasma spray gas mixture used to deposit porous stainless layer for non-stick impregnation",
+      "anchor": "p1\u2013p4"
     }
   ],
   "technical_concepts": [
@@ -29,13 +29,22 @@
     "martensite susceptibility to hydrogen cracking",
     "HY steels (high-yield, martensitic)",
     "HSLA steels (high-strength low-alloy, fine-grain controlled-cooling)",
-    "Japanese steel metallurgy precedent (1970s → US 1980s)",
-    "plasma spray with Ar/H₂ gas mixture",
+    "Japanese steel metallurgy precedent (1970s \u2192 US 1980s)",
+    "plasma spray with Ar/H\u2082 gas mixture",
     "residual stresses from forming operations"
   ],
   "tom_slips_bracketed": [],
   "captioner_corrections": [
-    {"raw": "martinsite", "corrected": "martensite", "occurrences": 2},
-    {"raw": "could it be", "corrected": "could it be (doubled 'it' trimmed)", "occurrences": 1}
-  ]
+    {
+      "raw": "martinsite",
+      "corrected": "martensite",
+      "occurrences": 2
+    },
+    {
+      "raw": "could it be",
+      "corrected": "could it be (doubled 'it' trimmed)",
+      "occurrences": 1
+    }
+  ],
+  "course_canonical": "Corrosion Cracking and More"
 }

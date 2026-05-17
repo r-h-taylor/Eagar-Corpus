@@ -43,7 +43,7 @@
     "Henry Ford integrated monopoly",
     "Concorde skin temperature limit",
     "MMPDS-05 / MIL Handbook 5",
-    "Amtrak Boston–New Haven trolley wire rejection",
+    "Amtrak Boston\u2013New Haven trolley wire rejection",
     "Molybdenum-copper radar amplifier composite",
     "Aluminum-steel composite 345 kV transmission lines",
     "San Diego wildfire utility lawsuit",
@@ -55,5 +55,6 @@
     "Zircaloy nuclear fuel cladding / Three Mile Island",
     "Kennecott manganese sea nodule mining (1975)",
     "Rhenium single-crystal turbine blades"
-  ]
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

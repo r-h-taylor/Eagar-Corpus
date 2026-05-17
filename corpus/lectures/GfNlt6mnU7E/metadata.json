@@ -74,8 +74,9 @@
   "editorial_flags": [
     "p8: 'Howitt Campbell' identification uncertain",
     "p9: AWS committee member name spellings ('Sindel', 'Neiman') uncertain",
-    "p17: 'the better that's the wire' — possible content loss in cleanup",
+    "p17: 'the better that's the wire' \u2014 possible content loss in cleanup",
     "p5, p12: student questions inferred, not audible",
     "Recording ends mid-sentence at 37:00"
-  ]
+  ],
+  "course_canonical": "Welding Metallurgy"
 }

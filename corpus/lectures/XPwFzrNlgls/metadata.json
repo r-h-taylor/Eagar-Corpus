@@ -54,19 +54,65 @@
     "Reference to walking past broken panel on Building 56/66 this morning (p22)"
   ],
   "speaker_slips_bracketed": [
-    {"location": "p19", "spoken": "Chrysler Building", "correction": "Sears Tower (Willis Tower)", "type": "geographic"},
-    {"location": "p34", "spoken": "polyvinyl butyl", "correction": "polyvinyl butyral", "type": "chemical name"}
+    {
+      "location": "p19",
+      "spoken": "Chrysler Building",
+      "correction": "Sears Tower (Willis Tower)",
+      "type": "geographic"
+    },
+    {
+      "location": "p34",
+      "spoken": "polyvinyl butyl",
+      "correction": "polyvinyl butyral",
+      "type": "chemical name"
+    }
   ],
   "captioner_errors_corrected": [
-    {"raw": "professor eager", "corrected": "Professor Eagar", "type": "proper noun"},
-    {"raw": "about the reefs storeys", "corrected": "about three stories", "type": "phrase garble"},
-    {"raw": "professor you cannot discuss", "corrected": "Professor Eagar discussed", "type": "name garble"},
-    {"raw": "professor gourmet talk", "corrected": "Professor Eagar may talk", "type": "name garble"},
-    {"raw": "ether teen hundred", "corrected": "E1300", "type": "ASTM standard"},
-    {"raw": "SCAR hoods", "corrected": "car hoods", "type": "phrase garble"},
-    {"raw": "Sharpie test", "corrected": "Charpy test", "type": "proper noun"},
-    {"raw": "TVB layer", "corrected": "PVB layer", "type": "acronym"},
-    {"raw": "lead certifications", "corrected": "LEED certifications", "type": "acronym"}
+    {
+      "raw": "professor eager",
+      "corrected": "Professor Eagar",
+      "type": "proper noun"
+    },
+    {
+      "raw": "about the reefs storeys",
+      "corrected": "about three stories",
+      "type": "phrase garble"
+    },
+    {
+      "raw": "professor you cannot discuss",
+      "corrected": "Professor Eagar discussed",
+      "type": "name garble"
+    },
+    {
+      "raw": "professor gourmet talk",
+      "corrected": "Professor Eagar may talk",
+      "type": "name garble"
+    },
+    {
+      "raw": "ether teen hundred",
+      "corrected": "E1300",
+      "type": "ASTM standard"
+    },
+    {
+      "raw": "SCAR hoods",
+      "corrected": "car hoods",
+      "type": "phrase garble"
+    },
+    {
+      "raw": "Sharpie test",
+      "corrected": "Charpy test",
+      "type": "proper noun"
+    },
+    {
+      "raw": "TVB layer",
+      "corrected": "PVB layer",
+      "type": "acronym"
+    },
+    {
+      "raw": "lead certifications",
+      "corrected": "LEED certifications",
+      "type": "acronym"
+    }
   ],
   "framing_statistics": [
     "Rebar ~10% of concrete structure volume",
@@ -80,12 +126,13 @@
     "25% of iPhone users have had cracked screen"
   ],
   "questions_for_editor": [
-    "Substitute lecturer is unidentified. Should this lecture be excluded from the Eagar voice corpus, included with a wrapper note, or treated as auxiliary material? Recommend the latter — the substitute references Eagar's prior lectures (Bessemer, light bulb story) and gives course continuity context.",
+    "Substitute lecturer is unidentified. Should this lecture be excluded from the Eagar voice corpus, included with a wrapper note, or treated as auxiliary material? Recommend the latter \u2014 the substitute references Eagar's prior lectures (Bessemer, light bulb story) and gives course continuity context.",
     "Two student turns in p17-p21 Q&A are inaudible. Marked as `[inaudible response]` with attribution inferred from lecturer's echo. Confirm convention.",
     "Pilkington video narrator audio is interleaved with lecturer audio in p15. Boundaries are unclear. Layer 3 may need to mark video segments explicitly.",
     "L432 'fracture-y fell in from the glass plant' is captioner garble preserved as-is. Possible reading: 'a particle fell in from the glass plant' or 'fractured piece fell in.' Insufficient context to disambiguate."
   ],
   "pipeline_version": "2.0",
   "model": "claude-opus-4-7",
-  "generated_at": "2026-05-13T04:03:52.171393+00:00"
+  "generated_at": "2026-05-13T04:03:52.171393+00:00",
+  "course_canonical": "Materials Selection"
 }

@@ -13,7 +13,7 @@
   "duration_covered_seconds": 1085,
   "source_type": "archival_film",
   "tom_voice_present": false,
-  "editorial_notes": "This recording is a 1940s-era industrial promotional film (likely Lincoln Electric or similar) shown in Tom Eagar's Summer 2013 Fusion Welding class. The transcript contains only the film soundtrack — narration and dramatized character dialogue — with no audio of Tom himself. Conventions designed for Tom's spontaneous speech do not apply. Speaker labels added for dramatized scenes. Captioner errors on welding terminology (arc/art, mold/mole, downhand) corrected silently. One garbled soldier line (p3) flagged with bracket. Recommend Richard reclassify in archive as 'screened material' rather than 'lecture' before layer 3 processing.",
+  "editorial_notes": "This recording is a 1940s-era industrial promotional film (likely Lincoln Electric or similar) shown in Tom Eagar's Summer 2013 Fusion Welding class. The transcript contains only the film soundtrack \u2014 narration and dramatized character dialogue \u2014 with no audio of Tom himself. Conventions designed for Tom's spontaneous speech do not apply. Speaker labels added for dramatized scenes. Captioner errors on welding terminology (arc/art, mold/mole, downhand) corrected silently. One garbled soldier line (p3) flagged with bracket. Recommend Richard reclassify in archive as 'screened material' rather than 'lecture' before layer 3 processing.",
   "flags_for_editor": [
     {
       "paragraph": "p3",
@@ -24,5 +24,6 @@
       "paragraph": "all",
       "issue": "Source is not Tom's voice. Recommend reclassification of this video_id within the corpus before layer 3 sectioning is attempted."
     }
-  ]
+  ],
+  "course_canonical": "Fusion Welding"
 }

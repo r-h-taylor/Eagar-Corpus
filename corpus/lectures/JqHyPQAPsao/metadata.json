@@ -37,7 +37,7 @@
   ],
   "people_mentioned": [
     "Kenneth Easterling (textbook author)",
-    "Professor Sata[wa]y [name uncertain — flagged]"
+    "Professor Sata[wa]y [name uncertain \u2014 flagged]"
   ],
   "companies_mentioned": [
     "Alcoa",
@@ -51,8 +51,9 @@
     "Boeing"
   ],
   "flags_for_editorial_review": [
-    "p17: 'Professor Sataway' — name uncertain; may be captioner garbling of an MIT colleague's name. Verify against MIT metallurgy faculty roster c. 1980s.",
-    "p19: 'that's what started the decrease' — phrase unclear; may be 'the discrepancy' or 'the investigation.' Preserved verbatim.",
+    "p17: 'Professor Sataway' \u2014 name uncertain; may be captioner garbling of an MIT colleague's name. Verify against MIT metallurgy faculty roster c. 1980s.",
+    "p19: 'that's what started the decrease' \u2014 phrase unclear; may be 'the discrepancy' or 'the investigation.' Preserved verbatim.",
     "p23 student question attribution: voice unidentified."
-  ]
+  ],
+  "course_canonical": "Welding Quality"
 }

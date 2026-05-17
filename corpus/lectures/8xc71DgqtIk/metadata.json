@@ -18,21 +18,45 @@
   "duration_approx_minutes": 8,
   "layer2_paragraph_count": 12,
   "captioner_proper_noun_corrections": [
-    {"raw": "magl / magay / magl process", "corrected": "Maglay"},
-    {"raw": "WID strip electrode", "corrected": "wide strip electrode"},
-    {"raw": "sa / sa strip", "corrected": "SAW / SAW strip"},
-    {"raw": "epok making", "corrected": "epoch-making"},
-    {"raw": "epical", "corrected": "epochal"}
+    {
+      "raw": "magl / magay / magl process",
+      "corrected": "Maglay"
+    },
+    {
+      "raw": "WID strip electrode",
+      "corrected": "wide strip electrode"
+    },
+    {
+      "raw": "sa / sa strip",
+      "corrected": "SAW / SAW strip"
+    },
+    {
+      "raw": "epok making",
+      "corrected": "epoch-making"
+    },
+    {
+      "raw": "epical",
+      "corrected": "epochal"
+    }
   ],
   "bracketed_clarifications": [
-    {"paragraph": "p3", "bracket": "SAW [submerged arc welding]"},
-    {"paragraph": "p5", "bracket": "natural [actual]"},
-    {"paragraph": "p12", "bracket": "[welding industry]"}
+    {
+      "paragraph": "p3",
+      "bracket": "SAW [submerged arc welding]"
+    },
+    {
+      "paragraph": "p5",
+      "bracket": "natural [actual]"
+    },
+    {
+      "paragraph": "p12",
+      "bracket": "[welding industry]"
+    }
   ],
   "tom_slips_bracketed": [],
   "editor_review_flags": [
     "Source is a Kawasaki Steel promotional film, not Tom Eagar lecturing. Decide layer 3 disposition.",
-    "p5 'natural [actual]' — narration ambiguous, bracket flagged.",
+    "p5 'natural [actual]' \u2014 narration ambiguous, bracket flagged.",
     "p12 closing line cut off in transcript; bracketed completion supplied."
   ],
   "applications_mentioned": [
@@ -42,5 +66,6 @@
     "heat exchangers",
     "nozzles and flanges",
     "liners for water turbines"
-  ]
+  ],
+  "course_canonical": "Fusion Welding"
 }

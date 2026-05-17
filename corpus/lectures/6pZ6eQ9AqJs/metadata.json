@@ -36,7 +36,7 @@
     "4 ppm threshold for very low hydrogen process",
     "200 ksi steel for helicopter mast",
     "7,500 ton forging press, ~60 ton cap, 10 inches thick, 14-inch crack",
-    "10^-6 cm²/s hydrogen diffusivity in steel",
+    "10^-6 cm\u00b2/s hydrogen diffusivity in steel",
     "14-inch and 16-inch battleship armor plate (WWII)",
     "~$500,000 cost to develop a welding procedure for 10-inch thick steel today",
     "300-400 weld passes in the forging press repair"
@@ -47,5 +47,6 @@
   "spoken_slips": [
     "p6: 'four to four hours' for 'one to four hours' (mis-recitation of spec)"
   ],
-  "notes": "Lecture continues from prior session on hydrogen cracking and the three-circle Venn diagram (hydrogen / hardness / stress). Tom closes by previewing Thursday's lecture on preheating and post-heating. Mike (TA/co-instructor) will lecture the next session."
+  "notes": "Lecture continues from prior session on hydrogen cracking and the three-circle Venn diagram (hydrogen / hardness / stress). Tom closes by previewing Thursday's lecture on preheating and post-heating. Mike (TA/co-instructor) will lecture the next session.",
+  "course_canonical": "Welding Metallurgy"
 }

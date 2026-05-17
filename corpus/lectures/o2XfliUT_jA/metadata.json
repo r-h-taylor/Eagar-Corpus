@@ -17,7 +17,7 @@
   "speaker": "Thomas W. Eagar",
   "speaker_status": "deceased 2022-10-09",
   "editor": "Richard H. Taylor",
-  "layer2_anchor_range": "00:02 — 87:44",
+  "layer2_anchor_range": "00:02 \u2014 87:44",
   "primary_cases": [
     "National Aerospace Plane (materials limits, hydrogen/copper skin)",
     "Concorde supersonic flight (personal anecdote, jet lag, maintenance)",
@@ -30,16 +30,34 @@
     "Lightning protection systems / Ben Franklin / skin effect (NFPA 780)"
   ],
   "primary_standards_bodies_surveyed": [
-    "NTSB", "FAA", "NASA", "NHTSA", "DOT", "Coast Guard / DHS",
-    "API", "ASME (Boiler and Pressure Vessel Code)",
-    "ABS (American Bureau of Shipping)", "DNV (Det Norske Veritas)", "Bureau Veritas",
-    "Lloyd's Register of Shipping", "SUPSHIP",
-    "FHWA", "AISC", "AASHTO", "ANSI",
-    "ASTM", "AWS (American Welding Society)",
-    "NFPA", "AAR (American Association of Railroads)", "CGA (Compressed Gas Association)",
-    "OSHA", "NIH", "NRC",
+    "NTSB",
+    "FAA",
+    "NASA",
+    "NHTSA",
+    "DOT",
+    "Coast Guard / DHS",
+    "API",
+    "ASME (Boiler and Pressure Vessel Code)",
+    "ABS (American Bureau of Shipping)",
+    "DNV (Det Norske Veritas)",
+    "Bureau Veritas",
+    "Lloyd's Register of Shipping",
+    "SUPSHIP",
+    "FHWA",
+    "AISC",
+    "AASHTO",
+    "ANSI",
+    "ASTM",
+    "AWS (American Welding Society)",
+    "NFPA",
+    "AAR (American Association of Railroads)",
+    "CGA (Compressed Gas Association)",
+    "OSHA",
+    "NIH",
+    "NRC",
     "MIL-Handbook-5 / MMPDS-05",
-    "National Board of Pressure Vessel Inspectors", "Hartford Steam Boiler"
+    "National Board of Pressure Vessel Inspectors",
+    "Hartford Steam Boiler"
   ],
   "notable_figures_mentioned": [
     "Mike Ashby (Harvard / Cambridge, Ashby plots)",
@@ -51,5 +69,6 @@
     "Ronald Reagan (Star Wars buildup context)",
     "Osama Bin Laden (Air Force ordnance-delivery anecdote)",
     "'Roger' (ASME Boiler & Pressure Vessel main committee, retired; central in cement-truck case)"
-  ]
+  ],
+  "course_canonical": "Codes and Standards"
 }

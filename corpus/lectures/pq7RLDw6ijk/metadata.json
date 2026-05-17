@@ -51,7 +51,7 @@
     "Gordon Forward",
     "Henry Rowan",
     "Ron Ballinger",
-    "Régis Pelloux",
+    "R\u00e9gis Pelloux",
     "Pat Smedley",
     "George Santayana"
   ],
@@ -79,5 +79,6 @@
     "ITER",
     "Chaparral Steel (Midlothian, TX)"
   ],
-  "audience_note": "Naval officers (3.371 was taught to Navy 2N program / MIT Engineer's degree students). Tom addresses 'you guys in the Navy' and 'submariners' explicitly."
+  "audience_note": "Naval officers (3.371 was taught to Navy 2N program / MIT Engineer's degree students). Tom addresses 'you guys in the Navy' and 'submariners' explicitly.",
+  "course_canonical": "Casting"
 }

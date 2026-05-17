@@ -20,7 +20,7 @@
     "carbon equivalent formulas (CE and Pcm)",
     "hydrogen control levels H1/H2/H3",
     "restraint classification (low/medium/high)",
-    "preheat susceptibility tables (A–G groupings)",
+    "preheat susceptibility tables (A\u2013G groupings)",
     "HY80, HY100, HY130 weld metal and hydrogen cracking",
     "HSLA steels and preheat cost savings for surface ships",
     "submarine vs surface ship conservatism (Pellini explosion bulge test)",
@@ -29,7 +29,11 @@
     "the cake-baking analogy for WPS/PQR/certification"
   ],
   "named_entities": {
-    "people": ["Stout", "Dota", "Pellini"],
+    "people": [
+      "Stout",
+      "Dota",
+      "Pellini"
+    ],
     "organizations": [
       "American Welding Society (AWS)",
       "ASME",
@@ -42,20 +46,35 @@
       "Triangle Engineering",
       "Ohio State"
     ],
-    "places": ["Boston", "Miami", "Peoria, Illinois", "Iowa"],
+    "places": [
+      "Boston",
+      "Miami",
+      "Peoria, Illinois",
+      "Iowa"
+    ],
     "codes_and_standards": [
       "Structural Welding Code (AWS D1.1, Annex N)",
       "ASME code",
       "AWS standard WPS (May 28, 1996, SMAW carbon steel)"
     ],
-    "materials": ["HY80", "HY100", "HY130", "HSLA steels", "A36 steel", "E6010", "E7018", "6010 cellulosic"]
+    "materials": [
+      "HY80",
+      "HY100",
+      "HY130",
+      "HSLA steels",
+      "A36 steel",
+      "E6010",
+      "E7018",
+      "6010 cellulosic"
+    ]
   },
   "editorial_flags": [
-    "L06:43 captioner garbling 'the water codes the susceptibility' — reconstructed",
-    "L06:47 captioner garbling 'zepty grill' — dropped",
+    "L06:43 captioner garbling 'the water codes the susceptibility' \u2014 reconstructed",
+    "L06:47 captioner garbling 'zepty grill' \u2014 dropped",
     "L25:52 student question inaudible",
-    "p31 Tom geographical slip (John Deere/Iowa/Peoria) — preserved per §16",
+    "p31 Tom geographical slip (John Deere/Iowa/Peoria) \u2014 preserved per \u00a716",
     "p40 student name 'Jiggo/Jiggle' unrecoverable"
   ],
-  "next_layer": "layer3 sectioning pending"
+  "next_layer": "layer3 sectioning pending",
+  "course_canonical": "Welding Quality"
 }

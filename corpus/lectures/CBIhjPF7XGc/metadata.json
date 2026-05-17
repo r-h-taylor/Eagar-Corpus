@@ -27,7 +27,7 @@
     "joint efficiency and phase transformation",
     "hardenability and martensite",
     "precipitation hardening (aluminum, Wright brothers engine)",
-    "cast iron, wrought iron, steel — historical metallurgy",
+    "cast iron, wrought iron, steel \u2014 historical metallurgy",
     "Bessemer process and the productivity revolution",
     "Saugus Iron Works and the blast furnace",
     "sulfur, manganese, phosphorus, and slag chemistry",
@@ -40,7 +40,7 @@
     "Andrew Carnegie",
     "JP Morgan",
     "Wright brothers",
-    "Michael Bibber [tape says 'Bonforth' — likely captioner or speaker slip]"
+    "Michael Bibber [tape says 'Bonforth' \u2014 likely captioner or speaker slip]"
   ],
   "recurring_cases_referenced": [
     "Saugus Iron Works (17th-c. Massachusetts blast furnace, recurring teaching case)",
@@ -55,6 +55,7 @@
     "Confirm 'Bonforth' vs 'Bibber' for the co-instructor on stainless steels.",
     "Confirm '50 parts per million' correction at p28 (0.005% = 50 ppm; raw transcript reads '500').",
     "Confirm Ford F-150 profit-per-vehicle figure ($10,000) vs raw transcript ('$110,000').",
-    "1530°C austenite ceiling: confirm Tom's intended figure vs captioner '153' reading."
-  ]
+    "1530\u00b0C austenite ceiling: confirm Tom's intended figure vs captioner '153' reading."
+  ],
+  "course_canonical": "Welding Metallurgy"
 }

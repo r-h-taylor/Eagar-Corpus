@@ -21,11 +21,11 @@
     "Bethlehem Steel and I-beam rolling history",
     "moment of inertia and I-beam shape function",
     "Acela trolley wire as cast copper-silver example",
-    "relative fastener material costs (mild steel to MP35N, 1× to 200×)",
+    "relative fastener material costs (mild steel to MP35N, 1\u00d7 to 200\u00d7)",
     "Attleboro gold continuous casting (time-driven economics)",
     "history of nails and English deforestation 1500s-1600s",
     "Saugus Iron Works and the pig/sow metaphor",
-    "steel productivity 6000× over 400 years",
+    "steel productivity 6000\u00d7 over 400 years",
     "ingot to continuous casting transition",
     "open hearth to basic oxygen furnace (Linz, 1950s)",
     "Harvard Glass Flowers (Blaschkas)",
@@ -78,5 +78,6 @@
     "Heavy use of physical samples (nails, bolts, copper bar, trolley wire, I-beam, scissors not present this lecture).",
     "Tom slips 'Alfred the Great' for 'Lord Nelson' at p29 (HMS Victory was Nelson's flagship). Bracketed per convention 9.",
     "Captioner consistently mangled: 'austenitic' (rendered as 'tic'/'atic'/'tinic'), 'molybdenum' (rendered as 'malum'), 'Acela', 'asbestos', 'Attleboro', 'Bethlehem', 'Inconel', 'Ho Chi Minh', 'Saugus', 'Blaschka', 'Corita', 'Szekely', 'Morgrip', 'Linz'. All corrected silently."
-  ]
+  ],
+  "course_canonical": "Casting"
 }

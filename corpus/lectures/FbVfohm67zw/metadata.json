@@ -41,10 +41,11 @@
     "Professor Cohen (Institute Professor in Course 3)"
   ],
   "editorial_flags": [
-    "Tewmen (p29) — unidentified place",
-    "Jodo C (p41, p51) — admin officer name unverifiable",
-    "fluffy (p35) — possible captioner garbling",
-    "chip and rub up (p51) — possible captioner garbling",
+    "Tewmen (p29) \u2014 unidentified place",
+    "Jodo C (p41, p51) \u2014 admin officer name unverifiable",
+    "fluffy (p35) \u2014 possible captioner garbling",
+    "chip and rub up (p51) \u2014 possible captioner garbling",
     "unrecoverable fragments in p32 and p49"
-  ]
+  ],
+  "course_canonical": "How to be a Successful Engineer"
 }

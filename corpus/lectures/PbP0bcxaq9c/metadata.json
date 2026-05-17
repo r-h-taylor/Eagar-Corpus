@@ -6,7 +6,7 @@
   "lecture_number": 11,
   "lecture_in_series": "11/35",
   "video_title": "3.371 Welding Metallurgy - Summer 2014 [11/35]",
-  "title": "Steel — Industry, Phase Diagram, and Heat Treatment",
+  "title": "Steel \u2014 Industry, Phase Diagram, and Heat Treatment",
   "raw_transcript_sha256": "06f2d220bbe30c333a0683746e3c35ba8d051c0696104670148ec7076aaf4e97",
   "raw_transcript_line_count": 1069,
   "raw_transcript_word_count": 7111,
@@ -20,13 +20,13 @@
     "steel industry consolidation (Mittal, ArcelorMittal, Bethlehem Steel)",
     "Burns Harbor and Homer Research Labs",
     "U.S. Steel / Bethlehem market dominance 1945-1975",
-    "steel productivity revolution (6 person-hr/ton 1975 → <20 min/ton today)",
+    "steel productivity revolution (6 person-hr/ton 1975 \u2192 <20 min/ton today)",
     "iron-carbon phase diagram",
     "cast iron vs steel; Bessemer process",
     "carbon steel classifications (low, medium, high, tool, HSLA, HY-80)",
     "John Chipman and reproducible steel chemistry",
     "hot rolling vs cold rolling; mill capital costs",
-    "ferrite, austenite, martensite, bainite — naming history (Sorby, Roberts-Austen, Martens, Bain)",
+    "ferrite, austenite, martensite, bainite \u2014 naming history (Sorby, Roberts-Austen, Martens, Bain)",
     "quenching, tempering, annealing, normalizing",
     "Cyril Smith and history of materials",
     "Spiegeleisen and manganese in steel",
@@ -65,5 +65,6 @@
   "stage_business_present": true,
   "battery_change_moment": "p29",
   "closing_bubble_demo": "p38",
-  "next_lecture_preview": "hydrogen embrittlement"
+  "next_lecture_preview": "hydrogen embrittlement",
+  "course_canonical": "Welding Metallurgy"
 }

@@ -53,8 +53,9 @@
     "Commander McCoy (prior 2N class leader)"
   ],
   "captioner_garbles_flagged_for_editor": [
-    "p20 'barowski' — quantum mechanics professor's name; possibly Vera Kistiakowsky",
-    "p21 'negative horse' — Tom's exam grade; unclear",
-    "p43 'at tow toad fills' — phrase describing tension connection failure mode"
-  ]
+    "p20 'barowski' \u2014 quantum mechanics professor's name; possibly Vera Kistiakowsky",
+    "p21 'negative horse' \u2014 Tom's exam grade; unclear",
+    "p43 'at tow toad fills' \u2014 phrase describing tension connection failure mode"
+  ],
+  "course_canonical": "Welding Metallurgy"
 }

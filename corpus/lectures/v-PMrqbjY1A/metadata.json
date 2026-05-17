@@ -15,7 +15,10 @@
   "start_timestamp": "03:12",
   "end_timestamp": "51:47",
   "approximate_duration_minutes": 48,
-  "speakers": ["Tom Eagar", "Student (unattributed)"],
+  "speakers": [
+    "Tom Eagar",
+    "Student (unattributed)"
+  ],
   "primary_themes": [
     "What fraction of a product's cost is the material",
     "Value of a pound saved (automobile, aircraft, military aircraft, spacecraft)",
@@ -29,15 +32,32 @@
     "Career advice: work in the unplowed field"
   ],
   "tom_slips_bracketed": [
-    {"said": "Sango Ban / Sangoman", "intended": "Saint-Gobain", "first_paragraph": "p2"},
-    {"said": "John Kahn", "intended": "John Cahn", "first_paragraph": "p63"},
-    {"said": "Brighton cycle", "intended": "Brayton cycle", "first_paragraph": "p53"},
-    {"said": "Sati Corona Carno", "intended": "Sadi Carnot", "first_paragraph": "p53"}
+    {
+      "said": "Sango Ban / Sangoman",
+      "intended": "Saint-Gobain",
+      "first_paragraph": "p2"
+    },
+    {
+      "said": "John Kahn",
+      "intended": "John Cahn",
+      "first_paragraph": "p63"
+    },
+    {
+      "said": "Brighton cycle",
+      "intended": "Brayton cycle",
+      "first_paragraph": "p53"
+    },
+    {
+      "said": "Sati Corona Carno",
+      "intended": "Sadi Carnot",
+      "first_paragraph": "p53"
+    }
   ],
   "flags_for_editorial_review": [
     "p15: false start 'first one is gasoline' trimmed; verify against audio if available",
-    "p23: 'hex hexel foam' — Hexcel honeycomb? ambiguous, preserved verbatim",
-    "p46: 'Michoud is in Stennis' — Tom's geographic confusion preserved; note for layer 3 footnote",
-    "p53: 'farming' — likely captioner garble of a thermodynamic cycle name (Rankine?); ambiguous"
-  ]
+    "p23: 'hex hexel foam' \u2014 Hexcel honeycomb? ambiguous, preserved verbatim",
+    "p46: 'Michoud is in Stennis' \u2014 Tom's geographic confusion preserved; note for layer 3 footnote",
+    "p53: 'farming' \u2014 likely captioner garble of a thermodynamic cycle name (Rankine?); ambiguous"
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

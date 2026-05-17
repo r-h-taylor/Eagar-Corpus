@@ -34,7 +34,7 @@
   "people_named": [
     "Igor Sikorsky",
     "Jerome Hunsaker (implicit, 1917 MIT aeronautics)",
-    "Professor Sataway/Saadeh [unresolved — flag for editor]"
+    "Professor Sataway/Saadeh [unresolved \u2014 flag for editor]"
   ],
   "organizations_named": [
     "Kaydon Corporation",
@@ -70,11 +70,12 @@
     "Germany"
   ],
   "editorial_flags": [
-    "p3 'swashblade' → 'swashplate' bracketed; Tom uses 'swatch plate' habitually thereafter (preserved as Tom's pronunciation, not a slip)",
+    "p3 'swashblade' \u2192 'swashplate' bracketed; Tom uses 'swatch plate' habitually thereafter (preserved as Tom's pronunciation, not a slip)",
     "p32 captioner garbled 'thousandths' for 'millionths' at multiple points; corrected with brackets",
     "p61 'we scrapped it three weeks' missing 'ago'; bracketed",
     "p67 'fire in the cell' captioner error for 'nacelle'; corrected silently",
-    "p71 'Professor Sataway' — name uncertain; flagged for editor (possible Saadeh or similar MIT colleague Tom refers to in the etymology aside)"
+    "p71 'Professor Sataway' \u2014 name uncertain; flagged for editor (possible Saadeh or similar MIT colleague Tom refers to in the etymology aside)"
   ],
-  "notes_for_layer3": "Lecture is structurally one long case study (helicopter swashplate failure) with two codas (V-22 Osprey court of inquiry; history of 'engineer'). Proposed section count: 7. Tom's habitual 'swatch plate' for 'swashplate' should be regularized to 'swashplate' in layer 3 (it is consistent pronunciation drift, not a one-time slip; reader-facing text should use the technical term)."
+  "notes_for_layer3": "Lecture is structurally one long case study (helicopter swashplate failure) with two codas (V-22 Osprey court of inquiry; history of 'engineer'). Proposed section count: 7. Tom's habitual 'swatch plate' for 'swashplate' should be regularized to 'swashplate' in layer 3 (it is consistent pronunciation drift, not a one-time slip; reader-facing text should use the technical term).",
+  "course_canonical": "Codes and Standards"
 }

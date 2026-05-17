@@ -13,7 +13,13 @@
   "layer2": {
     "paragraph_count": 48,
     "student_turns_inferred": 5,
-    "student_turn_paragraphs": ["p8", "p10", "p19", "p28", "p42"],
+    "student_turn_paragraphs": [
+      "p8",
+      "p10",
+      "p19",
+      "p28",
+      "p42"
+    ],
     "stage_directions": 0,
     "tom_slips_bracketed": 0,
     "captioner_corrections_silent": 38
@@ -74,8 +80,15 @@
     "Georgia Tech"
   ],
   "books_cited": [
-    {"title": "The University: An Owner's Manual", "author": "Henry Rosovsky", "year_approx": 1990},
-    {"title": "Thinking, Fast and Slow", "author": "Daniel Kahneman"}
+    {
+      "title": "The University: An Owner's Manual",
+      "author": "Henry Rosovsky",
+      "year_approx": 1990
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman"
+    }
   ],
   "key_dates_mentioned": [
     "1976 (Tom hired)",
@@ -85,5 +98,6 @@
     "1985 (Tom returns from sabbatical)",
     "1989 (Tom acting dept head while Flemings on sabbatical)",
     "1995 (Tom becomes dept head; Flemings steps down January 15)"
-  ]
+  ],
+  "course_canonical": "Recitations"
 }

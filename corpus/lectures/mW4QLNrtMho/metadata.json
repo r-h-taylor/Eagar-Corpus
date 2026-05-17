@@ -34,7 +34,7 @@
     "Concorde tray-table maintenance anecdote",
     "Wright Flyer engine block (Al-Cu, Smithsonian)",
     "aluminum baseball bats / Little League ventilator case",
-    "Fenway Park press-box wind-tunnel study (Lagacé)"
+    "Fenway Park press-box wind-tunnel study (Lagac\u00e9)"
   ],
   "key_figures_referenced": [
     "$200 billion/year US corrosion cost",
@@ -43,7 +43,7 @@
     "0.1 ppm Cl / 1 ppm O2 = GE BWR cracking threshold",
     "$2B GE worldwide nuclear remediation",
     "Al ~5x steel by weight, ~2.5x by volume",
-    "Al melting point 660°C vs steel 1500°C",
+    "Al melting point 660\u00b0C vs steel 1500\u00b0C",
     "2 tons/year world scandium production",
     "$130 retail / $300 typical aluminum bat",
     "100 ksi strength = highest-strength commercial Al product"
@@ -51,7 +51,7 @@
   "people_mentioned": [
     "Merton C. Flemings",
     "Subra Suresh",
-    "Paul A. Lagacé",
+    "Paul A. Lagac\u00e9",
     "Wright Brothers",
     "Richard Feynman"
   ],
@@ -73,5 +73,6 @@
   ],
   "editorial_flags_count": 3,
   "captioner_corrections_count": 8,
-  "bracketed_slips_count": 1
+  "bracketed_slips_count": 1,
+  "course_canonical": "Structural Materials Selection"
 }

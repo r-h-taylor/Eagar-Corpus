@@ -60,9 +60,10 @@
     "p2/p27: 'MADD' / 'David Donuts' references depend on prior-lecture context; confirm referent.",
     "p11: bowl/projector pocket-patting preserved; layer 3 will need stage direction.",
     "p13: Tom says 'DSM 6'; DSM-5 was current in 2015. Bracketed.",
-    "p24: 'Joe Doe-see' administrative officer name — confirm spelling.",
+    "p24: 'Joe Doe-see' administrative officer name \u2014 confirm spelling.",
     "p49: Kahneman attribution 'Wagner answers Lynn' is captioner garbling of likely 'Wainer and Zwerling' (the kidney cancer example sources in Thinking Fast and Slow). Preserved best-effort.",
-    "p56: 'Dr. Bell Mars' speaker name — confirm spelling (possibly Belmar, Bellomar, or similar).",
-    "p29: 'Hazel grove glass lab' — unclear referent; possibly the MIT Glass Lab artisan's name."
-  ]
+    "p56: 'Dr. Bell Mars' speaker name \u2014 confirm spelling (possibly Belmar, Bellomar, or similar).",
+    "p29: 'Hazel grove glass lab' \u2014 unclear referent; possibly the MIT Glass Lab artisan's name."
+  ],
+  "course_canonical": "How to be a Successful Engineer"
 }

@@ -10,7 +10,10 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T19:44:05.592290+00:00",
   "layer2_paragraph_count": 40,
-  "layer2_timestamp_range": ["00:06", "49:30"],
+  "layer2_timestamp_range": [
+    "00:06",
+    "49:30"
+  ],
   "lecture_topics": [
     "fracture mechanics (Griffith, Irwin, Rice J-integral)",
     "total quality management origins",
@@ -80,8 +83,9 @@
     "Materials Processing Center"
   ],
   "notable_uncertainties": [
-    "Steve Eppinger identification flagged [?] — captioner garbling 'Steve epic um' leaves room for alternate reading",
+    "Steve Eppinger identification flagged [?] \u2014 captioner garbling 'Steve epic um' leaves room for alternate reading",
     "Tom's 1925 date for Griffith preserved despite Griffith's seminal paper being 1921",
-    "Sakichi Toyoda bracketed — unclear whether Tom said 'Toyota' (founder name confusion) or 'Toyoda' correctly"
-  ]
+    "Sakichi Toyoda bracketed \u2014 unclear whether Tom said 'Toyota' (founder name confusion) or 'Toyoda' correctly"
+  ],
+  "course_canonical": "Total Quality Improvement"
 }

@@ -32,10 +32,10 @@
     "Chromalloy turbine blade refurbishment"
   ],
   "figures_referenced": [
-    "50°F engine temperature increase = $2B/year fuel savings (commercial aviation)",
+    "50\u00b0F engine temperature increase = $2B/year fuel savings (commercial aviation)",
     "TF-30 turbofan overhaul: 500 hours (military) vs 30,000 hours (commercial)",
-    "thermal diffusivity of steel: 0.1 cm²/s",
-    "Worcester vessel: 200-ton forging, 17-inch wall, 11-inch at thinnest, 20,000 psi argon, 2,000°F",
+    "thermal diffusivity of steel: 0.1 cm\u00b2/s",
+    "Worcester vessel: 200-ton forging, 17-inch wall, 11-inch at thinnest, 20,000 psi argon, 2,000\u00b0F",
     "estimated loss: $40-60M"
   ],
   "tom_slips_flagged_for_review": [
@@ -43,5 +43,6 @@
     "Professor name at MIT (Tuller? Pelloux?)",
     "Now Codd (likely NALCO water treatment)",
     "Rolls or Saddam's (likely Rolls-Royce or Allison)"
-  ]
+  ],
+  "course_canonical": "Welding Metallurgy"
 }

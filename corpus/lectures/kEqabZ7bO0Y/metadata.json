@@ -48,9 +48,10 @@
   ],
   "tom_factual_slips_flagged": [
     "Northridge earthquake: Tom says 'early 80s', actually 1994",
-    "Tokyo earthquake: Tom says '1907', actually 1923 (Great Kantō)",
+    "Tokyo earthquake: Tom says '1907', actually 1923 (Great Kant\u014d)",
     "San Francisco earthquake: Tom says '1912', actually 1906",
     "C-5A manufacturer: Tom says Martin Marietta, actually Lockheed-Georgia",
     "1988 snowstorm: date uncertain, possibly conflating multiple events"
-  ]
+  ],
+  "course_canonical": "Codes and Standards"
 }

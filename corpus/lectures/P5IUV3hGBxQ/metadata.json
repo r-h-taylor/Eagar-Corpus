@@ -10,7 +10,7 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T20:03:34.290853+00:00",
   "layer2_paragraph_count": 61,
-  "layer2_timestamp_range": "00:01–50:05",
+  "layer2_timestamp_range": "00:01\u201350:05",
   "lecture_summary": "Fifth lecture of Eagar's TQI module. Continues from prior session on theory of constraints (TOC), pivots through Six Sigma certification, just-in-time inventory, agile/one-of-a-kind manufacturing, 3D printing critique, the Memory Jogger TQM toolkit, fishbone/Ishikawa diagrams, and closes with a sustained meditation on leadership (drawing from Eagar's 'Leadership, Management and Education' faculty newsletter article) centered on respect for all contributors. Next two lectures will be delivered by Brian Hohmann and Steve Lyons while Eagar is away.",
   "cases_referenced": [
     "Ford F-150 plant theory-of-constraints application",
@@ -24,7 +24,7 @@
     "Ellie Sachs / Mike Cima MIT 3D inkjet printing origin",
     "MIT $220M powder metallurgy 3D printing startup",
     "Detroit Diesel Allison / Rolls-Royce turbine disc 13 failures Ishikawa review",
-    "Sioux City, Iowa McDonnell Douglas disc failure (titanium nitride inclusion) — to be covered next week by Brian Hohmann",
+    "Sioux City, Iowa McDonnell Douglas disc failure (titanium nitride inclusion) \u2014 to be covered next week by Brian Hohmann",
     "LFM Mad Hatter company donuts-for-workers story (referenced, not retold)",
     "Nashua Corporation board service",
     "MIT DMSE nighttime custodian Christmas breakfast",
@@ -57,7 +57,7 @@
     "Ray Stata",
     "Douglas McGregor",
     "F. Scott Fitzgerald",
-    "Erwin Schrödinger",
+    "Erwin Schr\u00f6dinger",
     "Peter Drucker",
     "Thomas Alva Edison",
     "Brian Hohmann (forthcoming lecturer)",
@@ -67,9 +67,10 @@
     "Charlie (former Nashua CEO)"
   ],
   "editor_flags": [
-    "p28: 'Ellie Sachs' — captioner rendering of Emanuel/Ely Sachs; preferred spelling needs editor confirmation.",
-    "p46: 'Brian Homan' — bracketed as [Hohmann] but spelling needs editor confirmation.",
-    "p55: 'half million dollars in sales' — likely should be $500 million for Nashua Corporation; preserved Tom's spoken slip with both readings; editor to confirm intended figure.",
-    "p6: stage direction inferred from 'I always find some reason to pass around this' — confirmed by context (turbine vane prop) but no explicit physical-search speech precedes it."
-  ]
+    "p28: 'Ellie Sachs' \u2014 captioner rendering of Emanuel/Ely Sachs; preferred spelling needs editor confirmation.",
+    "p46: 'Brian Homan' \u2014 bracketed as [Hohmann] but spelling needs editor confirmation.",
+    "p55: 'half million dollars in sales' \u2014 likely should be $500 million for Nashua Corporation; preserved Tom's spoken slip with both readings; editor to confirm intended figure.",
+    "p6: stage direction inferred from 'I always find some reason to pass around this' \u2014 confirmed by context (turbine vane prop) but no explicit physical-search speech precedes it."
+  ],
+  "course_canonical": "Total Quality Improvement"
 }

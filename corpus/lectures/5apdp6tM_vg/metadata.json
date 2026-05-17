@@ -43,5 +43,6 @@
   "silent_captioner_corrections": 12,
   "editorial_flags_count": 3,
   "recording_begins_mid_sentence": true,
-  "recording_ends_mid_sentence": true
+  "recording_ends_mid_sentence": true,
+  "course_canonical": "Welding Metallurgy"
 }

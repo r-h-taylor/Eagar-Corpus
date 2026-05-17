@@ -56,12 +56,13 @@
     "mold ox [molten oxide] (p7)",
     "you melt ass [sand] (p8)",
     "Sango bath [Saint-Gobain] (p12, first occurrence)",
-    "Professor omen → Professor Uhlmann [?] (p40)"
+    "Professor omen \u2192 Professor Uhlmann [?] (p40)"
   ],
   "stage_directions_inserted": 3,
   "open_flags_for_editor": [
     "p40: 'Professor omen' identification as Donald Uhlmann is inferred from context (MIT glass scientist, Tom's era); confirm.",
-    "p8: 'you melt ass' — Tom likely said 'sand'; verify against audio if available.",
+    "p8: 'you melt ass' \u2014 Tom likely said 'sand'; verify against audio if available.",
     "p43: student question at start is inaudible; Tom's response context suggests question was about modern display/architectural glass technology."
-  ]
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

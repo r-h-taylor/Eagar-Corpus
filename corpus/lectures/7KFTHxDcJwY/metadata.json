@@ -93,14 +93,15 @@
     "Liberty ships"
   ],
   "notes_for_layer3": [
-    "Two long teaching arcs anchor this lecture: (1) codes/specs as ossifying force [p9–p36], and (2) failure-driven code evolution [p72–p101]. Section breaks should fall at the design-pivot at p51 and at the Petroski pivot at p94.",
-    "The 60 Wall Street story (p16–p21) is a fully developed case with clear teaching arc; deserves its own section.",
-    "The Engelhard/Boeing/titanium catalytic converter story (p26–p35) is the lecture's longest single case; also its own section.",
-    "Stata Center critique (p56–p64) is the architecture-as-bad-design teaching unit; clearly demarcated.",
-    "Hyatt Regency + Pennsylvania bar joist (p73–p83) functions as a paired case study on shear loading in as-built vs. designed structures.",
-    "Liberty ship / Pellini / Belknap (p94–p105) is the closing arc.",
+    "Two long teaching arcs anchor this lecture: (1) codes/specs as ossifying force [p9\u2013p36], and (2) failure-driven code evolution [p72\u2013p101]. Section breaks should fall at the design-pivot at p51 and at the Petroski pivot at p94.",
+    "The 60 Wall Street story (p16\u2013p21) is a fully developed case with clear teaching arc; deserves its own section.",
+    "The Engelhard/Boeing/titanium catalytic converter story (p26\u2013p35) is the lecture's longest single case; also its own section.",
+    "Stata Center critique (p56\u2013p64) is the architecture-as-bad-design teaching unit; clearly demarcated.",
+    "Hyatt Regency + Pennsylvania bar joist (p73\u2013p83) functions as a paired case study on shear loading in as-built vs. designed structures.",
+    "Liberty ship / Pellini / Belknap (p94\u2013p105) is the closing arc.",
     "Tom's '0.44 pounds per foot' for water column pressure at p17 is dimensionally wrong (should be 0.43 psi/foot). Layer 2 preserves as spoken; layer 3 should leave as-is per constitutional rule on Tom's spoken errors that don't mislead.",
     "The captioner badly garbled the Navy acronyms at the lecture open; all corrections logged. Flag for editorial review whether 'SS Manhattan' at p96 is the correct ship name.",
     "Closing administrative beat (p106, 'Kathleen, you got to figure out...') cuts in layer 3."
-  ]
+  ],
+  "course_canonical": "Codes and Standards"
 }

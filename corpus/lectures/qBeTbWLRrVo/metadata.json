@@ -26,7 +26,7 @@
     {
       "name": "Bell Helicopter rotor mast hydrogen bakeout (Fort Worth)",
       "first_paragraph": "p3",
-      "function": "illustration of urgency-driven PWHT scheduling (electroplate → bake in <5 min)"
+      "function": "illustration of urgency-driven PWHT scheduling (electroplate \u2192 bake in <5 min)"
     },
     {
       "name": "Nautilus austenitic filler metal foundations",
@@ -41,12 +41,12 @@
     {
       "name": "Seawolf weld over-matching",
       "first_paragraph": "p9",
-      "function": "brief reprise — over-matched by 30-40%, too much hardenability for available preheat"
+      "function": "brief reprise \u2014 over-matched by 30-40%, too much hardenability for available preheat"
     },
     {
       "name": "Helms Pumped Storage Project failure (PG&E, High Sierras, early 1990s)",
       "first_paragraph": "p10",
-      "function": "extended case — 22-ft pipe, 188 PSI, hydrogen crack delayed 9 months, $180M+ damage, trial loss"
+      "function": "extended case \u2014 22-ft pipe, 188 PSI, hydrogen crack delayed 9 months, $180M+ damage, trial loss"
     },
     {
       "name": "Boston Navy Shipyard chrome-moly transition weld (~1978)",
@@ -66,12 +66,13 @@
   ],
   "figures_referenced": [
     "1 hour per inch of thickness at temperature (PWHT rule of thumb)",
-    "1100-1200°F PWHT for steels",
-    "375°F × 23 hr hydrogen bakeout (helicopter mast)",
+    "1100-1200\u00b0F PWHT for steels",
+    "375\u00b0F \u00d7 23 hr hydrogen bakeout (helicopter mast)",
     "4340 steel @ 240 KSI",
     "HY80 = 80 KSI; HY100 = 100 KSI; E11018 / E110S electrodes",
     "5% under-matching threshold above which fracture properties degrade",
     "22-ft diameter pipe, 188 PSI, 4 million horsepower release (Helms)",
     "7,000-ton forging press, 17-inch weld, 400-600 passes"
-  ]
+  ],
+  "course_canonical": "Welding Quality"
 }

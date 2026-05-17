@@ -16,12 +16,20 @@
   "layer2_timestamp_end": "54:50",
   "duration_approx_minutes": 55,
   "tom_slips_bracketed": [
-    {"raw": "Gordon Ford", "correction": "Gordon Forward", "occurrences": 2, "paragraphs": ["p41", "p50"]}
+    {
+      "raw": "Gordon Ford",
+      "correction": "Gordon Forward",
+      "occurrences": 2,
+      "paragraphs": [
+        "p41",
+        "p50"
+      ]
+    }
   ],
   "captioner_corrections_count": 14,
   "inferred_student_turns_count": 7,
   "primary_topics": [
-    "Steel productivity history (1600–2013)",
+    "Steel productivity history (1600\u20132013)",
     "Bessemer converter",
     "Open hearth and Andrew Carnegie",
     "Basic oxygen furnace and continuous casting",
@@ -54,5 +62,6 @@
     "Nick Grant's first day platinum lecture",
     "NRC propulsion committee niobium story",
     "Iacocca / Ford executive hamburger story"
-  ]
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

@@ -30,8 +30,9 @@
   "student_qa_present": false,
   "stage_directions_present": false,
   "editor_review_flags": [
-    "source_type is technical_film, not lecture; Convention Catalog §1–§16 apply only loosely",
+    "source_type is technical_film, not lecture; Convention Catalog \u00a71\u2013\u00a716 apply only loosely",
     "narrator's English contains apparent translation/pronunciation artifacts (e.g., 'curve' for 'kerf', 'paracity' for 'porosity'); silent corrections logged in transformation_log.md",
-    "no Tom-isms, no Q&A, no cases in the catalog sense — this lecture will not contribute to the case index"
-  ]
+    "no Tom-isms, no Q&A, no cases in the catalog sense \u2014 this lecture will not contribute to the case index"
+  ],
+  "course_canonical": "Fusion Welding"
 }

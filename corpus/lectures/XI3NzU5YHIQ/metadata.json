@@ -25,9 +25,22 @@
     "Alcoa Davenport rolling mill"
   ],
   "bracketed_slips": [
-    {"paragraph": "p1", "raw": "Pratt Whitney Sikorski", "bracketed": "Pratt Whitney [Pratt & Whitney / Sikorsky]"},
-    {"paragraph": "p9", "raw": "374", "bracketed": "374 [340]"},
-    {"paragraph": "p10", "raw": "C7", "bracketed": "C7 [T7]"}
+    {
+      "paragraph": "p1",
+      "raw": "Pratt Whitney Sikorski",
+      "bracketed": "Pratt Whitney [Pratt & Whitney / Sikorsky]"
+    },
+    {
+      "paragraph": "p9",
+      "raw": "374",
+      "bracketed": "374 [340]"
+    },
+    {
+      "paragraph": "p10",
+      "raw": "C7",
+      "bracketed": "C7 [T7]"
+    }
   ],
-  "notes": "Single-section lecture excerpt; opens mid-thought and closes with class-management cutoff. Sectioning will be deferred to layer 3 production."
+  "notes": "Single-section lecture excerpt; opens mid-thought and closes with class-management cutoff. Sectioning will be deferred to layer 3 production.",
+  "course_canonical": "Welding Metallurgy"
 }

@@ -53,10 +53,11 @@
     "Brian Haslam"
   ],
   "captioner_uncertainties_flagged": [
-    "L862 'fouling system' / 'falling system' — likely Phalanx CIWS, not Aegis",
-    "L750 'patriotical' — unrecovered word",
-    "L455 'Murdering' — unclear referent in Alcoa/union context",
-    "L905 'Edwards Deming' — canonical W. Edwards Deming; unclear if Tom slip or captioner",
-    "Student turns at p17, p31, p38 — inaudible in raw transcript"
-  ]
+    "L862 'fouling system' / 'falling system' \u2014 likely Phalanx CIWS, not Aegis",
+    "L750 'patriotical' \u2014 unrecovered word",
+    "L455 'Murdering' \u2014 unclear referent in Alcoa/union context",
+    "L905 'Edwards Deming' \u2014 canonical W. Edwards Deming; unclear if Tom slip or captioner",
+    "Student turns at p17, p31, p38 \u2014 inaudible in raw transcript"
+  ],
+  "course_canonical": "Total Quality Improvement"
 }

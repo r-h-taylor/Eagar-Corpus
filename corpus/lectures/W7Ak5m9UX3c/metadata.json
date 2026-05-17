@@ -23,24 +23,25 @@
     "Venn diagram framework for weld cracking control"
   ],
   "cases_referenced": [
-    "Seawolf submarine welding (blue jelly suits, 400°F preheat)"
+    "Seawolf submarine welding (blue jelly suits, 400\u00b0F preheat)"
   ],
   "references_made": [
     "Mike Baumforth (guest lecturer, previous day)",
     "Stout & Doty, Weldability of Steels (cookbook reference)"
   ],
   "tom_slips_bracketed": [
-    "welding engineers welding society → [American] Welding Society",
-    "stoughton dodie → Stout and Doty [Stout & Doty]"
+    "welding engineers welding society \u2192 [American] Welding Society",
+    "stoughton dodie \u2192 Stout and Doty [Stout & Doty]"
   ],
   "captioner_errors_corrected_silently": [
-    "martin sitting → martensitic",
-    "asme boiler brushed your method code → ASME Boiler Pressure Vessel Code",
-    "two coats → two codes",
-    "seawolf → Seawolf"
+    "martin sitting \u2192 martensitic",
+    "asme boiler brushed your method code \u2192 ASME Boiler Pressure Vessel Code",
+    "two coats \u2192 two codes",
+    "seawolf \u2192 Seawolf"
   ],
   "ambiguous_fragments_preserved": [
     "for all umes (possibly 'for all you MEs')"
   ],
-  "notes": "Short lecture segment (~9 minutes) covering three levels of preheat (>50°F, 100-300°F, >300°F) and the rationale for each in terms of moisture removal, hydrogen diffusion, and tempering. Tom introduces his own Venn diagram framework (stress × hardness × hydrogen) and notes this explanation is original to him. Session ends with promise to continue preheat/post-heat next day."
+  "notes": "Short lecture segment (~9 minutes) covering three levels of preheat (>50\u00b0F, 100-300\u00b0F, >300\u00b0F) and the rationale for each in terms of moisture removal, hydrogen diffusion, and tempering. Tom introduces his own Venn diagram framework (stress \u00d7 hardness \u00d7 hydrogen) and notes this explanation is original to him. Session ends with promise to continue preheat/post-heat next day.",
+  "course_canonical": "Welding Metallurgy"
 }

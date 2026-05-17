@@ -28,12 +28,26 @@
     "hydrogen embrittlement"
   ],
   "alloys_referenced": [
-    "410", "416", "420", "422", "440",
-    "Nickel 200", "Monel", "Nickel 400",
-    "Inconel 600", "Inconel 625", "Inconel 690",
-    "Hastelloy X", "Haynes 230", "RA 330",
-    "Alloy 718", "Alloy 713C", "Rene 41", "Waspaloy",
-    "Incoloy 925", "A-286"
+    "410",
+    "416",
+    "420",
+    "422",
+    "440",
+    "Nickel 200",
+    "Monel",
+    "Nickel 400",
+    "Inconel 600",
+    "Inconel 625",
+    "Inconel 690",
+    "Hastelloy X",
+    "Haynes 230",
+    "RA 330",
+    "Alloy 718",
+    "Alloy 713C",
+    "Rene 41",
+    "Waspaloy",
+    "Incoloy 925",
+    "A-286"
   ],
   "books_referenced": [
     "Lippold & Kotecki, Welding Metallurgy and Weldability of Stainless Steels (inferred)",
@@ -46,5 +60,6 @@
     "Bauman name spelling unconfirmed",
     "RA 330 vs RA 333 alloy designation",
     "p21 contains heavily captioner-degraded Eagar speech; audio re-check recommended"
-  ]
+  ],
+  "course_canonical": "Welding Metallurgy"
 }

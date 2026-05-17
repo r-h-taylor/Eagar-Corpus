@@ -44,7 +44,7 @@
     "A.A. Griffith",
     "W.D. Kingery",
     "Walter A. Backofen",
-    "Régis M.N. Pelloux",
+    "R\u00e9gis M.N. Pelloux",
     "Jim Rice",
     "Paul Paris",
     "George Irwin",
@@ -57,5 +57,6 @@
     "p3: 'Pryon Stellar' ambiguous",
     "p3: 'TS, Jerry' unidentified",
     "p15: dog/dynamite anecdote sensitivity"
-  ]
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

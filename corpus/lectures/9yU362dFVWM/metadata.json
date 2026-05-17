@@ -16,24 +16,60 @@
   "layer2_start_timestamp": "00:00",
   "layer2_end_timestamp": "48:17",
   "tom_slips_bracketed": [
-    {"paragraph": "p9", "spoken": "turban disk", "correction": "turbine disk"},
-    {"paragraph": "p9", "spoken": "bliss", "correction": "blisk"},
-    {"paragraph": "p12", "spoken": "Zine x y know why", "correction": "Does anyone know why"},
-    {"paragraph": "p14", "spoken": "lowing people", "correction": "Boeing people"},
-    {"paragraph": "p40", "spoken": "vigorous steel pipe", "correction": "rigorous? (unclear)", "uncertain": true}
+    {
+      "paragraph": "p9",
+      "spoken": "turban disk",
+      "correction": "turbine disk"
+    },
+    {
+      "paragraph": "p9",
+      "spoken": "bliss",
+      "correction": "blisk"
+    },
+    {
+      "paragraph": "p12",
+      "spoken": "Zine x y know why",
+      "correction": "Does anyone know why"
+    },
+    {
+      "paragraph": "p14",
+      "spoken": "lowing people",
+      "correction": "Boeing people"
+    },
+    {
+      "paragraph": "p40",
+      "spoken": "vigorous steel pipe",
+      "correction": "rigorous? (unclear)",
+      "uncertain": true
+    }
   ],
   "captioner_errors_corrected_count": 41,
   "stage_directions_inserted": [
-    {"paragraph": "p7", "direction": "Tom holds up another sample."},
-    {"paragraph": "p10", "direction": "Tom hands a single-crystal blade sample around."},
-    {"paragraph": "p23", "direction": "Tom takes a hand from the class."},
-    {"paragraph": "p35", "direction": "Tom holds up a piece of PVC for comparison."}
+    {
+      "paragraph": "p7",
+      "direction": "Tom holds up another sample."
+    },
+    {
+      "paragraph": "p10",
+      "direction": "Tom hands a single-crystal blade sample around."
+    },
+    {
+      "paragraph": "p23",
+      "direction": "Tom takes a hand from the class."
+    },
+    {
+      "paragraph": "p35",
+      "direction": "Tom holds up a piece of PVC for comparison."
+    }
   ],
-  "student_turns_inferred": ["p20", "p24"],
+  "student_turns_inferred": [
+    "p20",
+    "p24"
+  ],
   "editorial_flags": [
     "p26: 'Matt or' fragment in limestone/dolomite passage",
-    "p40: 'Inson' — officer's name, spelling unverified",
-    "p40: 'vigorous steel pipe' — possible 'rigorous' or specific grade",
+    "p40: 'Inson' \u2014 officer's name, spelling unverified",
+    "p40: 'vigorous steel pipe' \u2014 possible 'rigorous' or specific grade",
     "p43: alloy percentages misstated by Tom (95-5 tin-antimony)"
   ],
   "topics_covered": [
@@ -50,5 +86,6 @@
     "Englehard 747-400 titanium catalyst welding case study",
     "gas conveyance materials history (wooden gun-drilled logs, cast iron, steel, polyethylene, corrugated stainless steel)",
     "CSST lightning strike fire hazard"
-  ]
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

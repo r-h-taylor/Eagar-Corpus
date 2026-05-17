@@ -13,7 +13,7 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T15:04:15.833608+00:00",
   "layer2_paragraph_count": 39,
-  "layer2_timestamp_range": "00:03 – 37:12",
+  "layer2_timestamp_range": "00:03 \u2013 37:12",
   "primary_topic": "Welding of titanium: processes, Soviet technology transfer, alloy metallurgy, shielding requirements",
   "principal_cases": [
     "Gurevich and Soviet titanium welding research (electroslag, semi-submerged GTA)",
@@ -78,5 +78,6 @@
     "1980 (Alpha sub revealed; Tom visits Soviet Union)",
     "Early 1990s (Draper Lab titanium sub project)"
   ],
-  "notes": "Section is a single continuous teaching unit on titanium welding, opening with admin remarks and Gurevich/KGB anecdote, then moving through welding processes, alpha-case metallurgy, market economics, and naval applications. Several captioner garbles flagged for editorial review (see transformation_log.md). One probable Tom misspeak (world steel production 'a million tons' → 'a billion tons') silently corrected because adjacent arithmetic confirms intent."
+  "notes": "Section is a single continuous teaching unit on titanium welding, opening with admin remarks and Gurevich/KGB anecdote, then moving through welding processes, alpha-case metallurgy, market economics, and naval applications. Several captioner garbles flagged for editorial review (see transformation_log.md). One probable Tom misspeak (world steel production 'a million tons' \u2192 'a billion tons') silently corrected because adjacent arithmetic confirms intent.",
+  "course_canonical": "Welding Metallurgy"
 }

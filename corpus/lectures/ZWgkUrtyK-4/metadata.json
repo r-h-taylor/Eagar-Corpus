@@ -68,14 +68,29 @@
   "stage_directions_count": 1,
   "student_turns_count": 7,
   "tom_slips_bracketed": [
-    {"raw": "Quantz", "correction": "Quantico", "paragraph": "p2"},
-    {"raw": "explosion time", "correction": "exposure time", "paragraph": "p19"}
+    {
+      "raw": "Quantz",
+      "correction": "Quantico",
+      "paragraph": "p2"
+    },
+    {
+      "raw": "explosion time",
+      "correction": "exposure time",
+      "paragraph": "p19"
+    }
   ],
   "captioner_errors_corrected_silently_count": 11,
   "editor_flags": [
-    {"paragraph": "p10", "issue": "FPS rendered as 'FOBs?' — unclear what Tom said"},
-    {"paragraph": "p33", "issue": "student turn '[PEX?]' inferred from Tom's reply; not clearly captured"}
+    {
+      "paragraph": "p10",
+      "issue": "FPS rendered as 'FOBs?' \u2014 unclear what Tom said"
+    },
+    {
+      "paragraph": "p33",
+      "issue": "student turn '[PEX?]' inferred from Tom's reply; not clearly captured"
+    }
   ],
   "lecture_truncated_at_capture": true,
-  "truncation_note": "Transcript ends mid-sentence at 36:22 with Tom beginning to discuss boiler systems made of black iron pipe. The recording cuts off before the third point on corrosion (free oxygen/sulfur) is developed."
+  "truncation_note": "Transcript ends mid-sentence at 36:22 with Tom beginning to discuss boiler systems made of black iron pipe. The recording cuts off before the third point on corrosion (free oxygen/sulfur) is developed.",
+  "course_canonical": "Corrosion Cracking and More"
 }

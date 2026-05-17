@@ -11,7 +11,7 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T04:44:30.194244+00:00",
   "layer2_paragraph_count": 54,
-  "layer2_timespan": "00:00–46:51",
+  "layer2_timespan": "00:00\u201346:51",
   "duration_minutes_approx": 47,
   "lecture_topics": [
     "Ratio analysis diagrams (steel, aluminum, titanium)",
@@ -25,7 +25,7 @@
     "Massachusetts police/fire details and living wage",
     "Beverage container materials competition (steel, aluminum, plastic, glass)",
     "Pineapple juice composite can; calculus of variations",
-    "Plastic gas tanks (terne-coated steel → 7-layer composites; EPA permeability)",
+    "Plastic gas tanks (terne-coated steel \u2192 7-layer composites; EPA permeability)",
     "Beer purists and glass; co-located glass plants and breweries",
     "Water and gas pipe history (clay, wood, cast iron, plastic, stainless)",
     "Corrugated stainless steel tubing and lightning-strike fires"
@@ -74,9 +74,10 @@
   "spoken_slip_brackets_count": 0,
   "stage_directions_inserted": 1,
   "flags_for_editorial_register": [
-    "p4/p5: Tom dates Griffith's equation to 1925 in p4 and '1945' in p5; the canonical date is 1920/1921 (Phil. Trans. Roy. Soc., 'The phenomena of rupture and flow in solids'). Both dates preserved per convention §16; editor may wish to footnote in layer 3.",
-    "p27: 'the Steve— Japan' — verbal stumble; unclear whether Tom was about to say a name (Steve Jobs?) or just stumbled. Preserved as written.",
-    "p36: 'twenty-five years ago I had a student working at Ford' — places Tom's Ford-paint-line consulting circa 1992 if lecture is 2017. Verifiable against Tom's consulting record.",
-    "p54: Tom names co-instructor as 'Brian, or Simone, Dr. Belmar' — verify which colleague (likely a Dr. Belmar; first name uncertain from audio)."
-  ]
+    "p4/p5: Tom dates Griffith's equation to 1925 in p4 and '1945' in p5; the canonical date is 1920/1921 (Phil. Trans. Roy. Soc., 'The phenomena of rupture and flow in solids'). Both dates preserved per convention \u00a716; editor may wish to footnote in layer 3.",
+    "p27: 'the Steve\u2014 Japan' \u2014 verbal stumble; unclear whether Tom was about to say a name (Steve Jobs?) or just stumbled. Preserved as written.",
+    "p36: 'twenty-five years ago I had a student working at Ford' \u2014 places Tom's Ford-paint-line consulting circa 1992 if lecture is 2017. Verifiable against Tom's consulting record.",
+    "p54: Tom names co-instructor as 'Brian, or Simone, Dr. Belmar' \u2014 verify which colleague (likely a Dr. Belmar; first name uncertain from audio)."
+  ],
+  "course_canonical": "Materials Selection and Economics"
 }

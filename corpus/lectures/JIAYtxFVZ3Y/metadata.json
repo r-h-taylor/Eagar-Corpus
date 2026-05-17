@@ -31,7 +31,7 @@
     "SS Schenectady brittle fracture",
     "SS Manhattan brittle fracture",
     "Big Inch pipeline (1930, Louisiana to New Jersey)",
-    "Battleship gun barrels → generator rotor forgings",
+    "Battleship gun barrels \u2192 generator rotor forgings",
     "Bethlehem Steel forging-weld project (1970s)",
     "Friction stir welded business jet (bankrupt firm)",
     "Manwich food plant stainless steel corrosion",
@@ -61,12 +61,13 @@
     "Morris Cohen",
     "Ben Averbach",
     "Frank McClintock",
-    "Régis (Reggie) Pelloux",
+    "R\u00e9gis (Reggie) Pelloux",
     "Ronald Latanision"
   ],
   "editorial_flags": [
-    "Co-instructor name 'Belmar' uncertain — possibly Belmonte, Allanore, or other. Recurring through lecture.",
-    "Student advisor 'Deb Senor' (p12) — unclear name capture.",
+    "Co-instructor name 'Belmar' uncertain \u2014 possibly Belmonte, Allanore, or other. Recurring through lecture.",
+    "Student advisor 'Deb Senor' (p12) \u2014 unclear name capture.",
     "Tom misstates casting tonnage at p32: '700,000 ton' then self-corrects to '700 ton.' Self-correction preserved."
-  ]
+  ],
+  "course_canonical": "Solid State Welding"
 }

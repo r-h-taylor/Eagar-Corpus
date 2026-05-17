@@ -17,17 +17,17 @@
   "layer2_end_timestamp": "48:50",
   "topics": [
     "material cost by industry (price per pound)",
-    "property limits — Ashby plots",
-    "toughness vs strength — definitions",
-    "fracture mechanics — Galileo to Bessemer to Charpy",
+    "property limits \u2014 Ashby plots",
+    "toughness vs strength \u2014 definitions",
+    "fracture mechanics \u2014 Galileo to Bessemer to Charpy",
     "yield strength, ductile vs brittle",
     "ratio analysis diagrams (Pellini, NRL)",
     "Liberty ship brittle fractures",
     "USS Thresher and the origin of SUBSAFE",
-    "Petroski — engineering as learning from failure",
+    "Petroski \u2014 engineering as learning from failure",
     "Boeing 777 composites trade-off",
     "ceramics, plastics, aluminum 2025, propeller blades",
-    "MIT hacks (bathroom tile, No Knife) — digression"
+    "MIT hacks (bathroom tile, No Knife) \u2014 digression"
   ],
   "cases_referenced": [
     "HY80 submarine hull steel",
@@ -66,9 +66,10 @@
     "10,000 foot pounds toughness (low-strength steel)",
     "2000 foot pounds toughness (aluminum)",
     "180,000 psi (aircraft landing gear steel)",
-    "K/σy = 2.5 to 0.6 (elastic-plastic design region)",
+    "K/\u03c3y = 2.5 to 0.6 (elastic-plastic design region)",
     "4694 Liberty ships built; 970 fractured; 8 lost",
     "19.3% income share top 1% (2012, Boston Globe)",
-    "2400°F steel melt, 3000°F combustion gas, 1000°F cooling gas"
-  ]
+    "2400\u00b0F steel melt, 3000\u00b0F combustion gas, 1000\u00b0F cooling gas"
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

@@ -39,11 +39,11 @@
   "figures_referenced": [
     "$40 million plant loss",
     "150-foot diameter LNG tanker skirt cylinder",
-    "ASTM A537 steel good to -20°F",
-    "20 ft-lb at -20°F Coast Guard toughness requirement",
+    "ASTM A537 steel good to -20\u00b0F",
+    "20 ft-lb at -20\u00b0F Coast Guard toughness requirement",
     "average plate toughness just under 21 ft-lb",
     "Liberty ship failure threshold <10 ft-lb (1946 report)",
-    "toughness spec progression: 15 ft-lb (1950s-60s) → 20 (1970s) → 30 (pipelines) → proposed 80",
+    "toughness spec progression: 15 ft-lb (1950s-60s) \u2192 20 (1970s) \u2192 30 (pipelines) \u2192 proposed 80",
     "SMAW productivity ~7 lb/hr",
     "GMAW productivity 10-15 lb/hr",
     "SAW productivity 40-50 lb/hr (single electrode), up to 160+ lb/hr (multi-electrode with iron powder)",
@@ -52,8 +52,14 @@
     "two football fields panel line size (Hyundai)"
   ],
   "tom_slips_bracketed": [
-    {"paragraph": "p24", "original": "ford / forward", "corrected": "form", "context": "form shop where plates are bent"}
+    {
+      "paragraph": "p24",
+      "original": "ford / forward",
+      "corrected": "form",
+      "context": "form shop where plates are bent"
+    }
   ],
   "editorial_flags_count": 2,
-  "stage_directions_count": 1
+  "stage_directions_count": 1,
+  "course_canonical": "Welding Quality"
 }

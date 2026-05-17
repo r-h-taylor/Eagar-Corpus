@@ -30,18 +30,29 @@
     "Chrysler galvanized steel spot welding / $50M refrigeration proposal",
     "Ford 2000-weld spec for electrode life",
     "GM spot welding research cancellation by Jamie Sue",
-    "Elihu Thomson 15° vs 45° electrode tip angle",
-    "Sciaky camshaft lobe hardening — laser cracking vs electron beam success",
+    "Elihu Thomson 15\u00b0 vs 45\u00b0 electrode tip angle",
+    "Sciaky camshaft lobe hardening \u2014 laser cracking vs electron beam success",
     "Ford catalytic converter out-of-vacuum electron beam welding"
   ],
   "tom_slips_bracketed": [
-    {"paragraph": "p26", "spoken": "Pricer", "corrected": "Chrysler", "note": "may be captioner garbling rather than Tom slip"},
-    {"paragraph": "p56", "spoken": "crank/crankshaft", "corrected": "camshaft", "note": "Tom self-corrects in real time"}
+    {
+      "paragraph": "p26",
+      "spoken": "Pricer",
+      "corrected": "Chrysler",
+      "note": "may be captioner garbling rather than Tom slip"
+    },
+    {
+      "paragraph": "p56",
+      "spoken": "crank/crankshaft",
+      "corrected": "camshaft",
+      "note": "Tom self-corrects in real time"
+    }
   ],
   "editorial_flags": [
-    "Tuftee article reference (p55) — author identification uncertain",
-    "Jamie Sue (p30) — possibly Jamie Hsu",
-    "arc key (p46) — captioner garbling unresolved",
-    "Pricer/Chrysler at p26 — slip vs captioner ambiguous"
-  ]
+    "Tuftee article reference (p55) \u2014 author identification uncertain",
+    "Jamie Sue (p30) \u2014 possibly Jamie Hsu",
+    "arc key (p46) \u2014 captioner garbling unresolved",
+    "Pricer/Chrysler at p26 \u2014 slip vs captioner ambiguous"
+  ],
+  "course_canonical": "Fusion Welding"
 }

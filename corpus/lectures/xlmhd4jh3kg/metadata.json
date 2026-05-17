@@ -8,7 +8,11 @@
   "lecture_total": 29,
   "lecture_type": "introductory / administrative + philosophy of pedagogy",
   "instructor": "Thomas W. Eagar",
-  "co_instructors_mentioned": ["Dr. Belmar", "Mike Bonforth", "Simone"],
+  "co_instructors_mentioned": [
+    "Dr. Belmar",
+    "Mike Bonforth",
+    "Simone"
+  ],
   "raw_transcript_sha256": "5e30dbf801f50da423f35fbe2f76a41f8aedd51195e3129a8a82210d6772ca31",
   "raw_transcript_line_count": 634,
   "raw_transcript_word_count": 4898,
@@ -53,5 +57,6 @@
     "air conditioner as heat engine"
   ],
   "section_count_estimate_for_layer3": 5,
-  "notes": "This is the opening lecture of the Spring 2014 Welding Metallurgy module. About half is administrative (course structure, modules, assignments, no-quizzes philosophy) and half is Eagar's pedagogical manifesto with two preview examples (fluorescent lights, Scotch tape). No deep technical content yet. Two-page-math-book anecdote and air-conditioner-as-heat-engine are characteristic Eagar set-pieces that recur across the corpus."
+  "notes": "This is the opening lecture of the Spring 2014 Welding Metallurgy module. About half is administrative (course structure, modules, assignments, no-quizzes philosophy) and half is Eagar's pedagogical manifesto with two preview examples (fluorescent lights, Scotch tape). No deep technical content yet. Two-page-math-book anecdote and air-conditioner-as-heat-engine are characteristic Eagar set-pieces that recur across the corpus.",
+  "course_canonical": "Welding Metallurgy"
 }

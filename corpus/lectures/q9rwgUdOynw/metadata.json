@@ -12,7 +12,7 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-11T21:40:22.719475+00:00",
   "layer2_paragraph_count": 60,
-  "duration_covered": "00:02 – 47:45",
+  "duration_covered": "00:02 \u2013 47:45",
   "primary_topics": [
     "proprietary aluminum alloys (Alcoa / Boeing / Airbus)",
     "codes and standards (Aluminum Association, ASTM, FAA MIL-HDBK-5 / MMPDS)",
@@ -26,7 +26,7 @@
     "steel corrosion rate in water (4 mils/year rule)",
     "Phoenix warehouse roof failure (20 mils/year case)",
     "stainless steel grade designations (UNS, AISI, ISO)",
-    "Miami Art Museum case (410 → 316 → 2205 duplex)",
+    "Miami Art Museum case (410 \u2192 316 \u2192 2205 duplex)",
     "stress corrosion cracking and chloride sensitivity",
     "Uhlig oxygen-corrosion data",
     "exfoliation corrosion (Al 7075)",
@@ -38,9 +38,9 @@
     "Ingalls shipyard sun-deformation example",
     "Baltimore Gas and Electric Admiralty brass under-deposit attack",
     "New England Aquarium piping (Monel)",
-    "Mormon Temple Belmont heat exchanger (copper → 90/10 cupro-nickel)",
+    "Mormon Temple Belmont heat exchanger (copper \u2192 90/10 cupro-nickel)",
     "Phoenix million-square-foot warehouse roof corrosion",
-    "Miami Art Museum hanging garden (martensitic 410 → austenitic 316 → duplex 2205)",
+    "Miami Art Museum hanging garden (martensitic 410 \u2192 austenitic 316 \u2192 duplex 2205)",
     "Hyatt Regency walkway collapse (mentioned as cautionary reference)",
     "Hurricane Sandy cast iron graphitic corrosion (student case, Brian)",
     "Hot-dog-cooker stainless steel chloride failure"
@@ -61,8 +61,9 @@
   ],
   "notes": [
     "This is the second of five videos in the Summer 2016 Corrosion series. Lecture opens mid-discussion (Tom is finishing an answer about aluminum specs from the prior session or prior moment).",
-    "Lecture functions partly as a recitation — Tom brings in the new Nalco book and uses its figures to reinforce content from the previous day's lecture.",
-    "The surgical-scissors anecdote (p39) is a reuse of the same case Tom tells in lec11 §1 of the worked example (different course, different year). The price figures and details differ slightly — this is Tom's recurring teaching case on insurance overhead in medical products.",
+    "Lecture functions partly as a recitation \u2014 Tom brings in the new Nalco book and uses its figures to reinforce content from the previous day's lecture.",
+    "The surgical-scissors anecdote (p39) is a reuse of the same case Tom tells in lec11 \u00a71 of the worked example (different course, different year). The price figures and details differ slightly \u2014 this is Tom's recurring teaching case on insurance overhead in medical products.",
     "Sentence-level garbles in the student turns (p18 Brian, p41 catapult-psi student) are flagged for editorial register review at layer 3."
-  ]
+  ],
+  "course_canonical": "Corrosion"
 }

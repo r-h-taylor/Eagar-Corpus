@@ -14,8 +14,14 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T17:34:37.436796+00:00",
   "layer2_paragraph_count": 26,
-  "layer2_timestamp_range": ["00:03", "25:56"],
-  "speakers": ["Tom Eagar", "Student (unnamed)"],
+  "layer2_timestamp_range": [
+    "00:03",
+    "25:56"
+  ],
+  "speakers": [
+    "Tom Eagar",
+    "Student (unnamed)"
+  ],
   "stage_directions_count": 1,
   "bracketed_slips_count": 3,
   "silent_captioner_corrections_count": 10,
@@ -70,5 +76,6 @@
     "Phase diagram handout",
     "Two cans of Diet Sprite",
     "Silly Putty (referenced at break)"
-  ]
+  ],
+  "course_canonical": "Corrosion Cracking and More"
 }

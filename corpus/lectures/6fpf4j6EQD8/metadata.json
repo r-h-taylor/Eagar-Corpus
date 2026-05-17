@@ -25,14 +25,15 @@
   ],
   "cases_mentioned": [
     "Mexican airline turbine blade sulfidation failure",
-    "Fenway Franks hot dog cooker (Everett, MA) — 304 substituted for 316",
+    "Fenway Franks hot dog cooker (Everett, MA) \u2014 304 substituted for 316",
     "Gulf War destroyer 3000 psi steam line failure"
   ],
   "editorial_flags": [
-    "p6: 'sold for the sofa' reading uncertain — possibly SOFA/sulphur attack acronym",
-    "p9: '198.7' — Tom misspoke a probability figure",
-    "p11: 'producing israel' → 'producing/protecting a steel' — captioner garble, reading uncertain",
-    "p18: 'respec'd' / 'spec'd' — reading uncertain",
-    "p19: 'protein' almost certainly 'environment' — high confidence captioner garble"
-  ]
+    "p6: 'sold for the sofa' reading uncertain \u2014 possibly SOFA/sulphur attack acronym",
+    "p9: '198.7' \u2014 Tom misspoke a probability figure",
+    "p11: 'producing israel' \u2192 'producing/protecting a steel' \u2014 captioner garble, reading uncertain",
+    "p18: 'respec'd' / 'spec'd' \u2014 reading uncertain",
+    "p19: 'protein' almost certainly 'environment' \u2014 high confidence captioner garble"
+  ],
+  "course_canonical": "Corrosion Cracking and More"
 }

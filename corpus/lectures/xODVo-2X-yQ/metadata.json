@@ -35,11 +35,11 @@
     "Mohr's circle (1882)",
     "Poisson's ratio: 0.3 elastic, 0.5 plastic",
     "Hydrostatic suppression of brittle fracture (Bridgman)",
-    "Deformation zone geometry parameter Δ (Backofen)",
-    "P/2Y vs. Δ master plot consolidating 48 processes into 7",
+    "Deformation zone geometry parameter \u0394 (Backofen)",
+    "P/2Y vs. \u0394 master plot consolidating 48 processes into 7",
     "Redundant shear and non-homogeneous deformation",
-    "Hardness test: P ≈ 3Y (1 + π/2 theoretical)",
-    "Friction regimes by Δ (Δ≤1 friction-dominated; Δ≈10 friction-negligible)"
+    "Hardness test: P \u2248 3Y (1 + \u03c0/2 theoretical)",
+    "Friction regimes by \u0394 (\u0394\u22641 friction-dominated; \u0394\u224810 friction-negligible)"
   ],
   "co_lecturer": "Simone Belmore (postdoc, fracture/fatigue lectures)",
   "textbooks_referenced": [
@@ -47,5 +47,6 @@
     "Backofen, Deformation Processing",
     "Johnson & Mellor, Engineering Plasticity",
     "Altan, Metal Forming Handbook"
-  ]
+  ],
+  "course_canonical": "Deformation Processing"
 }

@@ -64,20 +64,68 @@
     "Japanese sword-smithing (student paper topic)"
   ],
   "tom_slips_bracketed": [
-    {"paragraph": "p1", "raw": "Tommy ger", "corrected": "Tom Eagar"},
-    {"paragraph": "p15", "raw": "What's the feet", "corrected": "What's the fif—"},
-    {"paragraph": "p49", "raw": "he didn't we'll", "corrected": "didn't want to"},
-    {"paragraph": "p58", "raw": "ribbon to it", "corrected": "refer to it"}
+    {
+      "paragraph": "p1",
+      "raw": "Tommy ger",
+      "corrected": "Tom Eagar"
+    },
+    {
+      "paragraph": "p15",
+      "raw": "What's the feet",
+      "corrected": "What's the fif\u2014"
+    },
+    {
+      "paragraph": "p49",
+      "raw": "he didn't we'll",
+      "corrected": "didn't want to"
+    },
+    {
+      "paragraph": "p58",
+      "raw": "ribbon to it",
+      "corrected": "refer to it"
+    }
   ],
   "captioner_errors_corrected_silent": [
-    {"paragraph": "p18", "raw": "press key", "corrected": "Kresge"},
-    {"paragraph": "p20", "raw": "Vera Castilla Kowski", "corrected": "Vera Kistiakowsky"},
-    {"paragraph": "p30", "raw": "sub safe", "corrected": "SUBSAFE"},
-    {"paragraph": "p47", "raw": "Chuck vest", "corrected": "Chuck Vest"},
-    {"paragraph": "p48", "raw": "CDM", "corrected": "CDQ"},
-    {"paragraph": "p52", "raw": "akhom their alarm", "corrected": "Occam — d'Ockham"},
-    {"paragraph": "p55", "raw": "Lucas Kershner", "corrected": "Lou Gerstner"},
-    {"paragraph": "p6", "raw": "Adelaide video", "corrected": "delayed video"}
+    {
+      "paragraph": "p18",
+      "raw": "press key",
+      "corrected": "Kresge"
+    },
+    {
+      "paragraph": "p20",
+      "raw": "Vera Castilla Kowski",
+      "corrected": "Vera Kistiakowsky"
+    },
+    {
+      "paragraph": "p30",
+      "raw": "sub safe",
+      "corrected": "SUBSAFE"
+    },
+    {
+      "paragraph": "p47",
+      "raw": "Chuck vest",
+      "corrected": "Chuck Vest"
+    },
+    {
+      "paragraph": "p48",
+      "raw": "CDM",
+      "corrected": "CDQ"
+    },
+    {
+      "paragraph": "p52",
+      "raw": "akhom their alarm",
+      "corrected": "Occam \u2014 d'Ockham"
+    },
+    {
+      "paragraph": "p55",
+      "raw": "Lucas Kershner",
+      "corrected": "Lou Gerstner"
+    },
+    {
+      "paragraph": "p6",
+      "raw": "Adelaide video",
+      "corrected": "delayed video"
+    }
   ],
   "flagged_for_editorial_review": [
     "Spelling of 'Simone Belmar' (likely Simon Bellemare or similar)",
@@ -85,5 +133,6 @@
     "Inaudible student question at p38",
     "Spelling of 'Brian Hellman'"
   ],
-  "notes": "Orientation/first-meeting session. No structural-materials teaching content; entirely administrative + philosophical. Layer 3 sectioning may be unusual for this lecture — consider whether to skip L3 entirely or produce a condensed administrative summary. The session is largely free of the case-study material that anchors the rest of the corpus."
+  "notes": "Orientation/first-meeting session. No structural-materials teaching content; entirely administrative + philosophical. Layer 3 sectioning may be unusual for this lecture \u2014 consider whether to skip L3 entirely or produce a condensed administrative summary. The session is largely free of the case-study material that anchors the rest of the corpus.",
+  "course_canonical": "Recitations"
 }

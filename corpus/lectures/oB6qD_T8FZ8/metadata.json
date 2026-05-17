@@ -7,7 +7,10 @@
   "lecture_total": 12,
   "video_title": "3.371 Structural Materials Selection - Spring 2016 [1/12]",
   "lecturer": "Thomas W. Eagar",
-  "co_lecturers_mentioned": ["Donald Sadoway", "[Allmer]"],
+  "co_lecturers_mentioned": [
+    "Donald Sadoway",
+    "[Allmer]"
+  ],
   "raw_transcript_sha256": "60da7f024d43fec17c9fed77b4e5c3058b7c1e19aef4e3977c59a169f99934fc",
   "raw_transcript_line_count": 1134,
   "raw_transcript_word_count": 9130,
@@ -48,5 +51,6 @@
     "100,000-mile car life / 100,000-hour aircraft life",
     "3000 spot welds per automobile",
     "20,000 gallons of fuel per WTC floor"
-  ]
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

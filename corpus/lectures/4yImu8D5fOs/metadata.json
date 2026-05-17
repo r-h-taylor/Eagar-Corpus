@@ -19,9 +19,9 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T13:26:45.029454+00:00",
   "editorial_flags": [
-    "p1: 'Dr. [Balmforth?]' — second consulting group member name garbled by captioner; possibly Bahnmiller or similar. Needs editor review.",
-    "p13: 'both ferrite and [austenite]' — captioner rendered 'Martin site' but technical context (duplex alloys 50/50) requires austenite. Likely captioner error rather than speaker slip given Balmforth's expertise in this region. Flag for editor confirmation.",
-    "p14: 'Professor [Roher?]' — faculty name uncertain in captioner rendering.",
+    "p1: 'Dr. [Balmforth?]' \u2014 second consulting group member name garbled by captioner; possibly Bahnmiller or similar. Needs editor review.",
+    "p13: 'both ferrite and [austenite]' \u2014 captioner rendered 'Martin site' but technical context (duplex alloys 50/50) requires austenite. Likely captioner error rather than speaker slip given Balmforth's expertise in this region. Flag for editor confirmation.",
+    "p14: 'Professor [Roher?]' \u2014 faculty name uncertain in captioner rendering.",
     "p20, p21: two student questions inaudible on transcript; attribution inferred from Balmforth's repeated content."
   ],
   "key_technical_terms_restored": [
@@ -29,11 +29,12 @@
     "ferrite/ferritic",
     "martensite/martensitic",
     "Schaeffler diagram",
-    "Widmanstätten",
+    "Widmanst\u00e4tten",
     "Cr2O3",
     "molybdenum",
     "eutectic phase",
     "pseudo-binary phase diagram",
     "WRC 1992 diagram"
-  ]
+  ],
+  "course_canonical": "Welding Metallurgy"
 }

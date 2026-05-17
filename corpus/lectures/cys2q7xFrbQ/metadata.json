@@ -21,24 +21,75 @@
     "ball bearing failure analysis (MH-53 helicopter / Stratford / Sikorsky)",
     "DOD ownership transfer forms as standards",
     "history of engineering as a profession",
-    "computer-aided design evolution (CAD → FEA → properties → manufacturability)",
+    "computer-aided design evolution (CAD \u2192 FEA \u2192 properties \u2192 manufacturability)",
     "diamond vs. graphite as a case in chemical bonding and properties"
   ],
   "major_cases": [
     {
       "name": "MH-53 helicopter swash plate bearing failure (Stratford crash)",
-      "anchor_paragraphs": ["p26", "p27", "p28", "p29", "p30", "p31", "p32", "p33", "p34", "p35", "p36", "p37", "p38", "p39", "p40", "p41", "p42", "p43", "p44", "p45", "p46", "p47", "p48", "p49", "p50", "p51", "p52", "p71", "p72", "p73", "p74", "p75", "p76"],
+      "anchor_paragraphs": [
+        "p26",
+        "p27",
+        "p28",
+        "p29",
+        "p30",
+        "p31",
+        "p32",
+        "p33",
+        "p34",
+        "p35",
+        "p36",
+        "p37",
+        "p38",
+        "p39",
+        "p40",
+        "p41",
+        "p42",
+        "p43",
+        "p44",
+        "p45",
+        "p46",
+        "p47",
+        "p48",
+        "p49",
+        "p50",
+        "p51",
+        "p52",
+        "p71",
+        "p72",
+        "p73",
+        "p74",
+        "p75",
+        "p76"
+      ],
       "frame": "Failure analysis case where bearing manufacturer was wrongly accused of producing improper-conformity bearings; Tom identifies barrel-shaped wear marks proving proper conformity, and traces actual cause to a potato-chipped aluminum swash plate housing milled on a defective machine the helicopter company scrapped."
     },
     {
       "name": "NIST visit and the platinum-iridium kilogram standard",
-      "anchor_paragraphs": ["p62", "p63", "p64", "p65", "p66", "p67"],
+      "anchor_paragraphs": [
+        "p62",
+        "p63",
+        "p64",
+        "p65",
+        "p66",
+        "p67"
+      ],
       "frame": "Tom's visit to NIST and conversation with Katharine Gebbie about defining mass in terms of Planck's constant; introduces shipbuilding as the most precise large-scale manufacturing in parts-per-million."
     },
     {
       "name": "Diamond vs. graphite as bonding-determines-properties case",
-      "anchor_paragraphs": ["p93", "p94", "p95", "p96", "p97", "p98", "p99", "p100"],
+      "anchor_paragraphs": [
+        "p93",
+        "p94",
+        "p95",
+        "p96",
+        "p97",
+        "p98",
+        "p99",
+        "p100"
+      ],
       "frame": "Same composition (carbon), drastically different properties from sp3 vs sp2 hybrid bonding; introduces graphene, Buckyballs, and nanotubes."
     }
-  ]
+  ],
+  "course_canonical": "Codes and Standards"
 }

@@ -13,7 +13,12 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-14T04:09:48.401459+00:00",
   "format": "recitation_qa",
-  "primary_speakers": ["Tom Eagar", "Steve", "Don Baskin", "students"],
+  "primary_speakers": [
+    "Tom Eagar",
+    "Steve",
+    "Don Baskin",
+    "students"
+  ],
   "topics": [
     "course logistics: module write-ups",
     "career advice: three-year self-reinvention",
@@ -53,5 +58,6 @@
     "Art Nied spelling unverified",
     "Kozakovic almost certainly Corita Kent or captioner garble",
     "'bladder crystal' student utterance unrecoverable"
-  ]
+  ],
+  "course_canonical": "Recitations"
 }

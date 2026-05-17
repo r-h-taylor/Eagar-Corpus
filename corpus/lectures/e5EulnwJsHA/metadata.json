@@ -14,22 +14,86 @@
     "first_timestamp": "00:04",
     "last_timestamp": "49:58",
     "sections_proposed": [
-      {"id": "s1", "title": "TQM revisited: buzzwords or substance", "start": "00:04"},
-      {"id": "s2", "title": "Methods of TQM: Montgomery and the definition of quality", "start": "03:03"},
-      {"id": "s3", "title": "Conformance to standards: the Honda vs. GM supplier story", "start": "05:17"},
-      {"id": "s4", "title": "Voice of the customer: washing machines and potatoes", "start": "08:15"},
-      {"id": "s5", "title": "Shewhart charts and statistical process control", "start": "10:34"},
-      {"id": "s6", "title": "Two Motorola facilities: the same chart, two attitudes", "start": "14:20"},
-      {"id": "s7", "title": "Lies, damned lies, and statistics", "start": "15:24"},
-      {"id": "s8", "title": "Six Sigma: origin, math, and the 1.5-sigma shift", "start": "18:02"},
-      {"id": "s9", "title": "CPK and the gap between industry and the university", "start": "21:25"},
-      {"id": "s10", "title": "Bethlehem Steel and the wrong metric", "start": "24:29"},
-      {"id": "s11", "title": "Reinventing yourself every three years", "start": "27:24"},
-      {"id": "s12", "title": "When SPC stops working: three Sigma and Six Sigma limits", "start": "29:19"},
-      {"id": "s13", "title": "The Hubble telescope and Lincoln Lab's workaround", "start": "31:10"},
-      {"id": "s14", "title": "Design for manufacturability: Chevy Vega, submarines, Motorola boards", "start": "36:53"},
-      {"id": "s15", "title": "The Goal and the Theory of Constraints: Ford F-150 air conditioners", "start": "42:04"},
-      {"id": "s16", "title": "Goldratt's overreach: managing the federal government", "start": "48:55"}
+      {
+        "id": "s1",
+        "title": "TQM revisited: buzzwords or substance",
+        "start": "00:04"
+      },
+      {
+        "id": "s2",
+        "title": "Methods of TQM: Montgomery and the definition of quality",
+        "start": "03:03"
+      },
+      {
+        "id": "s3",
+        "title": "Conformance to standards: the Honda vs. GM supplier story",
+        "start": "05:17"
+      },
+      {
+        "id": "s4",
+        "title": "Voice of the customer: washing machines and potatoes",
+        "start": "08:15"
+      },
+      {
+        "id": "s5",
+        "title": "Shewhart charts and statistical process control",
+        "start": "10:34"
+      },
+      {
+        "id": "s6",
+        "title": "Two Motorola facilities: the same chart, two attitudes",
+        "start": "14:20"
+      },
+      {
+        "id": "s7",
+        "title": "Lies, damned lies, and statistics",
+        "start": "15:24"
+      },
+      {
+        "id": "s8",
+        "title": "Six Sigma: origin, math, and the 1.5-sigma shift",
+        "start": "18:02"
+      },
+      {
+        "id": "s9",
+        "title": "CPK and the gap between industry and the university",
+        "start": "21:25"
+      },
+      {
+        "id": "s10",
+        "title": "Bethlehem Steel and the wrong metric",
+        "start": "24:29"
+      },
+      {
+        "id": "s11",
+        "title": "Reinventing yourself every three years",
+        "start": "27:24"
+      },
+      {
+        "id": "s12",
+        "title": "When SPC stops working: three Sigma and Six Sigma limits",
+        "start": "29:19"
+      },
+      {
+        "id": "s13",
+        "title": "The Hubble telescope and Lincoln Lab's workaround",
+        "start": "31:10"
+      },
+      {
+        "id": "s14",
+        "title": "Design for manufacturability: Chevy Vega, submarines, Motorola boards",
+        "start": "36:53"
+      },
+      {
+        "id": "s15",
+        "title": "The Goal and the Theory of Constraints: Ford F-150 air conditioners",
+        "start": "42:04"
+      },
+      {
+        "id": "s16",
+        "title": "Goldratt's overreach: managing the federal government",
+        "start": "48:55"
+      }
     ]
   },
   "cases_identified": [
@@ -66,5 +130,6 @@
     "Chris Chryssostomidis [tentative, Tom's slip]",
     "Eli Goldratt (The Goal, Theory of Constraints)",
     "Benjamin Disraeli / Mark Twain (lies, damned lies, statistics)"
-  ]
+  ],
+  "course_canonical": "Total Quality Improvement"
 }

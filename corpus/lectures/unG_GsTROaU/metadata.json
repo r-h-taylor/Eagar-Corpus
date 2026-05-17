@@ -31,9 +31,9 @@
     "hot shortness and freezing range"
   ],
   "recurring_cases_referenced": [
-    "molybdenum-to-copper braze for cross-field amplifier (radar) — TLP solution",
+    "molybdenum-to-copper braze for cross-field amplifier (radar) \u2014 TLP solution",
     "Norton asphalt-reclamation carbide tip brazing (student thesis project)",
-    "Naval recuperator at Rolls-Royce England — 100,000 hour design failed in 2 minutes",
+    "Naval recuperator at Rolls-Royce England \u2014 100,000 hour design failed in 2 minutes",
     "Connecticut aerospace company gold-nickel braze theft (mid-1970s, $1.6-2.5M)",
     "Alcan aluminum brazing flux (~1980) enabling field-repairable aluminum radiators",
     "IBM 360 mainframe helium cooling",
@@ -55,9 +55,10 @@
     "Krylon"
   ],
   "editor_review_flags": [
-    "p8: focused ion [iron] beam — slip attribution uncertain",
+    "p8: focused ion [iron] beam \u2014 slip attribution uncertain",
     "p35: captioner garbling on salt-shaker weighing comparison",
     "p44: captioner garbling on silver/antimony solder composition list",
     "p51: lecture cuts off mid-sentence"
-  ]
+  ],
+  "course_canonical": "Solid State Welding"
 }

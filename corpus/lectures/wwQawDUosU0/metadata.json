@@ -34,7 +34,7 @@
     "Aircraft carrier as instrument of diplomacy (tsunami anecdote)",
     "Beryllium copper non-sparking tools",
     "Berylliosis at MIT Manhattan Project",
-    "Water pipe material history (clay → wood → lead → copper → PEX)"
+    "Water pipe material history (clay \u2192 wood \u2192 lead \u2192 copper \u2192 PEX)"
   ],
   "people_named": [
     "Lester Thurow",
@@ -58,6 +58,7 @@
   "editorial_flags": [
     "p8 date sequence '1990, 1997, 220 years ago' confused; likely meant 1790",
     "p41 beryllium disc thickness '15,000 thick' likely '.015 inches'",
-    "p41 'Chase Brass and Copper' supplier name — actual Be-Cu supplier is Brush Wellman/Materion"
-  ]
+    "p41 'Chase Brass and Copper' supplier name \u2014 actual Be-Cu supplier is Brush Wellman/Materion"
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

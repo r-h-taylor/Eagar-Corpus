@@ -62,5 +62,6 @@
   "captioner_garbling_severity": "high",
   "editorial_flags_count": 12,
   "self_corrections_preserved": true,
-  "tom_slips_bracketed": 0
+  "tom_slips_bracketed": 0,
+  "course_canonical": "Welding Metallurgy"
 }

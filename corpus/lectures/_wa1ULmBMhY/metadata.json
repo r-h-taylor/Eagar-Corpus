@@ -14,29 +14,29 @@
   "generated_at": "2026-05-13T06:14:21.317354+00:00",
   "layer2_paragraph_count": 61,
   "duration_covered_seconds": 3470,
-  "duration_covered_mmss": "00:03–57:50",
+  "duration_covered_mmss": "00:03\u201357:50",
   "primary_topics": [
-    "Steel productivity 1980–2010 (6 → 0.3 person-hours/ton)",
+    "Steel productivity 1980\u20132010 (6 \u2192 0.3 person-hours/ton)",
     "Allegheny Steel and Dick Simmons (CEO who avoided unprofitable quarters in 1980s)",
-    "Aluminum history: Ørsted (1825), Napoleonic rattle, Washington Monument, Hall–Héroult patent race (1886)",
-    "Why Wall Street loved the aluminum price drop but hated the steel productivity gain — new vs. old markets, capacity dynamics",
+    "Aluminum history: \u00d8rsted (1825), Napoleonic rattle, Washington Monument, Hall\u2013H\u00e9roult patent race (1886)",
+    "Why Wall Street loved the aluminum price drop but hated the steel productivity gain \u2014 new vs. old markets, capacity dynamics",
     "Turbine blade coatings (Ni-Ti bond coat, zirconia thermal barrier) and Teflon-to-ceramic cookware analogy",
-    "Optical glass progression — Egyptian → Phoenician → 1900 eyeglass → Corning optical fiber",
-    "Harvard Glass Flowers (Blaschka) — digression on glass science and long-term stability",
-    "Copper industry crisis 1970s — bandwidth limits, IBM copper-on-silicon (~1990), tungsten barrier layer",
+    "Optical glass progression \u2014 Egyptian \u2192 Phoenician \u2192 1900 eyeglass \u2192 Corning optical fiber",
+    "Harvard Glass Flowers (Blaschka) \u2014 digression on glass science and long-term stability",
+    "Copper industry crisis 1970s \u2014 bandwidth limits, IBM copper-on-silicon (~1990), tungsten barrier layer",
     "Pentium chip clock-speed and inter-die distance limits",
-    "Penny composition: copper → zinc (early 1980s); melt-value economics",
-    "High-temperature superconductors 1989 — NSF funding stampede, Tom's skepticism, pinning-center problem",
+    "Penny composition: copper \u2192 zinc (early 1980s); melt-value economics",
+    "High-temperature superconductors 1989 \u2014 NSF funding stampede, Tom's skepticism, pinning-center problem",
     "Eagar's 1975 doctoral thesis on superconductivity (first word-processed thesis in DMSE)",
-    "Limits to materials — Ashby plots, Lennard-Jones bonding potential, modulus as ∂²E/∂R²",
-    "Composites — X-33 space plane, V-22 Osprey, 777/787; cheap composites still elusive",
+    "Limits to materials \u2014 Ashby plots, Lennard-Jones bonding potential, modulus as \u2202\u00b2E/\u2202R\u00b2",
+    "Composites \u2014 X-33 space plane, V-22 Osprey, 777/787; cheap composites still elusive",
     "Concrete and asphalt as the high-volume composites; transportation cost dominates low-value materials",
     "Nigeria cement-ship harbor backlog (~1985)"
   ],
   "cases_mentioned": [
     "Allegheny Steel (Dick Simmons CEO)",
-    "Hall–Héroult aluminum process (1886)",
-    "Pittsburgh Reduction Company → Alcoa",
+    "Hall\u2013H\u00e9roult aluminum process (1886)",
+    "Pittsburgh Reduction Company \u2192 Alcoa",
     "Alcoa / Boeing / Pratt & Whitney trust-busting",
     "Wright Brothers aluminum-copper engine block",
     "Andrew Mellon's aluminum Pierce-Arrow",
@@ -55,10 +55,30 @@
     "Nigeria cement harbor backlog"
   ],
   "tom_slips_bracketed": [
-    {"location": "p10", "raw": "German", "corrected": "Danish", "context": "Ørsted's nationality"},
-    {"location": "p20", "raw": "aluminum blade", "corrected": "nickel blade", "context": "turbine blade material"},
-    {"location": "p31", "raw": "Pentium 5", "corrected": "Pentium 4", "context": "mid-90s Intel chip"},
-    {"location": "p31", "raw": "Pentium 6", "corrected": "Pentium Pro / II", "context": "two-die package era"}
+    {
+      "location": "p10",
+      "raw": "German",
+      "corrected": "Danish",
+      "context": "\u00d8rsted's nationality"
+    },
+    {
+      "location": "p20",
+      "raw": "aluminum blade",
+      "corrected": "nickel blade",
+      "context": "turbine blade material"
+    },
+    {
+      "location": "p31",
+      "raw": "Pentium 5",
+      "corrected": "Pentium 4",
+      "context": "mid-90s Intel chip"
+    },
+    {
+      "location": "p31",
+      "raw": "Pentium 6",
+      "corrected": "Pentium Pro / II",
+      "context": "two-die package era"
+    }
   ],
   "uncertainties_flagged": [
     "Professor Pelloux identity",
@@ -66,8 +86,9 @@
     "Dave Redman identity",
     "Conference location ('little kresy')",
     "Bernardos/France/Russia arc welding history (Tom muddled)",
-    "Ørsted vs. Wöhler aluminum discovery attribution"
+    "\u00d8rsted vs. W\u00f6hler aluminum discovery attribution"
   ],
   "stage_directions_count": 3,
-  "estimated_section_count_for_layer3": 8
+  "estimated_section_count_for_layer3": 8,
+  "course_canonical": "Structural Materials Selection"
 }

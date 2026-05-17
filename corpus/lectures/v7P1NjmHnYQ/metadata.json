@@ -25,8 +25,22 @@
     "electron beam welding niche applications (catalytic converters, turbine cases, bimetal bandsaw blades)"
   ],
   "tom_slips_bracketed": [
-    {"slip": "Forte's", "correction": "Fourier's", "occurrences": ["p8", "p9", "p18"]},
-    {"slip": "C2H6 for propylene", "correction": "C3H6", "occurrences": ["p11"]}
+    {
+      "slip": "Forte's",
+      "correction": "Fourier's",
+      "occurrences": [
+        "p8",
+        "p9",
+        "p18"
+      ]
+    },
+    {
+      "slip": "C2H6 for propylene",
+      "correction": "C3H6",
+      "occurrences": [
+        "p11"
+      ]
+    }
   ],
   "stories_told": [
     "Humphry Davy and the electric arc (1805)",
@@ -49,5 +63,6 @@
     "HY-80 weld sample from Electric Boat (~30 years old)",
     "Arc weld sample from an oilfield blowout job"
   ],
-  "notes": "First lecture of a six-part fusion welding short course, evidently taught to Navy students (Tom addresses 'since you're in the Navy' in p58). Tone matches the longer 3.37 / 3.371 lectures. Two characteristic Tom slips: 'Forte's' for Fourier's law (recurring), and C2H6 for propylene (one-off). Major story content: the Schenectady GE acetone-porosity story spans p47–p56 and is one of Tom's longer set-piece narratives."
+  "notes": "First lecture of a six-part fusion welding short course, evidently taught to Navy students (Tom addresses 'since you're in the Navy' in p58). Tone matches the longer 3.37 / 3.371 lectures. Two characteristic Tom slips: 'Forte's' for Fourier's law (recurring), and C2H6 for propylene (one-off). Major story content: the Schenectady GE acetone-porosity story spans p47\u2013p56 and is one of Tom's longer set-piece narratives.",
+  "course_canonical": "Fusion Welding"
 }

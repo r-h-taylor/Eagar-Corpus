@@ -13,7 +13,7 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T01:04:40.463551+00:00",
   "layer2_paragraph_count": 54,
-  "layer2_timestamp_range": "00:00–52:01",
+  "layer2_timestamp_range": "00:00\u201352:01",
   "instructor": "Thomas W. Eagar",
   "institution": "MIT",
   "topics": [
@@ -73,5 +73,6 @@
   ],
   "captioner_corrections_count": 35,
   "tom_slip_corrections_count": 3,
-  "stage_directions_count": 2
+  "stage_directions_count": 2,
+  "course_canonical": "Structural Materials Selection"
 }

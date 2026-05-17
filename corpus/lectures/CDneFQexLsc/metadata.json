@@ -79,16 +79,17 @@
     "stone: ~6 billion tons/year (Eagar estimate)",
     "Portland cement: 1.5x steel volume",
     "plastics: 300 million tons/year",
-    "semiconductor industry: $200–250 billion",
+    "semiconductor industry: $200\u2013250 billion",
     "steel industry: $1 trillion",
     "Pennzoil cleanup liability: hundreds of millions",
     "GM adhesive bonding savings: $100,000+",
-    "ceramic magnet field: ~10,000 gauss; Alnico: ~7,000–10,000 gauss; NdFeB: ~40,000 gauss"
+    "ceramic magnet field: ~10,000 gauss; Alnico: ~7,000\u201310,000 gauss; NdFeB: ~40,000 gauss"
   ],
   "editorial_flags": [
-    "p26: glossophobia bracket — Tom flags own uncertainty",
+    "p26: glossophobia bracket \u2014 Tom flags own uncertainty",
     "p68: Russian environment minister name unrecoverable",
     "p70: J. J. Irani first name captioner garble preserved",
     "p66: student question inaudible"
-  ]
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

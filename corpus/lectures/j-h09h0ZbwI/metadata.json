@@ -15,12 +15,37 @@
   "generated_at": "2026-05-13T05:24:52.893849+00:00",
   "layer2_paragraph_count": 62,
   "spoken_slips_bracketed": [
-    {"paragraph": "p11", "raw": "foraging", "corrected": "forging"},
-    {"paragraph": "p24", "raw": "coil", "corrected": "toil", "note": "ambiguous: possible captioner error or Tom slip"},
-    {"paragraph": "p25", "raw": "defamation processing", "corrected": "deformation processing"},
-    {"paragraph": "p50", "raw": "chromore", "corrected": "chrome ore"},
-    {"paragraph": "p53", "raw": "30 years later", "corrected": "30 years earlier"},
-    {"paragraph": "p60", "raw": "December of 2011", "corrected": "December of 2001"}
+    {
+      "paragraph": "p11",
+      "raw": "foraging",
+      "corrected": "forging"
+    },
+    {
+      "paragraph": "p24",
+      "raw": "coil",
+      "corrected": "toil",
+      "note": "ambiguous: possible captioner error or Tom slip"
+    },
+    {
+      "paragraph": "p25",
+      "raw": "defamation processing",
+      "corrected": "deformation processing"
+    },
+    {
+      "paragraph": "p50",
+      "raw": "chromore",
+      "corrected": "chrome ore"
+    },
+    {
+      "paragraph": "p53",
+      "raw": "30 years later",
+      "corrected": "30 years earlier"
+    },
+    {
+      "paragraph": "p60",
+      "raw": "December of 2011",
+      "corrected": "December of 2001"
+    }
   ],
   "captioner_errors_corrected_silently": [
     "Professor Sadoway (raw: sataway)",
@@ -33,9 +58,18 @@
     "Planck's law (raw: plank's law)"
   ],
   "editor_flags": [
-    {"paragraph": "p41", "issue": "captioner garble 'Fe-Ware parts pots' — referent unclear, marked [?]"},
-    {"paragraph": "p24", "issue": "'coil'/'toil' ambiguity"},
-    {"paragraph": "p29", "issue": "verify Christian Science Monitor cartoon caption wording"}
+    {
+      "paragraph": "p41",
+      "issue": "captioner garble 'Fe-Ware parts pots' \u2014 referent unclear, marked [?]"
+    },
+    {
+      "paragraph": "p24",
+      "issue": "'coil'/'toil' ambiguity"
+    },
+    {
+      "paragraph": "p29",
+      "issue": "verify Christian Science Monitor cartoon caption wording"
+    }
   ],
   "cases_or_examples_mentioned": [
     "Pennzoil refinery, Oil City PA",
@@ -49,9 +83,10 @@
     "Blood diamonds from Angola",
     "Rhodesian chrome embargo",
     "Mesabi Range iron ore",
-    "U.S. steel industry decline (1945 → 1974 → present)",
+    "U.S. steel industry decline (1945 \u2192 1974 \u2192 present)",
     "Kennedy / U.S. Steel price standoff 1962",
     "Bethlehem Steel research labs / nuclear steel-making concept",
     "Tom's World Trade Center collapse article (JOM, 2001)"
-  ]
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

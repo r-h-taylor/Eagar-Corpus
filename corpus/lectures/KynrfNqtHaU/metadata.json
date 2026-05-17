@@ -71,6 +71,7 @@
   "flags_for_editorial_review": [
     "NFPA 780 thickness threshold: captioner produced both '3/8 inch' and '3/16 inch' in same paragraph; normalized to 3/16 per standard.",
     "B31.1 subsection reference at L40:00 may have been '311.32' rather than 'B31.1.2'; bracketed alongside.",
-    "X-15 builder: Tom says 'Bell developed the X-15' — actually North American Aviation built the X-15; Bell built the X-1. Preserved per convention §16 (Tom's genuine misstatement)."
-  ]
+    "X-15 builder: Tom says 'Bell developed the X-15' \u2014 actually North American Aviation built the X-15; Bell built the X-1. Preserved per convention \u00a716 (Tom's genuine misstatement)."
+  ],
+  "course_canonical": "Codes and Standards"
 }

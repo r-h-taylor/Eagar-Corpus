@@ -27,14 +27,35 @@
   "stage_directions_present": true,
   "student_turns_present": true,
   "tom_slips_bracketed": [
-    {"slip": "Ford", "correction": "Forge", "paragraph": "p1"},
-    {"slip": "picture", "correction": "puncture", "paragraph": "p7"}
+    {
+      "slip": "Ford",
+      "correction": "Forge",
+      "paragraph": "p1"
+    },
+    {
+      "slip": "picture",
+      "correction": "puncture",
+      "paragraph": "p7"
+    }
   ],
   "uncertain_readings_flagged": [
-    {"marker": "sound bar", "paragraph": "p1"},
-    {"marker": "really beryllium copper [?]", "paragraph": "p5"},
-    {"marker": "[say no more than]", "paragraph": "p9"},
-    {"marker": "Ceasar [?]", "paragraph": "p13"}
+    {
+      "marker": "sound bar",
+      "paragraph": "p1"
+    },
+    {
+      "marker": "really beryllium copper [?]",
+      "paragraph": "p5"
+    },
+    {
+      "marker": "[say no more than]",
+      "paragraph": "p9"
+    },
+    {
+      "marker": "Ceasar [?]",
+      "paragraph": "p13"
+    }
   ],
-  "notes_for_editor": "Lecture opens mid-thought (continuing pig-iron discussion from a prior section of the same class hour). Heavy captioner garbling in p12 (steel pricing sentence) required reconstruction from context; flagged for editorial register. The Saugus Ironworks aside in p1-p2 is a recurring Eagar teaching case (1630s American iron-making, charcoal/deforestation in England) — likely a candidate for the canonical case index."
+  "notes_for_editor": "Lecture opens mid-thought (continuing pig-iron discussion from a prior section of the same class hour). Heavy captioner garbling in p12 (steel pricing sentence) required reconstruction from context; flagged for editorial register. The Saugus Ironworks aside in p1-p2 is a recurring Eagar teaching case (1630s American iron-making, charcoal/deforestation in England) \u2014 likely a candidate for the canonical case index.",
+  "course_canonical": "Welding Metallurgy"
 }

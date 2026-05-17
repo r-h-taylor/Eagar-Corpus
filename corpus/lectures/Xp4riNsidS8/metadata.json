@@ -38,7 +38,7 @@
     "bracketed_corrections_count": 4,
     "flagged_for_editorial_review": [
       "p14: cube-on-face/cube-on-edge texture notation (Tom said '110' for both)",
-      "p19: c/a ratio given as √3 rather than √(8/3) — possible genuine misstatement",
+      "p19: c/a ratio given as \u221a3 rather than \u221a(8/3) \u2014 possible genuine misstatement",
       "p26-p27: 'Dr. Belmir' co-instructor name spelling uncertain"
     ]
   },
@@ -58,5 +58,6 @@
     "Captain Hood (Tom's high school physics teacher)",
     "Carl (student in class)",
     "Dr. Belmir [?] (apparent co-instructor)"
-  ]
+  ],
+  "course_canonical": "Deformation Processing"
 }

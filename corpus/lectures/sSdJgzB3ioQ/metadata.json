@@ -63,10 +63,11 @@
   "lecture_ends_midsentence": true,
   "section_count_estimate": 5,
   "estimated_section_breaks": [
-    "00:14 — student project topic selection and scheduling",
-    "05:35 — on-site stress relieving and the forging press fatigue crack",
-    "17:48 — Krupp/Wyman Gordon and crank shaft liability",
-    "22:33 — post-weld heat treatment: three reasons",
-    "26:01 — North Andover HIP explosion and fracture mechanics"
-  ]
+    "00:14 \u2014 student project topic selection and scheduling",
+    "05:35 \u2014 on-site stress relieving and the forging press fatigue crack",
+    "17:48 \u2014 Krupp/Wyman Gordon and crank shaft liability",
+    "22:33 \u2014 post-weld heat treatment: three reasons",
+    "26:01 \u2014 North Andover HIP explosion and fracture mechanics"
+  ],
+  "course_canonical": "Welding Metallurgy"
 }

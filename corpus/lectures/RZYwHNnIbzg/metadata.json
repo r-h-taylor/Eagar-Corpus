@@ -59,7 +59,8 @@
     "MIT"
   ],
   "editorial_flags": [
-    "Admiral Fireball identity uncertain — bracketed as [Bruce DeMars?] on first occurrence",
-    "8027 steel — captioner had 827, corrected from context but verification recommended"
-  ]
+    "Admiral Fireball identity uncertain \u2014 bracketed as [Bruce DeMars?] on first occurrence",
+    "8027 steel \u2014 captioner had 827, corrected from context but verification recommended"
+  ],
+  "course_canonical": "Corrosion Cracking and More"
 }

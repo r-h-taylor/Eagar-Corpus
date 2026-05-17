@@ -40,7 +40,7 @@
     "MIT campus steam pipe weeping leak repair",
     "Air Force acoustic-emission test with cracked aircraft",
     "Hertz Fellowship interview (balloon-pressure problem)",
-    "Student's Inconel pipe with cracks — crushing solution",
+    "Student's Inconel pipe with cracks \u2014 crushing solution",
     "Student's cruiser with 5456 superstructure corrosion/fatigue"
   ],
   "companies_referenced": [
@@ -58,15 +58,38 @@
     "Amazon"
   ],
   "alloys_referenced": [
-    "Inconel 100", "Inconel 718", "GT-100", "Udimet 700", "Astroloy", "Martin Marietta 200",
-    "Monel", "cupronickel",
+    "Inconel 100",
+    "Inconel 718",
+    "GT-100",
+    "Udimet 700",
+    "Astroloy",
+    "Martin Marietta 200",
+    "Monel",
+    "cupronickel",
     "Ti-6Al-4V",
-    "1015 steel", "1020 steel", "4340 steel", "A640", "300M",
-    "1100 Al", "2024 Al", "2014 Al", "2219 Al", "3003 Al", "4043 Al", "4047 Al",
-    "5054 Al", "5083 Al", "5454 Al", "5456 Al",
-    "6061 Al", "7075 Al", "8000-series Al-Li", "Al-Sc baseball bat alloy"
+    "1015 steel",
+    "1020 steel",
+    "4340 steel",
+    "A640",
+    "300M",
+    "1100 Al",
+    "2024 Al",
+    "2014 Al",
+    "2219 Al",
+    "3003 Al",
+    "4043 Al",
+    "4047 Al",
+    "5054 Al",
+    "5083 Al",
+    "5454 Al",
+    "5456 Al",
+    "6061 Al",
+    "7075 Al",
+    "8000-series Al-Li",
+    "Al-Sc baseball bat alloy"
   ],
   "stage_directions_count": 3,
   "student_turns_count": 8,
-  "recording_ends_mid_sentence": true
+  "recording_ends_mid_sentence": true,
+  "course_canonical": "Welding Quality"
 }

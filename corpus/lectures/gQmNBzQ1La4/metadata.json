@@ -47,11 +47,27 @@
     "NIST visiting committee anecdote (productivity vs competitiveness)"
   ],
   "tom_slips_bracketed": [
-    {"paragraph": "p31", "spoken": "Gordon Ford", "corrected": "Gordon Forward"},
-    {"paragraph": "p32", "spoken": "Stanford", "corrected": "Princeton", "note": "Krugman is at Princeton, not Stanford"}
+    {
+      "paragraph": "p31",
+      "spoken": "Gordon Ford",
+      "corrected": "Gordon Forward"
+    },
+    {
+      "paragraph": "p32",
+      "spoken": "Stanford",
+      "corrected": "Princeton",
+      "note": "Krugman is at Princeton, not Stanford"
+    }
   ],
   "flagged_for_editor_review": [
-    {"paragraph": "p1", "issue": "Dr. Belmar / Bellman name uncertain; captioner garbled"},
-    {"paragraph": "p22", "issue": "Krivsky surname of AOD-developing Chipman student uncertain; captioner had 'Chris key'"}
-  ]
+    {
+      "paragraph": "p1",
+      "issue": "Dr. Belmar / Bellman name uncertain; captioner garbled"
+    },
+    {
+      "paragraph": "p22",
+      "issue": "Krivsky surname of AOD-developing Chipman student uncertain; captioner had 'Chris key'"
+    }
+  ],
+  "course_canonical": "Materials Selection and Economics"
 }

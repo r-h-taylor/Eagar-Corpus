@@ -34,8 +34,8 @@
     "Joseph Fourier",
     "Irving Langmuir",
     "Wilfred Noel Bond",
-    "Loránd Eötvös",
-    "Grüneisen (referenced via the Grüneisen effect)"
+    "Lor\u00e1nd E\u00f6tv\u00f6s",
+    "Gr\u00fcneisen (referenced via the Gr\u00fcneisen effect)"
   ],
   "cases_mentioned": [
     "Stereolithography (mid-1980s, Texas)",
@@ -51,13 +51,14 @@
     "Japanese 'ceramics fever' (mid-1980s)"
   ],
   "editor_flags": [
-    "p25: 'Tom Frater' — GE aircraft engines materials head, name garbled, needs verification",
-    "p37: 'Howie Tur' — possibly Tom's own published article, garbled",
-    "p37: 'Pahrump, Nevada' — best guess for desert town reference",
-    "p39: 'Ford [Forward]' — may instead be 'forge shop' rather than the Gordon Forward slip pattern",
-    "p32: 'lipton solder' — likely 'lead-tin solder' garbled",
-    "p43: 'Boulder Massachusetts' — no such place; likely Bedford, Boxborough, or similar",
+    "p25: 'Tom Frater' \u2014 GE aircraft engines materials head, name garbled, needs verification",
+    "p37: 'Howie Tur' \u2014 possibly Tom's own published article, garbled",
+    "p37: 'Pahrump, Nevada' \u2014 best guess for desert town reference",
+    "p39: 'Ford [Forward]' \u2014 may instead be 'forge shop' rather than the Gordon Forward slip pattern",
+    "p32: 'lipton solder' \u2014 likely 'lead-tin solder' garbled",
+    "p43: 'Boulder Massachusetts' \u2014 no such place; likely Bedford, Boxborough, or similar",
     "Multiple Saks/Sachs spellings: canonical is Emanuel M. Sachs",
-    "p10: 'Leaders from a Factory' → corrected to 'Leaders for Manufacturing' (LFM program)"
-  ]
+    "p10: 'Leaders from a Factory' \u2192 corrected to 'Leaders for Manufacturing' (LFM program)"
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

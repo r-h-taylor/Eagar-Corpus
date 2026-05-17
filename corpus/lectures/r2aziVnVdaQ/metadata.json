@@ -22,67 +22,148 @@
       "id": "s1",
       "title": "Weld inspection standards: ISO vs. AWS",
       "start_timestamp": "00:02",
-      "layer2_paragraphs": ["p1", "p2", "p3", "p4", "p5", "p6", "p7", "p8", "p9", "p10", "p11"]
+      "layer2_paragraphs": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5",
+        "p6",
+        "p7",
+        "p8",
+        "p9",
+        "p10",
+        "p11"
+      ]
     },
     {
       "id": "s2",
       "title": "Leak before break and the rubber-sealed pressure vessel",
       "start_timestamp": "11:30",
-      "layer2_paragraphs": ["p12", "p13", "p14", "p15", "p16", "p17"]
+      "layer2_paragraphs": [
+        "p12",
+        "p13",
+        "p14",
+        "p15",
+        "p16",
+        "p17"
+      ]
     },
     {
       "id": "s3",
       "title": "Statistics of demand and capacity; the social criterion",
       "start_timestamp": "18:46",
-      "layer2_paragraphs": ["p18", "p19", "p20", "p21", "p22", "p23", "p24", "p25", "p26", "p27", "p28"]
+      "layer2_paragraphs": [
+        "p18",
+        "p19",
+        "p20",
+        "p21",
+        "p22",
+        "p23",
+        "p24",
+        "p25",
+        "p26",
+        "p27",
+        "p28"
+      ]
     },
     {
       "id": "s4",
       "title": "How safety factor erodes with time: the Minneapolis bridge",
       "start_timestamp": "29:14",
-      "layer2_paragraphs": ["p29", "p30", "p31", "p32", "p33", "p34", "p35", "p36", "p37"]
+      "layer2_paragraphs": [
+        "p29",
+        "p30",
+        "p31",
+        "p32",
+        "p33",
+        "p34",
+        "p35",
+        "p36",
+        "p37"
+      ]
     },
     {
       "id": "s5",
       "title": "Helicopter blade reverse-engineering and S-N confidence intervals",
       "start_timestamp": "38:23",
-      "layer2_paragraphs": ["p38", "p39", "p40", "p41", "p42", "p43", "p44", "p45", "p46", "p47", "p48"]
+      "layer2_paragraphs": [
+        "p38",
+        "p39",
+        "p40",
+        "p41",
+        "p42",
+        "p43",
+        "p44",
+        "p45",
+        "p46",
+        "p47",
+        "p48"
+      ]
     }
   ],
   "cases_referenced": [
     {
       "name": "I-35W Mississippi River bridge collapse (Minneapolis, 2007)",
-      "anchor_paragraphs": ["p33", "p35", "p36"],
+      "anchor_paragraphs": [
+        "p33",
+        "p35",
+        "p36"
+      ],
       "frame": "Speaker worked on the failure analysis; uses it as exemplar of how locked bearings, construction load, and hot weather combined to erode the as-designed safety factor over 40 years.",
       "canonical_cluster_id": "PROPOSED: i35w_minneapolis_bridge_collapse"
     },
     {
       "name": "Rubber-sealed pressure vessel circumferential crack",
-      "anchor_paragraphs": ["p12", "p13", "p14", "p15", "p16", "p17"],
+      "anchor_paragraphs": [
+        "p12",
+        "p13",
+        "p14",
+        "p15",
+        "p16",
+        "p17"
+      ],
       "frame": "Factor-of-four pressure vessel where a rubber bottom seal bridged a growing circumferential crack, defeating leak-before-break and ending in overpressure failure.",
       "canonical_cluster_id": "PROPOSED: rubber_sealed_pressure_vessel_lbb_defeat"
     },
     {
       "name": "Helicopter rotor blade reverse-engineering (aerospace IP)",
-      "anchor_paragraphs": ["p38", "p39", "p40", "p41", "p42", "p43", "p44", "p45", "p46", "p47"],
+      "anchor_paragraphs": [
+        "p38",
+        "p39",
+        "p40",
+        "p41",
+        "p42",
+        "p43",
+        "p44",
+        "p45",
+        "p46",
+        "p47"
+      ],
       "frame": "Reverse-engineered helicopter blade with aluminum spar and honeycomb-core composite trailing edge; aluminum alloy substitution required full S-N qualification with confidence intervals.",
       "canonical_cluster_id": "PROPOSED: helicopter_blade_reverse_engineering_aerospace"
     },
     {
       "name": "Honda ATV early production over-design",
-      "anchor_paragraphs": ["p19"],
+      "anchor_paragraphs": [
+        "p19"
+      ],
       "frame": "Used as exemplar of starting over-designed and optimizing down via service history rather than statistical design from scratch.",
       "canonical_cluster_id": "PROPOSED: honda_atv_overdesign_market_penetration"
     },
     {
       "name": "Copper pipe self-sealing pitting corrosion",
-      "anchor_paragraphs": ["p15"],
+      "anchor_paragraphs": [
+        "p15"
+      ],
       "frame": "Hot-water copper pipes with through-thickness pits that self-seal with salts and organics, defeating leak-detection inspection.",
       "canonical_cluster_id": "PROPOSED: copper_pipe_self_sealing_pitting"
     },
     {
       "name": "Longfellow Bridge (Boston)",
-      "anchor_paragraphs": ["p27"],
+      "anchor_paragraphs": [
+        "p27"
+      ],
       "frame": "Local exemplar: hundred-year-old bridge carrying the MBTA Red Line; high exposure justifying conservative inspection and repair.",
       "canonical_cluster_id": "PROPOSED: longfellow_bridge_boston_century_old"
     }
@@ -90,10 +171,11 @@
   "tom_eagar_canon_cases_referenced": [],
   "editorial_flags": [
     "Speaker identity not in transcript; RHT review needed.",
-    "Hurricane name 'Cino' at p26 uncertain — possibly Katrina or another named Gulf storm.",
-    "'stoatic safety factor' at p29 — likely 'static'; flagged [?].",
-    "'tennis direction' at p39 — likely 'tension'; flagged [?].",
-    "'anonym core' silently corrected to 'honeycomb' with bracket — flagged for editor confirmation.",
+    "Hurricane name 'Cino' at p26 uncertain \u2014 possibly Katrina or another named Gulf storm.",
+    "'stoatic safety factor' at p29 \u2014 likely 'static'; flagged [?].",
+    "'tennis direction' at p39 \u2014 likely 'tension'; flagged [?].",
+    "'anonym core' silently corrected to 'honeycomb' with bracket \u2014 flagged for editor confirmation.",
     "Lecture contains no Tom Eagar canonical cases; case_index.md for layer 3 will consist entirely of PROPOSED clusters."
-  ]
+  ],
+  "course_canonical": "Codes and Standards"
 }

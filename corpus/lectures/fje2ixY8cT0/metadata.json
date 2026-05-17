@@ -20,7 +20,7 @@
     "acetic acid and catalyst recovery (rhodium/iridium)",
     "aluminum as canned electricity; China's aluminum capacity expansion",
     "monetary exchange as principal commodity; yen and yuan",
-    "history of materials as economic indicators (food → steel → oil → energy)",
+    "history of materials as economic indicators (food \u2192 steel \u2192 oil \u2192 energy)",
     "energy content per kilogram of metals (Ashby data)",
     "Kennecott / Bingham copper mine and ore concentration",
     "Johnny Slocum's aluminum-water hydrogen generation",
@@ -29,7 +29,7 @@
     "bismuth contamination of recycled steel (lead-free solder problem)",
     "lead contamination of recycled aluminum from Mexican roadside cans",
     "Ashby plots and Granta software",
-    "bird strike testing — Pratt & Whitney vs British (fresh not frozen)",
+    "bird strike testing \u2014 Pratt & Whitney vs British (fresh not frozen)",
     "live chicken vacuum chamber anecdote"
   ],
   "cases_mentioned": [
@@ -38,23 +38,23 @@
     "Kennedy vs US Steel price rollback 1962",
     "Post-WWII US steel dominance (75% world capacity)",
     "French labor law and Japanese rice protectionism",
-    "Japanese yen devaluation 1984–present",
+    "Japanese yen devaluation 1984\u2013present",
     "Chinese yuan / dollar reserves",
     "Bingham Canyon / Kennecott copper mine",
     "Johnny Slocum aluminum hydrogen generation",
-    "Alcoa Tennessee aluminum recycling — lead contamination from Mexican cans",
+    "Alcoa Tennessee aluminum recycling \u2014 lead contamination from Mexican cans",
     "Pratt & Whitney vs British bird strike testing",
     "Live chicken vacuum chamber (Kansas tornado hypothesis)"
   ],
   "recurring_figures": [
     "250 MJ/kg aluminum from bauxite vs 15 MJ/kg recycled",
     "1856 Bessemer converter",
-    "1880 Hall-Héroult process",
+    "1880 Hall-H\u00e9roult process",
     "97% American workforce in agriculture at Revolution",
     "$2 trillion Chinese dollar reserves",
     "240 yen/dollar in 1984",
     "5 trillion tons steel into American economy over 100 years",
-    "70–80% steel recycling rate",
+    "70\u201380% steel recycling rate",
     "10 ppm bismuth ruins steel ingot",
     "7 ppm lead embrittles aluminum"
   ],
@@ -67,7 +67,7 @@
     "Thomas Jefferson",
     "Barack Obama",
     "Charles Martin Hall",
-    "Paul Héroult",
+    "Paul H\u00e9roult",
     "Johnny Slocum",
     "Alex Slocum (referenced as Johnny's dad)",
     "Mike Ashby",
@@ -96,12 +96,25 @@
     "North Dakota"
   ],
   "tom_slips_bracketed": [
-    {"said": "Coke", "meant": "Koch", "paragraph": "p3"},
-    {"said": "Paraguayans", "meant": "Paraguay (likely Brazil/Venezuela)", "paragraph": "p25"},
-    {"said": "Harvard", "meant": "Cambridge", "paragraph": "p36"}
+    {
+      "said": "Coke",
+      "meant": "Koch",
+      "paragraph": "p3"
+    },
+    {
+      "said": "Paraguayans",
+      "meant": "Paraguay (likely Brazil/Venezuela)",
+      "paragraph": "p25"
+    },
+    {
+      "said": "Harvard",
+      "meant": "Cambridge",
+      "paragraph": "p36"
+    }
   ],
   "items_for_editor_review": [
     "Dr. Belar [?] name verification (p31)",
     "Paraguay hydroelectric aluminum reference fact-check (p25)"
-  ]
+  ],
+  "course_canonical": "Materials Selection"
 }

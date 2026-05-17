@@ -70,11 +70,12 @@
     "rubber band (toughness demonstration)"
   ],
   "editorial_flags": [
-    "CRO Malloy may be Rolls-Royce slip — verify",
-    "I-lo (p22) — captioner garble, possibly a number",
-    "Uthoff (p17) — possibly Utah or a proper name",
-    "suit can (p14) — likely Coke/soda can",
-    "Parker is oxidized (p27) — captioner garble",
-    "when I touch your leg open (p25) — captioner garble, possible 'cut your leg open'"
-  ]
+    "CRO Malloy may be Rolls-Royce slip \u2014 verify",
+    "I-lo (p22) \u2014 captioner garble, possibly a number",
+    "Uthoff (p17) \u2014 possibly Utah or a proper name",
+    "suit can (p14) \u2014 likely Coke/soda can",
+    "Parker is oxidized (p27) \u2014 captioner garble",
+    "when I touch your leg open (p25) \u2014 captioner garble, possible 'cut your leg open'"
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

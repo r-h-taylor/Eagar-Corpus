@@ -57,11 +57,12 @@
     "30 ksi vs 50-70 ksi (non-heat-treatable vs heat-treatable aluminum)",
     "Aluminum 5x cost of steel per equivalent volume",
     "$2/lb (auto), $200/lb (aircraft), $20,000/lb (spacecraft)",
-    "40% porosity → 40% strength loss (linear in aluminum)",
+    "40% porosity \u2192 40% strength loss (linear in aluminum)",
     "Aluminum melting 550-660 C vs hydrated oxide 1500-2000 C",
     "55 psi air brake / garden hose pressure",
     "5 psi safe test pressure for oil tanks",
     "100,000 cement truck tanks built",
-    "ASTM x-ray code: $300 (15 years ago) → $2,000 (today)"
-  ]
+    "ASTM x-ray code: $300 (15 years ago) \u2192 $2,000 (today)"
+  ],
+  "course_canonical": "Welding Metallurgy"
 }

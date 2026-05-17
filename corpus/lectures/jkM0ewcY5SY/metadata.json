@@ -15,14 +15,15 @@
   "duration_approx_minutes": 49,
   "speaker": "Brian Holman (guest lecturer; consulting engineer and former colleague of Prof. Eagar)",
   "eagar_present": false,
-  "speaker_notes": "Lecture delivered entirely by Brian Holman in Eagar's absence. Eagar is referenced throughout in the third person; captioner garbles the surname as Eager/Iger/Egret/Igar — all normalized to [Eagar] in layer 2 per convention 9.",
+  "speaker_notes": "Lecture delivered entirely by Brian Holman in Eagar's absence. Eagar is referenced throughout in the third person; captioner garbles the surname as Eager/Iger/Egret/Igar \u2014 all normalized to [Eagar] in layer 2 per convention 9.",
   "layer2_paragraph_count": 71,
   "topic_summary": "Material substitution case studies: refrigerator shelving (metal to plastic), food/beverage containers (glass to polymer), water and gas conveyance (clay to concrete to wood to cast iron to HDPE), domestic plumbing (lead-tin solder to swage), CSST gas tubing and lightning-puncture fires, lithium-ion battery thermal runaway, IGU glass curtain wall failures. Second half: testing and inspection methods (ultrasonic, tensile, Charpy impact, metallurgical mounts, CT crack-growth, magnetic particle, eddy current); rail fatigue and Sperry car inspection; full-scale wire rope test; Holman's master's-thesis work on aluminum foam sandwich structures for Navy topside.",
   "flags": [
-    "Dr. Bellmehra identity uncertain — referenced as following day's lecturer",
-    "Several student questions inaudible — attribution and content flagged",
-    "Captioner garbling of 'fall on the space shuttle' (p71) — intended word unclear",
-    "Captioner garbling of 'plummet Alec slides' (p4) — corrected as 'aluminum [metallic] slides' with bracketed alternative",
-    "Speaker's 'couplet' (p42) likely intended as NDT term 'couplant' — preserved as said"
-  ]
+    "Dr. Bellmehra identity uncertain \u2014 referenced as following day's lecturer",
+    "Several student questions inaudible \u2014 attribution and content flagged",
+    "Captioner garbling of 'fall on the space shuttle' (p71) \u2014 intended word unclear",
+    "Captioner garbling of 'plummet Alec slides' (p4) \u2014 corrected as 'aluminum [metallic] slides' with bracketed alternative",
+    "Speaker's 'couplet' (p42) likely intended as NDT term 'couplant' \u2014 preserved as said"
+  ],
+  "course_canonical": "Materials Selection"
 }

@@ -42,8 +42,9 @@
   ],
   "guest_lecturer_referenced": "Dr. Belmir (next Wednesday, on safety factors)",
   "editor_flags": [
-    "ASME code subscription cost in p43: captioner '112,000' vs. plausible '11,000-12,000' — verify",
-    "Dr. Belmir / Belmar — colleague's name spelling uncertain",
-    "p79 'A106 D26' — standard designation form A106-26 likely intended"
-  ]
+    "ASME code subscription cost in p43: captioner '112,000' vs. plausible '11,000-12,000' \u2014 verify",
+    "Dr. Belmir / Belmar \u2014 colleague's name spelling uncertain",
+    "p79 'A106 D26' \u2014 standard designation form A106-26 likely intended"
+  ],
+  "course_canonical": "Codes and Standards"
 }

@@ -41,10 +41,10 @@
   "figures_referenced": [
     "264 foot-pounds (Charpy hammer energy)",
     "4694 Liberty ships built; 970 with casualties; 24 strength deck fractures; 8 lost; 26 lives lost",
-    "10 ft-lb (1946) → 15 (1950s) → 20 (1960s) → 70 (Alaskan pipeline) Charpy toughness specs",
+    "10 ft-lb (1946) \u2192 15 (1950s) \u2192 20 (1960s) \u2192 70 (Alaskan pipeline) Charpy toughness specs",
     "20.5 ft-lb Sparrows Point plate average",
     "10 in pressure vessel with 0.5 in critical flaw size",
-    "5–10 billion dollars Northridge damage",
+    "5\u201310 billion dollars Northridge damage",
     "steel 1.6 billion tons/year; concrete 4.2 billion tons/year",
     "~10% steel rebar by weight in concrete",
     "metal cost $400/ton vs concrete $20-50/ton"
@@ -55,11 +55,12 @@
     "Charpy (1901)",
     "Alan Griffith (1925)",
     "George Irwin (1946, NRL)",
-    "Alan Wells (TWI, 50s–60s)",
+    "Alan Wells (TWI, 50s\u201360s)",
     "Henry Kaiser",
     "Henry Ford",
     "Wendell W. Wilkening (MIT 1976)",
     "Dr. Belmar (co-instructor)",
     "Brian (co-instructor)"
-  ]
+  ],
+  "course_canonical": "Materials Selection"
 }

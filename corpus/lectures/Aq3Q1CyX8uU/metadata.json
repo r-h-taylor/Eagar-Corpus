@@ -23,7 +23,7 @@
     "Ragnar Holm and electrical contact theory",
     "Touch start and high-frequency arc ignition",
     "Silver-cadmium oxide light switch contacts",
-    "Maecker plasma jet theory and the J×B force",
+    "Maecker plasma jet theory and the J\u00d7B force",
     "Inverter power supplies and pulse-current welding",
     "Variable polarity plasma arc for aluminum",
     "Arc blow and electromagnetic forces in welding",
@@ -67,5 +67,6 @@
     "Nunsen Chai",
     "Vivek Dave"
   ],
-  "notes": "Lecture covers plasma arc physics, arc ignition mechanisms, electromagnetic effects in arcs, and the historical development of heat-flow theory in welding. Tom takes a five-minute break around 38:00. The titanium submarine / DARPA composite workshop digression (p82-p89) is a substantial historical aside Tom returns to from earlier lectures in the series. Lecture ends with a preview of Friday's heat-flow lecture."
+  "notes": "Lecture covers plasma arc physics, arc ignition mechanisms, electromagnetic effects in arcs, and the historical development of heat-flow theory in welding. Tom takes a five-minute break around 38:00. The titanium submarine / DARPA composite workshop digression (p82-p89) is a substantial historical aside Tom returns to from earlier lectures in the series. Lecture ends with a preview of Friday's heat-flow lecture.",
+  "course_canonical": "Fusion Welding"
 }

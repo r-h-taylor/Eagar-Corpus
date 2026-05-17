@@ -5,7 +5,7 @@
   "video_title": "3.371 Deformation Processing - Spring 2012 [1/12]",
   "lecture_number": 1,
   "lecture_in_series_total": 12,
-  "lecture_title": "Introductory lecture — course mechanics, modular teaching, and what makes materials expensive",
+  "lecture_title": "Introductory lecture \u2014 course mechanics, modular teaching, and what makes materials expensive",
   "date_recorded_approx": "2012-02",
   "duration_mmss": "53:58",
   "raw_transcript_sha256": "315740c61b8676c309c96ffbb37a8dd9583e9875738342f328e42ad33118fccf",
@@ -68,8 +68,9 @@
     "[p47] Tom holds up a hammer with cracked plastic handle"
   ],
   "editor_flags": [
-    "p45 'Mike Tanyon' name uncertain — verify",
-    "p32 'course 2N' program designation — verify 2012-era MIT Naval Construction designation",
-    "p19 Boeing $200/lb figure delivered conversationally — confirm industry reference"
-  ]
+    "p45 'Mike Tanyon' name uncertain \u2014 verify",
+    "p32 'course 2N' program designation \u2014 verify 2012-era MIT Naval Construction designation",
+    "p19 Boeing $200/lb figure delivered conversationally \u2014 confirm industry reference"
+  ],
+  "course_canonical": "Deformation Processing"
 }

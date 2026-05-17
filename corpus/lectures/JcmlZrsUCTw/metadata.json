@@ -31,7 +31,7 @@
     "American business culture critique: Kodak, Bethlehem Steel, Japan, France"
   ],
   "cases_referenced": [
-    "EB welding cooling rate study (Tom's student, 10^6 °C/s)",
+    "EB welding cooling rate study (Tom's student, 10^6 \u00b0C/s)",
     "Japanese coal gasification pressure vessels (heavy section EB)",
     "Navy relativistic particle beam weapons program ($0.25B, pre-1992)",
     "Nickel-manganese-aluminum bronze propeller buildup (EB deposition)",
@@ -45,8 +45,9 @@
     "George Eastman / Kodak Park / MIT 1917 financial rescue"
   ],
   "editorial_flags": [
-    "p1: '1,000 deep' weld depth unit ambiguous (microns most plausible) — bracketed [microns] for review",
-    "p18: 'Professor Yoel Fink [Joannopoulos? — see register]' — referent ambiguous between student and advisor; flagged for editor confirmation"
+    "p1: '1,000 deep' weld depth unit ambiguous (microns most plausible) \u2014 bracketed [microns] for review",
+    "p18: 'Professor Yoel Fink [Joannopoulos? \u2014 see register]' \u2014 referent ambiguous between student and advisor; flagged for editor confirmation"
   ],
-  "notes": "Final lecture of the Summer 2013 Fusion Welding series. Audio cuts off mid-sentence at ~52:11 as Tom calls a 5-minute break. The lecture follows Tom's standard pattern of finishing a technical comparison (EB vs laser, point 8 of a list) then drifting into broader industrial-history tirade (Japan, France, Kodak, Bethlehem Steel)."
+  "notes": "Final lecture of the Summer 2013 Fusion Welding series. Audio cuts off mid-sentence at ~52:11 as Tom calls a 5-minute break. The lecture follows Tom's standard pattern of finishing a technical comparison (EB vs laser, point 8 of a list) then drifting into broader industrial-history tirade (Japan, France, Kodak, Bethlehem Steel).",
+  "course_canonical": "Fusion Welding"
 }

@@ -32,7 +32,8 @@
     "20,000 psi argon (service pressure)",
     "1000-2000 psi (room-temperature fill pressure)",
     "75% reduction in strength from hydrogen",
-    "1800-2000°F (service temperature range)",
+    "1800-2000\u00b0F (service temperature range)",
     "1982 (era of original design, pre-modern FEA computing)"
-  ]
+  ],
+  "course_canonical": "Welding Metallurgy"
 }

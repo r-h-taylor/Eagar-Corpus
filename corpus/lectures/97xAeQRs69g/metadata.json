@@ -57,8 +57,9 @@
     "Boston Navy Yard chrome-moly tube welding"
   ],
   "flags_for_editorial_register": [
-    "p4: 'panel' likely tantalum — inferred",
-    "p12: 'Rocky class' — unclear referent",
+    "p4: 'panel' likely tantalum \u2014 inferred",
+    "p12: 'Rocky class' \u2014 unclear referent",
     "p13: '$118 billion' arithmetic possibly slip for $18 billion"
-  ]
+  ],
+  "course_canonical": "Welding Quality"
 }

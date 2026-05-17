@@ -49,7 +49,11 @@
   ],
   "stage_business_present": false,
   "student_questions_present": true,
-  "student_question_paragraphs": ["p20", "p27"],
+  "student_question_paragraphs": [
+    "p20",
+    "p27"
+  ],
   "lecture_ends_mid_topic": true,
-  "continues_in_next_lecture": true
+  "continues_in_next_lecture": true,
+  "course_canonical": "Welding Quality"
 }

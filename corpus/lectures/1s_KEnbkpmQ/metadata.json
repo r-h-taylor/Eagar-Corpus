@@ -17,7 +17,7 @@
   "duration_covered_minutes": 37,
   "primary_topics": [
     "friction stir welding history and limitations",
-    "titanium welding microstructures (alpha plate, Widmanstätten, basket weave)",
+    "titanium welding microstructures (alpha plate, Widmanst\u00e4tten, basket weave)",
     "titanium weld shielding gas cleanliness (dew point, color acceptance, US Navy spec)",
     "Engelhard / Boeing 747-400 catalytic converter case",
     "GE Lynn spot welding adaptive control / titanium electron beam welding case",
@@ -54,5 +54,6 @@
   ],
   "tom_slips_bracketed": 1,
   "captioner_corrections_silent": 38,
-  "section_count_proposed_for_layer3": 6
+  "section_count_proposed_for_layer3": 6,
+  "course_canonical": "Welding Quality"
 }

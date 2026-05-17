@@ -10,7 +10,10 @@
   "raw_transcript_line_count": 1139,
   "raw_transcript_word_count": 9006,
   "layer2_paragraph_count": 46,
-  "layer2_timestamp_range": ["00:00", "50:48"],
+  "layer2_timestamp_range": [
+    "00:00",
+    "50:48"
+  ],
   "pipeline_version": "2.0",
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-11T19:43:08.099285+00:00",
@@ -34,7 +37,7 @@
   ],
   "people_referenced": [
     "Francis Amasa Walker",
-    "Theodore von Kármán",
+    "Theodore von K\u00e1rm\u00e1n",
     "Drew Faust",
     "Charles Stark Draper",
     "John Wulff",
@@ -59,7 +62,7 @@
     "Antoine Allanore",
     "Alexander Slocum",
     "Michael DeBakey",
-    "Wilhelm Röntgen",
+    "Wilhelm R\u00f6ntgen",
     "Cyrus McCormick",
     "Barry Bonds",
     "Donald Trump",
@@ -97,5 +100,6 @@
     "ASME",
     "IEEE"
   ],
-  "editorial_flags_count": 7
+  "editorial_flags_count": 7,
+  "course_canonical": "What is Engineering"
 }

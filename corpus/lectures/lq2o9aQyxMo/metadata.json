@@ -44,12 +44,13 @@
     {
       "paragraph": "p36",
       "issue": "Tom attributes methanol-producing metabolism to polyethylene glycol; the metabolic pathway he describes is in fact ethylene glycol's. PEG is not significantly metabolized.",
-      "disposition": "preserved per constitutional §16; consider layer 3 footnote"
+      "disposition": "preserved per constitutional \u00a716; consider layer 3 footnote"
     },
     {
       "paragraph": "p46",
       "issue": "Tom mentions 'F20' and self-questions 'is that the Raptor?' The Raptor is F-22; F-20 was the Northrop Tigershark. Tom's uncertainty is on tape.",
       "disposition": "preserved verbatim with Tom's self-question; not bracketed"
     }
-  ]
+  ],
+  "course_canonical": "Solid State Welding"
 }

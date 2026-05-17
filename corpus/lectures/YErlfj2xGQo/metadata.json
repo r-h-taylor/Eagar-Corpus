@@ -54,12 +54,12 @@
   ],
   "stories_told": [
     "Blackhawk tail rotor washer SCC failure investigation",
-    "Bethlehem Steel summer 1975 — steelworkers shoveling hot slag",
+    "Bethlehem Steel summer 1975 \u2014 steelworkers shoveling hot slag",
     "Backofen's pocket-of-Valium advice; Marblehead house sale; New Hampshire tree farm and antiques sideline",
     "Virginia Beach postman summer job (Vietnam-era)",
-    "Naval Air Rework Facility plus drugstore clerk — 80-hour weeks",
-    "Amtrak trolley wire arbitration — fraud against federal government, FBI raid",
-    "Stamixco static mixer puzzle — blue resin migrating to outside",
+    "Naval Air Rework Facility plus drugstore clerk \u2014 80-hour weeks",
+    "Amtrak trolley wire arbitration \u2014 fraud against federal government, FBI raid",
+    "Stamixco static mixer puzzle \u2014 blue resin migrating to outside",
     "Jim Melcher / atomistic-vs-circuit thinking; chemical engineer boundary-layer thinking"
   ],
   "physical_samples_shown": [
@@ -67,5 +67,6 @@
     "Two decks of cards with rubber bands (shear demonstration)",
     "Trolley wire sample (Phelps Dodge superfine grain copper-silver)",
     "Tensile bars (referenced as previously circulated)"
-  ]
+  ],
+  "course_canonical": "Deformation Processing"
 }

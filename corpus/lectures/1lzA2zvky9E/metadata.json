@@ -34,7 +34,12 @@
     "Edwin Drake (Titusville oil discovery, 1857)",
     "Mark [Edwards] (Virginia Tech; Flint whistleblower)"
   ],
-  "billion_ton_club": ["stone (53 Bt/yr)", "concrete (4 Bt/yr)", "engineered wood", "steel (1.6 Bt/yr)"],
+  "billion_ton_club": [
+    "stone (53 Bt/yr)",
+    "concrete (4 Bt/yr)",
+    "engineered wood",
+    "steel (1.6 Bt/yr)"
+  ],
   "externality_taxonomy_introduced": [
     "economic (rare earths, EPA Superfund / legacy costs)",
     "political (rare-earth supply, Rhodesian chromite)",
@@ -44,8 +49,9 @@
     "cultural (gold)"
   ],
   "editorial_flags": [
-    "p37: Tom says 'lead' when context is arsenic — bracketed as spoken slip",
-    "p38: Toyota/sewing-machines almost certainly Toyoda/looms — preserved without bracket, flagged for review",
-    "p47: guest lecturer name 'Simone Belmar' uncertain — captioner garble flagged"
-  ]
+    "p37: Tom says 'lead' when context is arsenic \u2014 bracketed as spoken slip",
+    "p38: Toyota/sewing-machines almost certainly Toyoda/looms \u2014 preserved without bracket, flagged for review",
+    "p47: guest lecturer name 'Simone Belmar' uncertain \u2014 captioner garble flagged"
+  ],
+  "course_canonical": "Materials Selection and Economics"
 }

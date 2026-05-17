@@ -46,18 +46,19 @@
     "Tom's own assistant-professor aluminum demonstration (corroded after a year)"
   ],
   "figures_referenced": [
-    "thermal expansion table: 1 to 300 × 10⁻⁶/K range across materials",
-    "0.16× diameter ratio for bimodal sphere packing",
+    "thermal expansion table: 1 to 300 \u00d7 10\u207b\u2076/K range across materials",
+    "0.16\u00d7 diameter ratio for bimodal sphere packing",
     "183 C lead-tin eutectic",
     "182 C oxalic acid boiling point",
     "450 C soldering/brazing boundary",
     "6% industry rework rate of thumb",
-    "log-scale repair cost: ~$1 pre-solder → ~$10 post-solder → ~$50 systems test → ~$400 field repair",
+    "log-scale repair cost: ~$1 pre-solder \u2192 ~$10 post-solder \u2192 ~$50 systems test \u2192 ~$400 field repair",
     "6 weeks (Asia) vs 3-5 days (Boynton Beach) pager delivery"
   ],
   "tom_slips": [],
   "captioner_flags": [
-    "p1: 'tungsten lium' — likely 'tellurium' but uncertain; left as '[tellurium?]'"
+    "p1: 'tungsten lium' \u2014 likely 'tellurium' but uncertain; left as '[tellurium?]'"
   ],
-  "notes": "Lecture covers wrap-up of dissimilar metal thermal expansion, transitions through wetting/flux theory with three classic failure modes (oxalic acid, glucose, abietic acid), digresses memorably into rosin-baked potatoes and Texas Roadhouse, then closes with two operations-research case studies (Motorola pager plant, Ford Mustang plant) illustrating that the 6% industry rework rate was self-fulfilling. Lecture ends with 'see you tomorrow' — part of a tightly serialized sequence."
+  "notes": "Lecture covers wrap-up of dissimilar metal thermal expansion, transitions through wetting/flux theory with three classic failure modes (oxalic acid, glucose, abietic acid), digresses memorably into rosin-baked potatoes and Texas Roadhouse, then closes with two operations-research case studies (Motorola pager plant, Ford Mustang plant) illustrating that the 6% industry rework rate was self-fulfilling. Lecture ends with 'see you tomorrow' \u2014 part of a tightly serialized sequence.",
+  "course_canonical": "Solid State Welding"
 }

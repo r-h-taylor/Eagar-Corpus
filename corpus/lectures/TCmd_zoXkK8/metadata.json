@@ -15,27 +15,48 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-11T21:21:56.990942+00:00",
   "tom_slips_bracketed": [
-    {"raw": "Dylan", "correction": "Dillon", "paragraph": "p2", "note": "C.P. Dillon, NACE author"}
+    {
+      "raw": "Dylan",
+      "correction": "Dillon",
+      "paragraph": "p2",
+      "note": "C.P. Dillon, NACE author"
+    }
   ],
   "flagged_for_editorial_register": [
-    {"paragraph": "p7", "issue": "Peter Bridenbaugh surname reconstruction from captioner 'bball' — verify"},
-    {"paragraph": "p8", "issue": "Grand Coulee Dam reconstruction from captioner 'Gran Dam' — verify"},
-    {"paragraph": "p12", "issue": "Tom says 'Whitehorse in the UK' — Whitehorse is in Yukon, Canada; factual error preserved per convention §16"},
-    {"paragraph": "p14", "issue": "'Professor Sway' identity uncertain — possibly Soiffer, Saway, or similar"},
-    {"paragraph": "p14", "issue": "'Mexicali airline' possibly Mexicana Airlines; ambiguous"}
+    {
+      "paragraph": "p7",
+      "issue": "Peter Bridenbaugh surname reconstruction from captioner 'bball' \u2014 verify"
+    },
+    {
+      "paragraph": "p8",
+      "issue": "Grand Coulee Dam reconstruction from captioner 'Gran Dam' \u2014 verify"
+    },
+    {
+      "paragraph": "p12",
+      "issue": "Tom says 'Whitehorse in the UK' \u2014 Whitehorse is in Yukon, Canada; factual error preserved per convention \u00a716"
+    },
+    {
+      "paragraph": "p14",
+      "issue": "'Professor Sway' identity uncertain \u2014 possibly Soiffer, Saway, or similar"
+    },
+    {
+      "paragraph": "p14",
+      "issue": "'Mexicali airline' possibly Mexicana Airlines; ambiguous"
+    }
   ],
   "captioner_error_patterns": [
-    "ships → chips (recurring)",
-    "Ashby → Ash/Ashby variants",
-    "gigajoules → gigles/G",
-    "tarnish → tares/charge/carnish",
-    "turbine → turban",
-    "leapfrogged → Lea frog",
-    "Ladies' room → L's room",
-    "minesweepers → mind sweepers",
-    "platinum → IR PL (partial)",
-    "beryllium → brillium",
-    "cerium → cium"
+    "ships \u2192 chips (recurring)",
+    "Ashby \u2192 Ash/Ashby variants",
+    "gigajoules \u2192 gigles/G",
+    "tarnish \u2192 tares/charge/carnish",
+    "turbine \u2192 turban",
+    "leapfrogged \u2192 Lea frog",
+    "Ladies' room \u2192 L's room",
+    "minesweepers \u2192 mind sweepers",
+    "platinum \u2192 IR PL (partial)",
+    "beryllium \u2192 brillium",
+    "cerium \u2192 cium"
   ],
-  "notes": "Section 1 of multi-section lecture. Layer 2 covers 01:12-15:16, ending at Tom's break announcement. Subsequent sections to be processed separately."
+  "notes": "Section 1 of multi-section lecture. Layer 2 covers 01:12-15:16, ending at Tom's break announcement. Subsequent sections to be processed separately.",
+  "course_canonical": "Corrosion Cracking and More"
 }

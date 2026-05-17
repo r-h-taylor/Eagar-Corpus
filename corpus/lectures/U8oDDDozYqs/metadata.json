@@ -55,18 +55,19 @@
     },
     {
       "paragraph": "p24",
-      "issue": "'911 department CMS' — captioner garble or Tom slip; likely course 22 (NSE) or DMSE reference",
+      "issue": "'911 department CMS' \u2014 captioner garble or Tom slip; likely course 22 (NSE) or DMSE reference",
       "disposition": "rendered as '911 [course 22] department, CMSE [DMSE]'; flag for editor review"
     },
     {
       "paragraph": "p44",
-      "issue": "Tom states paraffin formula as 'C2N H2N+2' — incorrect (should be CnH2n+2)",
+      "issue": "Tom states paraffin formula as 'C2N H2N+2' \u2014 incorrect (should be CnH2n+2)",
       "disposition": "preserve as Tom said it; footnote in layer 3 only if misleading"
     },
     {
       "paragraph": "p72",
-      "issue": "'Catherine Gebbie' — likely Katharine Gebbie of NIST",
+      "issue": "'Catherine Gebbie' \u2014 likely Katharine Gebbie of NIST",
       "disposition": "spelling preserved as captioned; may normalize in layer 3"
     }
-  ]
+  ],
+  "course_canonical": "Codes and Standards"
 }

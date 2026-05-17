@@ -48,7 +48,7 @@
       "type": "industry anecdote / consulting story"
     },
     {
-      "name": "Blisk weight cascade (1 lb disc → 20 lb engine → 200 lb aircraft)",
+      "name": "Blisk weight cascade (1 lb disc \u2192 20 lb engine \u2192 200 lb aircraft)",
       "anchor": "p21-p22",
       "type": "framing economics"
     },
@@ -58,7 +58,7 @@
       "type": "technical / historical"
     },
     {
-      "name": "Etruscan gold earring (c. 600 BC) — tin-copper-gold TLP",
+      "name": "Etruscan gold earring (c. 600 BC) \u2014 tin-copper-gold TLP",
       "anchor": "p31",
       "type": "historical case"
     },
@@ -68,17 +68,17 @@
       "type": "industry / legal anecdote"
     },
     {
-      "name": "King Tut's dagger (c. 2500 BC) — possible TLP joining",
+      "name": "King Tut's dagger (c. 2500 BC) \u2014 possible TLP joining",
       "anchor": "p37",
       "type": "historical case"
     },
     {
-      "name": "Varian crossed-field amplifier — gold-nickel braze, Ni3Mo intermetallic failure",
+      "name": "Varian crossed-field amplifier \u2014 gold-nickel braze, Ni3Mo intermetallic failure",
       "anchor": "p38-p51",
       "type": "consulting case"
     },
     {
-      "name": "Raytheon Navy nuclear submarine transformer — wrong solder TLP recovery",
+      "name": "Raytheon Navy nuclear submarine transformer \u2014 wrong solder TLP recovery",
       "anchor": "p52-p59",
       "type": "consulting case"
     },
@@ -93,7 +93,7 @@
     "Bill Owczarski (Ozarski in transcript)",
     "Dia Polonis (D. Paulonis?)",
     "Kim Clark",
-    "Don Saturday (name needs verification — possibly Satterthwaite)",
+    "Don Saturday (name needs verification \u2014 possibly Satterthwaite)",
     "Dr. Bellemare (Belmar in transcript)",
     "Tom Eagar (self-reference)"
   ],
@@ -113,8 +113,9 @@
   ],
   "notes": [
     "Two suspected slip-of-the-tongue or captioner-garble proper nouns ('Don Saturday', 'Dr. Belmar') flagged for editor verification.",
-    "'Ozarski' vs canonical 'Owczarski' — bracketed convention §9 applied.",
+    "'Ozarski' vs canonical 'Owczarski' \u2014 bracketed convention \u00a79 applied.",
     "'Wall culminate' corrected silently to 'Wall Colmonoy' (industrial nickel brazing alloy supplier).",
     "Captioner consistently rendered 'tin' as '10' in the Raytheon section; corrected silently where unambiguous, preserved where Tom's own self-correction is mid-delivery."
-  ]
+  ],
+  "course_canonical": "Solid State Welding"
 }

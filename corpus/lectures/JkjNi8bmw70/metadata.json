@@ -57,7 +57,7 @@
     "William Walker",
     "Arthur Amos Noyes",
     "Robert Millikan",
-    "Theodore von Kármán"
+    "Theodore von K\u00e1rm\u00e1n"
   ],
   "institutions_mentioned": [
     "Boeing",
@@ -65,7 +65,7 @@
     "Harvard",
     "Harvard Business School",
     "Sloan School of Management",
-    "École Polytechnique",
+    "\u00c9cole Polytechnique",
     "West Point",
     "US Army Corps of Engineers",
     "Rensselaer Polytechnic Institute",
@@ -84,7 +84,8 @@
     "Endicott House"
   ],
   "flags_for_editorial_review": [
-    "p21 Morrill misattributed to Illinois (was actually from Vermont) — Tom factual misstatement",
-    "p41 'forty and inferior substitute' may be 'feeble' in the actual Walker quote — possible captioner garble or Tom variant reading"
-  ]
+    "p21 Morrill misattributed to Illinois (was actually from Vermont) \u2014 Tom factual misstatement",
+    "p41 'forty and inferior substitute' may be 'feeble' in the actual Walker quote \u2014 possible captioner garble or Tom variant reading"
+  ],
+  "course_canonical": "What is Engineering"
 }

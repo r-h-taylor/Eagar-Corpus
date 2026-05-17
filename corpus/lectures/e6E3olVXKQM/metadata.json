@@ -58,10 +58,20 @@
   ],
   "stage_directions_count": 1,
   "tom_slips_bracketed": [
-    {"as_spoken": "Steve Gideon", "correction": "Gedeon", "first_paragraph": "p3"},
-    {"as_spoken": "Prooftstform", "correction": "Prüfstand?", "first_paragraph": "p33", "uncertain": true}
+    {
+      "as_spoken": "Steve Gideon",
+      "correction": "Gedeon",
+      "first_paragraph": "p3"
+    },
+    {
+      "as_spoken": "Prooftstform",
+      "correction": "Pr\u00fcfstand?",
+      "first_paragraph": "p33",
+      "uncertain": true
+    }
   ],
   "captioner_corrections_silent_count": 25,
   "ends_mid_story": true,
-  "ending_note": "Farberware case concludes mid-explanation; continuation expected in lecture 17."
+  "ending_note": "Farberware case concludes mid-explanation; continuation expected in lecture 17.",
+  "course_canonical": "Corrosion Cracking and More"
 }

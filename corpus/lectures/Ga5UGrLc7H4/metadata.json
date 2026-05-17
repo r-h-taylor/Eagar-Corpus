@@ -68,10 +68,11 @@
   "stage_directions_count": 1,
   "student_turns_count": 2,
   "tom_self_corrections_notable": [
-    "Bingham 'city' → 'Canyon' (p16)",
-    "'kilowatts' → 'kilovolts' (p36)",
-    "Stata Center → 'the new nanotechnology building' (p42)"
+    "Bingham 'city' \u2192 'Canyon' (p16)",
+    "'kilowatts' \u2192 'kilovolts' (p36)",
+    "Stata Center \u2192 'the new nanotechnology building' (p42)"
   ],
   "editorial_flags_count": 6,
-  "notes": "Lecture covers Spring 2016 §5. Tom is teaching solo today, Dr. Belmar takes Thursday. Tom references being in Dallas for part of next week. Tom mentions rebuilding his ~80-year-old house, replacing cast iron sewer pipes with plastic. The lecture closes with a forward pointer to packaging materials (next session). Several captioner garbles around proper names (notably the 'Sik Ellie' reference and the closing student name) flagged for editorial review."
+  "notes": "Lecture covers Spring 2016 \u00a75. Tom is teaching solo today, Dr. Belmar takes Thursday. Tom references being in Dallas for part of next week. Tom mentions rebuilding his ~80-year-old house, replacing cast iron sewer pipes with plastic. The lecture closes with a forward pointer to packaging materials (next session). Several captioner garbles around proper names (notably the 'Sik Ellie' reference and the closing student name) flagged for editorial review.",
+  "course_canonical": "Structural Materials Selection"
 }

@@ -13,7 +13,10 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T05:32:01.941320+00:00",
   "layer2_paragraph_count": 60,
-  "layer2_timestamp_range": ["00:02", "48:49"],
+  "layer2_timestamp_range": [
+    "00:02",
+    "48:49"
+  ],
   "approximate_duration_minutes": 49,
   "primary_topics": [
     "cost as the number one driver in materials selection",
@@ -35,7 +38,7 @@
     "95% of metal made is iron/steel",
     "steel recycled at 70-80%, aluminum at 50-60%",
     "materials are ~10% of product cost; processing ~90%",
-    "factor-of-2 cost reduction → factor-of-4 volume increase (Westbrook slope)"
+    "factor-of-2 cost reduction \u2192 factor-of-4 volume increase (Westbrook slope)"
   ],
   "people_referenced": [
     "Lord Kelvin",
@@ -63,5 +66,6 @@
     "Westbrook 1962 materials usage plot",
     "'The Future of Metals' (Eagar 1991) handout",
     "Materials Research to Meet 21st Century Defense Needs (NRC report) handout"
-  ]
+  ],
+  "course_canonical": "Structural Materials Selection"
 }

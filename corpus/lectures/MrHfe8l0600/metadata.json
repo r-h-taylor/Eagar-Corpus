@@ -15,7 +15,7 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-11T21:55:20.131542+00:00",
   "co_instructors_mentioned": [
-    "Simone Belmar [name spelling unverified — possibly Belmonte]",
+    "Simone Belmar [name spelling unverified \u2014 possibly Belmonte]",
     "Brian Holman (videographer/lecturer)"
   ],
   "module_instructors_mentioned": [
@@ -26,29 +26,30 @@
     "Quantum mechanics 8.11 exam (Tom's undergraduate epiphany about lecture key-points)",
     "Aluminum can paper (LGO/Alcoa student, ~1992)",
     "Mars colonization economics ($10,000/lb payload-to-orbit)",
-    "Space Shuttle cost overrun ($5K→$1K target vs. $40K actual per pound)",
-    "Electrically conductive polymers (polyacetylene) vs. copper — specific vs. absolute conductivity",
+    "Space Shuttle cost overrun ($5K\u2192$1K target vs. $40K actual per pound)",
+    "Electrically conductive polymers (polyacetylene) vs. copper \u2014 specific vs. absolute conductivity",
     "Dysprosium-iron-boron magnets in electric vehicle motors",
     "3D metal printing economics ($10,000/lb fabricated titanium)",
     "GE acquisition of Concept Laser (~$400M)",
-    "Unnamed MIT-affiliated 3D printing startup ($215M raise — likely Desktop Metal)",
+    "Unnamed MIT-affiliated 3D printing startup ($215M raise \u2014 likely Desktop Metal)",
     "World Trade Center steel melting article (Eagar & Musso, JOM 2001)",
     "Edward Tufte one-day course / Cognitive Style of PowerPoint",
     "Lou Gerstner turning off PowerPoint at IBM"
   ],
   "figures_referenced": [
-    "$5,000/lb → $1,000/lb target → $40,000/lb actual (Space Shuttle payload cost)",
+    "$5,000/lb \u2192 $1,000/lb target \u2192 $40,000/lb actual (Space Shuttle payload cost)",
     "$10,000/lb (3D printed titanium fabricated cost, 2017)",
     "$2/lb (value of weight saved in automotive)",
     "60% conductivity, 33% density (aluminum vs. copper)",
-    "140°F Curie temperature (NdFeB), 180-190°F (DyFeB)",
+    "140\u00b0F Curie temperature (NdFeB), 180-190\u00b0F (DyFeB)",
     "240-mile range (Tom's 2017 EVs)"
   ],
   "flags_for_editor": [
-    "Verify spelling of co-lecturer 'Simone Belmar' — possibly Belmonte",
-    "Verify Boston law firm name 'Climbing and Lyons' — captioner garbling",
-    "Vera Kistiakowsky's father Nobel claim — likely Tom's slip (George B. Kistiakowsky was Harvard chemistry, no Nobel)",
-    "'Sir Francis Bacon's copy of Newton's Principia' — chronological impossibility; bracketed [Isaac Newton's] as best-guess correction",
-    "Confirm Desktop Metal as the unnamed $215M startup (if naming desired in layer 3 — Tom deliberately did not name it)"
-  ]
+    "Verify spelling of co-lecturer 'Simone Belmar' \u2014 possibly Belmonte",
+    "Verify Boston law firm name 'Climbing and Lyons' \u2014 captioner garbling",
+    "Vera Kistiakowsky's father Nobel claim \u2014 likely Tom's slip (George B. Kistiakowsky was Harvard chemistry, no Nobel)",
+    "'Sir Francis Bacon's copy of Newton's Principia' \u2014 chronological impossibility; bracketed [Isaac Newton's] as best-guess correction",
+    "Confirm Desktop Metal as the unnamed $215M startup (if naming desired in layer 3 \u2014 Tom deliberately did not name it)"
+  ],
+  "course_canonical": "Materials Selection and Economics"
 }

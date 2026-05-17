@@ -20,7 +20,7 @@
     "cathodic protection of pipelines and ships",
     "Pourbaix diagrams (aqueous and gaseous)",
     "technetium and medical stress tests",
-    "titanium, tantalum, niobium, zirconium — protective oxide skins",
+    "titanium, tantalum, niobium, zirconium \u2014 protective oxide skins",
     "anhydrous ammonia stress corrosion cracking of titanium",
     "gold theft anecdotes (Attleboro and South Africa)"
   ],
@@ -41,5 +41,6 @@
   "pipeline_version": "2.0",
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T17:02:55.999748+00:00",
-  "editorial_notes": "Heavy captioner garbling on proper nouns (Pourbaix→forbay/quarterback, Cebelcor→civil war, tantalum→talon, Attleboro→algebra, Port Hueneme→port fondue me, H.C. Starck→a.c. stark). All silently corrected per convention 9/10. Multiple flags for editorial review on uncertain reconstructions — see transformation log."
+  "editorial_notes": "Heavy captioner garbling on proper nouns (Pourbaix\u2192forbay/quarterback, Cebelcor\u2192civil war, tantalum\u2192talon, Attleboro\u2192algebra, Port Hueneme\u2192port fondue me, H.C. Starck\u2192a.c. stark). All silently corrected per convention 9/10. Multiple flags for editorial review on uncertain reconstructions \u2014 see transformation log.",
+  "course_canonical": "Corrosion Cracking and More"
 }
