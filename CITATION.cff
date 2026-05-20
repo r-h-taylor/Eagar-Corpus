@@ -1,16 +1,16 @@
 cff-version: 1.2.0
 message: "If you use this corpus, please cite it as below."
-title: "The Eagar Corpus: a three-layer archive of the recorded teaching of Thomas W. Eagar (MIT, 2011-2022)"
+title: "The Eagar Corpus: the recorded teaching of Thomas W. Eagar (MIT, 2011-2022)"
 authors:
   - family-names: Taylor
     given-names: Richard H.
-    email: r_taylor@outlook.com
+    email: richard.taylor@duke.edu
 type: dataset
-version: 1.0.1
-date-released: 2026-05-15
+version: 1.0.2
+date-released: 2026-05-19
 license: CC-BY-4.0
 repository-code: "https://github.com/r-h-taylor/Eagar-Corpus"
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.20226049
-    description: "Zenodo deposit, v1.0.0"
+    value: 10.5281/zenodo.20226048
+    description: "Concept DOI (all versions)"
