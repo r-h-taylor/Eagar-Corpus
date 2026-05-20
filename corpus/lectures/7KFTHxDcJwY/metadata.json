@@ -103,5 +103,7 @@
     "The captioner badly garbled the Navy acronyms at the lecture open; all corrections logged. Flag for editorial review whether 'SS Manhattan' at p96 is the correct ship name.",
     "Closing administrative beat (p106, 'Kathleen, you got to figure out...') cuts in layer 3."
   ],
-  "course_canonical": "Codes and Standards"
+  "course_canonical": "Codes and Standards",
+  "course_module": "Codes and Standards",
+  "corpus_id": "CS_Su2012_05"
 }

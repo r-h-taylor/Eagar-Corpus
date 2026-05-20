@@ -64,5 +64,7 @@
     "p21: Student question inaudible in raw transcript; attribution and content inferred from Tom's response.",
     "Lycoming bracketing: treated as captioner error but bracketed for transparency given recurrence. Reviewer to confirm preferred convention."
   ],
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_S2014_26"
 }

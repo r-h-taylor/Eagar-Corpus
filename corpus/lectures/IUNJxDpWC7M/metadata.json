@@ -65,5 +65,7 @@
     "L259 '2 24 or 36 inch' \u2014 captioner garbling of pipe diameter range, preserved as ambiguous",
     "L750 '40,000 or even 80,000' \u2014 unit dropped by captioner, bracketed clarification added"
   ],
-  "course_canonical": "Corrosion Cracking and More"
+  "course_canonical": "Corrosion Cracking and More",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_06"
 }

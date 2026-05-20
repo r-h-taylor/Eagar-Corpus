@@ -60,5 +60,7 @@
   ],
   "captioner_garbling_severity": "high",
   "notes": "Heavy student-voice content (paragraphs p11, p13, p14, p16, p18) is preserved as captioned with light punctuation only. Multiple proper-noun reconstructions are flagged as uncertain in the transformation log and should be reviewed by the editor.",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2015_03"
 }

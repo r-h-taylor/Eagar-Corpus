@@ -53,5 +53,7 @@
     "Student attributions in p29-p31 are unattributed \u2014 single student or multiple?",
     "p17 extrusion demonstration: captioner garbled physical-business speech; rendering preserves the garble. Consider stage direction in layer 3."
   ],
-  "course_canonical": "Deformation Processing"
+  "course_canonical": "Deformation Processing",
+  "course_module": "Deformation Processing",
+  "corpus_id": "DP_S2012_06"
 }

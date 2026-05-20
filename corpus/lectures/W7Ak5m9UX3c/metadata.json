@@ -43,5 +43,7 @@
     "for all umes (possibly 'for all you MEs')"
   ],
   "notes": "Short lecture segment (~9 minutes) covering three levels of preheat (>50\u00b0F, 100-300\u00b0F, >300\u00b0F) and the rationale for each in terms of moisture removal, hydrogen diffusion, and tempering. Tom introduces his own Venn diagram framework (stress \u00d7 hardness \u00d7 hydrogen) and notes this explanation is original to him. Session ends with promise to continue preheat/post-heat next day.",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_S2014_13"
 }

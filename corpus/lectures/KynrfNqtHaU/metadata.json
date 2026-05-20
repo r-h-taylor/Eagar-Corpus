@@ -73,5 +73,7 @@
     "B31.1 subsection reference at L40:00 may have been '311.32' rather than 'B31.1.2'; bracketed alongside.",
     "X-15 builder: Tom says 'Bell developed the X-15' \u2014 actually North American Aviation built the X-15; Bell built the X-1. Preserved per convention \u00a716 (Tom's genuine misstatement)."
   ],
-  "course_canonical": "Codes and Standards"
+  "course_canonical": "Codes and Standards",
+  "course_module": "Codes and Standards",
+  "corpus_id": "CS_F2012_05"
 }

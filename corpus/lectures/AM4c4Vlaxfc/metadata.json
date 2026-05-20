@@ -73,5 +73,7 @@
   "stage_directions_count": 3,
   "captioner_quality": "poor_in_second_half",
   "notes": "Captioner quality degrades substantially from approximately p21 onward (the energy-spectrum discussion through the Concorde anecdote). Layer 3 will require significant editorial judgment in these stretches. Several anecdotes (Concorde flight, ASTM intro) have garbled syntax where Tom's thread is recoverable but individual sentences need reconstruction. Tom factual slip noted: 'Planck's constant times the wavelength' should be 'times the frequency' (E = h\u03bd). Bracketed in Layer 2.",
-  "course_canonical": "Codes and Standards"
+  "course_canonical": "Codes and Standards",
+  "course_module": "Codes and Standards",
+  "corpus_id": "CS_F2012_04"
 }

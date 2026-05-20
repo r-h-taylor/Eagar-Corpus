@@ -60,5 +60,7 @@
     "p44: captioner garbling on silver/antimony solder composition list",
     "p51: lecture cuts off mid-sentence"
   ],
-  "course_canonical": "Solid State Welding"
+  "course_canonical": "Solid State Welding",
+  "course_module": "Solid State Welding",
+  "corpus_id": "SSW_S2013_12"
 }

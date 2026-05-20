@@ -44,5 +44,7 @@
   "editorial_flags_count": 3,
   "recording_begins_mid_sentence": true,
   "recording_ends_mid_sentence": true,
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_S2014_17"
 }

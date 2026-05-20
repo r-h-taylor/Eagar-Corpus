@@ -57,5 +57,7 @@
     }
   ],
   "notes_for_editor": "Lecture opens mid-thought (continuing pig-iron discussion from a prior section of the same class hour). Heavy captioner garbling in p12 (steel pricing sentence) required reconstruction from context; flagged for editorial register. The Saugus Ironworks aside in p1-p2 is a recurring Eagar teaching case (1630s American iron-making, charcoal/deforestation in England) \u2014 likely a candidate for the canonical case index.",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_S2014_03"
 }

@@ -35,5 +35,7 @@
   "silent_corrections_count": 17,
   "bracketed_slips_count": 0,
   "stage_directions_count": 1,
-  "course_canonical": "Solid State Welding"
+  "course_canonical": "Solid State Welding",
+  "course_module": "Solid State Welding",
+  "corpus_id": "SSW_S2013_13"
 }

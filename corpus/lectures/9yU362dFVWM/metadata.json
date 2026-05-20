@@ -87,5 +87,7 @@
     "gas conveyance materials history (wooden gun-drilled logs, cast iron, steel, polyethylene, corrugated stainless steel)",
     "CSST lightning strike fire hazard"
   ],
-  "course_canonical": "Structural Materials Selection"
+  "course_canonical": "Structural Materials Selection",
+  "course_module": "Structural Materials Selection",
+  "corpus_id": "SMS_S2016_07"
 }

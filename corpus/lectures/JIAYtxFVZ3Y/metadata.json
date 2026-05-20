@@ -69,5 +69,7 @@
     "Student advisor 'Deb Senor' (p12) \u2014 unclear name capture.",
     "Tom misstates casting tonnage at p32: '700,000 ton' then self-corrects to '700 ton.' Self-correction preserved."
   ],
-  "course_canonical": "Solid State Welding"
+  "course_canonical": "Solid State Welding",
+  "course_module": "Solid State Welding",
+  "corpus_id": "SSW_S2013_01"
 }

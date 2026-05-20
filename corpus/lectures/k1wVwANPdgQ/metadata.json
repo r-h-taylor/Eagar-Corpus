@@ -59,5 +59,7 @@
     "ASTM A262 (sensitization test, 10% oxalic acid etch)"
   ],
   "section_break_note": "Section breaks for layer 3 not assigned in this pass; lecture has natural pivots at approximately p17 (Miami case \u2192 ferritic stainless lecture) and p31 (austenitic chloride cracking \u2192 home boiler anecdote). Total lecture content covers ~28 minutes ending at break announcement.",
-  "course_canonical": "Welding Quality"
+  "course_canonical": "Welding Quality",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_24"
 }

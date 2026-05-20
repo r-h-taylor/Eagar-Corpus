@@ -61,5 +61,7 @@
     "p12: 'Rocky class' \u2014 unclear referent",
     "p13: '$118 billion' arithmetic possibly slip for $18 billion"
   ],
-  "course_canonical": "Welding Quality"
+  "course_canonical": "Welding Quality",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_26"
 }

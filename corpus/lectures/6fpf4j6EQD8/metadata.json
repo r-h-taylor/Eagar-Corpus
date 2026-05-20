@@ -35,5 +35,7 @@
     "p18: 'respec'd' / 'spec'd' \u2014 reading uncertain",
     "p19: 'protein' almost certainly 'environment' \u2014 high confidence captioner garble"
   ],
-  "course_canonical": "Corrosion Cracking and More"
+  "course_canonical": "Corrosion Cracking and More",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_03"
 }

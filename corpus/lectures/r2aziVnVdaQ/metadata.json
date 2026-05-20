@@ -177,5 +177,7 @@
     "'anonym core' silently corrected to 'honeycomb' with bracket \u2014 flagged for editor confirmation.",
     "Lecture contains no Tom Eagar canonical cases; case_index.md for layer 3 will consist entirely of PROPOSED clusters."
   ],
-  "course_canonical": "Codes and Standards"
+  "course_canonical": "Codes and Standards",
+  "course_module": "Codes and Standards",
+  "corpus_id": "CS_F2012_10"
 }

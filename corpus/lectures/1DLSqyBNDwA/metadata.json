@@ -101,5 +101,7 @@
     "IEEE"
   ],
   "editorial_flags_count": 7,
-  "course_canonical": "What is Engineering"
+  "course_canonical": "What is Engineering",
+  "course_module": "What is Engineering",
+  "corpus_id": "WIE_F2015_05"
 }

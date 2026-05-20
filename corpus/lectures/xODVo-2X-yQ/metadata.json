@@ -48,5 +48,7 @@
     "Johnson & Mellor, Engineering Plasticity",
     "Altan, Metal Forming Handbook"
   ],
-  "course_canonical": "Deformation Processing"
+  "course_canonical": "Deformation Processing",
+  "course_module": "Deformation Processing",
+  "corpus_id": "DP_S2012_02"
 }

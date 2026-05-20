@@ -51,5 +51,7 @@
     "Concept Lasers Woburn racing car parts",
     "Boeing titanium tensile bars"
   ],
-  "course_canonical": "Additive Manufacturing"
+  "course_canonical": "Additive Manufacturing",
+  "course_module": "Additive Manufacturing",
+  "corpus_id": "AM_F2019_04"
 }

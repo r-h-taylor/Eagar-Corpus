@@ -42,5 +42,7 @@
     "p14 'sin\u2014' mid-word break editorially glossed; review whether to keep gloss",
     "p16 student/Tom attribution ambiguous"
   ],
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_S2014_11"
 }

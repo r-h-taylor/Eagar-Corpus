@@ -58,5 +58,7 @@
   ],
   "captioner_quality": "poor \u2014 heavy garbling of proper nouns and technical terminology throughout; many passages required preservation with editorial flags rather than confident correction",
   "structural_notes": "Lecture covers wrap-up of aluminum welding porosity \u2192 full treatment of titanium welding \u2192 digression into Soviet welding history and Tom's 1979-1980 research \u2192 laser physics \u2192 military armor applications. Ends mid-thought as Tom goes to fetch a sample for break. No formal Q&A section; student questions interspersed throughout.",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2015_17"
 }

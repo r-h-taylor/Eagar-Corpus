@@ -55,5 +55,7 @@
   ],
   "lecture_ends_mid_topic": true,
   "continues_in_next_lecture": true,
-  "course_canonical": "Welding Quality"
+  "course_canonical": "Welding Quality",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_31"
 }

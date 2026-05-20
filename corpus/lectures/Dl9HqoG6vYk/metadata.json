@@ -104,5 +104,7 @@
       "issue": "assistant dean name 'Darkness Avicii' badly garbled, needs identification"
     }
   ],
-  "course_canonical": "How to be a Successful Engineer"
+  "course_canonical": "How to be a Successful Engineer",
+  "course_module": "What is Engineering",
+  "corpus_id": "WIE_F2015_09"
 }

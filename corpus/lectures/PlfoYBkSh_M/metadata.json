@@ -34,5 +34,7 @@
     "narrator's English contains apparent translation/pronunciation artifacts (e.g., 'curve' for 'kerf', 'paracity' for 'porosity'); silent corrections logged in transformation_log.md",
     "no Tom-isms, no Q&A, no cases in the catalog sense \u2014 this lecture will not contribute to the case index"
   ],
-  "course_canonical": "Fusion Welding"
+  "course_canonical": "Fusion Welding",
+  "course_module": "Fusion Welding",
+  "corpus_id": "FW_Su2013_09"
 }

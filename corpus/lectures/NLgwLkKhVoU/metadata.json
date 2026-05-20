@@ -45,5 +45,7 @@
     "p20: extended flux-core welding passage heavily garbled",
     "p33: 'porque estoy' fragment preserved as captioner artifact"
   ],
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2015_08"
 }

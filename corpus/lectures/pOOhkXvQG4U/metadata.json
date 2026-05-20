@@ -36,5 +36,7 @@
   "captioner_corrections_logged": 11,
   "tom_slips_bracketed": 0,
   "notes": "Lecture opens mid-sentence (continuation from prior session). Closes mid-exchange with student question on stretch-vs-age sequence; Tom defers ('not enough of an aluminum metallurgist'). Candidate section break in layer 3 between filler-metal chart (p5-p15) and Alcoa thick-plate residual stress (p16-p24).",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_S2014_23"
 }

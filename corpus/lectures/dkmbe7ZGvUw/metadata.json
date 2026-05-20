@@ -64,5 +64,7 @@
   "self_corrections_preserved": 9,
   "tom_slips_bracketed": 1,
   "editorial_register_flags": 3,
-  "course_canonical": "Corrosion Cracking and More"
+  "course_canonical": "Corrosion Cracking and More",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_09"
 }

@@ -82,5 +82,7 @@
   ],
   "stage_directions_inserted": 1,
   "student_turns": 6,
-  "course_canonical": "Additive Manufacturing"
+  "course_canonical": "Additive Manufacturing",
+  "course_module": "Additive Manufacturing",
+  "corpus_id": "AM_F2019_05"
 }

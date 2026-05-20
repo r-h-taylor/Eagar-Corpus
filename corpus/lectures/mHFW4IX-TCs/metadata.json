@@ -70,5 +70,7 @@
   ],
   "captioner_corrections_count": 28,
   "notes": "Lecture covers two teaching arcs: (1) Tufte on visual presentation of data with John Snow and Challenger as success/failure case studies; (2) engineer's legal responsibility under AWS structural welding code. Substantial digression in p23\u2013p27 on classified space-laser work. Tom announces he will be in Canada and a substitute will cover the next three sessions.",
-  "course_canonical": "How to be a Successful Engineer"
+  "course_canonical": "How to be a Successful Engineer",
+  "course_module": "What is Engineering",
+  "corpus_id": "WIE_F2015_10"
 }

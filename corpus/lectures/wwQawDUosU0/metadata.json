@@ -60,5 +60,7 @@
     "p41 beryllium disc thickness '15,000 thick' likely '.015 inches'",
     "p41 'Chase Brass and Copper' supplier name \u2014 actual Be-Cu supplier is Brush Wellman/Materion"
   ],
-  "course_canonical": "Structural Materials Selection"
+  "course_canonical": "Structural Materials Selection",
+  "course_module": "Structural Materials Selection",
+  "corpus_id": "SMS_F2014_05"
 }

@@ -60,5 +60,7 @@
     "Multiple Saks/Sachs spellings: canonical is Emanuel M. Sachs",
     "p10: 'Leaders from a Factory' \u2192 corrected to 'Leaders for Manufacturing' (LFM program)"
   ],
-  "course_canonical": "Structural Materials Selection"
+  "course_canonical": "Structural Materials Selection",
+  "course_module": "Structural Materials Selection",
+  "corpus_id": "SMS_S2016_02"
 }

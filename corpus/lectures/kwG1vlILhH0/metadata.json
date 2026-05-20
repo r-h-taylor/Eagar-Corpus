@@ -65,5 +65,7 @@
     "p56: 'Dr. Bell Mars' speaker name \u2014 confirm spelling (possibly Belmar, Bellomar, or similar).",
     "p29: 'Hazel grove glass lab' \u2014 unclear referent; possibly the MIT Glass Lab artisan's name."
   ],
-  "course_canonical": "How to be a Successful Engineer"
+  "course_canonical": "How to be a Successful Engineer",
+  "course_module": "What is Engineering",
+  "corpus_id": "WIE_F2015_08"
 }

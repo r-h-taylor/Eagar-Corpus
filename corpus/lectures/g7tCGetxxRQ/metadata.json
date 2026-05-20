@@ -79,5 +79,7 @@
     "Early 1990s (Draper Lab titanium sub project)"
   ],
   "notes": "Section is a single continuous teaching unit on titanium welding, opening with admin remarks and Gurevich/KGB anecdote, then moving through welding processes, alpha-case metallurgy, market economics, and naval applications. Several captioner garbles flagged for editorial review (see transformation_log.md). One probable Tom misspeak (world steel production 'a million tons' \u2192 'a billion tons') silently corrected because adjacent arithmetic confirms intent.",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_S2014_28"
 }

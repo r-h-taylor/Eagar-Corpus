@@ -74,5 +74,7 @@
   "captioner_corrections_count": 35,
   "tom_slip_corrections_count": 3,
   "stage_directions_count": 2,
-  "course_canonical": "Structural Materials Selection"
+  "course_canonical": "Structural Materials Selection",
+  "course_module": "Structural Materials Selection",
+  "corpus_id": "SMS_S2016_03"
 }

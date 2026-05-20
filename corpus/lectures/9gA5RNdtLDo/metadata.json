@@ -63,5 +63,7 @@
   "editorial_flags_count": 12,
   "self_corrections_preserved": true,
   "tom_slips_bracketed": 0,
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2015_02"
 }

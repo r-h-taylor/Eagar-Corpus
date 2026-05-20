@@ -90,5 +90,7 @@
     "Tom shows a chart of altitude / pressure / mean-free-path / Langmuir from ASM publication",
     "Tom shows surface energy tables from Adamson & Gast"
   ],
-  "course_canonical": "Solid State Welding"
+  "course_canonical": "Solid State Welding",
+  "course_module": "Solid State Welding",
+  "corpus_id": "SSW_S2013_05"
 }

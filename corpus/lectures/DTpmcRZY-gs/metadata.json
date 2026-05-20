@@ -52,5 +52,7 @@
   "captioner_corrections_logged": 23,
   "ends_mid_section": true,
   "notes": "Lecture cuts off at 36:28 mid-paragraph as Tom transitions to manganese phase diagram. Material continues in lecture 7/29.",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_S2014_06"
 }

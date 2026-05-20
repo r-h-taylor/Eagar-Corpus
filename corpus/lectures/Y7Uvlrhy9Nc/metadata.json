@@ -53,5 +53,7 @@
   "stage_directions_count": 2,
   "section_id_for_aggregate": null,
   "notes": "Final lecture of the Fall 2016 materials selection module. Heavy case-study lecture culminating in the X-33 failure narrative \u2014 Tom's signature teaching case combining composites, safety factors, statistics misuse, and data-sheet literacy. Productive ground for cross-lecture cluster linking (X-33, Space Shuttle, BMW i3 all recur in other lectures).",
-  "course_canonical": "Materials Selection"
+  "course_canonical": "Materials Selection",
+  "course_module": "Materials Selection and Economics",
+  "corpus_id": "MSE_F2016_12"
 }

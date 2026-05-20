@@ -55,5 +55,7 @@
   "tom_slips_bracketed": 1,
   "captioner_corrections_silent": 38,
   "section_count_proposed_for_layer3": 6,
-  "course_canonical": "Welding Quality"
+  "course_canonical": "Welding Quality",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_34"
 }

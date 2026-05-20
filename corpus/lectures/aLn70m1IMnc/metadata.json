@@ -50,5 +50,7 @@
   "editorial_flags": 4,
   "bracketed_corrections": 5,
   "format": "recitation, informal Q&A with five students; Tom delivers prepared slide content on factors of safety and bolting",
-  "course_canonical": "Recitations"
+  "course_canonical": "Recitations",
+  "course_module": "Recitations",
+  "corpus_id": "REC_F2018_01"
 }

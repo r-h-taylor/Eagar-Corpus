@@ -72,5 +72,7 @@
     "p32 'course 2N' program designation \u2014 verify 2012-era MIT Naval Construction designation",
     "p19 Boeing $200/lb figure delivered conversationally \u2014 confirm industry reference"
   ],
-  "course_canonical": "Deformation Processing"
+  "course_canonical": "Deformation Processing",
+  "course_module": "Deformation Processing",
+  "corpus_id": "DP_S2012_01"
 }

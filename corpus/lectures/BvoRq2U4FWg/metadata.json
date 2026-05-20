@@ -58,5 +58,7 @@
     "p3: 'TS, Jerry' unidentified",
     "p15: dog/dynamite anecdote sensitivity"
   ],
-  "course_canonical": "Structural Materials Selection"
+  "course_canonical": "Structural Materials Selection",
+  "course_module": "Structural Materials Selection",
+  "corpus_id": "SMS_S2016_10"
 }

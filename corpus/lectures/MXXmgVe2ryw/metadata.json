@@ -60,5 +60,7 @@
     "Professor Owen [?] at p51 \u2014 captioner garbling of name; needs human identification",
     "'longest links' at p35 \u2014 possible misspeak for 'lengths'; preserved per convention"
   ],
-  "course_canonical": "Deformation Processing"
+  "course_canonical": "Deformation Processing",
+  "course_module": "Deformation Processing",
+  "corpus_id": "DP_S2012_12"
 }

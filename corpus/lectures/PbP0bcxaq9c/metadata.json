@@ -66,5 +66,7 @@
   "battery_change_moment": "p29",
   "closing_bubble_demo": "p38",
   "next_lecture_preview": "hydrogen embrittlement",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_11"
 }

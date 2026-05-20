@@ -54,5 +54,7 @@
     "p20: student question about radiography on titanium is muffled/lost in raw; Tom's answer implies the question. Bracketed inference flagged for editor review.",
     "p1: HY-140 vs HY-100 \u2014 verify whether Tom misspoke or whether captioner garbled. If captioner error rather than spoken slip, demote to silent correction."
   ],
-  "course_canonical": "Corrosion"
+  "course_canonical": "Corrosion",
+  "course_module": "Corrosion",
+  "corpus_id": "COR_Su2016_05"
 }

@@ -60,9 +60,18 @@
   "flags_for_editor": [
     {
       "issue": "This lecture was processed via chunk-and-stitch due to length exceeding the pipeline's effective output ceiling. Section boundaries near chunk transitions and case-index frame text for cross-chunk cases require human editorial review and consolidation."
-    }
+    },
+    "2026-05-18: identifier metadata reconstructed manually after chunk-stitch pipeline left these fields empty. The following topical fields are still missing and require re-extraction from the stitched Layer 2/3 content: topics_covered, people_mentioned, notes, lecture_open, lecture_close."
   ],
-  "course": [],
-  "term": [],
-  "total_section_count": 30
+  "course": "Casting",
+  "term": "Summer 2011",
+  "total_section_count": 30,
+  "course_number": "3.371",
+  "course_title": "Materials Processing and Casting",
+  "course_canonical": "Casting",
+  "video_title": "3.371 Materials Processing and Casting - Summer 2011 [3/7]",
+  "lecture_number_in_series": 3,
+  "lecture_total_in_series": 7,
+  "course_module": "Casting",
+  "corpus_id": "CAS_Su2011_03"
 }

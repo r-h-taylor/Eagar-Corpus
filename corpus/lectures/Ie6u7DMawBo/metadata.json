@@ -60,5 +60,7 @@
     "p62: 'Bliquhouse' spelling unverified \u2014 could be Bleekrode or similar",
     "p68: student question content inferred from Tom's response"
   ],
-  "course_canonical": "Casting"
+  "course_canonical": "Casting",
+  "course_module": "Casting",
+  "corpus_id": "CAS_Su2011_07"
 }

@@ -56,5 +56,7 @@
     "Sindo Kou (textbook author)"
   ],
   "notes": "Lecture covers tail end of aluminum alloy welding metallurgy. Opens with extended digression on scandium baseball bats (Soviet alloy use, bat physics, impedance matching), then short complete unit on magnesium welding (why it's not done \u2014 stress corrosion cracking), then aluminum welding metallurgy proper (alloy series, liquation cracking, hot tearing, joint efficiency, freezing range vs. crack susceptibility). Ends with mid-lecture break ('go get breakfast'). Likely continues in lecture 30.",
-  "course_canonical": "Welding Quality"
+  "course_canonical": "Welding Quality",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_29"
 }

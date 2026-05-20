@@ -64,5 +64,7 @@
     "Arc weld sample from an oilfield blowout job"
   ],
   "notes": "First lecture of a six-part fusion welding short course, evidently taught to Navy students (Tom addresses 'since you're in the Navy' in p58). Tone matches the longer 3.37 / 3.371 lectures. Two characteristic Tom slips: 'Forte's' for Fourier's law (recurring), and C2H6 for propylene (one-off). Major story content: the Schenectady GE acetone-porosity story spans p47\u2013p56 and is one of Tom's longer set-piece narratives.",
-  "course_canonical": "Fusion Welding"
+  "course_canonical": "Fusion Welding",
+  "course_module": "Fusion Welding",
+  "corpus_id": "FW_Su2013_01"
 }

@@ -43,5 +43,7 @@
   "captioner_corrections_count": 18,
   "editorial_flags_count": 3,
   "notes": "Recitation-format lecture; Tom in storytelling mode rather than technical-lecture mode. Heavy on institutional-ethics content. Sectioning for layer 3 should distinguish: (1) the Molten Metal story proper, (2) the Doc Edgerton digression, (3) the tenure-denial subplot, (4) the Nashua board / Steuben glass closer, (5) the framing ethics lesson. Two irrecoverable captioner garbles flagged.",
-  "course_canonical": "Recitations"
+  "course_canonical": "Recitations",
+  "course_module": "Recitations",
+  "corpus_id": "REC_S2020_03"
 }

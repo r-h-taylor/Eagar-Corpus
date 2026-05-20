@@ -42,5 +42,7 @@
   "captioner_corrections_logged": 26,
   "spoken_slips_bracketed": 2,
   "stage_directions_inserted": 4,
-  "course_canonical": "Solid State Welding"
+  "course_canonical": "Solid State Welding",
+  "course_module": "Solid State Welding",
+  "corpus_id": "SSW_S2013_02"
 }

@@ -59,5 +59,7 @@
     "p27: inaudible student question reconstructed from Tom's response",
     "p37: 'coughed a lot' may be captioner mis-hearing of a cough sound"
   ],
-  "course_canonical": "Codes and Standards"
+  "course_canonical": "Codes and Standards",
+  "course_module": "Codes and Standards",
+  "corpus_id": "CS_F2012_11"
 }

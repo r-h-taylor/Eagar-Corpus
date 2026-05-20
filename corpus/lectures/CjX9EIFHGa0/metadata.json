@@ -71,5 +71,7 @@
   "student_turns": 1,
   "section_opens_mid_narrative": true,
   "notes": "Lecture opens mid-story (vanadium/Venezuela anecdote continuing from prior session) and closes cleanly. Two named figures: John Wulff (MIT, deceased; story is retrospective) and Jerry Milgram (MIT ocean engineering, America's Cup consulting). The HY80/HY130 passage at p11 contains an unresolved syntactic fragment ('HY80 exits, HY130') that is preserved verbatim because the captioner garbling is not unambiguously resolvable.",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_S2014_15"
 }

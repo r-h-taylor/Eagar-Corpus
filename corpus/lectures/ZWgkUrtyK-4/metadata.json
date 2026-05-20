@@ -92,5 +92,7 @@
   ],
   "lecture_truncated_at_capture": true,
   "truncation_note": "Transcript ends mid-sentence at 36:22 with Tom beginning to discuss boiler systems made of black iron pipe. The recording cuts off before the third point on corrosion (free oxygen/sulfur) is developed.",
-  "course_canonical": "Corrosion Cracking and More"
+  "course_canonical": "Corrosion Cracking and More",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_05"
 }

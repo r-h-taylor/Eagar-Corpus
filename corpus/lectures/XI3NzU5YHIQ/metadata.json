@@ -42,5 +42,7 @@
     }
   ],
   "notes": "Single-section lecture excerpt; opens mid-thought and closes with class-management cutoff. Sectioning will be deferred to layer 3 production.",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_28"
 }

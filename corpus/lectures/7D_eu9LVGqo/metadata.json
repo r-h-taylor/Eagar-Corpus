@@ -64,5 +64,7 @@
     "p8: 'you melt ass' \u2014 Tom likely said 'sand'; verify against audio if available.",
     "p43: student question at start is inaudible; Tom's response context suggests question was about modern display/architectural glass technology."
   ],
-  "course_canonical": "Structural Materials Selection"
+  "course_canonical": "Structural Materials Selection",
+  "course_module": "Structural Materials Selection",
+  "corpus_id": "SMS_S2016_12"
 }

@@ -77,5 +77,7 @@
     "p3 'Who, Day, was your thesis advisor?' \u2014 'Day' may be Tom's mishearing or captioner garbling of a name; left as-is",
     "p34 'Live used to be called Metal Oxygen Separation Technologies' \u2014 'Live' is unclear captioner artifact; likely placeholder for the company's prior name being announced"
   ],
-  "course_canonical": "Structural Materials Selection"
+  "course_canonical": "Structural Materials Selection",
+  "course_module": "Structural Materials Selection",
+  "corpus_id": "SMS_F2013_13"
 }

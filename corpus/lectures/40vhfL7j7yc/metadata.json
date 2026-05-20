@@ -60,5 +60,7 @@
     "Student turn at p25 ('Pardon me?') is the editor's best read of an indistinct interjection.",
     "Tom's L909 hesitation on Bardeen/Shockley is a recall pause, not a slip; captioner garbled to 'Bine' \u2014 corrected silently."
   ],
-  "course_canonical": "Solid State Welding"
+  "course_canonical": "Solid State Welding",
+  "course_module": "Solid State Welding",
+  "corpus_id": "SSW_S2013_11"
 }

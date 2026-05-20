@@ -48,5 +48,7 @@
     "p8: 'Don[?]' \u2014 unclear referent",
     "p5: 'Esso' ship name \u2014 verify against 1946 Navy report ship list"
   ],
-  "course_canonical": "Codes and Standards"
+  "course_canonical": "Codes and Standards",
+  "course_module": "Codes and Standards",
+  "corpus_id": "CS_F2012_13"
 }

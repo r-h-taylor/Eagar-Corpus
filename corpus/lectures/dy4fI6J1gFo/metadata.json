@@ -91,5 +91,7 @@
   "stage_directions_count": 3,
   "student_turns_count": 8,
   "recording_ends_mid_sentence": true,
-  "course_canonical": "Welding Quality"
+  "course_canonical": "Welding Quality",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_27"
 }

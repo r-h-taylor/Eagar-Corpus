@@ -61,5 +61,7 @@
     "RA 330 vs RA 333 alloy designation",
     "p21 contains heavily captioner-degraded Eagar speech; audio re-check recommended"
   ],
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_S2014_10"
 }

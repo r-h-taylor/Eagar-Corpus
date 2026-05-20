@@ -59,5 +59,7 @@
     "Carl (student in class)",
     "Dr. Belmir [?] (apparent co-instructor)"
   ],
-  "course_canonical": "Deformation Processing"
+  "course_canonical": "Deformation Processing",
+  "course_module": "Deformation Processing",
+  "corpus_id": "DP_S2012_08"
 }

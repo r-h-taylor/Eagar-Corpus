@@ -57,5 +57,7 @@
     "p21 'negative horse' \u2014 Tom's exam grade; unclear",
     "p43 'at tow toad fills' \u2014 phrase describing tension connection failure mode"
   ],
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2015_01"
 }

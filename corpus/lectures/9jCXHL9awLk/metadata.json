@@ -48,5 +48,7 @@
     "Grade 8 bolt: 150 KSI tensile, ~20 KSI in tension-compression fatigue (factor of ~7 reduction)",
     "Bolt preload reduces stress amplitude by factor of ~6\u20137"
   ],
-  "course_canonical": "Codes and Standards"
+  "course_canonical": "Codes and Standards",
+  "course_module": "Codes and Standards",
+  "corpus_id": "CS_Su2012_06"
 }

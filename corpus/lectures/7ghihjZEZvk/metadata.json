@@ -77,5 +77,7 @@
   ],
   "student_questions": 2,
   "stage_directions_inserted": 3,
-  "course_canonical": "Deformation Processing"
+  "course_canonical": "Deformation Processing",
+  "course_module": "Deformation Processing",
+  "corpus_id": "DP_S2012_11"
 }

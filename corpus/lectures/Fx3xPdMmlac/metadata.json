@@ -113,5 +113,7 @@
     "Tank lifetime ~2.5 min on battlefield (Suez 1972 reference)",
     "ASME stress-relief threshold: 1.25\u20131.5 inch"
   ],
-  "course_canonical": "Fusion Welding"
+  "course_canonical": "Fusion Welding",
+  "course_module": "Fusion Welding",
+  "corpus_id": "FW_Su2013_03"
 }

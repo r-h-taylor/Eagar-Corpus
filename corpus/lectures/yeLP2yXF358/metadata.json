@@ -68,5 +68,7 @@
   ],
   "recording_ends_mid_anecdote": true,
   "notes": "Recording terminates at ~37:40 mid-John-Wulff anecdote. The Helms project anecdote is the centerpiece teaching case; it links the three Venn-diagram circles (residual stress, hardness, hydrogen) by demonstrating a real-world failure that violated all three preventive measures simultaneously. Captioner quality is notably poor on this transcript \u2014 recurring garbles of 'post weld heat treatment,' 'fillet weld,' 'Steinmetz,' and 'Wulff.'",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_S2014_14"
 }

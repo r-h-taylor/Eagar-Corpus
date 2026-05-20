@@ -44,5 +44,7 @@
   "stage_business_count": 6,
   "spoken_slips_flagged": 3,
   "captioner_errors_corrected": 18,
-  "course_canonical": "Codes and Standards"
+  "course_canonical": "Codes and Standards",
+  "course_module": "Codes and Standards",
+  "corpus_id": "CS_Su2012_01"
 }

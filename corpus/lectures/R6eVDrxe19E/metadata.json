@@ -64,5 +64,7 @@
   ],
   "transcript_terminates_mid_story": true,
   "termination_note": "Lecture cuts off at 37:10 mid-narrative about a Miami Art Museum welding problem. The story is set up but not delivered \u2014 likely continues in lecture 24 or was abridged in the recording.",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_23"
 }

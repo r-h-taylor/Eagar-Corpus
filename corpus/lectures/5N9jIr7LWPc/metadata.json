@@ -47,5 +47,7 @@
   "captioner_errors_corrected_count_approximate": 35,
   "tom_self_corrections_preserved_count": 6,
   "course_context_note": "Final lecture of the Fall 2013 offering of 3.371. Tom is wrapping up by surveying the periodic table to reinforce the semester's recurring theme \u2014 that only a handful of elements function as structural materials at scale, and cost (energy, ore availability, processing) is what determines which. The lecture also includes a scheduling segment for student presentations and several memoir-mode anecdotes.",
-  "course_canonical": "Structural Materials Selection"
+  "course_canonical": "Structural Materials Selection",
+  "course_module": "Structural Materials Selection",
+  "corpus_id": "SMS_F2013_14"
 }

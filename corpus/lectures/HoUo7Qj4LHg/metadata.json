@@ -54,5 +54,7 @@
     "Several captioner-garbled passages preserved with [unclear] markers",
     "Student question at p23 and p25 heavily garbled"
   ],
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2015_12"
 }

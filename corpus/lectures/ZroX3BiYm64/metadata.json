@@ -76,5 +76,7 @@
     "p40 student name 'Jiggo/Jiggle' unrecoverable"
   ],
   "next_layer": "layer3 sectioning pending",
-  "course_canonical": "Welding Quality"
+  "course_canonical": "Welding Quality",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_19"
 }

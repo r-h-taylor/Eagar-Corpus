@@ -42,5 +42,7 @@
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T17:02:55.999748+00:00",
   "editorial_notes": "Heavy captioner garbling on proper nouns (Pourbaix\u2192forbay/quarterback, Cebelcor\u2192civil war, tantalum\u2192talon, Attleboro\u2192algebra, Port Hueneme\u2192port fondue me, H.C. Starck\u2192a.c. stark). All silently corrected per convention 9/10. Multiple flags for editorial review on uncertain reconstructions \u2014 see transformation log.",
-  "course_canonical": "Corrosion Cracking and More"
+  "course_canonical": "Corrosion Cracking and More",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_02"
 }

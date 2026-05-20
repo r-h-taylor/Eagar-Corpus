@@ -65,5 +65,7 @@
     "The surgical-scissors anecdote (p39) is a reuse of the same case Tom tells in lec11 \u00a71 of the worked example (different course, different year). The price figures and details differ slightly \u2014 this is Tom's recurring teaching case on insurance overhead in medical products.",
     "Sentence-level garbles in the student turns (p18 Brian, p41 catapult-psi student) are flagged for editorial register review at layer 3."
   ],
-  "course_canonical": "Corrosion"
+  "course_canonical": "Corrosion",
+  "course_module": "Corrosion",
+  "corpus_id": "COR_Su2016_02"
 }

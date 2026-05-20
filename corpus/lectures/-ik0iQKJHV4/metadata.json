@@ -79,5 +79,7 @@
     "Tom slips 'Alfred the Great' for 'Lord Nelson' at p29 (HMS Victory was Nelson's flagship). Bracketed per convention 9.",
     "Captioner consistently mangled: 'austenitic' (rendered as 'tic'/'atic'/'tinic'), 'molybdenum' (rendered as 'malum'), 'Acela', 'asbestos', 'Attleboro', 'Bethlehem', 'Inconel', 'Ho Chi Minh', 'Saugus', 'Blaschka', 'Corita', 'Szekely', 'Morgrip', 'Linz'. All corrected silently."
   ],
-  "course_canonical": "Casting"
+  "course_canonical": "Casting",
+  "course_module": "Casting",
+  "corpus_id": "CAS_Su2011_01"
 }

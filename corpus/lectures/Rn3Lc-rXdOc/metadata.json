@@ -64,5 +64,7 @@
   "bracketed_slips_count": 5,
   "ends_mid_sentence": true,
   "begins_mid_sentence": true,
-  "course_canonical": "Corrosion Cracking and More"
+  "course_canonical": "Corrosion Cracking and More",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_14"
 }

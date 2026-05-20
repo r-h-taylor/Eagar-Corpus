@@ -86,5 +86,7 @@
   "captioner_corrections_silent_count": 18,
   "stage_directions_count": 0,
   "student_turns_count": 2,
-  "course_canonical": "Solid State Welding"
+  "course_canonical": "Solid State Welding",
+  "course_module": "Solid State Welding",
+  "corpus_id": "SSW_S2013_09"
 }

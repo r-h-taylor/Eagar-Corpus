@@ -117,5 +117,7 @@
     "'Wall culminate' corrected silently to 'Wall Colmonoy' (industrial nickel brazing alloy supplier).",
     "Captioner consistently rendered 'tin' as '10' in the Raytheon section; corrected silently where unambiguous, preserved where Tom's own self-correction is mid-delivery."
   ],
-  "course_canonical": "Solid State Welding"
+  "course_canonical": "Solid State Welding",
+  "course_module": "Solid State Welding",
+  "corpus_id": "SSW_S2013_08"
 }

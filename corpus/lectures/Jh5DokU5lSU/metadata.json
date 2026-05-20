@@ -67,5 +67,7 @@
     "p25"
   ],
   "notes": "Short class session (~14 min). Two teaching units: (1) closing remarks on welding ultra-high-strength steels, (2) introduction to fatigue design of weldments with AISC categories. Tom himself flags uncertainty on LRFD acronym; student supplies correction in dialogue. Lecture ends with 'see you tomorrow' suggesting this is one of a sequence.",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_S2014_21"
 }

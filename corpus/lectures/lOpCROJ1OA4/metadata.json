@@ -40,5 +40,7 @@
   ],
   "needs_editorial_review": true,
   "review_notes": "Heavy captioner garbling in fracture mechanics calculations (p14, p18-19). Multiple numeric values uncertain. Layer 3 will require careful reconstruction or flagging.",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2015_15"
 }

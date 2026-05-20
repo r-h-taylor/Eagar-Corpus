@@ -1,0 +1,232 @@
+video_id,corpus_id,course,term,seq_source
+01D4_i5L5gk,AM_F2019_01,Additive Manufacturing,Fall 2019,source_date
+80LMn6GeJDM,AM_F2019_02,Additive Manufacturing,Fall 2019,source_date
+zoBMgVdELNc,AM_F2019_03,Additive Manufacturing,Fall 2019,source_date
+34yHQb_oLxk,AM_F2019_04,Additive Manufacturing,Fall 2019,source_date
+NthuyNkWUII,AM_F2019_05,Additive Manufacturing,Fall 2019,source_date
+3MdL3fmW5NQ,AM_F2019_06,Additive Manufacturing,Fall 2019,source_date
+3OKF32hmiMs,AM_F2019_07,Additive Manufacturing,Fall 2019,source_date
+-ik0iQKJHV4,CAS_Su2011_01,Casting,Summer 2011,explicit
+TRSZrx4_vPQ,CAS_Su2011_02,Casting,Summer 2011,explicit
+WhWf_cgsv0I,CAS_Su2011_03,Casting,Summer 2011,explicit
+pq7RLDw6ijk,CAS_Su2011_04,Casting,Summer 2011,source_seq
+QPArN_Q34s8,CAS_Su2011_05,Casting,Summer 2011,source_seq
+TOum2TQZu_M,CAS_Su2011_06,Casting,Summer 2011,explicit
+Ie6u7DMawBo,CAS_Su2011_07,Casting,Summer 2011,explicit
+q9rwgUdOynw,COR_Su2016_02,Corrosion,Summer 2016,source_seq
+ZqjHbnqjOQY,COR_Su2016_05,Corrosion,Summer 2016,source_seq
+YDg-vgIdgGs,CS_F2012_01,Codes and Standards,Fall 2012,source_seq
+U8oDDDozYqs,CS_F2012_02,Codes and Standards,Fall 2012,source_seq
+2-PLy8soKXo,CS_F2012_03,Codes and Standards,Fall 2012,explicit
+AM4c4Vlaxfc,CS_F2012_04,Codes and Standards,Fall 2012,source_seq
+KynrfNqtHaU,CS_F2012_05,Codes and Standards,Fall 2012,source_seq
+WH-SIgf7Yfo,CS_F2012_06,Codes and Standards,Fall 2012,source_seq
+u0VksY_PRps,CS_F2012_07,Codes and Standards,Fall 2012,source_seq
+xuSw3flQyMg,CS_F2012_08,Codes and Standards,Fall 2012,source_seq
+I9uRs8XywRk,CS_F2012_09,Codes and Standards,Fall 2012,explicit
+r2aziVnVdaQ,CS_F2012_10,Codes and Standards,Fall 2012,explicit
+kF4wXqPHw-o,CS_F2012_11,Codes and Standards,Fall 2012,source_seq
+kEqabZ7bO0Y,CS_F2012_12,Codes and Standards,Fall 2012,source_seq
+7-ceZkCjx5w,CS_F2012_13,Codes and Standards,Fall 2012,source_seq
+PM6Qc720MgA,CS_F2012_14,Codes and Standards,Fall 2012,source_seq
+8b4n8diQ_6U,CS_Su2012_01,Codes and Standards,Summer 2012,source_seq
+cys2q7xFrbQ,CS_Su2012_02,Codes and Standards,Summer 2012,source_seq
+o2XfliUT_jA,CS_Su2012_03,Codes and Standards,Summer 2012,source_seq
+M7jStS1Pxss,CS_Su2012_04,Codes and Standards,Summer 2012,source_seq
+7KFTHxDcJwY,CS_Su2012_05,Codes and Standards,Summer 2012,explicit
+9jCXHL9awLk,CS_Su2012_06,Codes and Standards,Summer 2012,source_seq
+nLWgIwqPozE,CS_Su2012_07,Codes and Standards,Summer 2012,source_seq
+WdHzBSOyinU,DP_S2012_01,Deformation Processing,Spring 2012,source_seq
+xODVo-2X-yQ,DP_S2012_02,Deformation Processing,Spring 2012,source_seq
+cjom37YsqTM,DP_S2012_03,Deformation Processing,Spring 2012,explicit
+YErlfj2xGQo,DP_S2012_04,Deformation Processing,Spring 2012,source_seq
+2-eiyScKx6A,DP_S2012_05,Deformation Processing,Spring 2012,explicit
+K4LxKVNarnM,DP_S2012_06,Deformation Processing,Spring 2012,source_seq
+6TFtOotD1Dk,DP_S2012_07,Deformation Processing,Spring 2012,source_seq
+Xp4riNsidS8,DP_S2012_08,Deformation Processing,Spring 2012,source_seq
+LvhfmNDBCH8,DP_S2012_09,Deformation Processing,Spring 2012,explicit
+ESLkKhUE7jA,DP_S2012_10,Deformation Processing,Spring 2012,source_seq
+7ghihjZEZvk,DP_S2012_11,Deformation Processing,Spring 2012,source_seq
+MXXmgVe2ryw,DP_S2012_12,Deformation Processing,Spring 2012,source_seq
+v7P1NjmHnYQ,FW_Su2013_01,Fusion Welding,Summer 2013,explicit
+EvpwSXoRHZk,FW_Su2013_02,Fusion Welding,Summer 2013,source_seq
+Fx3xPdMmlac,FW_Su2013_03,Fusion Welding,Summer 2013,source_seq
+Aq3Q1CyX8uU,FW_Su2013_04,Fusion Welding,Summer 2013,explicit
+zKu_AK_57lM,FW_Su2013_05,Fusion Welding,Summer 2013,source_seq
+JcmlZrsUCTw,FW_Su2013_06,Fusion Welding,Summer 2013,explicit
+8xc71DgqtIk,FW_Su2013_07,Fusion Welding,Summer 2013,fallback
+MTzYKTMcmJo,FW_Su2013_08,Fusion Welding,Summer 2013,fallback
+PlfoYBkSh_M,FW_Su2013_09,Fusion Welding,Summer 2013,fallback
+njIMQR4hBOU,MSE_F2016_01,Materials Selection and Economics,Fall 2016,source_seq
+HbMbUcuroDY,MSE_F2016_02,Materials Selection and Economics,Fall 2016,explicit
+fje2ixY8cT0,MSE_F2016_03,Materials Selection and Economics,Fall 2016,explicit
+iRC51hrIYdQ,MSE_F2016_05,Materials Selection and Economics,Fall 2016,source_seq
+rsSzSB0Kkwg,MSE_F2016_06,Materials Selection and Economics,Fall 2016,source_seq
+jkM0ewcY5SY,MSE_F2016_07,Materials Selection and Economics,Fall 2016,explicit
+SsJ-6a4VHh4,MSE_F2016_08,Materials Selection and Economics,Fall 2016,explicit
+PQ0eDwKV51k,MSE_F2016_09,Materials Selection and Economics,Fall 2016,source_seq
+XPwFzrNlgls,MSE_F2016_10,Materials Selection and Economics,Fall 2016,source_seq
+kaKkRC6Yu_c,MSE_F2016_11,Materials Selection and Economics,Fall 2016,source_seq
+Y7Uvlrhy9Nc,MSE_F2016_12,Materials Selection and Economics,Fall 2016,source_seq
+1lzA2zvky9E,MSE_F2017_01,Materials Selection and Economics,Fall 2017,source_date
+HuLV8P6ouwA,MSE_F2017_02,Materials Selection and Economics,Fall 2017,source_date
+Hwwodo_KbtM,MSE_F2017_03,Materials Selection and Economics,Fall 2017,source_date
+d9ZqDMG93LQ,MSE_F2017_04,Materials Selection and Economics,Fall 2017,source_date
+wpBHc0zsiNo,MSE_F2017_05,Materials Selection and Economics,Fall 2017,source_date
+gQmNBzQ1La4,MSE_F2017_06,Materials Selection and Economics,Fall 2017,source_date
+MrHfe8l0600,MSE_F2017_07,Materials Selection and Economics,Fall 2017,fallback
+aLn70m1IMnc,REC_F2018_01,Recitations,Fall 2018,fallback
+xkHiipw7N9Y,REC_F2018_02,Recitations,Fall 2018,fallback
+dZ8VibRxb0Y,REC_S2020_01,Recitations,Spring 2020,source_date
+O-XaPwdx3Pw,REC_S2020_02,Recitations,Spring 2020,source_date
+HgVznvD95QM,REC_S2020_03,Recitations,Spring 2020,source_date
+OFA4nk7yyVI,REC_S2021_01,Recitations,Spring 2021,source_date
+j-h09h0ZbwI,SMS_F2013_01,Structural Materials Selection,Fall 2013,source_seq
+KfZ44zfZh6I,SMS_F2013_02,Structural Materials Selection,Fall 2013,explicit
+v-PMrqbjY1A,SMS_F2013_03,Structural Materials Selection,Fall 2013,source_seq
+JU7wcLlx-0E,SMS_F2013_04,Structural Materials Selection,Fall 2013,source_seq
+1PMeu_ZDa0M,SMS_F2013_05,Structural Materials Selection,Fall 2013,source_seq
+6B297feoqAw,SMS_F2013_06,Structural Materials Selection,Fall 2013,source_seq
+CltnNfkDpWQ,SMS_F2013_07,Structural Materials Selection,Fall 2013,source_seq
+_wa1ULmBMhY,SMS_F2013_08,Structural Materials Selection,Fall 2013,source_seq
+RU6_LtJn3rY,SMS_F2013_09,Structural Materials Selection,Fall 2013,source_seq
+F9-LE_nM5aQ,SMS_F2013_10,Structural Materials Selection,Fall 2013,source_seq
+mW4QLNrtMho,SMS_F2013_11,Structural Materials Selection,Fall 2013,fallback
+6UN5XMqMitk,SMS_F2013_12,Structural Materials Selection,Fall 2013,source_seq
+mKFI3E26KTU,SMS_F2013_13,Structural Materials Selection,Fall 2013,source_seq
+5N9jIr7LWPc,SMS_F2013_14,Structural Materials Selection,Fall 2013,source_seq
+CDneFQexLsc,SMS_F2014_01,Structural Materials Selection,Fall 2014,source_seq
+S4pgiEDtq_o,SMS_F2014_03,Structural Materials Selection,Fall 2014,source_seq
+ATL9_5gvx0k,SMS_F2014_04,Structural Materials Selection,Fall 2014,source_seq
+wwQawDUosU0,SMS_F2014_05,Structural Materials Selection,Fall 2014,source_seq
+o0dXxWXRxvY,SMS_F2014_06,Structural Materials Selection,Fall 2014,explicit
+8oyoyjuDaaA,SMS_F2014_07,Structural Materials Selection,Fall 2014,source_seq
+Y1trpj5Qki8,SMS_F2014_08,Structural Materials Selection,Fall 2014,source_seq
+oLNdcU9DXsY,SMS_F2014_09,Structural Materials Selection,Fall 2014,source_seq
+5-Tvwlhq8UI,SMS_F2014_10,Structural Materials Selection,Fall 2014,source_seq
+-6n9y2szRqo,SMS_F2014_11,Structural Materials Selection,Fall 2014,source_seq
+B9-65mAeOEE,SMS_F2014_12,Structural Materials Selection,Fall 2014,source_seq
+9_aVMP1AtS4,SMS_F2014_13,Structural Materials Selection,Fall 2014,source_seq
+oB6qD_T8FZ8,SMS_S2016_01,Structural Materials Selection,Spring 2016,source_seq
+2bPgU1dNqBg,SMS_S2016_02,Structural Materials Selection,Spring 2016,explicit
+Uwaz8-_9GOE,SMS_S2016_03,Structural Materials Selection,Spring 2016,explicit
+gVNm5XKccBw,SMS_S2016_04,Structural Materials Selection,Spring 2016,explicit
+Ga5UGrLc7H4,SMS_S2016_05,Structural Materials Selection,Spring 2016,source_seq
+q4aHXOwAP0Y,SMS_S2016_06,Structural Materials Selection,Spring 2016,source_seq
+9yU362dFVWM,SMS_S2016_07,Structural Materials Selection,Spring 2016,source_seq
+Wg6ZWqT_Q9M,SMS_S2016_08,Structural Materials Selection,Spring 2016,explicit
+65LCaH3Sgdw,SMS_S2016_09,Structural Materials Selection,Spring 2016,source_seq
+BvoRq2U4FWg,SMS_S2016_10,Structural Materials Selection,Spring 2016,source_seq
+lN_vONFKMzM,SMS_S2016_11,Structural Materials Selection,Spring 2016,source_seq
+7D_eu9LVGqo,SMS_S2016_12,Structural Materials Selection,Spring 2016,source_seq
+JIAYtxFVZ3Y,SSW_S2013_01,Solid State Welding,Spring 2013,source_seq
+rF3eZtxWR4I,SSW_S2013_02,Solid State Welding,Spring 2013,explicit
+cQyB28XAsDA,SSW_S2013_03,Solid State Welding,Spring 2013,source_seq
+ezlblvG-CmI,SSW_S2013_04,Solid State Welding,Spring 2013,explicit
+AD8vT3yI7Co,SSW_S2013_05,Solid State Welding,Spring 2013,source_seq
+W6odPf1FnBs,SSW_S2013_06,Solid State Welding,Spring 2013,source_seq
+lq2o9aQyxMo,SSW_S2013_07,Solid State Welding,Spring 2013,source_seq
+MVljACLzPIk,SSW_S2013_08,Solid State Welding,Spring 2013,source_seq
+BVe8AzvbfyA,SSW_S2013_09,Solid State Welding,Spring 2013,source_seq
+qxu-UXRIfhU,SSW_S2013_10,Solid State Welding,Spring 2013,source_seq
+40vhfL7j7yc,SSW_S2013_11,Solid State Welding,Spring 2013,source_seq
+unG_GsTROaU,SSW_S2013_12,Solid State Welding,Spring 2013,source_seq
+YOAZ7_gEltc,SSW_S2013_13,Solid State Welding,Spring 2013,fallback
+rxnUxG_PQgg,TQI_S2018_01,Total Quality Improvement,Spring 2018,source_date
+X3MCQ1yWVrM,TQI_S2018_02,Total Quality Improvement,Spring 2018,source_date
+3aJEQaYKG3w,TQI_S2018_03,Total Quality Improvement,Spring 2018,fallback
+P5IUV3hGBxQ,TQI_S2018_04,Total Quality Improvement,Spring 2018,fallback
+QFpqOBjwo34,TQI_S2018_05,Total Quality Improvement,Spring 2018,fallback
+RKsOktnW64A,TQI_S2018_06,Total Quality Improvement,Spring 2018,fallback
+e5EulnwJsHA,TQI_S2018_07,Total Quality Improvement,Spring 2018,fallback
+j_nGedqJbWA,WIE_F2015_01,What is Engineering,Fall 2015,source_seq
+L2wdWmrfY4o,WIE_F2015_02,What is Engineering,Fall 2015,source_seq
+42alE7nc_-Y,WIE_F2015_03,What is Engineering,Fall 2015,source_seq
+JkjNi8bmw70,WIE_F2015_04,What is Engineering,Fall 2015,source_seq
+1DLSqyBNDwA,WIE_F2015_05,What is Engineering,Fall 2015,explicit
+g-JCSA7FEaU,WIE_F2015_06,What is Engineering,Fall 2015,source_seq
+FbVfohm67zw,WIE_F2015_07,What is Engineering,Fall 2015,explicit
+kwG1vlILhH0,WIE_F2015_08,What is Engineering,Fall 2015,source_seq
+Dl9HqoG6vYk,WIE_F2015_09,What is Engineering,Fall 2015,source_seq
+mHFW4IX-TCs,WIE_F2015_10,What is Engineering,Fall 2015,source_seq
+FodIYWgUez8,WIE_F2015_11,What is Engineering,Fall 2015,source_seq
+3mWtnvIX_gY,WIE_F2015_12,What is Engineering,Fall 2015,source_seq
+xlmhd4jh3kg,WM_S2014_01,Welding Metallurgy,Spring 2014,source_seq
+CBIhjPF7XGc,WM_S2014_02,Welding Metallurgy,Spring 2014,explicit
+gI6EncbzMYI,WM_S2014_03,Welding Metallurgy,Spring 2014,explicit
+4yImu8D5fOs,WM_S2014_04,Welding Metallurgy,Spring 2014,explicit
+GTYVZje3nmY,WM_S2014_05,Welding Metallurgy,Spring 2014,explicit
+DTpmcRZY-gs,WM_S2014_06,Welding Metallurgy,Spring 2014,explicit
+2SD5PP34M88,WM_S2014_07,Welding Metallurgy,Spring 2014,source_seq
+PLoJwbIouJc,WM_S2014_08,Welding Metallurgy,Spring 2014,explicit
+6pZ6eQ9AqJs,WM_S2014_09,Welding Metallurgy,Spring 2014,source_seq
+Sk-yqbN81qY,WM_S2014_10,Welding Metallurgy,Spring 2014,source_seq
+O6qTEi74ylU,WM_S2014_11,Welding Metallurgy,Spring 2014,source_seq
+TDSpnEuACMw,WM_S2014_12,Welding Metallurgy,Spring 2014,source_seq
+W7Ak5m9UX3c,WM_S2014_13,Welding Metallurgy,Spring 2014,source_seq
+yeLP2yXF358,WM_S2014_14,Welding Metallurgy,Spring 2014,source_seq
+CjX9EIFHGa0,WM_S2014_15,Welding Metallurgy,Spring 2014,source_seq
+WV6COuYpZuk,WM_S2014_16,Welding Metallurgy,Spring 2014,source_seq
+5apdp6tM_vg,WM_S2014_17,Welding Metallurgy,Spring 2014,explicit
+sSdJgzB3ioQ,WM_S2014_18,Welding Metallurgy,Spring 2014,source_seq
+dFgUWebqYvI,WM_S2014_19,Welding Metallurgy,Spring 2014,source_seq
+Cz5zDd1Xwpw,WM_S2014_20,Welding Metallurgy,Spring 2014,source_seq
+Jh5DokU5lSU,WM_S2014_21,Welding Metallurgy,Spring 2014,source_seq
+GfNlt6mnU7E,WM_S2014_22,Welding Metallurgy,Spring 2014,source_seq
+pOOhkXvQG4U,WM_S2014_23,Welding Metallurgy,Spring 2014,explicit
+YaQD8TDvp2k,WM_S2014_24,Welding Metallurgy,Spring 2014,source_seq
+8Cn4CDzXKdU,WM_S2014_25,Welding Metallurgy,Spring 2014,source_seq
+G5THU-givDs,WM_S2014_26,Welding Metallurgy,Spring 2014,source_seq
+2mxFuYzDDtU,WM_S2014_27,Welding Metallurgy,Spring 2014,source_seq
+g7tCGetxxRQ,WM_S2014_28,Welding Metallurgy,Spring 2014,source_seq
+NBKezMyc29c,WM_S2014_29,Welding Metallurgy,Spring 2014,source_seq
+TCmd_zoXkK8,WM_Su2014_01,Welding Metallurgy,Summer 2014,explicit
+cD2dBCxt1Sw,WM_Su2014_02,Welding Metallurgy,Summer 2014,explicit
+6fpf4j6EQD8,WM_Su2014_03,Welding Metallurgy,Summer 2014,source_seq
+ZWgkUrtyK-4,WM_Su2014_05,Welding Metallurgy,Summer 2014,explicit
+IUNJxDpWC7M,WM_Su2014_06,Welding Metallurgy,Summer 2014,source_seq
+xutMakERdxY,WM_Su2014_07,Welding Metallurgy,Summer 2014,source_seq
+tx9-q4S6dWA,WM_Su2014_08,Welding Metallurgy,Summer 2014,explicit
+dkmbe7ZGvUw,WM_Su2014_09,Welding Metallurgy,Summer 2014,source_seq
+htX4D4DYtxQ,WM_Su2014_10,Welding Metallurgy,Summer 2014,explicit
+PbP0bcxaq9c,WM_Su2014_11,Welding Metallurgy,Summer 2014,source_seq
+w73CBqdeCEc,WM_Su2014_12,Welding Metallurgy,Summer 2014,source_seq
+jKo-ODclZzI,WM_Su2014_13,Welding Metallurgy,Summer 2014,explicit
+Rn3Lc-rXdOc,WM_Su2014_14,Welding Metallurgy,Summer 2014,source_seq
+RZYwHNnIbzg,WM_Su2014_15,Welding Metallurgy,Summer 2014,source_seq
+e6E3olVXKQM,WM_Su2014_16,Welding Metallurgy,Summer 2014,source_seq
+MJs0XxC5_6Q,WM_Su2014_17,Welding Metallurgy,Summer 2014,source_seq
+CBSri-H9tUE,WM_Su2014_18,Welding Metallurgy,Summer 2014,explicit
+ZroX3BiYm64,WM_Su2014_19,Welding Metallurgy,Summer 2014,explicit
+qBeTbWLRrVo,WM_Su2014_20,Welding Metallurgy,Summer 2014,explicit
+JqHyPQAPsao,WM_Su2014_21,Welding Metallurgy,Summer 2014,explicit
+fcDV3MMlcAE,WM_Su2014_22,Welding Metallurgy,Summer 2014,source_seq
+R6eVDrxe19E,WM_Su2014_23,Welding Metallurgy,Summer 2014,source_seq
+k1wVwANPdgQ,WM_Su2014_24,Welding Metallurgy,Summer 2014,source_seq
+0wUIpk_5BRY,WM_Su2014_25,Welding Metallurgy,Summer 2014,source_seq
+97xAeQRs69g,WM_Su2014_26,Welding Metallurgy,Summer 2014,source_seq
+dy4fI6J1gFo,WM_Su2014_27,Welding Metallurgy,Summer 2014,explicit
+XI3NzU5YHIQ,WM_Su2014_28,Welding Metallurgy,Summer 2014,source_seq
+d-QWemzw5KI,WM_Su2014_29,Welding Metallurgy,Summer 2014,explicit
+j_SJgDOZazw,WM_Su2014_30,Welding Metallurgy,Summer 2014,source_seq
+c62G8QyDL3o,WM_Su2014_31,Welding Metallurgy,Summer 2014,source_seq
+TlQXnQUYwlk,WM_Su2014_32,Welding Metallurgy,Summer 2014,source_seq
+nldzJUEAYsc,WM_Su2014_33,Welding Metallurgy,Summer 2014,source_seq
+1s_KEnbkpmQ,WM_Su2014_34,Welding Metallurgy,Summer 2014,explicit
+0Iz9AY5pXvk,WM_Su2014_35,Welding Metallurgy,Summer 2014,source_seq
+DokriGA10Oo,WM_Su2015_01,Welding Metallurgy,Summer 2015,source_seq
+9gA5RNdtLDo,WM_Su2015_02,Welding Metallurgy,Summer 2015,explicit
+_JAsjrPvjxs,WM_Su2015_03,Welding Metallurgy,Summer 2015,explicit
+r3NzM4MlAl8,WM_Su2015_05,Welding Metallurgy,Summer 2015,explicit
+w1moz79p9kQ,WM_Su2015_06,Welding Metallurgy,Summer 2015,source_seq
+GYtCQg57RNU,WM_Su2015_07,Welding Metallurgy,Summer 2015,source_seq
+NLgwLkKhVoU,WM_Su2015_08,Welding Metallurgy,Summer 2015,source_seq
+OszzaQpMV50,WM_Su2015_10,Welding Metallurgy,Summer 2015,source_seq
+gVeVr4WnhTE,WM_Su2015_11,Welding Metallurgy,Summer 2015,source_seq
+HoUo7Qj4LHg,WM_Su2015_12,Welding Metallurgy,Summer 2015,source_seq
+Lfnk639q2PI,WM_Su2015_13,Welding Metallurgy,Summer 2015,source_seq
+LLiigEgH8Eo,WM_Su2015_14,Welding Metallurgy,Summer 2015,source_seq
+lOpCROJ1OA4,WM_Su2015_15,Welding Metallurgy,Summer 2015,source_seq
+EMfCc1mG6M4,WM_Su2015_16,Welding Metallurgy,Summer 2015,source_seq
+0II4lgNStTY,WM_Su2015_17,Welding Metallurgy,Summer 2015,source_seq
+lWfHtQqXYJk,WM_Su2015_18,Welding Metallurgy,Summer 2015,source_seq

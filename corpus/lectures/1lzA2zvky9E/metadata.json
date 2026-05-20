@@ -53,5 +53,7 @@
     "p38: Toyota/sewing-machines almost certainly Toyoda/looms \u2014 preserved without bracket, flagged for review",
     "p47: guest lecturer name 'Simone Belmar' uncertain \u2014 captioner garble flagged"
   ],
-  "course_canonical": "Materials Selection and Economics"
+  "course_canonical": "Materials Selection and Economics",
+  "course_module": "Materials Selection and Economics",
+  "corpus_id": "MSE_F2017_01"
 }

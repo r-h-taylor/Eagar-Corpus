@@ -72,5 +72,7 @@
   ],
   "section_count_estimate": 7,
   "notes": "Lecture opens with marvels-of-engineering recap (bridges, MIT's defining role in engineering disciplines), moves through Egyptian-obelisk / paper-clip pyramids-to-paper-clips frame, takes an extended Q&A detour into steel industry economics (Bessemer \u2192 BOF \u2192 continuous casting \u2192 Mittal/POSCO/Baosteel consolidation), then closes with engineering code of ethics, international undergraduate engineering enrollment data, and Maslow's-hierarchy framing of why immigrants choose engineering. Roughly 53 minutes.",
-  "course_canonical": "What is Engineering"
+  "course_canonical": "What is Engineering",
+  "course_module": "What is Engineering",
+  "corpus_id": "WIE_F2015_06"
 }

@@ -60,5 +60,7 @@
     "p1: 'tungsten lium' \u2014 likely 'tellurium' but uncertain; left as '[tellurium?]'"
   ],
   "notes": "Lecture covers wrap-up of dissimilar metal thermal expansion, transitions through wetting/flux theory with three classic failure modes (oxalic acid, glucose, abietic acid), digresses memorably into rosin-baked potatoes and Texas Roadhouse, then closes with two operations-research case studies (Motorola pager plant, Ford Mustang plant) illustrating that the 6% industry rework rate was self-fulfilling. Lecture ends with 'see you tomorrow' \u2014 part of a tightly serialized sequence.",
-  "course_canonical": "Solid State Welding"
+  "course_canonical": "Solid State Welding",
+  "course_module": "Solid State Welding",
+  "corpus_id": "SSW_S2013_10"
 }

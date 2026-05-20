@@ -67,5 +67,7 @@
   "pipeline_version": "2.0",
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T00:42:38.073308+00:00",
-  "course_canonical": "How to be a Successful Engineer"
+  "course_canonical": "How to be a Successful Engineer",
+  "course_module": "What is Engineering",
+  "corpus_id": "WIE_F2015_11"
 }

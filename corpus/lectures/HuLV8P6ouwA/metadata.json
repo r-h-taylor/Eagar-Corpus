@@ -85,5 +85,7 @@
     "p41: 300 billion vs 300 million tons plastics (corrected to million)",
     "p54: ships/rail cars figures garbled in raw, need reconstruction"
   ],
-  "course_canonical": "Materials Selection and Economics"
+  "course_canonical": "Materials Selection and Economics",
+  "course_module": "Materials Selection and Economics",
+  "corpus_id": "MSE_F2017_02"
 }

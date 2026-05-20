@@ -59,5 +59,7 @@
     "p46: 'Michoud is in Stennis' \u2014 Tom's geographic confusion preserved; note for layer 3 footnote",
     "p53: 'farming' \u2014 likely captioner garble of a thermodynamic cycle name (Rankine?); ambiguous"
   ],
-  "course_canonical": "Structural Materials Selection"
+  "course_canonical": "Structural Materials Selection",
+  "course_module": "Structural Materials Selection",
+  "corpus_id": "SMS_F2013_03"
 }

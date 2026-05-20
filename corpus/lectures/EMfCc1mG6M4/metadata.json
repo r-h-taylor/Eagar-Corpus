@@ -70,5 +70,7 @@
   ],
   "editorial_flags_count": 9,
   "notes": "Full lecture, single continuous session. No discrete section breaks marked; Tom moves through multiple cases and technical points fluidly. Sectioning will be applied at layer 3. Captioner quality on this video is notably poor \u2014 many proper nouns, alloy designations, and technical terms badly garbled. Heavy correction load; numerous items flagged for human review.",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2015_16"
 }

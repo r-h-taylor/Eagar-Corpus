@@ -49,5 +49,7 @@
     "p18: 'Professor Yoel Fink [Joannopoulos? \u2014 see register]' \u2014 referent ambiguous between student and advisor; flagged for editor confirmation"
   ],
   "notes": "Final lecture of the Summer 2013 Fusion Welding series. Audio cuts off mid-sentence at ~52:11 as Tom calls a 5-minute break. The lecture follows Tom's standard pattern of finishing a technical comparison (EB vs laser, point 8 of a list) then drifting into broader industrial-history tirade (Japan, France, Kodak, Bethlehem Steel).",
-  "course_canonical": "Fusion Welding"
+  "course_canonical": "Fusion Welding",
+  "course_module": "Fusion Welding",
+  "corpus_id": "FW_Su2013_06"
 }

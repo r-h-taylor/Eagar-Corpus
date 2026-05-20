@@ -75,5 +75,7 @@
   "pipeline_version": "2.0",
   "model": "claude-opus-4-7",
   "generated_at": "2026-05-13T19:20:01.430015+00:00",
-  "course_canonical": "Welding Quality"
+  "course_canonical": "Welding Quality",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_32"
 }

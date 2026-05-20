@@ -69,5 +69,7 @@
       "disposition": "spelling preserved as captioned; may normalize in layer 3"
     }
   ],
-  "course_canonical": "Codes and Standards"
+  "course_canonical": "Codes and Standards",
+  "course_module": "Codes and Standards",
+  "corpus_id": "CS_F2012_02"
 }

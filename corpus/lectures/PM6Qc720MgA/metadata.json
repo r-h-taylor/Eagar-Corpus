@@ -51,5 +51,7 @@
     "p20 'foreign assembly' vs 'full assembly' ambiguity preserved",
     "Speaker email 'belmar@materials' suggests identity recoverable from MIT directory circa 2012"
   ],
-  "course_canonical": "Codes and Standards"
+  "course_canonical": "Codes and Standards",
+  "course_module": "Codes and Standards",
+  "corpus_id": "CS_F2012_14"
 }

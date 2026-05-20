@@ -23,5 +23,7 @@
   ],
   "section_count": 1,
   "processing_notes": "Section 1 covers the full content of the available transcript (Tom's portion of the introductory lecture, before handoff to Dr. Belmare). Single-section processing for this submission. Subsequent sections (Belmare's portion, if continued in this video) would be processed in further passes. Tom's mid-lecture handoff occurs at approximately 28:35, where he says 'Take wow anyway' as a transition cue.",
-  "course_canonical": "What is Engineering"
+  "course_canonical": "What is Engineering",
+  "course_module": "What is Engineering",
+  "corpus_id": "WIE_F2015_01"
 }

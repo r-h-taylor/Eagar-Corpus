@@ -54,5 +54,7 @@
     "arc key (p46) \u2014 captioner garbling unresolved",
     "Pricer/Chrysler at p26 \u2014 slip vs captioner ambiguous"
   ],
-  "course_canonical": "Fusion Welding"
+  "course_canonical": "Fusion Welding",
+  "course_module": "Fusion Welding",
+  "corpus_id": "FW_Su2013_05"
 }

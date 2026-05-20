@@ -76,5 +76,7 @@
   "captioner_garble_severity": "moderate-to-high \u2014 multiple proper nouns (beryllium, blisk, Whittle, Udimet, Pechiney, Novelis, Metglas) systematically misrecognized; corrected silently",
   "tom_slips_count": 2,
   "editor_review_flags": 4,
-  "course_canonical": "Structural Materials Selection"
+  "course_canonical": "Structural Materials Selection",
+  "course_module": "Structural Materials Selection",
+  "corpus_id": "SMS_S2016_06"
 }

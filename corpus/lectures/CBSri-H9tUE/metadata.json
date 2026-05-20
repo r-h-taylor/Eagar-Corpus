@@ -65,5 +65,7 @@
   ],
   "stage_directions_count": 1,
   "notes": "Lecture mid-series; presupposes prior introduction of Venn diagram (material/stress/environment) for stress corrosion cracking, prior discussion of HY80/HY100, prior 'Sprite goes flat' analogy for hydrogen diffusion. Lecture ends mid-sentence at the raw transcript boundary; continues into lecture 19.",
-  "course_canonical": "Corrosion Cracking and More"
+  "course_canonical": "Corrosion Cracking and More",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_Su2014_18"
 }

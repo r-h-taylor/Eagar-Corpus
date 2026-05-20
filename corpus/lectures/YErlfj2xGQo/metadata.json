@@ -68,5 +68,7 @@
     "Trolley wire sample (Phelps Dodge superfine grain copper-silver)",
     "Tensile bars (referenced as previously circulated)"
   ],
-  "course_canonical": "Deformation Processing"
+  "course_canonical": "Deformation Processing",
+  "course_module": "Deformation Processing",
+  "corpus_id": "DP_S2012_04"
 }

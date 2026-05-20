@@ -79,5 +79,7 @@
     "p40: 'Trayma Train' \u2014 captioner faithfully captured Tom's reading of a misprinted sign; preserved.",
     "Multiple student turns inferred from Tom's responses; no student audio captured by captioner."
   ],
-  "course_canonical": "Structural Materials Selection"
+  "course_canonical": "Structural Materials Selection",
+  "course_module": "Structural Materials Selection",
+  "corpus_id": "SMS_F2013_05"
 }

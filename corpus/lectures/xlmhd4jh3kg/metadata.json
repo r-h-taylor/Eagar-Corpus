@@ -58,5 +58,7 @@
   ],
   "section_count_estimate_for_layer3": 5,
   "notes": "This is the opening lecture of the Spring 2014 Welding Metallurgy module. About half is administrative (course structure, modules, assignments, no-quizzes philosophy) and half is Eagar's pedagogical manifesto with two preview examples (fluorescent lights, Scotch tape). No deep technical content yet. Two-page-math-book anecdote and air-conditioner-as-heat-engine are characteristic Eagar set-pieces that recur across the corpus.",
-  "course_canonical": "Welding Metallurgy"
+  "course_canonical": "Welding Metallurgy",
+  "course_module": "Welding Metallurgy",
+  "corpus_id": "WM_S2014_01"
 }

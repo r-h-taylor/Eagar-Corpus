@@ -25,5 +25,7 @@
       "issue": "Source is not Tom's voice. Recommend reclassification of this video_id within the corpus before layer 3 sectioning is attempted."
     }
   ],
-  "course_canonical": "Fusion Welding"
+  "course_canonical": "Fusion Welding",
+  "course_module": "Fusion Welding",
+  "corpus_id": "FW_Su2013_08"
 }
