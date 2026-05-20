@@ -1,0 +1,6387 @@
+[
+  {
+    "cluster_id": "Saugus Ironworks",
+    "tag": "industrial-historical",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "1973 Arab oil embargo",
+    "tag": "industrial-historical",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Bethlehem Steel Burns Harbor",
+    "tag": "industrial-historical",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Watertown Arsenal titanium development",
+    "tag": "industrial-historical",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Basic oxygen furnace introduction in Austria",
+    "tag": "industrial-historical",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Continuous casting and steel industry capacity collapse",
+    "tag": "industrial-historical",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Wright brothers' aircraft engine",
+    "tag": "industrial-historical",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "British Welding Institute founding",
+    "tag": "industrial-historical",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Andrew Mellon all-aluminum Pierce Arrow automobile",
+    "tag": "industrial-historical",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Clayton Christensen innovator's dilemma research\u2014steel mill cost data",
+    "tag": "industrial-historical",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Air Force Buy-to-Fly Ratio in Aircraft Manufacturing",
+    "tag": "industrial-historical",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Lakshmi Mittal steel mill acquisition strategy",
+    "tag": "industrial-historical",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Liberty ships and SS Schenectady",
+    "tag": "forensic",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "World Trade Center collapse",
+    "tag": "forensic",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "V-22 Osprey aircraft",
+    "tag": "forensic",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Soviet Alpha-class submarine",
+    "tag": "forensic",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Space Shuttle Challenger",
+    "tag": "forensic",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Space Shuttle cost overrun",
+    "tag": "forensic",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Tom Eagar's steel company experience",
+    "tag": "biographical",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "Iron whiskers (1950s screw dislocation studies)",
+    "tag": "technical-narrative",
+    "confidence": "seeded",
+    "source": "table_1_seed"
+  },
+  {
+    "cluster_id": "1985 automotive galvanized steel spot-weld electrode failure",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "1988 nor'easter structural collapses (New Jersey/Pennsylvania)",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "1989\u20132009 commercial aircraft accidents attributed to NDT failures",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "1991 Gulf War M1 Abrams vs T-72 tank engagement",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "19th-century European steel phosphorus and sulfur brittleness",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "2008 financial crisis / derivatives collapse",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "2010 China rare earth embargo on Japan",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "3/8 inch rebar rolling mill productivity case",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "30-mile pipeline brittle fracture",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "3D metal printing propeller test for US Navy",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "3D-printed solder droplet circuit boards research",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "50,000-ton Wyman-Gordon forging press structural crack",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "50,000-ton forging press development (Air Force/Alcoa/Wyman Gordon)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "60 Wall Street (JP Morgan building) air conditioning riser pipe failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "7,000-ton forging press weld repair",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "7500-ton forging press failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "A Civil Action (Woburn chemical spill)",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "A106 pipe standards conflict",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "ALVIN deep research submarine hull transition",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "ALVIN submarine pressure hull cost overrun",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "AT&T telephone network mechanical switch failure risk",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "ATV exhaust and water ingress assembly failures",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aberdeen Proving Ground RDX soil contamination",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aberdeen Proving Ground kinetic energy penetrator armor defeat (1984-1985)",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Accel trolley wire for Boston-New Haven electrified rail upgrade",
+    "tag": "mixed",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Acetylene cylinder explosion hazard (early acetylene storage)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Additive manufacturing powder bed part failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Adhesive-bonded automotive door panels failure (1980s\u20131990s)",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Admiralty brass heat exchanger plugging failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aerogel as structural material (New York Times article case)",
+    "tag": "biographical",
+    "confidence": "low",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aerospace company gold-nickel braze powder inventory control failure",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Air Force 100,000-ton forging press project",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Air Force Mach 17 air-breathing aircraft program",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Air Force One friction welding blade-to-disc program",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Air Force acoustic emission crack-growth flight test",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Air Force blisk (bladed disc) welding development",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Air Force titanium powder prototype facility (Wyman Gordon)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Air Force turbine blade repair",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Air Force turbine engine repair facility operations",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Airbag explosives in steel mill shredding",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aircraft crankshaft bolt tensioning",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aircraft engine failure litigation (Cambridge courthouse)",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aircraft engine hydrogen cracking failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aircraft landing gear and turbine engine shaft vacuum arc melting",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aircraft piston engine crankcase 30-year repair defect pattern",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alabama aluminum foundry freeze-up",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alaska Pipeline Welding Union Control",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alaska Pipeline brittle fracture risk assessment",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alaska Pipeline construction",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alaska gas pipeline nickel alloy feasibility",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alaska highway asphalt degradation",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alaskan Pipeline construction",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alberta transmission tower steel contract dispute",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alcoa Davenport aluminum rolling mill thickness variation",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alcoa Davenport quench-and-temper failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alcoa Tennessee labor violence (1910)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alcoa Tennessee lead-contaminated aluminum beverage can recycling failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alcoa aluminum potline freeze-up explosive demolition",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alcoa monopoly and price fixing with Dow Chemical",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alcoa v. aluminum extrusion manufacturer (Boeing wing spar data theft)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alcoa-Audi aluminum vehicle development partnership",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alexander Kielland disaster",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "All-aluminum automobile body cost analysis (early 1990s)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Allegheny Ludlum AOD Bearing Failure",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Allegheny Ludlum Steel\u20141980s profitability under Dick Simmons",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Allegheny River interstate highway bridge crack",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Allied Signal amorphous metal foil patent dispute",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aloha Airlines Flight 243",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aluminum 6061 weld cracking with improper filler wire selection",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aluminum 7075 stress-corrosion cracking in aircraft structures",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aluminum aerospace-grade cracking in powder bed additive manufacturing",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aluminum automotive applications (1990s Ford Taurus vs. Toyota Camry)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aluminum baseball bat",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aluminum brake calipers (automotive)",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aluminum can recycling contamination problem",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aluminum casting aircraft engine repair consulting case",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aluminum motors vs. copper generators",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aluminum radiator field brazing development",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aluminum silicon carbide brake calipers",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aluminum washer stress-corrosion cracking failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aluminum-silicon carbide composite welding project",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Alvin and Sea Cliff deep-ocean research submersible development",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "America's Cup 4340 welding procedure development",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "America's Cup HY-80 keel failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "America's Cup design philosophy and lightweight failure margins",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "America's Cup hydraulic cylinder stress corrosion cracking",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "American Airlines composite rudder separation",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "American Electric Power Texas transmission line investment",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "American Superconductor commercial viability (1995\u2013present)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Amorphous metals development",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Amtrak New Haven to Boston trolley wire",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Amtrak catenary wire procurement fraud case",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Amtrak derailment near Philadelphia",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Anodized aluminum medical laser instrument design",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Argon oxygen decarbonization (AOD) process development",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Arizona pipeline stacker bracket failure",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Arizona warehouse roof corrosion failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Armco Steel continuous casting decision",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Army brake shoes fraud and specification conflict",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Army gun barrel erosion and coating programs",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Army helicopter rotor casting weld repair (early 1980s)",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Army wonder armor scaling failure",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Arthroscopic knee surgery tool design and materials selection",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Artificial hip replacement failures - early iterations",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Asbestos fibers strength measurement",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Atomic bomb recovery off Spain",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Attleboro gold alloy and casting operations",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Audi all-aluminum automobiles",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Audi-Alcoa aluminum vehicle development partnership",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Automobile drive shaft universal joint friction welding",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Automobile spot welding quality",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Automotive sheet metal stretcher strain defects",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Avco Everett laser welder demonstrations (early 1980s)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Aviation carburetor icing failures",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "B1 bomber program titanium surplus repurposing",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "BMW i3 carbon fiber automobile design",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "BP Deepwater Horizon blowout preventer failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Backofen superplasticity rediscovery",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Baltimore Gas and Electric under-deposit corrosion",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Barge machine turnings fire",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Baseball bat aluminum alloy development",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Baseball bat forensic consulting case",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Baseball bat performance study",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bath Iron Works welding-over-paint trials",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bay Bridge California corrosion-induced hydrogen cracking",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bell Helicopter mast hydrogen cracking prevention",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bell Helicopter rotor blade corrosion fatigue failure (Brazil)",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bell Helicopter supplier liability case",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bell Labs transistor development",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bell Labs zone melting semiconductor purification (1950s)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Belmont elementary school oil tank leak",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Beryllium toxicity discovery at MIT",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Big Inch Pipeline",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Big steel companies decline through market abandonment",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bimetallic bandsaw and hacksaw blade electron beam welding",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bismuth-tin solder replacement causing steel scrap contamination",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Black Hawk helicopter tail rotor washer failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Black iron pipe corrosion rate field observation",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Black light bulb eye injury case",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Blood diamonds civil war",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Blowout preventer investigations (4-5 cases)",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bob Rose light bulb classroom demonstration",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing 737 MAX",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing 747 C-5A competition",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing 747-400 Titanium Air Tubing and Catalytic Converter",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing 747-400 catalytic converter titanium welding failure",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing 747-400 fuselage welding porosity issue",
+    "tag": "forensic",
+    "confidence": "low",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing 777 advanced composites program",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing 777 brake certification testing",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing 787 all-composite aircraft",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing Friction-Stir Welding Machine Investment",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing aircraft disc weight savings analysis (1990 LGO study)",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing aircraft door manufacturing and cost analysis",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing aircraft rivet hole fit-up specification",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing aircraft skin and wing adhesive bonding",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing aluminum wing manufacturing waste",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing door product center cost accounting failure",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boeing door product center manufacturing",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bolt hydrogen embrittlement cracking dispute",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bombardier aircraft lightning testing - Canadian border incident",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boomer Submarine Trident Tube Retrofits",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bosco Lee Morton Thiokol O-ring engineering decision",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boston Big Dig",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boston Edison stainless steel corrosion",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boston Gas Company buried steel pipe corrosion and gas leaks",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boston Logan Airport deicing fluid transition",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boston Navy Shipyard destroyer boiler pipe weld (stainless-to-chromemoly transition)",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boston Navy Yard destroyer boiler pipe weld (stainless-to-chromemoly transition)",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boston warehouse fire protection system corrosion",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Boston wooden gas pipes (1880s street light system)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Brain aneurysm clip ferromagnetism controversy",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Brewery consulting case (upstate New York)",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Brewery filling line consulting project",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "British Welding Institute vibratory stress relief evaluation",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "British iron industry wood shortage crisis",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "British technology transfer to China in zirconium reactor development",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Brockton Massachusetts steam boiler explosion",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Brooklyn Bridge caisson workers - decompression sickness",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Brooklyn Bridge caissons - decompression sickness",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Brooklyn Navy Yard shaped-charge discovery",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bulk metallic glass commercialization effort",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bulk metallic glass golf clubs",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Bullet-resistant glass installation failure investigation",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "CH-53/MH-53 helicopter washer corrosion problem",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "CMSX4/CMSX5 rhenium alloy pigtails in MIT lab",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Cadmium oxide electrical switch ban and house fires",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "California texting and driving fatal collision",
+    "tag": "forensic",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "California transmission line wildfires",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Caltech rapid solidification metallic ribbon research",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Cambridge water main floods from cast iron pipe failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Canadian Aviation Authority Teflon carburetor coating test",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Canadian Transportation Board filler metal composition criticism",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Canadian aluminum-silicon carbide composite casting development",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Canadian solar cell manufacturing facility failure",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Cannon connector arc tracking fault in electron beam melter",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Cape Cod sailboat anodized aluminum corrosion failure",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Car elevator loading failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Carbon composite filter for precious metal catalyst recovery",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Carbon nanotubes structural applications (overpromised research)",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Cardiac guide wire lawsuit",
+    "tag": "forensic",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Caroline Joseph corrosion testing project",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Carrollton aviation incident",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Catalytic converter cold-start emissions problem",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Central Artery tunnel project (Boston)",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ceramic coating on turbine blades thermal stress",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ceramic engine development (1990s ceramics hype)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Chaparral Steel",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Chemical plant explosion in Texas",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Chevrolet Vega engine removal for spark plug service",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "China rare earth embargo on Japan",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Chinese aluminum overproduction and market displacement",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Chrome-molybdenum tube cracking at Boston Navy Yard",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Chrysler Dodge minivan adhesive bonding problems (early-to-mid 1980s)",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Chrysler lightweight aluminum vehicle design",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Chrysler refrigerated spot-weld electrode cooling proposal (mid-1980s)",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Chrysler sports car fuel injector failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Church oven gas leak fire",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Cincinnati Red Stadium I-beam collapse",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Cisco Systems PCB manufacturing quality control",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Citicorp Tower",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Civil War cannonball drop towers",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Classified aircraft hydrogen embrittlement case",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Coast Guard 103-foot cutter cracking failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Coca-Cola can manufacturing",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Cold bonding of integrated circuits and transistors",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Cold heading for furniture fasteners",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Composite submarine repairability failure",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Concept Blazers titanium racing car parts manufacturing",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Concorde maintenance and operational failures",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Concorde skin temperature limitation",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Concorde supersonic transport operations and economics",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Conform process development",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Congressional DNA-destruction material ban proposal",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Connecticut hockey rink concrete failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Consultant's daughter polybutylene condo replacement lawsuit (Raleigh, NC)",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Consulting engagement with Bruce Sylvester (metallurgical services)",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Continuous caster breakout",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Continuous casting of steel strip (50-year unsolved challenge)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Coolidge tungsten wire process for incandescent light bulbs",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Copper checks from continuous caster startup",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Copper pipe pitting corrosion self-sealing",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Copper-niobium alloy CONFORM die failure",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Copperweld continuous caster breakout",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Corian countertop thermal cracking",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Corning Willow Glass development",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Corning float glass dual-surface manufacturing",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Corning technology theft incidents",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Corrugated Stainless Steel Tubing",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Corvette magnesium engine cradle corrosion study",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Cow magnet ingestion in livestock",
+    "tag": "technical-narrative",
+    "confidence": "low",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Crappy steel and welds failure case",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Cruise missile graphite engine",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Custom-built trailer design and field testing",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Czechoslovak high-phosphorus ore steel cracking",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "DC transmission line in Manhattan",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Daniel Rosenthal's escape from Nazi Germany and development of Rosenthal equation",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Davenport Iowa plate stress relief by hydraulic jacking",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Davis-Besse nuclear plant",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Dayton Walther aluminum truck wheel fatigue case",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Dedham, Massachusetts 30-year-old brass plumbing valve failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Deep TIG (Deep Gas Tungsten Arc) development for thick-section horizontal welding",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Deepwater Horizon / BP Macondo well blowout",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Delrin (polyformaldehyde) toilet valve failures and exploding toilets",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Department of Energy 9% nickel steel qualification effort",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Depleted uranium armor penetrators and Gulf War environmental contamination",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Desktop Metal eyeglass hinges",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Destroyer rudder steel preheating logistics case",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Digital Equipment Corporation bankruptcy",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Doctoral exam vacuum reverberatory furnace design error",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Doctoral research on ceramic-metal joint porosity optimization",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Don Swaay lawsuit against US magnesium producer",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Dow Chemical magnesium price cartel (1946\u20131975)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Draper Autonomous underwater vehicle (AUV) prototype welding",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Eagar manganese deposition expert witness testimony",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Early American iron and glass industries\u2014British energy crisis relocation",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Early space missions and graphite lubricant failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Early steamboat boiler explosions (Ohio River)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Edison's carbonized horsehair light bulb filament",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Edison, New Jersey gas pipeline explosion",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Egon Orowan dislocation discovery (rug anecdote)",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Egyptian armor plate tank weld cracking",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Egyptian obelisk engineering mystery (Al Bakun / Wendell Wilkenning fracture analysis)",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Electric Boat quality control measurement resistance",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Electric Boat welding humidity specification violation",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Electric arc furnace water-cooled pipe rupture and molten steel explosion",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Electron beam deposition on naval propellers",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Electron beam melter fatal electrocution",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Electroplated bicycle tube fatality",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Elevator cable brittle fracture investigation",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Engine blade rejuvenation via hot isostatic pressing (HIP)",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "England 16th century 17th century deforestation and energy crisis",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "England 16th-17th century deforestation and energy crisis",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Erin Brockovich hexavalent chromium case",
+    "tag": "forensic",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Etruscan gold bead diffusion bonding",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Evanston Wyoming hydrogen sulfide gas field operations",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Eyeglass hinges additive manufacturing case study",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "F-111 composite radar dome bird strike",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "F-21 jet fighter engine diffusion bonding development",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "FAA aircraft parts certification case",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Faberware Millennium cookware hydrogen cracking",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Farberware cooking pot thermal warping",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Farberware stainless steel cookware pot cracking",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Fiberglass truck bed trial at coal mine",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Fighter jet canopy ejection system",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Fire sprinkler head misuse as coat hook",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Fire sprinkler system plastic pipe failures",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "First Gulf War helicopter engine failures from sand ingestion",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Flint Michigan lead in drinking water",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Florida high-rise copper-plated stainless steel water piping failure",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Florida tree stand welding failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Food processing stainless steel tank stress corrosion cracking",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ford F-150 all-aluminum body program",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ford F-150 plant labor constraint",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ford Motor Company and Libby Owens Ford float glass development",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ford Mustang assembly line non-start defect",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ford Taurus air conditioner compressor",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ford Taurus aluminum body cost analysis",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ford Taurus bumper paint line constraint",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ford aluminum ultrasonic welding research",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ford catalytic converter electron beam welding",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ford plastic bumper painting failure",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Fore River Bridge (Quincy)",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Foreign technology acquisition at David Taylor Naval Shipyard",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Forging press anvil base fracture",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Forging press repair weld failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Four-inch and eight-inch IED escalation in Iraq",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Frank Whittle turbine engine development",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "French electrical generator rotor forging failure",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Freshly made light bulb strength demonstration",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Friction stir welded jet aircraft proposal",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Frozen copper water pipe failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "GE Cleveland wire plant tungsten metallurgy challenges",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "GE Lynn jet engine turbine disk friction welding",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "GE samarium cobalt magnet development",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "GTD-111 superalloy patent dispute",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Galvanized steel spot welding in automotive assembly",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Gary Wennick conductive polymers research talk",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Gas compressor station failure in Texas",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Gas pipe corrosion and home explosions",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Gas well steel weld brittle fracture",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Gas-fired power plant water filter corrosion investigation",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Electric CF6-6 engine fan rotor failure",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Electric adaptive weld control feedback timing failure",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Electric boiling water reactor stress corrosion cracking",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Electric nuclear reactor safe-end cracking",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Electric spot weld adaptive control system",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Electric titanium compressor case electron beam welding porosity",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Electric vacuum tube laser repair",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Electric/GE aerospace rhenium supply constraint",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Electric/General Motors neodymium supply shortage threat",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Motors 1980s automation and competitive decline",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Motors Chevy Cavalier just-in-time assembly plant",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Motors Linden New Jersey locating pin failure",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Motors and Ford minivan spot-weld fatigue failures",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Motors bankruptcy",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Motors carpet adhesive failure in assembly plant",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Motors sliding door van lemon-law case",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Motors spot welding maintenance study",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "General Motors steering gear cold/warm heading",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Generator rotor shaft welding feasibility study (US Steel)",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "German WWII ball bearing factory\u2014critical mass of management",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "German superplasticity research (1938, lost in WWII)",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Glass Flowers degradation",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Glass fiber humidity degradation in fiberglass manufacturing",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Glomar Explorer (Soviet submarine recovery)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Gold cohesion experiment (ultra-high vacuum, 1950s)",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Gold-plated hydrocephalus shunt valve consulting case",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Gordon Forward mini mill competition strategy",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Government helicopter design approval and manufacturer liability protection",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Graphite pressure vessel failure with sulfuric acid",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Groton Connecticut submarine welding hydrogen embrittlement failures",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Gulf of Mexico oil pipeline defect",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "HMS Copper-Sheathed Naval Vessels",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "HMS Sheffield",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "HMS Victory (Nelson's flagship)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "HSLA 65 carrier weight-reduction study",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "HY-80 and HY-100 steel development",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Hall-H\u00e9roult cell anode effect and perfluorocarbon emissions",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Hard alpha inclusion in forged disc \u2014 non-destructive testing case study",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Harley-Davidson aluminum cylinder head casting defects",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Hart Cell propeller failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Harvard Stadium reinforced concrete (1910)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Hawaiian helicopter tour operations",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Helicopter blade intellectual property dispute",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Helicopter blade spar stress evaluation case",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Helicopter engine peashooter nitriding failure and lawsuit",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Helms Project penstock",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "High-speed boat propeller shaft failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "High-speed helicopter drive shaft hydrogen cracking",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "High-strength bolt reuse in aviation accidents",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "High-strength bridge bolts hydrogen embrittlement in Northeast",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "High-strength steel crack-stopper rings for pipelines",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "High-strength truck frame welding violations",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "High-temperature superconductivity for high-field magnets and levitated trains",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "High-temperature superconductor critical current density problem",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "High-temperature superconductor critical current measurement error",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "High-temperature superconductors hype and failure to solve power transmission",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "High-temperature turbine blade rhenium content escalation",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Homemade aluminum water-jet fishing boat exfoliation failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Honda ATV design optimization history",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Honda Civic rust failure (1970s)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Honeywell New Jersey facility morale and management crisis",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Hot isostatic pressing development at Battelle Memorial Institute",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Hot isostatic pressing vessel explosion",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Howard Hughes pressurized aircraft development",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Hubble Space Telescope mirror defect",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Hyatt Regency walkway collapse",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Hydrogen cracking in welded steel",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Hydrogen vehicle safety concerns (Obama hydrogen economy)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Hydrothermal quartz reactor explosion near Chicago",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "I-35W Minneapolis Bridge collapse",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "IBM PowerPoint executive meetings under Gerstner",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "IBM System/360 mainframe helium cooling",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "IBM copper interconnect diffusion barrier innovation",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "IBM interconnect density prediction and C4 development",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "IBM mainframe and salaried workforce restructuring",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "IBM stainless steel high-purity semiconductor piping rejection",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "IBM summer materials science course (late 1970s)",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "IMT hot isostatic press vessel failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Incandescent light bulb development (Edison/Langmuir)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Independent consultant patent liability and indemnification",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Indian businessman murdered for gold shark shirt",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Infinium magnesium extraction process development",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Initial cement truck tank explosion and worker leg amputation",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Intel chip wire bonding defect scrap problem",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Intel chip-on-board packaging transition",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Intel high-power chip thermal management (Pentium/Itanium)",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Iran hostage rescue helicopter limitations",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Iraq War Humvee IED vulnerability and MRAP armor development",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Israeli Corvette propeller blade bolt failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Jamestown glassworks",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Japan-US Oil and Steel Embargo (World War II)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Japanese HSLA shipbuilding steel development",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Japanese Maritime Self-Defense Force helicopter swashplate seizure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Japanese heavy-section electron beam welding project",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Japanese low-sulfur A36 steel market disruption",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Japanese steel industry dominance 1970s",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Japanese steel manufacturing technology visit",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Jenna Germany historical window",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Jet engine removal bolt design failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Jet ski fuel cap hose adapter failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "John Hancock Building glass cracking failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "John Wolfe stainless steel sensitization patent (1940s)",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Johnny Slokum aluminum-water hydrogen generation",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Johns Hopkins APL sonar tow cable pad-eye failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Johnson & Johnson Tylenol recall",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Johnson & Johnson electrocauterization device corrosion failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Johnson & Johnson laser surgery instrument coating",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Johnson & Johnson medical device manufacturing defect",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Johnson & Johnson surgical instruments consulting",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Josephson effect discovery",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Joule printing six-inch part cracking due to thermal gradients",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Kaydon bearing conformity failure and helicopter crashes",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Kennecott Bingham Canyon copper mine operations",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Kentucky school fire forensic case",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "King Street Bridge failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Kodak film plant exclusion from Japan (late 1970s\u20131980s)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Kodak manufacturing inefficiency in monopoly era (mid-1990s)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Kresge Auditorium lead roof",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Kuwait depleted uranium contamination",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "LCS (Littoral Combat Ship) aluminum alloy redesign",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "LIGO construction and welding",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "LIGO gravitational wave detector corrosion failure",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "LNG carrier tail shaft fracture",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "LNG tanker shipyard plate selection and testing circumvention",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "LNG tanker steel development for cryogenic service",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "LNG vessel heat treatment coupon substitution and testing failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ladder with unauthorized welds",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Langley helicopter supersonic blade tip experiment",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Las Vegas brass fitting corrosion litigation",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Laser-welded aluminum window frames (circa 1980)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Lawrence Livermore plutonium weld observation",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Lead paint poisoning case (Cambridge apartment)",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Lead pipe creep in historic aqueducts",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Lead pipe in residential plumbing",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Lead-acid battery terminal corrosion from road salt",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Lead-sealed water pipe failures",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Lead-tin solder ban and plumbing failures (1978)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Lead-tin solder obsolescence and lead-free transition",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Leaded brass plumbing fittings phase-out",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Leech and Garner gold mill consulting",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Liquid copper jet cutting research",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Little League baseball bat cardiac arrest case",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Lockheed Skunk Works X-33 spaceplane composite tank (rapid prototyping redesign)",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Longfellow Bridge guardrail perforation",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Longfellow Bridge renovation welding consultation",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Lord Corporation rubber-to-steel bonding patent (circa 1900)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Lost foam casting invention and commercialization",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Lou Gerstner IBM building access incident",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Louisiana polymer laboratory production scaling anecdote",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Lucalox (General Electric aluminum oxide tubes)",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MAPP gas cylinder drop and bending incidents",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT Berylliosis cases",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT Building 20 asbestos liability",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT Commission on Industrial Productivity - Steel Industry Study",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT Lincoln Lab 300 GHz Radar Dish Structure",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT Lincoln Lab Quadulan radar dome bogie replacement",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT School of Engineering strategy retreat (circa 1990)",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT basement stainless steel carbon control technology",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT conflict of interest in Molten Metal promotion",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT inconel department griddles fabrication",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT machine shop mushroomed tool discovery",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT materials department tenure settlement",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT steam plant pipe cracking during hot-weld repair",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT student alcohol death",
+    "tag": "biographical",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT titanium flame-cutting environmental incident",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MIT undergraduate lab chromic acid disposal practice",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MRAP armor development for Iraq",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "MRAP vehicle armor selection and development",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Mad Hatter company morale and quality crisis",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Magnesium anode nickel contamination failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Magnesium automobile wheels corrosion in road salt",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Magnesium car fire from insurance fraud",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Magnesium weld stress-corrosion cracking from humidity",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Manganese aluminum bronze electron-beam 3D printing trial",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Manhattan Project infrastructure",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Manwich hot water tank stress corrosion cracking",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Margaret MacVicar niobium tunneling experiments",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Mass General subway stop welding investigation",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Massachusetts Supreme Court ICC bumper jack failure case",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Massachusetts lead solder ban",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Massachusetts lemon-law case against General Motors",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Medieval sword tempering practice",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Mercury thermometer lab spill protocol change",
+    "tag": "biographical",
+    "confidence": "low",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Mercury/Apollo program graphite lubricant failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Mesabi Range iron ore depletion",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Metallic glass (met glass) transformer sheet production",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Metallurgical consulting firm tornado-chicken vacuum chamber experiment",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Mexican airline hot corrosion engine failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Mexican airline jet turbine blade sulfidation",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Miami Art Museum hanging garden failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Microsurgery instrument material selection consulting case",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Military low-level radar platform molybdenum-copper composite",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Military vs. civilian gas turbine engine divergence",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Millennium cookware hydrogen cracking",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Mississippi pressure vessel explosion",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Mitsubishi Heavy Industries spherical stainless steel reactor vessel welding",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Modern single-crystal turbine blade casting (core shift defect)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Molten Metal Technologies",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Molybdenum-copper cross-field amplifier radar waveguide braze joint",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Mormon Temple heat exchanger erosion-corrosion failure",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Motorola Boynton Beach pager manufacturing",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Motorola Defense Division classified large-format chip bonding",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Mount Shasta MAP and acetylene burn testing study",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Mountain Pass rare earth mine closure",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Mushroomed hammer head eye injuries",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "NASA X-33 space plane",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "NASA X-33 space plane program",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "NASA deep-space mission plutonium-fueled thermoelectric generators with iridium containment",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "NCAA baseball bat safety regulation",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "NIST competitiveness vs. productivity misunderstanding",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "NYC titanium heat exchanger fire",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nashua Corporation board collapse and acquisition failure",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "National Academy of Sciences Air Force propulsion research committee",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "National Aerospace Plane",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nautilus submarine hull material (HY-80)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nautilus submarine hydrogen cracking during construction",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Naval Air Rework Facility titanium engine case repair",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Naval Research Lab HY80 laser welding study",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Naval Research Lab Laser Welding of HY-80",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Naval Research Laboratory fatigue-creep interaction cracking",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Naval Surface Warfare Center particle beam weapon development",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Naval Surface Weapon Center baseball bat testing",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Naval cruiser 5456 aluminum corrosion and fatigue cracking",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Naval diver thermal protection using magnesium alloy",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Naval minesweeper wood construction requirement",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Naval ship recuperator heat exchanger failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Naval shipyard X-ray inspection inefficiency study",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Naval shipyard radiography eye injury incident",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Navy 25 kilowatt laser welder at Naval Research Laboratory",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Navy HY130 development sunk-cost fallacy",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Navy Ship Aluminum-Steel Transition Joints - Galvanic Corrosion",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Navy Tributyltin (TBT) paint environmental damage",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Navy aluminum ship cracking",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Navy ship recuperator heat exchanger failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Navy submarine transformer solder joint failure",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Navy surface ship and submarine hull construction practices",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Navy undermatching filler metal research program (multiple rounds)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nazi ball bearing factory management failure",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Neighbor's water main leak and Boston Gas pipe discovery",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Neodymium-iron-boron magnet thermal failure in electric vehicles",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "New Alvin submersible cost overrun",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "New England Aquarium exterior panel corrosion",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "New England Aquarium sea water piping corrosion",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "New England highway bridge rebar corrosion",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "New England shoe industry decline",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "New Hampshire sapphire and silicon crystal growth company",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "New Jersey prison elevator bearing failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "New Orleans Canal Levee Failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "New York City building crack near George Washington Bridge",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "New York City underground copper wire capacity crisis",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Newport News Shipyard carbide shack incident",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nickel-based turbine disc isothermal forging case study",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nigerian cement shipping crisis",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nimitz-class carrier weight creep",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nine-month delayed hydrogen crack (High Sierra mountains)",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nine-month delayed hydrogen crack (High Sierras)",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Niobium-3.5tin superconductor with zirconium oxide pinning precipitates",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Niobium-titanium superconductor development for high-energy physics",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "North Andover hot isostatic press explosion",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Northridge earthquake",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Norton asphalt reclamation carbide-tip braze joint",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Norwegian chlorine elimination proposal",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nova Scotia sailboat trailer weld failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nuclear Reactor Microbiologically Induced Corrosion",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nuclear carrier piping misalignment and repair",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nuclear submarine hull steel (HY-80)",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nuclear submarine welding hydrogen embrittlement cracks",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nuclear test fallout in St. George, Utah",
+    "tag": "forensic",
+    "confidence": "low",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Nucor/Chaparral mini-mill competitive challenge to integrated steel mills",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Oak Ridge National Laboratory silver magnet winding (WWII uranium enrichment)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Offshore Gulf of Mexico near-miss incidents post-2000",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ohio River steamboat boiler explosion",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Oil refinery pipe lot rejection",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Oklahoma oil derrick blowout fire",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Old Ironsides oak wood repair delay",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ongoing litigation case (Houston trial)",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Optical fiber manufacturing (Corning)",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Optical fiber transatlantic repeater reduction",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "PEX (cross-linked polyethylene) brass fitting failures",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "POSCO (Korea) government-built steel mill surpassing Nippon Steel",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "POSCO continuous caster roll refurbishment",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pacemaker battery case corrosion",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pacific Gas and Electric pumped-storage hydroelectric project",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pearl Harbor attack",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pellini explosion bulge test development",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pennsylvania cement truck fatality and regulatory failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pennsylvania forging press repair",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pennzoil Oil City tank explosion and facility",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pensacola crash",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pentium 6 / Early 1990s large-format chip bonding",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Percy Bridgeman high-pressure materials research",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Petrobras oil rig failure (Brazil)",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Philippine gold-mining crushing machine failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Phoenix warehouse accelerated corrosion during construction",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pilkington float glass process",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pitcher eye injury from aluminum bat",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pittsburgh Plate Glass mile-long facility",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pittsburgh Plate Glass mile-long factory",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pittsburgh Reduction Company / Alcoa environmental pollution",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pittsburgh air pollution and steel mills",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pittsburgh cold heading plant",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Plasma torch discovery by Bob Gage",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Plastic soda bottle pressure dependence",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Platinum jewelry laser cutting adoption",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Plumber MAPP gas torch facial injury incident",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pole vault composite failure analysis",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Polyacetylene conductive polymers",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Polybutylene pipe and fitting failures",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Polyethylene manufacturing and hula hoop market development",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Polyurethane insulation fires in homes",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Portsmouth submarine fire investigation",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Post-WWII cold heading machine phosphate-stearate surface treatment",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Powdered beryllium discovery in MIT laboratory",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pratt & Whitney / General Electric jet engine disc HIP vessel failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pratt & Whitney 1975 laser disk additive manufacturing experiment",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pratt & Whitney WWII manufacturing management story (untold)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pratt & Whitney military jet engine design defect lawsuit (1992)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pratt & Whitney niobium alloy development failure",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pratt & Whitney single-crystal turbine blade",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pratt & Whitney turbine blade",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pratt & Whitney turbine blade grinder and Woods metal fixturing",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pratt & Whitney turbine blade manufacturing constraint",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pratt & Whitney v. Chromalloy lawsuit",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Pratt & Whitney vs. British engine bird strike specification",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Preloaded bolt connection in heavy crane or bearing application",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Private Mach 2.5 aircraft crash and wing flutter failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Private jet friction-welded titanium startup",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Professor Omen's chemically tempered glass demonstration",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Qantas airline composite delamination",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Quincy LNG tanker aluminum tank skirts",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Quincy Shipyard barge cracking failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Quincy Shipyard liquid natural gas tanker construction (mid-1970s)",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Radium cocktail consumer poisoning (1920s)",
+    "tag": "forensic",
+    "confidence": "low",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Rail steel derailments",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Raytheon Aegis missile part aluminum bending incident",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Reading Pennsylvania copper plant deoxidation process",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Refinery A106 pipe failure and consultant study",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Rensselaer Hydrogen Diffusion Experiments (1950s\u20131960s)",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Rensselaer Polytechnic transverse strength test (stainless/nickel alloy)",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Residential gas pipeline explosions from plastic pipe use",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Reynolds Aluminum foil manufacturing",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Rhodesian chrome embargo",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Rhodesian chromite embargo and laundering",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Rocky Flats activated diffusion bonding of maraging steel",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Rocky Flats nuclear warhead welding - altitude pressure effects",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Rolls Royce M250 BLISK (bladed disk) for helicopters",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Rolls-Royce M250 BLISK (bladed disk) for helicopters",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Rolls-Royce/Detroit Diesel Allison turbine disc failures",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Roman aqueducts",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Russian submarine hull thickness intelligence",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Russian tin stockpile failure (WWII)",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "SR-71 Blackbird",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "SS Great Britain propeller shaft forging",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "SS Manhattan fracture at sea",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "SSN-21 Sea Wolf hull cracking problem",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "SSN-21 Sea Wolf submarine hull cracking problem",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Salem Harbor steam generator explosion",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "San Diego vacuum brazing furnace zinc contamination disaster",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "San Diego wildfires and utility transmission line lawsuits",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Sandia ultrasonic aluminum welding research",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Sango Bath (Saint-Gobain) founding and long-term strategy",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Sapphire substrate manufacturing for LED market dominance",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Saudi Arabia gas-reduction steel facility",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Sea wall bolt failures",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Seawolf submarine hydrogen cracking",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Shape charge development",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Ship dismantling in Bangladesh",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Shipyard fillet weld measurement dispute",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Shipyard thermal distortion during construction",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Shoe factory boiler explosion (Brockton, Massachusetts)",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Siaki camshaft laser heat-treatment cracking failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Silicon nitride ball bearing ceramic flaw sizing",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Single transistor hermetic packaging with indium cold bonds",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Single-crystal turbine blades (GE/Pratt & Whitney)",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Sioux City DC-10 rotor failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Small jet wing assembly fatigue testing",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Soft tissue engineering in biomedical materials",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Solyndra solar cell company failure",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Sony Walkman and neodymium-iron-boron magnets",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "South African gold mine salt shaker smuggling",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Southern California MAP cylinder misuse federal lawsuit",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Soviet Titanium Aircraft Program (Docket 3)",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Soviet aluminum dumping and Alcoa/Norsk Hydro market collapse",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Soviet oil pipelines in Siberia",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Soviet scandium aluminum alloys research",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Soviet titanium electro-slag welding technology",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Soviet titanium electroslag welding technology",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Soviet titanium submarine (Alpha-class) creep-fatigue failures",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Soviet underwater welding program at Paton Institute",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Space Shuttle Columbia",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Space Shuttle External Tank (2219 aluminum)",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Space Shuttle Main Tank lithium-aluminum development",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Space Shuttle O-ring failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Space Shuttle composite damage",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Space Shuttle main tank friction stir welded aluminum",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Speaker's home gas service sleeving (three-quarter inch pipe)",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Speedboat propeller shaft fatigue failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Spot welding excessive current test",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Sprague's law on material properties",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Spruce Goose (Hughes H-4 Hercules)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Stainless steel box cracking in transit to Japan",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Stainless steel dinnerware bleach pitting (personal anecdote)",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Star Trek IV: The Voyage Home - transparent aluminum whale tank",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Steel mill construction cost analysis (disruptive technology case study)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Steel mill wet scrap incident",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Steel mini mills rise (1970s\u20131990s)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Steel yard identification via spark testing (1900s-1960s)",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Steel-toe boot heat treating tank stress corrosion cracking / hydrogen embrittlement",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Steinmetz General Electric generator failure",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Sterling silver lightweight dinnerware alloy",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Stress corrosion cracking terminology insurance dispute",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Structural ceramics for automotive and turbine engines",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Submarine and rocket fastener heat-treatment recall",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Submarine first deep dive stress relief mechanism",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Submarine scuttling practice (Newport News)",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Submarine torpedo tube distortion and machining",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Submerged arc welding of titanium flux economics",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Subsea pipeline tool fragment defect",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Sulfuric acid and sugar classroom demonstration incident",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Sumitomo scandium oxide production initiative",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Sweden cadmium electrical switch fire hazard",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Swept-wing fighter aircraft center box fabrication",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Sylvania light bulb glass strength demonstration",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "TF-30 jet engine rebuilds from Vietnam",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Tacoma Narrows Bridge",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Tall condominium riser pipe failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Tank explosion at Pennzoil Oil City refinery",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Tantalum-vanadium diffusion bonding brittle intermetallic",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Tar Sands Pipeline Failure (Canada)",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Tar sands vanadium pentoxide furnace problem",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Technetium-99m cardiac imaging (Eagar's personal case)",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Teenage rock-dropping from overpasses",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Teflon frying pan frost adhesion test",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Texas City acetic acid plant zirconium reactors",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Thixotropic/semi-solid casting patent suppression at MIT",
+    "tag": "mixed",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Thomas Edison concrete homes",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Thomas Wilson calcium carbide discovery",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Three Mile Island",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Three-tank RPG penetration test (1985)",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Tin-bismuth solder steel recycling contamination",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Titanic",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Titanium anhydrous ammonia explosions",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Titanium combustor fires in jet engines",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Titanium electroslag weld at Oregon Graduate Center",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Titanium heat exchanger corrosion failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Titanium-clad steel gasoline refinery vessel production",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Tom Eagar LNG welding sunburn incident",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Tom Eagar's aluminum soldering demonstration failure",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Tom Eagar's daughter's metal allergy case",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Tom Eagar's home high-efficiency boiler chimney liner specification",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Tom Eagar's hot dog cooker stress corrosion cracking",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Torpedo tube welding distortion control",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Trailer weld failure sailboat accident",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Tributyl Tin Naval Anti-Fouling Paint Program",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Trolley wire manufacturing by Conform process",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Turbine blade casting development at Pratt & Whitney",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Turbine blade coarsening and remanufacturing with HIP treatment",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Turbine blade cooling technology development",
+    "tag": "technical-narrative",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Turbine blade electron-beam repair and preheating",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Turbine blade material substitution evaluation",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Turbine blade quality control theft risk",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Turbine engine shroud blade tip wear and repair",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "U.S. Air Force net-shape manufacturing initiative",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "U.S. Army Underground Storage Tank Corrosion Study",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "U.S. Navy all-stainless steel submarine program (AL-6X alloy)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "U.S. Navy heavy-section titanium welding (1980s)",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "U.S. Navy titanium creep-fatigue research (1982 Soviet discovery)",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "U.S. Navy titanium submarine program decision",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "U.S. Navy titanium submarine welding research (Alvin prototype program)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "U.S. Steel Industry Crisis and Japanese Competition",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "U.S. Steel's last large open hearth furnace",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "U.S. copper tubing manufacturing",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Air Force turbine vane repair program (DAABER)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Airways Flight 1549 (Sully)",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Army M16 firing pin semi-solid steel injection molding program",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Army materials study",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Navy Destroyer brass fitting failure (Second Gulf War)",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Navy HSLA Steel Mill Investment",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Navy all-stainless steel submarine program (AL-6X alloy)",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Navy heavy-section titanium submarine program",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Navy nuclear submarine steel pipe corrosion (30-year ship life)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Navy particle beam weapons welding research",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Steel Price Rollback",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Steel industry continuous casting adoption failure",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Steel industry decline",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Steel industry decline and management failure",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US Steel price control by President Kennedy (1962)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US copper penny material transition",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US copper tubing manufacturing",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US corrosion cost study and Congress funding",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US government low-cost titanium armor program",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "US steel industry productivity transformation (1980-1990)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS Battleship turret hydrogen cracking repair (Puerto Rico, ~1980)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS Belknap collision and fire",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS Cole",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS Constitution (Old Ironsides)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS Iowa gun turret explosion",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS Nautilus heat exchanger design",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS Nautilus hydrogen cracking",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS Patrick Henry hull degradation",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS Sea Cliff titanium submarine welding",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS Sea Wolf submarine hull cracking",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS Seawolf HY-100 hydrogen cracking",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS Thresher",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS aircraft carrier steam system weld failure during Grenada invasion",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "USS cruiser brass airline failure (Second Gulf War)",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Unbuilt 100,000-ton Air Force forging press",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Under-deposit corrosion in cast iron (Hurricane Sandy context)",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Undergraduate 2024 aluminum welding lab",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "United Airlines Flight 232",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "University of Alaska asphalt research program",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "University of Oslo semester abroad student language accommodation",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Upton Sinclair meatpacking industry exposure and Food and Drug Act",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "V-22 Osprey Ship Four crash and rigged court of inquiry",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "VAX 9000 bonding failure",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "ValuJet incident",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Vancouver World's Fair gold coin",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Varian cross-field amplifier brazing failure",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Velcro invention (serendipitous discovery)",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Visby-class corvette (Swedish composite frigate)",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Voyager spacecraft iridium thermoelectric generator",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "W-temper aluminum sale and incomplete heat treatment",
+    "tag": "forensic",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "WWII Welded Merchant Vessel Structural Failures (Fleet-Wide)",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "WWII armor plate stress-relief welding",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "WWII ship and tank explosive bonding discovery",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "WWII ship construction slugging welds",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "WWII silver-wound magnets from Fort Knox",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Washington DC government steam piping drip leg connection failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Washington Monument design safety factor",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Watertown Arsenal Charpy bar standards",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Watertown Arsenal Civil War shot tower",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Watertown Arsenal titanium hinge part (post-WWII)",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Welch's grape juice packaging versus beer",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Welded steel crane component failure",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Welded titanium stent tip failure",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Welder recertification burden in oil and construction (early 1990s)",
+    "tag": "industrial-historical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Welding handbook electrode consumption survey",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Welding industry manganese litigation",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "West Virginia Chemical Tank Spill / Charleston Water Crisis",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Western Massachusetts laser cutting machine factory fire",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Westinghouse Bettis inconel electron beam weld cracking specification",
+    "tag": "mixed",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "White gold class ring hardening consultation",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Williams Tower elevator marble finishes",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Williams's law on material costs",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Wind turbine ring vortex aircraft encounters",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Wire drawing thesis project on superconducting wire production",
+    "tag": "biographical",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Wooden gas distribution pipes",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Wright Brothers aircraft engine",
+    "tag": "industrial-historical",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Wyman Gordon crankshaft product liability risk",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 0,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Wyoming gas plant heat exchanger explosion and failure",
+    "tag": "biographical",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "X-33 hydrogen tank adhesive joint failures",
+    "tag": "forensic",
+    "confidence": "medium",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "X-33 space plane",
+    "tag": "industrial-historical",
+    "confidence": "low",
+    "frame_count": 2,
+    "source": "model"
+  },
+  {
+    "cluster_id": "Zirconia tube durability breakthrough in molten salt cells",
+    "tag": "technical-narrative",
+    "confidence": "medium",
+    "frame_count": 1,
+    "source": "model"
+  },
+  {
+    "cluster_id": "de Havilland Comet",
+    "tag": "forensic",
+    "confidence": "high",
+    "frame_count": 2,
+    "source": "model"
+  }
+]

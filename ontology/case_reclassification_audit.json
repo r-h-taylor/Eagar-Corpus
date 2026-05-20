@@ -1,0 +1,56 @@
+{
+  "total_reviewed": 97,
+  "kept_biographical": 91,
+  "reclassified": 6,
+  "by_new_tag": {
+    "biographical": 91,
+    "industrial-historical": 2,
+    "forensic": 1,
+    "technical-narrative": 2,
+    "mixed": 1
+  },
+  "changes": [
+    {
+      "cluster_id": "Attleboro gold alloy and casting operations",
+      "old_tag": "biographical",
+      "new_tag": "industrial-historical",
+      "confidence": "medium",
+      "reason": "Case content is about the Attleboro firm's gold economics and continuous casting decisions, not Tom's career."
+    },
+    {
+      "cluster_id": "Boston Big Dig",
+      "old_tag": "biographical",
+      "new_tag": "forensic",
+      "confidence": "medium",
+      "reason": "Case centers on bolt corrosion failure analysis and cable-stay failure mechanics, not Tom's career arc."
+    },
+    {
+      "cluster_id": "Consultant's daughter polybutylene condo replacement lawsuit (Raleigh, NC)",
+      "old_tag": "biographical",
+      "new_tag": "industrial-historical",
+      "confidence": "medium",
+      "reason": "Case is about polybutylene class action/product failure; Tom's daughter is incidental framing device."
+    },
+    {
+      "cluster_id": "Custom-built trailer design and field testing",
+      "old_tag": "biographical",
+      "new_tag": "technical-narrative",
+      "confidence": "medium",
+      "reason": "Case is about design-without-code principles and weld loading, illustrated by Delmar's trailer, not Tom's life."
+    },
+    {
+      "cluster_id": "TF-30 jet engine rebuilds from Vietnam",
+      "old_tag": "biographical",
+      "new_tag": "mixed",
+      "confidence": "medium",
+      "reason": "Frame 2 is Tom's summer job experience; Frame 1 uses same case as industrial-economic contrast for overhaul intervals."
+    },
+    {
+      "cluster_id": "Undergraduate 2024 aluminum welding lab",
+      "old_tag": "biographical",
+      "new_tag": "technical-narrative",
+      "confidence": "medium",
+      "reason": "Case content is about 2024 aluminum's hot-cracking behavior used as teaching specimen, not Tom's career."
+    }
+  ]
+}
