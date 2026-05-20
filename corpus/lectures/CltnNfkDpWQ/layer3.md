@@ -95,7 +95,7 @@
 
 `§5.p7` You won't know where the data came from. I sat there in Saginaw, Michigan, at an airport with one of my graduate students, after visiting GM back in the early 1990s. I was thinking about this problem of integrated mills and mini mills, and I just scratched out the numbers. I pulled them out of my head, but they're right there in Clayton's book. So if you want to know where's the reference, well, I'm probably as good a reference as anyone else.
 
-`§5.p8` So the mini mills — originally they wanted to make the garden variety. The cheapest stuff is concrete reinforcing bar. It just has to be the right diameter, and it's got the lowest price per ton of virtually anything. So this company called Chaparral Steel, which was started by a guy Gordon Ford [Forward], who graduated this department back in 1975, saw the hundred-dollar scrap price versus $180 cast iron price, and he was one of the guys who said you can make some money there. He started Chaparral Steel down in Texas.
+`§5.p8` So the mini mills — originally they wanted to make the garden variety. The cheapest stuff is concrete reinforcing bar. It just has to be the right diameter, and it's got the lowest price per ton of virtually anything. So this company called Chaparral Steel, which was started by a guy Gordon Forward, who graduated this department back in 1975, saw the hundred-dollar scrap price versus $180 cast iron price, and he was one of the guys who said you can make some money there. He started Chaparral Steel down in Texas.
 
 `§5.p9` **Student:** [comment about spelling]
 

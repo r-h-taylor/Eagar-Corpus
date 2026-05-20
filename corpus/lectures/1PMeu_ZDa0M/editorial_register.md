@@ -64,7 +64,7 @@ Ten sections identified at natural teaching transitions:
 - §9.p3: "you'll buy this semi-defective part — car" smoothed to "buy this semi-defective car" per Tom's self-correction.
 
 ### §10
-- §10.p1: "Gordon Ford" → "Gordon Ford [Forward]" on first occurrence in section per convention §9. Gordon E. Forward, MIT PhD, was CEO of Chaparral Steel — though Tom here attributes the mini-mill story to Nucor rather than Chaparral. **This is a factual issue on the tape**: Gordon Forward was at Chaparral Steel, not Nucor (Nucor was Ken Iverson). Tom's misstatement is preserved per the constitutional constraint that Tom's genuine misstatements stay on the page; flagged here for the case index.
+- §10.p1: "Gordon Forward" → "Gordon Forward" on first occurrence in section per convention §9. Gordon E. Forward, MIT PhD, was CEO of Chaparral Steel — though Tom here attributes the mini-mill story to Nucor rather than Chaparral. **This is a factual issue on the tape**: Gordon Forward was at Chaparral Steel, not Nucor (Nucor was Ken Iverson). Tom's misstatement is preserved per the constitutional constraint that Tom's genuine misstatements stay on the page; flagged here for the case index.
 - §10.p2: "Instead of a five billion dollar investment by Bethlehem Steel in the late 1960s, no one else in the world had ever built — since Bethlehem Steel, no other country, no other company has ever built an integrated steel plant" — Tom restarts the sentence; layer 3 reads only the completed form.
 - §10.p5: closing fragment "And everybody says —" cut as truncated; the lecture continues beyond the layer 2 cutoff but the available transcript ends mid-sentence. Section closes on the 18-fold productivity statement.
 
@@ -83,7 +83,7 @@ None. The lecture proceeded in clear historical/topical order and layer 3 preser
 5. Backward-references mostly cut, except where they carry content (e.g., "remember I told you, after World War II the United States had bombed out all the competition" in §8.p3 is preserved because the WWII competitive context is genuinely needed for the steel industry argument that follows).
 6. "Okay" preserved as thought-closer, cut as mid-clause filler.
 7. "You know" / "I mean" mostly cut.
-8. Tom's spoken slip "Gordon Ford" → "Ford [Forward]" on first occurrence in §10.
+8. Tom's spoken slip "Gordon Forward" → "Ford [Forward]" on first occurrence in §10.
 
 ## Decisions that are *not* permitted at layer 3
 

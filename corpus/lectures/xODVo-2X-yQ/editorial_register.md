@@ -24,7 +24,7 @@ Ten sections at natural teaching transitions:
 - "Okay?" and "I mean" filler removed.
 
 ### §2
-- Bracketed slip: "Dr. Belmar" appears in transcript variously as "Belmar" and "Belmore." Tom is referring to Simone Belmore, the co-instructor. Treating "Belmar" as the captioner's variant of "Belmore" — used "Dr. [Belmar]" on second and later references per the bracketed-correction convention. First reference in §1.p3 marked `Dr. Belmar [Belmore]`.
+- Bracketed slip: "Dr. Belmar" appears in transcript variously as "Belmar" and "Belmar." Tom is referring to Simone Belmar, the co-instructor. Treating "Belmar" as the captioner's variant of "Belmar" — used "Dr. [Belmar]" on second and later references per the bracketed-correction convention. First reference in §1.p3 marked `Dr. Belmar`.
 - Cut Tom's mid-sentence textbook misidentification: "I think this is Hosford and Caddell. Pretty sure it is. No, no, this is — I'm sorry, that's Simone Belmar's." — pure self-correction over physical object location; smoothed.
 - Cut "But I'll pass that around" — orphan transition fragment from rubber sample.
 - Cut "um" filler throughout.
@@ -62,7 +62,7 @@ Ten sections at natural teaching transitions:
 - Cut "Okay?" closures where mid-clause filler; preserved where they close a thought.
 
 ### §10
-- §10.p4 — scheduling announcement. This is administrative content (Tom may miss Wednesday or Friday, sub arrangements). Preserved in full because (a) it grounds the lecture in real time, (b) it names Simone (Dr. Belmar/Belmore) and Jeremy as colleagues, and (c) the editor (Taylor) may want to surface this kind of material in the corpus as evidence of Tom's teaching context. Could be cut from a textbook-style edition; preserved here.
+- §10.p4 — scheduling announcement. This is administrative content (Tom may miss Wednesday or Friday, sub arrangements). Preserved in full because (a) it grounds the lecture in real time, (b) it names Simone (Dr. Belmar/Belmar) and Jeremy as colleagues, and (c) the editor (Taylor) may want to surface this kind of material in the corpus as evidence of Tom's teaching context. Could be cut from a textbook-style edition; preserved here.
 - §10.p7 — Davenport / Julie / Alcoa anecdote. Tom's closing "Okay, but that's another story" preserved as section-closing rhetorical move (per convention 6).
 - Cut "five or 10. Anybody know why? It's called volume change on solidification" — wait, this is preserved as written; the Q&A device is the teaching.
 
@@ -72,7 +72,7 @@ None of consequence in this lecture. The teaching is largely linear. The merge o
 
 ## Flags for editor (Taylor)
 
-1. **"Dr. Belmar" vs "Belmore"** — confirm canonical spelling. Treated as captioner variant; if Tom's actual colleague is "Simone Belmore" or "Simone Belmar," the bracketed-correction convention should reflect it consistently.
+1. **"Dr. Belmar" vs "Belmar"** — confirm canonical spelling. Treated as captioner variant; if Tom's actual colleague is "Simone Belmar" or "Simone Belmar," the bracketed-correction convention should reflect it consistently.
 2. **§6.p4 — student's "70%?" interjection.** Cut; flag for restoration if Taylor wants student voices preserved even when wrong.
 3. **§9.p2 student question.** The partial transcript "The difference of that — e —" is ambiguous (student may have been asking about the e in a formula, or trying to read tau-Y). Preserved as recorded; if better audio recovery is possible, flag for revision.
 4. **LNG tail shaft (§9.p8) case identification.** Cluster_id match against existing canon — see case_index.md. Tom dates the case to 1985 and locates the failure in the Philippine Sea; this likely matches one of the existing LNG cluster entries. Confirm before final.

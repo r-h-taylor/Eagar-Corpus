@@ -62,7 +62,7 @@ The lecture divides naturally into fourteen sections. §1 is a brief residual fr
 - **§12.p2.** Tom said "a blast furnace failure at Allegheny Ludlum once — a blast furnace — it was a BOF failure — back, no, it was the AOD, it was an AOD failure — anyway, it was the bearing in the AOD." Smoothed to corrected form: "an AOD bearing failure at Allegheny Ludlum." **This is a soft correction following the self-corrections convention.**
 
 ### §13 — Gordon Forward and Chaparral
-- **§13.p1.** First occurrence of "Gordon Ford" bracketed as `Ford [Forward]`. Subsequent occurrences in the section bracketed as `[Forward]` per the convention.
+- **§13.p1.** First occurrence of "Gordon Forward" bracketed as `Ford [Forward]`. Subsequent occurrences in the section bracketed as `[Forward]` per the convention.
 - **§13.p4.** Cut Tom's "wait, the thing here it is — one's on the board and one's here. This is — I haven't lost it, here it is." This is pocket-patting / slide-searching equivalent. Smoothed to "There it is — one's on the board and one's here."
 
 ### §14 — Closing

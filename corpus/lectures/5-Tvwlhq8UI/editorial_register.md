@@ -91,7 +91,7 @@ Eight sections, mapping the lecture's natural teaching transitions:
 - **Smoothed:** "the car-, the copper" → "the copper." Tom started "carbon" then corrected to "copper."
 
 ### §8.p1 — Gordon Forward
-- **Bracketed slip:** "Gordon Ford [Forward]" — first occurrence. Tom's recurring slip per convention catalog §9.
+- **Bracketed slip:** "Gordon Forward" — first occurrence. Tom's recurring slip per convention catalog §9.
 - **Subsequent occurrences in §8:** "Gordon [Forward]" alone at §8.p5.
 
 ### §8.p6 — Maimed

@@ -40,7 +40,7 @@
 ### §5
 - p4: "okay" closing filler trimmed in several spots; the rhetorical "they just kept eating away" closes the paragraph.
 - p5: "I can't remember what he had three examples" — Tom can't recall the third Christensen example. Layer 3 trims this and ends "The book became a top-ten New York Times bestseller." This is a soft edit that drops Tom's memory hedge without changing content.
-- p8: "Gordon Ford" is Tom's recurring slip for "Gordon Forward" (per convention §9). First occurrence in §5 bracketed: "Gordon Ford [Forward]". Second occurrence (p17) bracketed as "[Forward]" alone.
+- p8: "Gordon Forward" is Tom's recurring slip for "Gordon Forward" (per convention §9). First occurrence in §5 bracketed: "Gordon Forward". Second occurrence (p17) bracketed as "[Forward]" alone.
 - p10: "I don't know if this one will even show up — it's not going to show up. Let's see" — slide-fumbling cut. Replaced with "Here's what's coming out of the continuous caster as of about year 2000."
 - p18: The Iacocca/Henry-Ford hamburger story is preserved largely verbatim. Tom's "Henry Ford, or whichever Ford it was at the time" hedge preserved as part of his characteristic memory-hedging voice.
 - p22: "John? Huh? Johnny? Johnny" — Tom names a student. Preserved because it anchors the personal address; trimmed of the false-start "Huh?".

@@ -44,14 +44,14 @@ Nine sections, each marking a natural teaching transition:
 - §5.p4: closing question "Now I want to go to explore — if you don't have any questions, no question — that's our nascent — very many question, yes — this kind of jumpy —" — this is Tom losing his thread at the moment the student interrupts with the steel question. Cut entirely; the student question opens §6.
 
 ### §6 — Steel productivity (Q&A)
-- **Gordon Forward correction:** First occurrence in §6.p2 rendered `Gordon Ford [Forward]`. Second occurrence in same section rendered `[Forward]` alone. (See convention §9.)
+- **Gordon Forward correction:** First occurrence in §6.p2 rendered `Gordon Forward`. Second occurrence in same section rendered `[Forward]` alone. (See convention §9.)
 - §6.p2: "he didn't care if they made the steel — you know, if they paid their laborers nothing" — slight smoothing to "he didn't care if they paid their laborers nothing overseas." Tom's incomplete clause ("if they made the steel") was a false start.
 - §6.p9: "I estimated it took four thousand person-hours — okay, or two thousand or 4,000, I remember" — preserved Tom's uncertainty as "two thousand or four thousand person-hours." Genuine epistemic hedge, not filler.
 - §6.p9: "Today it takes 15 minutes to make a ton of steel, person-hours" — corrected to "15 person-minutes to make a ton of steel" for clarity. Tom's reformulation in the same breath makes the unit clear.
 - §6.p9: "See, if you ask a question I'll give you an answer, only took 10 minutes" — preserved. Tom's signature self-deprecating closing.
 
 ### §7 — Integrated steel mills
-- **Forward correction:** §7.p2 — "Gordon Ford was promoting" rendered as "Gordon [Forward] was promoting" (subsequent occurrence in a new section per convention §9; since §6 already established the slip with the full bracketed form, §7 carries only the bracket).
+- **Forward correction:** §7.p2 — "Gordon Forward was promoting" rendered as "Gordon [Forward] was promoting" (subsequent occurrence in a new section per convention §9; since §6 already established the slip with the full bracketed form, §7 carries only the bracket).
 - §7.p3 "Steel Bao, the Chinese" — captioner garbling of "Bao Steel." Corrected silently.
 - §7.p5: "had no steelmaking left at the end of World War II, we had bombed it all out" — preserved Tom's characterization including the first-person "we."
 

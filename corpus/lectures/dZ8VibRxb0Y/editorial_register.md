@@ -5,7 +5,7 @@
 ## Conventions applied
 
 - **Student/guest attribution.** Three guest speakers (Simone, Steve Lyons, Brian Holman) are bracketed with stage directions identifying who is speaking, and Tom's resumption of the floor is similarly marked. Tom never names "Simone" with a last name on the recording; preserved as a single name.
-- **Bracketed corrections.** Captioner "Bell Mars" corrected to "Belmares" silently in layer 3 (the name appears in the canonical case catalog implicitly via Dr. Belmares as co-lecturer; the captioner garbled it consistently). Logged once at first occurrence in §1.p4.
+- **Bracketed corrections.** Captioner "Bell Mars" corrected to "Belmar" silently in layer 3 (the name appears in the canonical case catalog implicitly via Dr. Belmar as co-lecturer; the captioner garbled it consistently). Logged once at first occurrence in §1.p4.
 - **Numerals.** Years as digits (1797, 1821, 1823, 1845, 1921, 1988, 2004, 2018); monetary values as `$10,000`, `$40,000`, etc.; counts of pages/lectures/students as digits where rhetorical, spelled out where weight is rhetorical ("75 MIT faculty," "40,000 hits").
 - **Filler removed.** "Okay," "I mean," "you know," and discourse-marker hesitations cut throughout. "Okay" preserved where it closes a thought.
 - **Self-corrections smoothed.** Tom's repeated false starts in p4, p7, p9, p17, p30, p35, p37, p43, p49, p52, p54 simplified to read as completed sentences.
@@ -16,7 +16,7 @@
 - p1 cut: "Oh, you, well you've taken the course so anyway" — aside to a specific student in the room, no content for a reader.
 - p2 cut: "And and whatnot" — Tom's accidental repetition.
 - p3 small fix: "thirty-six lectures, because if it's a twelve unit course" — kept as is; Tom's arithmetic is intact.
-- p4: "Bell Mars" → "Belmares" silently throughout (captioner error on a recurring proper noun).
+- p4: "Bell Mars" → "Belmar" silently throughout (captioner error on a recurring proper noun).
 - p5 cut: "or not, end up posted here" — Tom's half-completed pun on "post-tenure"; not recoverable as a clean sentence.
 
 ### §2 — Science vs. engineering

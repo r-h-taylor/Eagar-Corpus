@@ -16,7 +16,7 @@ Eight sections identified at the following teaching transitions:
 ## Per-section decisions
 
 ### §1
-- p1: Removed Tom's housekeeping opener about Belmire's lecture timing ("Monday, or Friday or whenever it was"). Smoothed the false start on the second England-based dislocation theorist; Tom can't recall the name and Layer 3 acknowledges the gap once rather than three times.
+- p1: Removed Tom's housekeeping opener about Belmar's lecture timing ("Monday, or Friday or whenever it was"). Smoothed the false start on the second England-based dislocation theorist; Tom can't recall the name and Layer 3 acknowledges the gap once rather than three times.
 - p2: "20 or 30 years" rendered as "twenty or thirty years" per convention 3.
 - p3: Collapsed Tom's name-search loops ("it Polanyi in Hungary? Anyway, the other one was, or no, Polanyi — anyway, there was a guy in England, can't remember") to a single clean attribution to Orowan, with a closing acknowledgment of the unremembered English collaborator. **Soft reordering within p3**: Tom mentions Orowan, then the unnamed Englishman, then tells the rug story about Orowan, then closes by mentioning the Englishman again. Layer 3 puts the rug story directly after Orowan's introduction and the unnamed-Englishman acknowledgment at the end. Justification: keeps the rug narrative undivided.
 - p4: "15 years later" → "fifteen years later" per convention 3.
@@ -63,7 +63,7 @@ Eight sections identified at the following teaching transitions:
 
 ## Captioner corrections applied silently
 
-- "Belmar" / "Belmire" — appears multiple ways in raw; standardized to "Belmire" (the L2 bracketed form).
+- "Belmar" / "Belmar" — appears multiple ways in raw; standardized to "Belmar" (the L2 bracketed form).
 - "Hirth and Lothe" — silent correction of likely captioner garbling of these names (standard dislocation textbook authors).
 - "John Gilman" — preserved as in L2.
 - "Polanyi" — Michael Polanyi, the unnamed English collaborator Tom is searching for. L3 does not insert this name because Tom did not arrive at it on tape; we cannot ratify the attribution.

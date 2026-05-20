@@ -1,6 +1,6 @@
 # Editorial Register: Layer 2 → Layer 3
 
-*Lecture 7 (u0VksY_PRps). This lecture is delivered by guest lecturer Simo Belmar, not Tom Eagar. The corpus-wide convention that "we cannot add sentences in Tom's voice" applies equally to Belmar's voice: we cannot ratify additions. All conventions established in the §1 worked example for Eagar apply here for Belmar.*
+*Lecture 7 (u0VksY_PRps). This lecture is delivered by guest lecturer Simone Belmar, not Tom Eagar. The corpus-wide convention that "we cannot add sentences in Tom's voice" applies equally to Belmar's voice: we cannot ratify additions. All conventions established in the §1 worked example for Eagar apply here for Belmar.*
 
 ## Speaker note
 The class opens with Belmar taking student names (Miriam and a second inaudible name) and confirming his own identity. This intro-housekeeping fragment is cut from layer 3 — it carries no teaching content and the section begins with Belmar's self-introduction. Layer 2 preserves it.

@@ -67,7 +67,7 @@ Each section corresponds to a topic pivot Tom makes audibly ("Okay, if I go back
 
 ### §4.p1 — The consulting call
 - **Cut:** "So until I did some other things, for about thirty years I worked with a company" → "For about thirty years I worked with a company." The "until I did some other things" is a backward-reference fragment that doesn't connect to anything in this section; cut per convention.
-- **Bracketed flag preserved:** "Dr. Belmar [?]" — the captioner's reading of a colleague's name is uncertain; layer 3 carries the `[?]` flag forward for editor review. Possible readings include "Belmore", "Belmar", or another name entirely.
+- **Bracketed flag preserved:** "Dr. Belmar [?]" — the captioner's reading of a colleague's name is uncertain; layer 3 carries the `[?]` flag forward for editor review. Possible readings include "Belmar", "Belmar", or another name entirely.
 - **Reported speech smoothed:** Tom's "they say" / "I say" alternation cleaned up to past tense ("they'd say" / "I'd say") for readability of the recurring dialogue.
 
 ### §4.p2 — The Weldability of Steels table

@@ -62,10 +62,10 @@
 ## §5 — Gordon Forward and the Chaparral culture
 
 ### §5.p3 — Tom's slip bracketed
-- Tom says "Gordon Ford" throughout this lecture for Gordon Forward (recurring slip, MIT PhD, Chaparral CEO). First occurrence in §5: "Gordon Ford [Forward]." Subsequent occurrences in §5: "Gordon [Forward]" with bracket alone. Captioner garbling "Nucor / New Core" silently corrected to Nucor.
+- Tom says "Gordon Forward" throughout this lecture for Gordon Forward (recurring slip, MIT PhD, Chaparral CEO). First occurrence in §5: "Gordon Forward." Subsequent occurrences in §5: "Gordon [Forward]" with bracket alone. Captioner garbling "Nucor / New Core" silently corrected to Nucor.
 
 ### §5.p5 — Reflexive self-correction preserved as metacomment
-- Layer 2: "it was the culture that Gordon Ford put forward — I mean put it forward on Gordon Ford — but anyway." Tom catches himself on the pun (Forward / put forward) and reverses it. L3 cuts the reflexive metacomment because it doesn't carry teaching content; reads: "it was the culture that Gordon [Forward] put forward."
+- Layer 2: "it was the culture that Gordon Forward put forward — I mean put it forward on Gordon Forward — but anyway." Tom catches himself on the pun (Forward / put forward) and reverses it. L3 cuts the reflexive metacomment because it doesn't carry teaching content; reads: "it was the culture that Gordon [Forward] put forward."
 
 ### §5.p6 — Bethlehem dining room
 - Tom mentions the strawberries "the size of, you know, bigger than golf balls that I had never seen in 1975." Preserved with mild smoothing — the strawberry detail is a recurring Eagar story marker.

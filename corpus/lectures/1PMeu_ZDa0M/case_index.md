@@ -110,7 +110,7 @@ This lecture is structured around productivity through the ages — from one per
 ### Steel mini mills rise (1970s–1990s)
 - **Anchor:** `§10.p1`
 - **canonical_cluster_id:** "Steel mini mills rise (1970s–1990s)"
-- **Frame in this lecture:** Mini-mills appear from 1975 — buy scrap at $100/ton, melt in electric furnaces, undercut integrated mills. Tom attributes the success to "Gordon Ford [Forward], a graduate of this department" at Nucor. *(See editorial register for the factual issue: Gordon Forward was at Chaparral, not Nucor. Tom's conflation preserved on the page.)*
+- **Frame in this lecture:** Mini-mills appear from 1975 — buy scrap at $100/ton, melt in electric furnaces, undercut integrated mills. Tom attributes the success to "Gordon Forward, a graduate of this department" at Nucor. *(See editorial register for the factual issue: Gordon Forward was at Chaparral, not Nucor. Tom's conflation preserved on the page.)*
 
 ### Gordon Forward mini mill competition strategy
 - **Anchor:** `§10.p1`

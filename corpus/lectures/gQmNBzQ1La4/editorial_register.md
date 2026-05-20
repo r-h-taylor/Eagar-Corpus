@@ -46,7 +46,7 @@ Eight sections were used for this 50-minute lecture. Section breaks fall at clea
 
 ### §6 (productivity revolution)
 
-- §6.p3: **Gordon Ford [Forward]** — Tom's recurring slip. First-occurrence bracketing in §6, then [Forward] alone for subsequent reference. Gordon E. Forward, MIT PhD, CEO of Chaparral Steel.
+- §6.p3: **Gordon Forward** — Tom's recurring slip. First-occurrence bracketing in §6, then [Forward] alone for subsequent reference. Gordon E. Forward, MIT PhD, CEO of Chaparral Steel.
 - §6.p4: "he went to Stanford [Princeton] where he won the Nobel Prize" — Paul Krugman is at Princeton (was at MIT, then Princeton, then CUNY). Tom's "Stanford" is a slip. Bracketed correction applied on first (and only) occurrence in §6.
 
 ### §7 (productivity vs. competitiveness)

@@ -39,12 +39,12 @@
 ### Pipeline Safety Administration / DOT buried-pipe property verification
 - **Anchor:** `§3.p8`
 - **canonical_cluster_id:** PROPOSED: "Pipeline Safety Administration buried pipe property verification (2010s)"
-- **Frame in this lecture:** 45,000 miles of buried oil and gas distribution pipe, much of it installed in the 1940s–50s. DOT requirement that pipeline companies prove the in-ground properties. Motivates Bellemare's instrumented scratch-test commercialization.
+- **Frame in this lecture:** 45,000 miles of buried oil and gas distribution pipe, much of it installed in the 1940s–50s. DOT requirement that pipeline companies prove the in-ground properties. Motivates Belmar's instrumented scratch-test commercialization.
 
-### Bellemare instrumented scratch test commercialization
+### Belmar instrumented scratch test commercialization
 - **Anchor:** `§3.p7`–`§3.p8`
-- **canonical_cluster_id:** PROPOSED: "Bellemare instrumented scratch test (MIT spinout)"
-- **Frame in this lecture:** Brendan Bellemare's MIT doctoral thesis on metal-on-metal scratching scaled to a startup deriving the full stress-strain curve from groove geometry. Coupled with the DOT buried-pipe case as the customer.
+- **canonical_cluster_id:** PROPOSED: "Belmar instrumented scratch test (MIT spinout)"
+- **Frame in this lecture:** Brendan Belmar's MIT doctoral thesis on metal-on-metal scratching scaled to a startup deriving the full stress-strain curve from groove geometry. Coupled with the DOT buried-pipe case as the customer.
 
 ### Electric Boat new-test resistance (early career)
 - **Anchor:** `§3.p10`
@@ -133,5 +133,5 @@
 ## Open questions for the canonical aggregate
 
 - The "Critical mass of management" parable was sourced by Tom from a United Technologies VP of manufacturing ca. 1990. The canonical cluster name in the aggregate is "Nazi ball bearing factory management failure"; this lecture adds the United Technologies sourcing as a frame.
-- The Bellemare instrumented-scratch-test case may recur in later lectures; if so, the proposed cluster should be promoted.
+- The Belmar instrumented-scratch-test case may recur in later lectures; if so, the proposed cluster should be promoted.
 - The "Pre-stressed concrete core test report fraud" aside is brief but pointed; check whether Tom names the lab elsewhere in the corpus.

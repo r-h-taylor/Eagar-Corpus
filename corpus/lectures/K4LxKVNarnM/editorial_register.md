@@ -50,7 +50,7 @@ Eight sections identified at natural teaching transitions:
 - **§7.p5:** Self-correction "Beth started doing this — 41% of all the, um, I-beams were imported" smoothed to "before Bethlehem started doing this, 41% of all the I-beams were imported." Tom audibly aborts "Beth" and restarts; corrected form used.
 
 ### §8 — Homer Research / management
-- **§8.p1:** Bracketed slip: this section opens with Tom saying "Gordon Ford" rather than "Gordon Forward." First occurrence in section rendered as `Gordon Ford [Forward]`; second occurrence in §8.p3 as `[Forward]` alone, per convention. Logged also in transformation log.
+- **§8.p1:** Bracketed slip: this section opens with Tom saying "Gordon Forward" rather than "Gordon Forward." First occurrence in section rendered as `Gordon Forward`; second occurrence in §8.p3 as `[Forward]` alone, per convention. Logged also in transformation log.
 - **§8.p2:** "Don Trauttleins" — preserved as Tom said it (he was the Bethlehem CEO Donald Trautlein; Tom's pluralization is rhetorical, "the Don Trauttleins" = "men like Trautlein"). Spelling normalized to "Trautleins" silently. Note for editor: confirm desired spelling convention for executive names Tom pluralizes.
 - **§8.p4:** Reorganized sentence flow lightly: "These guys came in with this arrogance — all through their careers..." originally "they came in with this arrogance, all through their careers they controlled 75%..." Layer 3 keeps Tom's sentence boundary placement.
 - **§8.p7:** Final sentence "I'll see you — well" cut. Tom is moving to next slide / lecture closer; the dangling "well" doesn't serve as a closer on the page. Section ends on the railroad wheel description.
@@ -61,7 +61,7 @@ No content reordered across sections or within sections in this lecture. Only pa
 
 ## Bracketed slips of memory
 
-- "Gordon Ford" for "Gordon Forward" — §8.p1 (first occurrence in section, rendered with bracket); §8.p3 (subsequent, `[Forward]` alone).
+- "Gordon Forward" for "Gordon Forward" — §8.p1 (first occurrence in section, rendered with bracket); §8.p3 (subsequent, `[Forward]` alone).
 
 ## Decisions that are *not* permitted at layer 3
 

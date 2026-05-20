@@ -1,6 +1,6 @@
 # Case Index — Lecture 7 (u0VksY_PRps)
 
-*Guest lecture by Simo Belmar on safety factor definitions and practice. The lecture's teaching is built around three physical-object demonstrations Belmar brings to class — the burst copper pipe, the speedboat propeller shaft, and the jet ski fuel-tank fitting — plus a tour of industry-by-industry safety factor norms.*
+*Guest lecture by Simone Belmar on safety factor definitions and practice. The lecture's teaching is built around three physical-object demonstrations Belmar brings to class — the burst copper pipe, the speedboat propeller shaft, and the jet ski fuel-tank fitting — plus a tour of industry-by-industry safety factor norms.*
 
 ## Cases referenced in this lecture
 

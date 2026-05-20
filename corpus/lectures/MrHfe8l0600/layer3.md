@@ -7,7 +7,7 @@
 
 ## §1. Course staff and format [00:00]
 
-`§1.p1` I've never trusted the Registrar in the 41 years I've been a faculty member. You can't get accurate information from them for about 12 months after registration day. Anyway, I'm Tom Eagar, a faculty member in Course 3. Dr. Simone Belmar [Belmonte] is a lecturer in Course 3, and he and I will be teaching the primary part of this. We also have Dr. Brian Holman, who is back there on the videography. Dr. Belmar is in the corner wearing a white shirt — you can tell he's not a student anymore, I guess.
+`§1.p1` I've never trusted the Registrar in the 41 years I've been a faculty member. You can't get accurate information from them for about 12 months after registration day. Anyway, I'm Tom Eagar, a faculty member in Course 3. Dr. Simone Belmar is a lecturer in Course 3, and he and I will be teaching the primary part of this. We also have Dr. Brian Holman, who is back there on the videography. Dr. Belmar is in the corner wearing a white shirt — you can tell he's not a student anymore, I guess.
 
 `§1.p2` This is a course on structural materials. It's actually more of a course on stories I have known, or stories we have known. Dr. Belmar tells stories as well as I do, and Brian also has a few stories — not as many; he has to get older to have more stories. The basic information should be posted on Stellar. You'll notice that we're videotaping the class. We pay about fifty bucks an hour for someone like Brian to stand there with a videotape.
 

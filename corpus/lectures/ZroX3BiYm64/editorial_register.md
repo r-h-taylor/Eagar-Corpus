@@ -74,7 +74,7 @@ No cross-section reorderings.
 
 ## Tom's spoken slips bracketed
 
-None this lecture — no proper-noun slips of the Gordon Ford/Forward variety detected.
+None this lecture — no proper-noun slips of the Gordon Forward/Forward variety detected.
 
 ## Flags for human review
 

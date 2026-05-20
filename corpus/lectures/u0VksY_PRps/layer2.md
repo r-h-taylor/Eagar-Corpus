@@ -1,6 +1,6 @@
 # Layer 2 — Lecture 7 cleanup edit
 
-*Source: `u0VksY_PRps` (3.371 Codes and Standards for Safety, Fall 2012, lecture 7/14). This lecture is delivered by guest lecturer Simo Belmar (former Eagar postdoc, now consultant) standing in for Tom Eagar. Layer 2 transformation: filler removed lightly, sentence boundaries inserted, captioner errors corrected, speaker's spoken slips bracketed. No reordering, no cuts of self-corrections or stage business. Paragraph breaks at natural pauses in delivery.*
+*Source: `u0VksY_PRps` (3.371 Codes and Standards for Safety, Fall 2012, lecture 7/14). This lecture is delivered by guest lecturer Simone Belmar (former Eagar postdoc, now consultant) standing in for Tom Eagar. Layer 2 transformation: filler removed lightly, sentence boundaries inserted, captioner errors corrected, speaker's spoken slips bracketed. No reordering, no cuts of self-corrections or stage business. Paragraph breaks at natural pauses in delivery.*
 
 ---
 
@@ -12,7 +12,7 @@ Okay. Um, and I saw you before, right? Yeah. What's your name again?
 
 **Student:** [inaudible]
 
-Yes. Okay. Um, my name is Simo Belmar. Um, I graduated from here, I did undergrad and master in Canada and I came for a PhD here, graduated six years ago. I've been a consultant since then, doing design, repairs, and failure analysis. I gave the module on life assessment in the spring. That's available online, it's a twelve-hour on how to determine the strength of materials, how to deal with, you know, creep, fatigue, everything that can happen in service.
+Yes. Okay. Um, my name is Simone Belmar. Um, I graduated from here, I did undergrad and master in Canada and I came for a PhD here, graduated six years ago. I've been a consultant since then, doing design, repairs, and failure analysis. I gave the module on life assessment in the spring. That's available online, it's a twelve-hour on how to determine the strength of materials, how to deal with, you know, creep, fatigue, everything that can happen in service.
 
 `p2` [01:08] This module that I'm starting today is a little bit more general because we're going to talk about safety factors. So how — we're going to try to focus more on the demand size. And, you know, I brought this here, it has this hoop stress crack because it froze. So that's abuse. And one of the basic question when you have a failure like this is, should you design so that the whole thing can freeze and not break? And, you know, the answer, I don't think there's a — is a clear answer, because this system was made such that the valve is inside the house. So this whole tube is empty in the wintertime when it's closed, but if you hook up something and you leave the valve open, then you have water all the way through, and you can have the over-pressure.
 

@@ -1,13 +1,13 @@
 # Lecture 7 — Safety Factor: Definitions, Demand, and Capacity
 
 *3.371 Codes and Standards for Safety, Fall 2012, session 7 of 14.*
-*Source video: `u0VksY_PRps`. Guest lecturer: Simo Belmar (former Eagar postdoc, consultant), standing in for Tom Eagar.*
+*Source video: `u0VksY_PRps`. Guest lecturer: Simone Belmar (former Eagar postdoc, consultant), standing in for Tom Eagar.*
 
 ---
 
 ## §1. Introduction and frozen copper pipe [00:02]
 
-`§1.p1` My name is Simo Belmar. I graduated from here — I did undergrad and master's in Canada and came for a PhD here, graduated six years ago. I've been a consultant since then, doing design, repairs, and failure analysis. I gave the module on life assessment in the spring. That's available online, it's a twelve-hour module on how to determine the strength of materials, how to deal with creep, fatigue, everything that can happen in service.
+`§1.p1` My name is Simone Belmar. I graduated from here — I did undergrad and master's in Canada and came for a PhD here, graduated six years ago. I've been a consultant since then, doing design, repairs, and failure analysis. I gave the module on life assessment in the spring. That's available online, it's a twelve-hour module on how to determine the strength of materials, how to deal with creep, fatigue, everything that can happen in service.
 
 `§1.p2` This module that I'm starting today is a little bit more general because we're going to talk about safety factors. We're going to try to focus more on the demand side. *[Belmar holds up a burst copper pipe section.]* I brought this here, it has this hoop stress crack because it froze. So that's abuse. And one of the basic questions when you have a failure like this is, should you design so that the whole thing can freeze and not break? I don't think there's a clear answer, because this system was made such that the valve is inside the house. So this whole tube is empty in the wintertime when it's closed, but if you hook up something and you leave the valve open, then you have water all the way through, and you can have the over-pressure.
 

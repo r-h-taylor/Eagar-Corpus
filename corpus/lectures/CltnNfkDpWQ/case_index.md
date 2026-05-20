@@ -39,7 +39,7 @@
 ### Gordon Forward mini mill competition strategy
 - **Anchor:** `§5.p8`–`§5.p11`, `§5.p17`
 - **canonical_cluster_id:** "Gordon Forward mini mill competition strategy"
-- **Frame in this lecture:** Gordon Forward (1975 MIT 3-department graduate) founds Chaparral Steel in Texas. Tom recurringly slips and calls him "Gordon Ford."
+- **Frame in this lecture:** Gordon Forward (1975 MIT 3-department graduate) founds Chaparral Steel in Texas. Tom recurringly slips and calls him "Gordon Forward."
 
 ### Chaparral Steel
 - **Anchor:** `§5.p8`–`§5.p21`

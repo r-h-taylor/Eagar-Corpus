@@ -13,7 +13,7 @@
 ## Per-paragraph decisions
 
 ### §1.p1 — Course introduction
-- **Cut:** "is a freshman in 1968 um and um I've been teaching some version of this course for 30 years" — Tom's opening is captured mid-sentence; the "freshman in 1968" fragment refers to himself (Tom was an MIT freshman in 1968) but on the page it reads as orphaned. Cut entirely; the section opens with the introduction of Belmare, which is the first complete thought.
+- **Cut:** "is a freshman in 1968 um and um I've been teaching some version of this course for 30 years" — Tom's opening is captured mid-sentence; the "freshman in 1968" fragment refers to himself (Tom was an MIT freshman in 1968) but on the page it reads as orphaned. Cut entirely; the section opens with the introduction of Belmar, which is the first complete thought.
 - **Self-correction smoothed:** "you can St remain standing" → "you can remain standing."
 - **Stage business cut:** "There's a couple of chairs up here, there's also a couple chairs right here, you can find a right" — this is class-management speech directing arriving students to seats. Cut from layer 3 (the readable edition does not need to track classroom logistics). Preserved in layer 2.
 
@@ -33,7 +33,7 @@
 - **Preserved:** "not he lick you" — Tom's awkward self-correction about doctors and taste. This is characteristic Tom in real time. Preserved in layer 3 because removing it removes a piece of teaching texture, and the reader can parse it.
 
 ### §1.p5 — Module list
-- **Cut:** "um well he did Structural Materials, he's did materials processing before, you're going to basically do — you're, he's going to talk a little bit, yeah, but he's going to do" — false starts and side-talk with Belmare. Layer 3 reads: "Dr. Belmare is going to do some materials processing this semester."
+- **Cut:** "um well he did Structural Materials, he's did materials processing before, you're going to basically do — you're, he's going to talk a little bit, yeah, but he's going to do" — false starts and side-talk with Belmar. Layer 3 reads: "Dr. Belmar is going to do some materials processing this semester."
 - **Cut:** "anyway. Um welding uh materials, Structural Materials, anyway" — list-restart filler.
 - **Smoothed:** the codes-and-standards passage. Tom interrupts his own question with the answer; layer 3 reads as a single rhetorical question.
 
@@ -42,7 +42,7 @@
 - **Filler cut:** standard.
 
 ### §1.p7 — Stories and book
-- **Cut:** the Belmare side-exchange ("you want to talk about your live module? Um no I can do it when you're done"). This is class-management negotiation between co-instructors, cut from the readable edition.
+- **Cut:** the Belmar side-exchange ("you want to talk about your live module? Um no I can do it when you're done"). This is class-management negotiation between co-instructors, cut from the readable edition.
 
 ### §1.p8 — Course requirements
 - **Self-correction smoothed:** "some of my — I am not necessarily um a conventional thinker" → "I am not necessarily a conventional thinker."
@@ -52,7 +52,7 @@
 - The "attorneys would watch 100 hours of my lecturing" aside is preserved — this is characteristic Tom on the record.
 
 ### §1.p10 — Logistics again
-- **Cut:** "Right? Yep, okay" — Tom's back-and-forth confirmation with Belmare about upload timing. Layer 3 reads as a declarative.
+- **Cut:** "Right? Yep, okay" — Tom's back-and-forth confirmation with Belmar about upload timing. Layer 3 reads as a declarative.
 
 ### §1.p11 — Presentation requirements
 - **Captioner fix carried into layer 3:** Zircaloy, Davis-Besse, nuclear reactor.
@@ -120,7 +120,7 @@
 - **Self-correction smoothed:** "and you ought — I mean you ought to read it with that in mind" → "you ought to read it with that in mind."
 
 ### §1.p27 — Preparation
-- **Class-management cut:** "and I'll tell you some stories, I want to let Dr Belmare start, go ahead, someone you can start switching over if you like" — Tom turning over the lectern. Cut from layer 3 reading; this is logistics, not teaching. Preserved in layer 2.
+- **Class-management cut:** "and I'll tell you some stories, I want to let Dr Belmar start, go ahead, someone you can start switching over if you like" — Tom turning over the lectern. Cut from layer 3 reading; this is logistics, not teaching. Preserved in layer 2.
 
 ### §1.p28 — University professors and narrow scholarship
 - **Filler cut.**
@@ -128,7 +128,7 @@
 
 ### §1.p29 — Closing: patterns and common sense
 - **Captioner fix carried into layer 3:** "information processing which is forging" → "deformation processing — which is forging and all those other things." See transformation_log entry for justification (cross-reference with p5 where Tom names the module "deformation processing").
-- **Cut:** "Take wow anyway" — section-ending garble as Tom hands off to Belmare. Preserved in layer 2.
+- **Cut:** "Take wow anyway" — section-ending garble as Tom hands off to Belmar. Preserved in layer 2.
 
 ## Soft reorderings in §1
 

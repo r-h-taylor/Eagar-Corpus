@@ -26,9 +26,9 @@ The class-scheduling announcement (`p45–p47`) was kept inside §7 as a stage-d
 - `p5`: redundant "okay" filler thinned.
 
 ### §2 (Considère)
-- `p7` → §2.p1: cut "I think Dr. Belmar [Bellemare] went over what I'm going to go over here in a second" — preserved the speaker reference but trimmed mid-sentence pivot. "Actually it's easier to see it out of Backofen's got it" smoothed.
+- `p7` → §2.p1: cut "I think Dr. Belmar went over what I'm going to go over here in a second" — preserved the speaker reference but trimmed mid-sentence pivot. "Actually it's easier to see it out of Backofen's got it" smoothed.
 - `p9` → §2.p3: smoothed the false starts "and you get sigma is equal — when the stress is equal to the change in stress."
-- "Belmar" preserved as Tom said it, bracketed `[Bellemare]` on first occurrence per section; bracketed alone on subsequent.
+- "Belmar" preserved as Tom said it, bracketed `[Belmar]` on first occurrence per section; bracketed alone on subsequent.
 
 ### §3 (Lüders)
 - `p13`: Tom's Q&A with student smoothed. Student turn given `**Student:**` label.
@@ -40,7 +40,7 @@ The class-scheduling announcement (`p45–p47`) was kept inside §7 as a stage-d
 - `p24`: "let me try to get this up" cut as pocket-patting equivalent for the slide.
 - `p24`: "We made two tensile bars. One was a regular tensile bar" — kept the false start smoothing because Tom's "And let me try to get this up. Made some tensile bars. We made two tensile bars" reads as restart-after-stage-business.
 - `p25`: "So let's see if I can get this to show up" cut for the same reason.
-- `p26`: "Dr. Belmar [Bellemare] kind of showed you some fracture, didn't you, must have shown them some fractures" smoothed to a single statement.
+- `p26`: "Dr. Belmar kind of showed you some fracture, didn't you, must have shown them some fractures" smoothed to a single statement.
 - `p27`: "Then get the edge right" cut — Tom adjusting the visual.
 
 ### §5 (Mohr's circle)
@@ -63,7 +63,7 @@ The class-scheduling announcement (`p45–p47`) was kept inside §7 as a stage-d
 - `p54`–`p57`: smoothed throughout, preserving the case sequence (find drips → measure thickness → propose test → observe students → settle case).
 
 ### §9 (Freshly made glass)
-- `p60`: "Dr. Belmar [Bellemare] will be able to, he should have given you the equations" smoothed.
+- `p60`: "Dr. Belmar will be able to, he should have given you the equations" smoothed.
 
 ## Soft reordering
 
@@ -73,7 +73,7 @@ No soft reordering across paragraphs in this lecture. All paragraph order matche
 
 1. The aggressive compression of `p45`–`p47` (class scheduling) into a single stage direction is a judgment call. An alternative would be to preserve the scheduling content verbatim. Editor's call.
 2. "Professor Owen" (§8.p4): captioner-uncertain name. Could be Owen, Omen, or another professor. Preserved with `[?]`.
-3. "Belmar" appears in raw transcript; corrected to `[Bellemare]` on the assumption it's Tom's co-instructor for this course. If wrong instructor, needs revision.
+3. "Belmar" appears in raw transcript; corrected to `[Belmar]` on the assumption it's Tom's co-instructor for this course. If wrong instructor, needs revision.
 
 ## Decisions NOT permitted at layer 3 (constitutional constraint)
 

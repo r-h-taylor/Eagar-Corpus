@@ -12,7 +12,7 @@ Sections 8–10 could plausibly be collapsed into one longer "teaching philosoph
 
 - Stage directions in italicized brackets for the projector struggle (§3.p2), the additive manufacturing samples (§11.p2–p4), and the inaudible Brian Holman turn (§11.p8).
 - Bracketed corrections for Tom's spoken slips: `Throop [Through]` (§9.p4 — the slip is captioner-side but ambiguous enough to flag; the school is Throop). `Eagar Spring 2016 [Spring 2015]` (§11.p5 — Tom said one year, layer 2 noted the other; kept both as Tom's recorded speech with bracket correction).
-- Captioner garbling fixed silently: `eager.mit.edu → eagar.mit.edu` (§4.p2); `Kistiakowski → Kistiakowsky` (§5.p2); `for EA's → Fourier's` (§10.p2); `Belmar [Bel Mar?] → Belmar` (§3.p1, flagged once); `a sure ism → aphorism` was Tom's own self-correction, dropped from §12.p6 closing (see below).
+- Captioner garbling fixed silently: `eager.mit.edu → eagar.mit.edu` (§4.p2); `Kistiakowski → Kistiakowsky` (§5.p2); `for EA's → Fourier's` (§10.p2); `Belmar → Belmar` (§3.p1, flagged once); `a sure ism → aphorism` was Tom's own self-correction, dropped from §12.p6 closing (see below).
 - "Okay" handling: cut as mid-clause filler throughout. Preserved a few times where it closes a thought rhetorically.
 - "I mean," "you know" cut throughout except where invoking shared context.
 

@@ -86,7 +86,7 @@ Video ID: `pq7RLDw6ijk`.
 ### §13. The productivity revolution of the 1980s (from L2 p54–p58)
 - Captioner error "Roger Kipling" corrected silently to "Rudyard Kipling" per Convention 10. (Logged in transformation_log.md.)
 - L2 p54 "I should have left that as I had it" — slide-management aside, cut.
-- "Gordon Forward" — in L2 this is rendered correctly from p57 onward; L3 follows. Note: this is a recurring slip Tom makes elsewhere in the corpus ("Gordon Ford") — see Convention 9. In this lecture Tom got the name right on tape.
+- "Gordon Forward" — in L2 this is rendered correctly from p57 onward; L3 follows. Note: this is a recurring slip Tom makes elsewhere in the corpus ("Gordon Forward") — see Convention 9. In this lecture Tom got the name right on tape.
 
 ### §14. Surveying and the SS LNG Libra (from L2 p59–p62)
 - Student turn labeled at §14.p2.

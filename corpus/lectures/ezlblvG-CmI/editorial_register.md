@@ -72,7 +72,7 @@ No cross-paragraph or cross-section reordering performed. Two minor within-parag
 
 - §1.p5 student attribution: the "big water-filled tank" line is ambiguous between student and Tom. Transcribed as student per layer 2, preserved as student in layer 3. Editor may want to verify against audio.
 - §6.p2 student question "[Was] that Norton —?" — fragmentary; meaning unclear. Preserved as transcribed.
-- §1.p1 mention of "Dr. Belmire" — name uncertain (captioner). May be a different spelling (Bellemare? Belmaire?). Preserved as transcribed; flag for proper-name reconciliation.
+- §1.p1 mention of "Dr. Belmar" — name uncertain (captioner). May be a different spelling (Belmar? Belmaire?). Preserved as transcribed; flag for proper-name reconciliation.
 
 ## Decisions that are *not* permitted at layer 3
 

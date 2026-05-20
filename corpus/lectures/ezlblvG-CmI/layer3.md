@@ -7,7 +7,7 @@
 
 ## §1. Schedule and catch-up cases [00:02]
 
-`§1.p1` There's no class on Tuesday — it's an MIT holiday — and I have to fly back to Southern California. I just got back on the red eye, I have to go back. I'll be back on Wednesday on the red eye, but Dr. Belmire will lecture on Wednesday. Everybody's watching different videos, so you can watch your videos or skip things however you want. I should be around to lecture Thursday and Friday.
+`§1.p1` There's no class on Tuesday — it's an MIT holiday — and I have to fly back to Southern California. I just got back on the red eye, I have to go back. I'll be back on Wednesday on the red eye, but Dr. Belmar will lecture on Wednesday. Everybody's watching different videos, so you can watch your videos or skip things however you want. I should be around to lecture Thursday and Friday.
 
 `§1.p2` I wanted to catch up on a couple of things. I have to apologize — I was using my old lecture notes, and I found my newer lecture notes this morning. I talked about the Alexander Kielland disaster. This is the Alexander Kielland offshore platform. It's 50 meters across — half a football field — and 81 meters in the other direction, almost 90 percent of a football field. If you looked at the legs a little closer, this was the hydrophone. You have big columns of legs, then cross braces, and they put this piece on. It was 325 millimeters, about 10 inches in diameter. So that's 10 inches in diameter, and it looks like a little thing on this structure, so you can tell these things are pretty good size. At the time it was one of the largest offshore oil rigs — this was probably early '70s. It's not the largest anymore.
 

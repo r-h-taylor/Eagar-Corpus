@@ -69,7 +69,7 @@ The 43-minute lecture was divided into nine sections, breaking at natural teachi
 
 ### §9
 - p62 "it's time to finish" cut — clock-watching aside, not teaching content.
-- p63 the housekeeping about Dr. Bellemare's schedule preserved as the section's close; this is genuine course-administration content and forms a natural lecture ending. "Dr. Belmar [Bellemare?]" → "Dr. Bellemare" (captioner garbling of an instructor's name; corrected silently per convention, though the spelling is tentative).
+- p63 the housekeeping about Dr. Belmar's schedule preserved as the section's close; this is genuine course-administration content and forms a natural lecture ending. "Dr. Belmar [Belmar?]" → "Dr. Belmar" (captioner garbling of an instructor's name; corrected silently per convention, though the spelling is tentative).
 
 ## Soft reorderings
 
@@ -77,7 +77,7 @@ No content was reordered across section boundaries. Within sections, no signific
 
 ## Flags for editor review
 
-- **Bellemare spelling** (§9.p4): The captioner has "Dr. Belmar." The likely full name is Bellemare; this should be verified against the course staff roster for 3.371 Spring 2013.
+- **Belmar spelling** (§9.p4): The captioner has "Dr. Belmar." The likely full name is Belmar; this should be verified against the course staff roster for 3.371 Spring 2013.
 - **"Don Satterthwaite"** (§1.p3): The captioner has "Don Saturday's." Satterthwaite is the most plausible reconstruction (a real metallurgist who worked on Ta/Nb separation), but should be verified.
 - **Student turn attribution** (§2.p3, §3.p2, §6.p4): All three student questions are inaudible in the source. The Q&A frame is clear from Tom's responses but the actual content of the questions is reconstructed only via Tom's answers.
 

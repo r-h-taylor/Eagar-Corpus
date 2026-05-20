@@ -11,7 +11,7 @@
 
 `§1.p2` Whereas other materials like rubber — if I take a piece of rubber and I cut a notch in it and I pull on it, that crack tip is blunted. *[Tom passes a piece of rubber around the class.]* If I take a piece of plastic — in this case this is polyethylene — it's a little too thick for me to rip, but if I pull on it, you can actually see up close that it rounds and it starts to deform. The material starts to turn white. It's sort of translucent white, but it gets even more white. That's because you're starting to deform the material, introduce little microscopic defects which scatter the light, and it goes from cloudy white to a more complete white.
 
-`§1.p3` Dr. Belmar [Belmore] will be talking about fracture and fatigue and things like that. There is a big difference between brittle materials and ductile materials, and I'm going to talk a little bit about that. But first, let me give a brief introduction. It's going to take most of today to talk about the many different deformation processes.
+`§1.p3` Dr. Belmar will be talking about fracture and fatigue and things like that. There is a big difference between brittle materials and ductile materials, and I'm going to talk a little bit about that. But first, let me give a brief introduction. It's going to take most of today to talk about the many different deformation processes.
 
 ## §2. Course framing and the textbook approach [02:00]
 

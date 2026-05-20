@@ -35,7 +35,7 @@ Ten sections were used for this ~58-minute lecture. The natural breaks are:
 
 ### §3 — Hardness vs. hardenability
 - **§3.p3:** Multi-turn Q&A condensed. Student's first question and follow-up preserved; Tom's "Did you know that scatter — materials, not every piece of material is exactly the same? Really? Most scientists [assume]... yesterday" smoothed to "And there's scatter in all this. Not every piece of material is exactly the same." Backward-reference to prior session ("yesterday") cut.
-- **§3.p7:** "Dr. Bellemare" — captioner had "Belmar" / "Bellemare" inconsistent. Standardized to "Bellemare" (Brendan Bellemare, MIT mechanical engineering).
+- **§3.p7:** "Dr. Belmar" — captioner had "Belmar" / "Belmar" inconsistent. Standardized to "Belmar" (Brendan Belmar, MIT mechanical engineering).
 - **§3.p9:** Aside about Instron and the nano-tester floor count preserved as Tom-the-elder-statesman commentary on departmental drift.
 - **§3.p10:** "David Taylor — an Annapolis — now Taylor Carter" — captioner garbled "Carderock." Smoothed to "Taylor Carderock" with bracket.
 
@@ -81,7 +81,7 @@ No other reorderings.
 1. **Classroom logistics interlude at 04:54–05:54** (layer 2 `p6`–`p7`): scheduling for Friday class, breakfast delivery, presentation scheduling. Cut entirely from layer 3. Preserved in layer 2.
 
 ## Bracketed Tom slips
-None in this lecture requiring the `Ford [Forward]` convention. Tom's named references (Stout, Doty, Pense, Savage, Lippold, Roberts-Austen, Sorby, Martens, Cohen, Meyer, Summers, Bellemare, Sadoway) appear to be correctly delivered.
+None in this lecture requiring the `Ford [Forward]` convention. Tom's named references (Stout, Doty, Pense, Savage, Lippold, Roberts-Austen, Sorby, Martens, Cohen, Meyer, Summers, Belmar, Sadoway) appear to be correctly delivered.
 
 ## Captioner garbles requiring flag for human review
 - §4.p4 "I thought general staff won" — most likely Tom said something like "I thought I'd lost you" or "Anyway"; not recoverable. Rendered as transition sentence.

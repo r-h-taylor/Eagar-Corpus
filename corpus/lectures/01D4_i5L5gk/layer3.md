@@ -25,7 +25,7 @@
 
 ## §3. The lecture staff and attendance policy [05:18]
 
-`§3.p1` There are three lecturers. I will teach between six and ten lectures this year. Dr. Simone Belmar [Bel Mar?], who is a graduate of this department, a mechanical engineer as an undergraduate, got a doctoral degree in fatigue and fracture, and as a practicing engineer is starting his own company — he's going to talk about starting a company. And Brian Holman, who was my last doctoral student, who worked on non-destructive testing for his doctoral thesis, is going to talk about non-destructive testing. Brian will be the TA. And Jerry Hills, my assistant — if you have questions you can talk to her.
+`§3.p1` There are three lecturers. I will teach between six and ten lectures this year. Dr. Simone Belmar, who is a graduate of this department, a mechanical engineer as an undergraduate, got a doctoral degree in fatigue and fracture, and as a practicing engineer is starting his own company — he's going to talk about starting a company. And Brian Holman, who was my last doctoral student, who worked on non-destructive testing for his doctoral thesis, is going to talk about non-destructive testing. Brian will be the TA. And Jerry Hills, my assistant — if you have questions you can talk to her.
 
 `§3.p2` *[Tom fumbles with the projector.]*
 

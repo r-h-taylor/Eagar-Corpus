@@ -9,7 +9,7 @@ Eight sections were identified for this ~36-minute opening lecture, at the follo
 - **§1 (00:02)** — Tom opens the course in medias res, holding up a CSST sample and telling the lightning-fires story as the motivating case.
 - **§2 (03:03)** — Pivot to the course project: "Your project, your presentation…"
 - **§3 (07:31)** — Pivot to course logistics: "Anybody have any questions on what's required of the course?"
-- **§4 (12:01)** — Pivot to the structure of Tom's third of the course: "Dr. Belmare will be lecturing…" and the introduction of "manufacturing science."
+- **§4 (12:01)** — Pivot to the structure of Tom's third of the course: "Dr. Belmar will be lecturing…" and the introduction of "manufacturing science."
 - **§5 (17:06)** — Pivot from syllabus to substantive content: "I'm going to start talking about measurement science" + Lord Kelvin quote.
 - **§6 (21:43)** — Pivot to the kilogram problem and the seven fundamental quantities: "Now let's talk about…"
 - **§7 (26:05)** — Pivot to NIST F1, GPS, and the personal atomic clock.
@@ -35,7 +35,7 @@ Eight sections were identified for this ~36-minute opening lecture, at the follo
 
 ### §4 — Manufacturing science
 - **§4.p1:** Cut "Um, all right, talked about doing this. Uh," opener — pure filler / re-orientation. Cut "there's really three parts. So anyway" — the "three parts" reference goes nowhere in this paragraph; preserved as "there are really three parts" without the "so anyway" pivot. **Note:** Tom references "seven things" and "the live one, six" without clear setup; this appears to refer to a handout or slide not visible to the audio-only reader. Preserved as-is.
-- **§4.p2:** Smoothed the indirect-speech recounting of the Belmare conversation. Tom says "I didn't say that. I sort of agreed with him." — preserved Tom's own self-correction in spirit, but tightened.
+- **§4.p2:** Smoothed the indirect-speech recounting of the Belmar conversation. Tom says "I didn't say that. I sort of agreed with him." — preserved Tom's own self-correction in spirit, but tightened.
 - **§4.p3:** **Captioner correction:** "National Institutes of Standards and Technology" → "National Institute of Standards and Technology" (singular — Tom misspoke or the captioner did; the institution is singular). Silent fix.
 - **§4.p4:** Preserved `Bryn Mawr [?]` marker — the captioner-rendered name is uncertain. Tom is identifying Katherine Gabby's undergraduate origins; "Bryn Mawr" is plausible but unverified. Flagged for editor review.
 - **§4.p5:** Cut "like I said" backward-reference. Cut "uh" filler.

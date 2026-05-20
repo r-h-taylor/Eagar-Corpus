@@ -92,7 +92,7 @@ None in this chunk. All teaching units run in Tom's delivered order.
 - This section reads almost as-delivered. The Vice President of Finance anecdote is one of Tom's signature stories; layer 3 preserves Tom's actual phrasing including "I was stupid enough to raise my hand" and the verbatim exchange. Minor filler cut.
 
 ### §6 — Gordon Forward
-- **§12.p3:** Tom says "Gordon Ford" — this is the recurring slip flagged in the convention catalog (§9). Rendered as "Gordon Ford [Forward]" on first occurrence, then "[Forward]" on the second. Tom corrects himself implicitly later in the paragraph.
+- **§12.p3:** Tom says "Gordon Forward" — this is the recurring slip flagged in the convention catalog (§9). Rendered as "Gordon Forward" on first occurrence, then "[Forward]" on the second. Tom corrects himself implicitly later in the paragraph.
 - **Cut:** The basketball banter at the end of L2 p16 ("Dirk Nowitzki and Jason Kidd… Miami Heat… you do have to beat him tonight"). This is clearly time-bound classroom banter (2011 NBA Finals) with no teaching content. Cut per convention §7.
 - Tom's "what's wrong with Canadians?" — cut as classroom rapport with no teaching content.
 
@@ -225,7 +225,7 @@ This chunk includes the opening of §1 mid-thought ("Water to keep the whole thi
 
 ### §5 — Historical shares
 - **§28.p1:** "yeah okay" filler cut.
-- **§28.p2:** Tom says "Gordon Ford"; the canonical name is Gordon E. Forward (MIT PhD, Chaparral Steel CEO). Bracketed per convention 9: `Ford [Forward]`.
+- **§28.p2:** Tom says "Gordon Forward"; the canonical name is Gordon E. Forward (MIT PhD, Chaparral Steel CEO). Bracketed per convention 9: `Ford [Forward]`.
 
 ### §6 — Kim Clark and Armco
 - **§29.p1:** Preserved largely intact; the anecdotal texture (Pinewood Derby track, screwdriver, Disney World) is the point of the section.
